@@ -221,13 +221,38 @@ blockquote p {
     position: relative;
 }
 
-.post-image {
+.post-image,
+.post-video {
     background-position: center;
     height: 25rem;
     margin: 0 -5% 1.5rem -5%;
     overflow: hidden;
     position: relative;
     width: 110%;
+}
+
+.post-video {
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%; // For ratio 16:9. 75% if ratio is 4:3
+  position: relative;
+
+  embed,
+  object,
+  iframe {
+    @include position(absolute, 0px null null 0px);
+    @include size(100%);
+  }
+}
+
+.post-video iframe,
+.post-video embed,
+.post-video object {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .hentry__number {
