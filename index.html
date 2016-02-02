@@ -9,7 +9,7 @@ title : Novas dicas pro café, todos os dias.
     <article class="hentry--grid">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="hentry--summary">
-          <div class="hentry__number">{{ post.number }} • {{ post.category }}</div>
+          <div class="hentry__number">{% if post.number %}{{ post.number }} • {% endif %}{{ post.category }}</div>
           <h2 class="hentry__title">{{ post.name }}</h2>
           {% if author %}
             <div class="byline vcard">
