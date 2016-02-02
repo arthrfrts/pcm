@@ -1,11 +1,11 @@
 ---
 layout: post
-title: '16 jogos que amadureceram os videogames nos anos 2000'
-number: '#009'
-image: /images/posts/16-jogos.jpg
+title: 'Na maior derrapada da carreira, <em>Os Oito Odiados</em> extrapola no tarantinesco'
+number: '#010'
+image: /images/posts/os-oito-odiados.jpg
 description: 'De <em>The Sims</em> a <em>The Last of Us</em>, os anos 2000 nos apresentaram fascinantes jogos que mudaram nossa percepção de como jogar.'
 author: arthur
-category: 'Listas'
+category: 'Filmes'
 name: "16 Jogos dos anos 2000"
 ---
 
