@@ -1,0 +1,18 @@
+---
+layout: post
+title: Boas vindas ao Pão com Mortadela
+number: '#001'
+image: /images/posts/novo-pcm.jpg
+description: O Pão com Mortadela acabou de sair do <del>forno</del> (torradeira?) para entregar todas as manhãs uma nova dica do que há de melhor pra ver, ler, ouvir, jogar e acessar. Esperamos que gostem!
+author: arthur
+---
+
+Olá, mundo, nossas boas vindas ao **Pão com Mortadela**!
+
+Nós passamos os últimos meses reestruturando esse site para apresentar um novo, mais bonito e mais “apresentável” site. O Pão com Mortadela agora é um site completo, bonito e orgânico, bem como o nosso propósito.
+
+Aqui no Pão com Mortadela você vai encontrar dicas diárias para uma boa leitura como acompanhamento do seu café. Nossos autores darão sugestões de filmes, livros, séries, jogos e músicas todos os dias pela manhã, para você começar o dia com uma boa dica do que fazer mais tarde. A partir de 1º de janeiro, você encontrará aqui todos os dias um post novo esperando por você.
+
+Também, o Pão com Mortadela está sempre aberto para sugestões. E se você tem uma dica de algo que devemos postar por aqui, é só [falar conosco](mailto:padeiros@paomortadela.com.br). A zona de comentários está aberta e nosso [arroba está disponível](https://twitter.com/paomortadela). :)
+
+Sejam todos bem vindos ao Pão com Mortadela. Vamos amar trazer todos os dias algo bom para vocês. Esperamos que vocês gostem também.

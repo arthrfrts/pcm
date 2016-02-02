@@ -1,0 +1,29 @@
+encoding: UTF-8
+
+title: Pão com Mortadela
+description: >
+  Todos os dias uma sugestão de livro, filme, música, série, jogo ou link. Sempre uma coisa boa, pra deixar seu dia melhor, mais divertido e mais ~cult~.
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-1137716-8
+
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: paomortadela
+
+# Includes an icon in the footer for each username you enter
+contact:
+  email: padeiros@paomortadela.com.br
+  facebook: paomortadela
+  github: arthrfrts/pcm
+  twitter: paomortadela
+
+markdown: kramdown
+highlighter: pygments
+permalink: /:title.html
+
+# Exclude these files from your production _site
+exclude:
+  - readme.md
+
+gem:
+  - jekyll-archives

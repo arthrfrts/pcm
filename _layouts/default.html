@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
+        {% if page.description %}
+            <meta name="description" content="{{ page.description }}">
+        {% else %}
+            <meta name="description" content="{{ site.description }}">
+        {% endif %}
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
+
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+
+        <!-- judo font awesome -->
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+        <!-- brick fonts -->
+        <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Montserrat:400,700/Vollkorn:400,700,400i,700i/Libre+Bodoni:700">
+
+        <!-- humanstxt.org -->
+        <link rel="author" href="{{ site.baseurl }}/humans.txt">
+
+        <!-- open graphZzZzZzZzZz -->
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
+        {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="http://movimentoseinfeld.com.br/images/seinfeld.jpg" />{% endif %}
+        <meta property="og:site_name" content="{{ site.title }}" />
+        <meta property="fb:app_id" content="230575027017873" />
+        {% if page.description %}<meta property="og:description" content="{{ page.description }}">{% else %}<meta property="og:description" content="{{ site.description }}"/>{% endif %}
+
+        <script src="{{ site.baseurl }}/assets/modernizr.js"></script>
+    </head>
+
+    <body>
+        <div class="container">
+            <header class="site-header">
+                <h1 class="site-title"><a href="{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a></h1>
+            </header>
+            <!-- /site-header -->
+
+            <section class="content">
+                {{ content }}
+            </section>
+            <!-- /content -->
+        </div>
+
+        <footer class="site-footer">
+            <div class="colophon">
+                <div class="about">
+                    {{ site.description }}
+                </div>
+                <div class="license">
+                    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+                    &middot; Todos os direitos dos textos são reservados aos respectivos autores.
+                    &middot; <a href="{{ site.baseurl }}/humans.txt">humans.txt</a>
+                </div>
+            </div>
+
+            <ul class="contact">
+                {% if site.contact.email %}<li><a href="mailto:{{ site.contact.email }}" class="email"><i class="fa  fa-envelope-o  fa-2x"></i></a></li>{% endif %}
+                {% if site.contact.facebook %}<li><a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa  fa-facebook  fa-2x"></i></a></li>{% endif %}
+                {% if site.contact.github %}<li><a href="https://github.com/{{ site.contact.github }}" class="github"><i class="fa  fa-github  fa-2x"></i></a></li>{% endif %}
+                <li><a href="{{ site.baseurl }}/feed.xml" class="rss"><i class="fa  fa-rss  fa-2x"></i></a></li>
+            </ul>
+        </footer>
+        <!-- /site-footer -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+    </body>
+</html>

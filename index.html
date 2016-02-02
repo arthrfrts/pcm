@@ -1,0 +1,26 @@
+---
+layout: default
+title : Novas dicas pro café, todos os dias.
+---
+
+<div class="grid">
+  {% for post in site.posts %}
+  {% assign author = site.data.authors[post.author] %}
+    <article class="hentry--grid">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="hentry--summary">
+          <div class="hentry__number">{{ post.number }}</div>
+          <h2 class="hentry__title">{{ post.title }}</h2>
+          {% if author %}
+            <div class="byline vcard">
+              por <span class="fn">{{ author.name }}</span>
+            </div>
+          {% endif %}
+        </div>
+        <div class="hentry--image" style="background-image: url({{ post.image }})">
+          <!-- {{ post.image }} -->
+        </div>
+      </a>
+    </article>
+  {% endfor %}
+</div>
