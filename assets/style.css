@@ -231,7 +231,8 @@ blockquote p {
     width: 110%;
 }
 
-.post-video {
+.post-video,
+.post-spotify {
   height: 0;
   overflow: hidden;
   padding-bottom: 56.25%; // For ratio 16:9. 75% if ratio is 4:3
@@ -247,7 +248,8 @@ blockquote p {
 
 .post-video iframe,
 .post-video embed,
-.post-video object {
+.post-video object,
+.post-spotigy iframe {
   position: absolute;
   top: 0;
   left: 0;
