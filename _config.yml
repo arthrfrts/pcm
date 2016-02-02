@@ -5,9 +5,6 @@ url: 'http://paomortadela.com.br'
 description: >
   Todos os dias uma sugestão de livro, filme, música, série, jogo ou link. Sempre uma coisa boa, pra deixar seu dia melhor, mais divertido e mais ~cult~.
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-71750920-3
-
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: paomortadela
 
