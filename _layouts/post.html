@@ -62,7 +62,7 @@ layout: default
             <a title="Episódio anterior: {{ page.previous.title }}" href="{{ page.previous.url }}">
                 <div class="hentry--summary">
                     <div class="hentry__number"><i class="fa fa-arrow-left"></i> Sugestão anterior</div>
-                    <h2 class="hentry__title">{{ page.previous.title }}</h2>
+                    <h2 class="hentry__title">{{ page.previous.name }}</h2>
                     {% if author %}
                         <div class="byline vcard">
                             por <span class="fn">{{ author.name }}</span>
@@ -82,7 +82,7 @@ layout: default
             <a title="Próximo episódio: {{ page.next.title }}" href="{{ page.next.url }}">
                 <div class="hentry--summary">
                     <div class="hentry__number"><i class="fa fa-arrow-right"></i> Próxima sugestão</div>
-                    <h2 class="hentry__title">{{ page.next.title }}</h2>
+                    <h2 class="hentry__title">{{ page.next.name }}</h2>
                     {% if author %}
                         <div class="byline vcard">
                             por <span class="fn">{{ author.name }}</span>

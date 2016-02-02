@@ -221,9 +221,17 @@ blockquote p {
     position: relative;
 }
 
+.post-image {
+  background-position: center;
+  background-size: cover;
+}
+
+.post-image img {
+  width: 100%;
+}
+
 .post-image,
 .post-video {
-    background-position: center;
     height: 25rem;
     margin: 0 -5% 1.5rem -5%;
     overflow: hidden;
