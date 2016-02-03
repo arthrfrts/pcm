@@ -39,6 +39,8 @@
         {% if page.author %}<meta name="twitter:creator" content="@{{ page.author }}" />{% endif %}
         {% if page.description %}<meta name="twitter:description" content="{{ page.description | strip_html }}" />{% else %}<meta name="twitter:description" content="{{ site.description | strip_html }}" />{% endif %}
         {% if page.image %}<meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />{% else %}<meta name="twitter:image" content="{{ '/images/pcm.jpg' prepend: site.url }}" />{% endif %}
+
+        <script type="text/javascript" src="{{ '/assets/modernizr.js' | prepend: site.url }}"></script>
     </head>
 
     <body>
