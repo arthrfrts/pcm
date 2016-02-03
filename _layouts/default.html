@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>{% if page.title %}{{ page.title | strip_html }} &mdash; {% endif %}{{ site.title }}</title>
         {% if page.description %}
-            <meta name="description" content="{{ page.description }}">
+            <meta name="description" content="{{ page.description | strip_html }}">
         {% else %}
             <meta name="description" content="{{ site.description }}">
         {% endif %}
@@ -27,7 +27,7 @@
         <meta property="og:title" content="{{ page.title | strip_html }}" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
-        {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="http://movimentoseinfeld.com.br/images/pcm.jpg" />{% endif %}
+        {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="http://paomortadela.com.br/images/pcm.jpg" />{% endif %}
         <meta property="og:site_name" content="{{ site.title }}" />
         <meta property="fb:app_id" content="230575027017873" />
         {% if page.description %}<meta property="og:description" content="{{ page.description | strip_html }}">{% else %}<meta property="og:description" content="{{ site.description | strip_html }}"/>{% endif %}

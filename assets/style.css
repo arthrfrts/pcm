@@ -224,15 +224,20 @@ blockquote p {
 .post-image {
   background-position: center;
   background-size: cover;
+  max-height: 25rem;
+}
+
+.post-info .post-image {
+  height: 25rem;
 }
 
 .post-image img {
-  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 .post-image,
 .post-video {
-    height: 25rem;
     margin: 0 -5% 1.5rem -5%;
     overflow: hidden;
     position: relative;
@@ -410,6 +415,7 @@ a.linkedin .fa {
 
 .hentry--grid .hentry--image {
     background-position: center center;
+    background-size: cover;
     bottom: 0;
     height: 7.5rem;
     left: 0;
