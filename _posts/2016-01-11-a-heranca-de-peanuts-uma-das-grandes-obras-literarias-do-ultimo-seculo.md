@@ -3,7 +3,7 @@ layout: post
 title: 'A herança de <em>Peanuts</em>, uma das grandes obras literárias do último século'
 number: '#12'
 image: /images/posts/peanuts.jpg
-description: 'Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer que você aprenda também.'
+description: 'Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).'
 author: arthur
 category: 'HQs'
 name: "Peanuts"

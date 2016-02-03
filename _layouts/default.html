@@ -32,7 +32,12 @@
         <meta property="fb:app_id" content="230575027017873" />
         {% if page.description %}<meta property="og:description" content="{{ page.description | strip_html }}">{% else %}<meta property="og:description" content="{{ site.description | strip_html }}"/>{% endif %}
 
-        <script src="{{ site.baseurl }}/assets/modernizr.js"></script>
+        <!-- twitter things -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@{{ site.contact.twitter }}">
+        {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
+        {% if page.description %}<meta name="twitter:description" content="{{ page.description | strip_html }}" />{% else %}<meta name="twitter:description" content="{{ site.description | strip_html }}" />{% endif %}
+        {% if page.image %}<meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />{% else %}<meta name="twitter:image" content="{{ '/images/pcm.jpg' prepend: site.url }}" />{% endif %}
     </head>
 
     <body>
