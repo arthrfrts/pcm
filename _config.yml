@@ -22,6 +22,6 @@ permalink: /:title.html
 exclude:
   - readme.md
 
-gem:
+gems:
   - jekyll-sitemap
   - jemoji
