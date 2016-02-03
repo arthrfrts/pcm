@@ -23,4 +23,4 @@ exclude:
   - readme.md
 
 gem:
-  - jekyll-archives
+  - jekyll-sitemap
