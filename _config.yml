@@ -24,3 +24,4 @@ exclude:
 
 gem:
   - jekyll-sitemap
+  - jemoji
