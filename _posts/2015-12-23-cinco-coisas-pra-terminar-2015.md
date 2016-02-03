@@ -4,7 +4,7 @@ title: Cinco coisas (que você não conferiu) pra terminar bem 2015
 number: '#2'
 image: /images/posts/45-anos.jpg
 description: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para você terminar bem esse ano.
-author: arthur
+author: arthrfrts
 category: 'Listas'
 name: "5 de 2015"
 ---

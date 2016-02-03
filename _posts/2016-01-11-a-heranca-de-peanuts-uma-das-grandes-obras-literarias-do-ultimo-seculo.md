@@ -4,7 +4,7 @@ title: 'A herança de <em>Peanuts</em>, uma das grandes obras literárias do úl
 number: '#12'
 image: /images/posts/peanuts.jpg
 description: 'Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).'
-author: arthur
+author: arthrfrts
 category: 'HQs'
 name: "Peanuts"
 ---

@@ -4,7 +4,7 @@ title: 'Viva instantes em <em>Iniciantes</em>'
 number: '#18'
 image: /images/posts/iniciantes.jpg
 description: 'Os primeiros contos de Raymond Carver vão levar você para outras vidas.'
-author: arthur
+author: arthrfrts
 category: 'Livros'
 name: "Iniciantes"
 ---

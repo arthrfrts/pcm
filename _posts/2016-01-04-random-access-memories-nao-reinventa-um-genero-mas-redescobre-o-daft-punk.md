@@ -4,7 +4,7 @@ title: '<em>Random Access Memories</em> não reinventa um gênero, mas redescobr
 number: '#8'
 image: /images/posts/random-access-memories.jpg
 description: 'O duo francês encontrou no álbum vencedor do Grammy sua mais perfeita definição musical.'
-author: arthur
+author: arthrfrts
 category: 'Músicas'
 name: "Random Access Memories"
 ---

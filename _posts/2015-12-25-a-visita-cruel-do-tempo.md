@@ -4,7 +4,7 @@ title: A Visita Cruel do Tempo
 number: '#3'
 image: /images/posts/visita-cruel.jpg
 description: Se você não tem o que ler nesse início de ano, quem sabe um livro para questionar justamente a passagem do tempo?
-author: arthur
+author: arthrfrts
 category: 'Livros'
 name: "A Visita Cruel do Tempo"
 ---

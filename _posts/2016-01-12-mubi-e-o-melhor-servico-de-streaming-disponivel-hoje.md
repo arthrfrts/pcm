@@ -4,7 +4,7 @@ title: 'MUBI é o melhor serviço de streaming disponível hoje'
 number: '#13'
 image: /images/posts/mubi.jpg
 description: 'Com o MUBI, você sempre terá um filme novo pra ver.'
-author: arthur
+author: arthrfrts
 category: 'Links'
 name: "MUBI"
 ---

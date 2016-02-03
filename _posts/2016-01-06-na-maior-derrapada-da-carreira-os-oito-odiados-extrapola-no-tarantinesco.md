@@ -4,7 +4,7 @@ title: 'Na maior derrapada da carreira, <em>Os Oito Odiados</em> extrapola no ta
 number: '#10'
 image: /images/posts/os-oito-odiados.jpg
 description: 'Novo filme do Tarantino é lindo e vale ser visto — mas também é um sinal preocupante que o diretor pode estar perdendo o jeito.'
-author: arthur
+author: arthrfrts
 category: 'Filmes'
 name: "Os Oito Odiados"
 ---

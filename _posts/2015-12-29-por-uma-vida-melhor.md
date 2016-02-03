@@ -4,7 +4,7 @@ title: Por Uma Vida Melhor
 number: '#5'
 image: /images/posts/por-uma-vida-melhor.jpg
 description: No filme mais simples, e mais charmoso, de Sam Mendes, nós finalmente conhecemos pessoas bacanas.
-author: arthur
+author: arthrfrts
 category: 'Filmes'
 name: "Por Uma Vida Melhor"
 ---

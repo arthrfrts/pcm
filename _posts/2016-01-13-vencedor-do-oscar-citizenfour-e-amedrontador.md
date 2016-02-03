@@ -4,7 +4,7 @@ title: 'Vencedor do Oscar, <em>Citizenfour</em> é amedrontador'
 number: '#14'
 image: /images/posts/citizenfour.jpg
 description: 'O documentário de Laura Poitras vai fazer você pensar duas vezes na hora de digitar sua senha.'
-author: arthur
+author: arthrfrts
 category: 'Filmes'
 name: "Citizenfour"
 ---

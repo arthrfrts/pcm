@@ -4,7 +4,7 @@ title: '<em>Next Picture Show</em> vai fazer você querer voltar a escutar podca
 number: '#17'
 image: /images/posts/next-pic-show.jpg
 description: 'Novo podcast da equipe do The Dissolve traz a paixão pelo cinema de volta a Internet.'
-author: arthur
+author: arthrfrts
 category: 'Links'
 name: "Next Picture Show"
 ---
