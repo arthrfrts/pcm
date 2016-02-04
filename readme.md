@@ -2,7 +2,7 @@
 
 _Todos os dias uma nova dica pra acompanhar o café._
 
-Esse é o código-fonte do site <paomortadela.com.br>. Ele é feito com Jekyll.
+Esse é o código-fonte do site `paomortadela.com.br`. Ele é feito com Jekyll.
 
 O design original e a maior parte do código é do @seufelipe pro [movimentoseinfeld](http://movimentoseinfeld.com), que tá sob a licença MIT. Ele é demais, obrigado pelo excelente código, cara.
 
