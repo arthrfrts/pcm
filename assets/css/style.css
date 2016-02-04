@@ -552,3 +552,16 @@ a.linkedin .fa {
 .cosmo .post-content blockquote:first-child {
     color: #9b59b6;
 }
+
+input[type="text"] {
+  width: 110%;
+  margin: 0 -5% 1.5rem -5%;
+  display: block;
+  color: #44413c;
+  font-family: Vollkorn, serif;
+  font-size: 1.313rem;
+  line-height: 1.619;
+  font-weight: 400;
+  outline: none;
+  padding: 5px 3px;
+}
