@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Amor sem fim</em> é um mistério sobre as razões do amor'
 number: '#23'
-image: /images/posts/amor-sem-fim.jpg
+image: /assets/images/posts/amor-sem-fim.jpg
 description: 'Ian McEwan consegue tornar até a paixão em algo macabro.'
 author: arthrfrts
 category: 'Livros'
@@ -21,7 +21,7 @@ McEwan é um mestre na prosa, mas é um mestre ainda maior em construir personag
 
 _Amor sem fim_ é um mistério interno. Em determinado momento, Joe começa a ir atrás dos motivos do fascínio de Jed. Como você já deve saber, buscar as razões na paixão é uma jornada árdua e tortuosa, e muitas vezes sem retorno. McEwan explora aí os motivos do desejo dos seus personagens, não só de Jed, e como ele afeta a razão deles. _Amor sem fim_ tortura Joe, e o leitor, por suas respostas difíceis, e pelas informações lentas e parcas que ele consegue. McEwan, hábil nas palavras, faz essa busca tortuosa para você também.
 
-Como qualquer mistério, porém _Amor sem fim_ busca uma resposta. McEwan dá — e você vai questionar se você vai aceitar ela ou não. Ao nos deixar obcecados por uma mente obsessiva como a de Jed, McEwan nos iguala aos seus personagens e nos questiona, ao mesmo momento, o nosso motivo de sermos como somos. E esse mistério, McEwan não se dá o luxo de resolver.
+Como qualquer mistério, porém, _Amor sem fim_ busca uma resposta. McEwan dá — e você vai questionar se você vai aceitar ela ou não. Ao nos deixar obcecados por uma mente obsessiva como a de Jed, McEwan nos iguala aos seus personagens e nos questiona, ao mesmo momento, o nosso motivo de sermos como somos. E esse mistério, McEwan não se dá o luxo de resolver.
 
 ---
 

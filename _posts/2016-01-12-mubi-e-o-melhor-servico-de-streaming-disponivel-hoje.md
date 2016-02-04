@@ -2,7 +2,7 @@
 layout: post
 title: 'MUBI é o melhor serviço de streaming disponível hoje'
 number: '#13'
-image: /images/posts/mubi.jpg
+image: /assets/images/posts/mubi.jpg
 description: 'Com o MUBI, você sempre terá um filme novo pra ver.'
 author: arthrfrts
 category: 'Links'
@@ -17,7 +17,7 @@ Meus camaradas, a questão é que estamos todos olhando pro lugar errado. O luga
 
 A proposta do MUBI é diferente de outros serviços de streaming desde seu princípio. Começando como uma rede social de filmes em 2007 fundada pelo turco Efe Carakel, o MUBI cresceu para uma verdadeira cinemateca em 2012, quando começou a oferecer filmes independentes, clássicos ou avant garde para alguns países, como Estados Unidos, Inglaterra e França. No início de 2014, o serviço chegou ao Brasil, e apresentou-se uma excelente pedida para quem quer ver muito filme bom por aqui.
 
-{% include image.html url="/images/posts/mubi-capa.jpg" alt="Página inicial do site" title="Oldboy é destaque na capa do MUBI." %}
+{% include image.html url="/assets/images/posts/mubi-capa.jpg" alt="Página inicial do site" title="Oldboy é destaque na capa do MUBI." %}
 
 Não possuindo um vasto catálogo, o MUBI oferece a chance de você assistir apenas 30 filmes por mês. Todos os dias, um novo filme entra no catálogo, enquanto um sai. Hoje, por exemplo, entrou o documentário americano _Psychohydrography_, enquanto o chinês _Lotus_ está em seu último dia. Você pode ainda baixar esses filmes em seu iPhone, iPad, Android ou Chromecast e assistí-lo quando não estiver com uma boa internet, por exemplo.
 

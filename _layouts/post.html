@@ -4,95 +4,107 @@ layout: default
 
 {% assign author = site.data.authors[page.author] %}
 
-<article class="hentry  single">
-    <header class="post-info">
-        {% if page.image %}
-            <figure class="post-image" style="background-image: url({{ page.image }})">
-                <!-- {{ page.image }} -->
-            </figure>
-        {% endif %}
+<article class="hentry single">
+  <header class="post-info">
+    {% if page.image %}
+    {% include image.html url=page.image alt="Ilustração do post" title=page.name %}
+    {% endif %}
 
-        <div class="hentry__number">{% if page.number %}{{ page.number }} • {% endif %}{{ page.category }}</div>
-
-        <h2 class="hentry__title"><a href="{{ page.url }}" title="Compartilhar {{ page.title }}">{{ page.title }}</a></h2>
-
-        {% if page.description %}
-            <div class="post-description">
-                {{ page.description }}
-            </div>
-        {% endif %}
-
-        <p class="byline  vcard">
-            por <span class="fn">{{ author.name }}</span>
-            {% if author.web %}<a href="{{ author.web }}" title="Ver site de {{ author.name }}" class="url"><i class="fa fa-bookmark"></i></a>{% endif %}
-            {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" title="{{ author.name }} no Twitter" class="url  twitter"><i class="fa fa-twitter"></i></a>{% endif %}
-            {% if author.linkedin %}<a href="{{ author.linkedin }}" title="{{ author.name }} no LinkedIn" class="url  linkedin"><i class="fa fa-linkedin"></i></a>{% endif %}
-        </p>
-    </header>
-
-    <div class="post-content">
-        {{ content }}
+    <div class="hentry__number">
+      {% if page.number %}{{ page.number }} • {% endif %}{{ page.category }}
     </div>
 
-    <div class="post-date"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%d/%m/%Y" }}</div>
+    <h2 class="hentry__title">
+      <a href="{{ page.url }}" title="Compartilhe a dica de {{ page.name }}">{{ page.title }}</a>
+    </h2>
+
+    {% if page.description %}
+    <div class="post-description">
+      {{ page.description }}
+    </div>
+    {% endif %}
+
+    <p class="byline vcard">
+      por <span class="fn">{{ author.name }}</span>
+      {% if author.web %}
+      <a href="{{ author.web }}" title="Ver o site de {{ author.name }}" class="url"><i class="fa fa-bookmark"></i></a>
+      {% endif %}
+      {% if author.twitter %}
+      <a href="https://twitter.com/{{ author.twitter }}" title="{{ author.name }} no Twitter" class="url twitter"><i class="fa fa-twitter"></i></a>
+      {% endif %}
+    <p>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div class="post-date">
+    <i class="fa fa-calendar-o"></i> {{ page.date | date: "%d/%m/%Y" }}
+  </div>
 </article>
 
 {% if site.disqus %}
 <div class="comments">
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
+  <div id="disqus_thread"></div>
 
-        var disqus_shortname = '{{ site.disqus }}';
-
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <script type="text/javascript">
+  var disqus_shortname = '{{ site.disqus }}';
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
 {% endif %}
 
-<nav class="navigation  grid  post--navigation">
-    {% if page.previous.url %}
-        {% assign author = site.data.authors[page.previous.author] %}
-        <article class="hentry--grid">
-            <a title="Episódio anterior: {{ page.previous.title }}" href="{{ page.previous.url }}">
-                <div class="hentry--summary">
-                    <div class="hentry__number"><i class="fa fa-arrow-left"></i> Sugestão anterior</div>
-                    <h2 class="hentry__title">{{ page.previous.name }}</h2>
-                    {% if author %}
-                        <div class="byline vcard">
-                            por <span class="fn">{{ author.name }}</span>
-                        </div>
-                    {% endif %}
-                </div>
-                <div class="hentry--image" style="background-image: url({{ page.previous.image }})">
-                    <!-- {{ page.previous.image }} -->
-                </div>
-            </a>
-        </article>
-    {% endif %}
+<nav class="navigation grid post--navigation">
+  {% if page.previous.url %}
+  {% assign author = site.data.authors[page.previous.author] %}
+  <article class="hentry--grid">
+    <a title="Sugestão anterior: {{ page.previous.name }}" href="{{ page.previous.url }}">
 
-    {% if page.next.url %}
-        {% assign author = site.data.authors[page.next.author] %}
-        <article class="hentry--grid">
-            <a title="Próximo episódio: {{ page.next.title }}" href="{{ page.next.url }}">
-                <div class="hentry--summary">
-                    <div class="hentry__number"><i class="fa fa-arrow-right"></i> Próxima sugestão</div>
-                    <h2 class="hentry__title">{{ page.next.name }}</h2>
-                    {% if author %}
-                        <div class="byline vcard">
-                            por <span class="fn">{{ author.name }}</span>
-                        </div>
-                    {% endif %}
-                </div>
-                <div class="hentry--image" style="background-image: url({{ page.next.image }})">
-                    <!-- {{ page.next.image }} -->
-                </div>
-            </a>
-        </article>
-    {% endif %}
+      <div class="hentry--summary">
+        <div class="hentry__number">
+          <i class="fa fa-arrow-left"></i> Sugestão anterior
+        </div>
+
+        <h2 class="hentry__title">{{ page.previous.name }}</h2>
+
+        {% if author %}
+        <div class="byline vcard">
+          por <span class="fn">{{ author.name }}</span>
+        </div>
+        {% endif %}
+      </div>
+      <div class="hentry--image" style="background-image: url({{ page.previous.image }})">
+        <!-- {{ page.previous.image }} -->
+      </div>
+    </a>
+  </article>
+  {% endif %}
+
+  {% if page.next.url %}
+  {% assign author = site.data.authors[page.next.author] %}
+  <article class="hentry--grid">
+    <a title="Próxima sugestão: {{ page.next.name }}" href="{{ page.next.url }}">
+
+      <div class="hentry--summary">
+        <div class="hentry__number"><i class="fa fa-arrow-right"></i> Próxima sugestão</div>
+        <h2 class="hentry__title">{{ page.next.name }}</h2>
+        {% if author %}
+        <div class="byline vcard">
+          por <span class="fn">{{ author.name }}</span>
+        </div>
+        {% endif %}
+      </div>
+
+      <div class="hentry--image" style="background-image: url({{ page.next.image }})">
+        <!-- {{ page.next.image }} -->
+      </div>
+    </a>
+  </article>
+  {% endif %}
 </nav>

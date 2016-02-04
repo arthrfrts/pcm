@@ -1,0 +1,16 @@
+<!-- Open Graph (deixa os posts bonitinhos no Facebook) -->
+<meta property="og:title" content="{{ page.title | strip_html }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" />
+{% else %}
+<meta property="og:image" content="{{ '/assets/images/logo.png' | prepend: site.baseurl | prepend: site.url }}" />
+{% endif %}
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="fb:app_id" content="1714113508801062" />
+{% if page.description %}
+<meta property="og:description" content="{{ page.description | strip_html }}" />
+{% else %}
+<meta property="og:description" content="{{ site.description | strip_html }}" />
+{% endif %}

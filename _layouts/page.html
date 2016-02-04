@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="hentry  single">
+    <header class="post-info">
+        {% if page.tagline %}
+        <div class="hentry__number">{{ page.tagline }}</div>
+        {% endif %}
+
+        <h1 class="hentry__title">
+          {{ page.title }}
+        </h1>
+    </header>
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+</article>

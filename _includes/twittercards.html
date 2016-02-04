@@ -1,0 +1,21 @@
+<!-- Twitter Cards (deixa os posts bonitinhos no Twitter) -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@{{ site.contact.twitter }}" />
+{% if page.title %}
+<meta name="twitter:title" content="{{ page.title | strip_html }}" />
+{% else %}
+<meta name="twitter:title" content="{{ site.title }}" />
+{% endif %}
+{% if page.author %}
+<meta name="twitter:creator" content="@{{ page.author }}" />
+{% endif %}
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description | strip_html }}" />
+{% else %}
+<meta name="twitter:description" content="{{ site.description | strip_html }}" />
+{% endif %}
+{% if page.image %}
+<meta name="twitter:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" />
+{% else %}
+<meta name="twitter:image" content="{{ '/assets/images/pcm.jpg' | prepend: site.baseurl | prepend: site.url }}" />
+{% endif %}

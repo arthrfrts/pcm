@@ -1,0 +1,11 @@
+<header class="site-header">
+  {% if page.title %}
+  <span class="site-title">
+    <a href="{{ site.baseurl }}" title="Voltar pra página inicial">{{ site.title }}</a>
+  </span>
+  {% else %}
+  <h1 class="site-title">
+    <a href="{{ site.baseurl }}" title="Lar doce lar">{{ site.title }}</a>
+  </h1>
+  {% endif %}
+</header>

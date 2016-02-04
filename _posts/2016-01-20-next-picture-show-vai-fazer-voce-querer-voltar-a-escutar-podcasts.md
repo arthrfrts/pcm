@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Next Picture Show</em> vai fazer você querer voltar a escutar podcasts'
 number: '#17'
-image: /images/posts/next-pic-show.jpg
+image: /assets/images/posts/next-pic-show.jpg
 description: 'Novo podcast da equipe do The Dissolve traz a paixão pelo cinema de volta a Internet.'
 author: arthrfrts
 category: 'Links'

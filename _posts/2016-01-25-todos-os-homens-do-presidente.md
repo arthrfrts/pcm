@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Todos os Homens do Presidente</em> é cinema impecável'
 number: '#19'
-image: /images/posts/todos-os-homens-do-presidente.jpg
+image: /assets/images/posts/todos-os-homens-do-presidente.jpg
 description: 'Clássico dos anos 1970 mantém sua contemporalidade como um dos grandes filmes já feitos.'
 author: arthrfrts
 category: 'Filmes'
@@ -15,7 +15,7 @@ Existe algo nesse estilo de filme. É sobre o processo, e o processo precisa ser
 
 Mais que ser uma grande, bela alegoria visual, _Todos os Homens do Presidente_ é uma aula de como entregar informações ao espectador. Intricado como é, o caso Waltergate aqui é narrado com tantas minúcias e detalhes que a atenção do espectador é necessária, mas nunca forçada. Pakula parece muito mais interessado em “documentar” a descoberta dos acontecimentos pelos repórteres que há pouca intromissão para explicações, o que acaba tornando toda a dinâmica entre Hoffmann e Redford ainda mais hipnotizante. São eles que nos levam em frente e abrem caminho para as dezenas de nomes e valores que ouviremos pela frente. É nosso trabalho acompanhar.
 
-{% include image.html url="/images/posts/todos-os-homens-do-presidente-ilustracao.png" alt="Imagem do filme" title="Cada plano de Todos os Homens do Presidente é de uma beleza impressionante." %}
+{% include image.html url="/assets/images/posts/todos-os-homens-do-presidente-ilustracao.png" alt="Imagem do filme" title="Cada plano de Todos os Homens do Presidente é de uma beleza impressionante." %}
 
 Tem algo que me impressiona em _Todos os Homens do Presidente_, porém, que é a sua maturidade. Vi poucos filmes que tem esse visual e essa narrativa madura. Um filme que entende seu valor fílmico, narrativo e estético, e entrega uma obra a altura de sua importância. Embora a narrativa do filme foque muito mais na investigação de Watergate, e Pakula prefira esvaziar sub-tramas para concentrar no fluxo principal, muito do que nos faz nos aproximar e seguir estes personagens faz parte do filme de maneira visual. Como Hoffmann se comporta, como Redford fala e manuseia as centenas de notas que ele possui na sua mesa. É uma construção de personagem minuciosa, silenciosa e delicada, mas bastante eficaz e madura, por parte do diretor e de seus atores.
 

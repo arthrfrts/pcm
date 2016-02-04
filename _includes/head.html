@@ -1,0 +1,21 @@
+<head>
+  <meta charset="{{ site.charset }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% if page.title %}{{ page.title | strip_html }} ~ {% endif %}{{ site.title }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description | strip_html }}" />
+  {% else %}
+  <meta name="description" content="{{ site.description | strip_html }}" />
+  {% endif %}
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} ~ RSS" href="{{ site.url }}/feed.xml" />
+  <link rel="author" type="text/plain" />
+  <link rel="stylesheet" type="text/css" href="{{ 'assets/css/style.css' | prepend: site.baseurl }}" />
+  <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" type="text/css" href="//brick.a.ssl.fastly.net/Montserrat:400,700/Vollkorn:400,700,400i,700i/Libre+Bodoni:700" />
+  <script type="text/javascript" src="{{ '/assets/js/modernizr.js' | prepend: site.baseurl }}"></script>
+
+  {% include opengraph.html %}
+  {% include twittercards.html %}
+  {% include favicons.html %}
+</head>
