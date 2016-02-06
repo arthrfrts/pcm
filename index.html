@@ -9,7 +9,7 @@ title : Novas dicas pro café, todos os dias.
 
 <div class="grid" id="search_results">
   {% for post in site.posts %}
-  {% assign authsor = site.data.authors[post.author] %}
+  {% assign author = site.data.authors[post.author] %}
     <article class="hentry--grid">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <div class="hentry--summary">
