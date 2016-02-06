@@ -7,7 +7,9 @@ layout: default
 <article class="hentry single">
   <header class="post-info">
     {% if page.image %}
-    {% include image.html url=page.image alt="Ilustração do post" title=page.name %}
+    <figure class="post-image" style="background-image: url({{ page.image | prepend: site.baseurl }});">
+      <!-- {{ page.image }} -->
+    </figure>
     {% endif %}
 
     <div class="hentry__number">
