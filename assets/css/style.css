@@ -564,7 +564,7 @@ input[type="text"] {
   outline: none;
   padding: 5px 3px;
 }
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 45.5em) {
   input[type="text"] {
     width: 110%;
     margin: 0 -5% 1.5rem -5%;
