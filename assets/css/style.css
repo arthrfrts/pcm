@@ -554,8 +554,7 @@ a.linkedin .fa {
 }
 
 input[type="text"] {
-  width: 110%;
-  margin: 0 -5% 1.5rem -5%;
+  width: 100%;
   display: block;
   color: #44413c;
   font-family: Vollkorn, serif;
@@ -564,4 +563,10 @@ input[type="text"] {
   font-weight: 400;
   outline: none;
   padding: 5px 3px;
+}
+@media screen and (min-width: 40em) {
+  input[type="text"] {
+    width: 110%;
+    margin: 0 -5% 1.5rem -5%;
+  }
 }
