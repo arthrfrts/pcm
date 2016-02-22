@@ -18,6 +18,7 @@ layout: null
 # SPECIAL THANKS
 
     Seu Felipe -- http://seufelipe.com.br/ -- original design and code
+    Raul Fontoura -- http://raulranma.tumblr.com -- graphic art and illustrations
 
 # TECHNOLOGY COLOPHON
 
