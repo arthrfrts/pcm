@@ -2,7 +2,7 @@
 layout: post
 title: A Visita Cruel do Tempo
 number: '#3'
-image: /assets/images/posts/visita-cruel.jpg
+image: assets/images/posts/visita-cruel.jpg
 description: Se você não tem o que ler nesse início de ano, quem sabe um livro para questionar justamente a passagem do tempo?
 author: arthrfrts
 category: 'Livros'

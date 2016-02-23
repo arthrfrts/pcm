@@ -103,7 +103,7 @@ layout: default
         {% endif %}
       </div>
 
-      <div class="hentry--image" style="background-image: url({{ page.next.image }})">
+      <div class="hentry--image" style="background-image: url({{ page.next.image | prepend: site.baseurl | prepend: site.url }})">
         <!-- {{ page.next.image }} -->
       </div>
     </a>

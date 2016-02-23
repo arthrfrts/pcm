@@ -8,10 +8,10 @@ title : Novas dicas pro café, todos os dias.
 </form>
 
 <div class="grid" id="search_results">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   {% assign author = site.data.authors[post.author] %}
     <article class="hentry--grid">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ post.url }}">
         <div class="hentry--summary">
           <div class="hentry__number">{% if post.number %}{{ post.number }} • {% endif %}{{ post.category }}</div>
           <h2 class="hentry__title">{{ post.name }}</h2>
@@ -21,10 +21,25 @@ title : Novas dicas pro café, todos os dias.
             </div>
           {% endif %}
         </div>
-        <div class="hentry--image" style="background-image: url({{ post.image }})">
-          <!-- {{ post.image }} -->
+        <div class="hentry--image" style="background-image: url({{ post.image | prepend: site.baseurl | prepend: site.url }})">
+          <!-- {{ post.image | prepend: site.baseurl | prepend: site.url }} -->
         </div>
       </a>
     </article>
   {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="grid pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous--grid">« Dicas anteriores</a>
+  {% else %}
+    <span class="previous--grid">&times; Dicas anteriores</span>
+  {% endif %}
+  <span class="page_number pages--grid">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next--grid">Próximas dicas »</a>
+  {% else %}
+    <span class="next--grid">Próximas dicas &times;</span>
+  {% endif %}
 </div>

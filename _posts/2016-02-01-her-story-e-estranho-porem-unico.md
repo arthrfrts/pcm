@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Her Story</em> é estranho, porém único'
 number: '#20'
-image: /assets/images/posts/her-story.jpg
+image: assets/images/posts/her-story.jpg
 description: 'Uma narrativa interativa, Her Story desenvolve a atenção do jogador mais que sua jogabilidade.'
 author: arthrfrts
 category: 'Jogos'
@@ -19,9 +19,9 @@ Você não precisa ser inteligente para jogar _Her Story_, você precisa prestar
 
 Aqui, o mistério da morte de um trabalhador de uma vidraçaria é mantido apenas pelo depoimento da viúva. Durante sete entrevistas, você deve guiar seu raciocínio pelos fatos que a mulher conta — desde como foi seu dia até alguma coisa que ela deixou passar numa conversa anterior. A partir daí, o jogador deve desvendar seu próprio caminho.
 
-O mais fascinante de _Her Story_, porém, é entender justamente que dificilmente dois jogadores irão costurar a narrativa da mesma forma, e valorizar isso. Por vezes soando falso, as vezes realmente emocionante ([diferente da Polygon](http://www.polygon.com/a/game-of-the-year-2015/her-story-game-of-the-year-2015-polygon), nosso [jogo do ano](http://paomortadela.com.br/essenciais/os-melhores-de-2015.html) também se baseia simplesmente em uma voz), _Her Story_ é sempre frustrante, mas também sempre recompensador e surpreendente. Ao final de uma narrativa que você mesmo decide desvendar, o mais triste é que não haverá mais nada para descobrir.
+O mais fascinante de _Her Story_, porém, é entender justamente que dificilmente dois jogadores irão costurar a narrativa da mesma forma, e valorizar isso. Por vezes soando falso, as vezes realmente emocionante ([diferente da Polygon](http://www.polygon.com/a/game-of-the-year-2015/her-story-game-of-the-year-2015-polygon), nosso [jogo do ano](os-melhores-de-2015.html) também se baseia simplesmente em uma voz), _Her Story_ é sempre frustrante, mas também sempre recompensador e surpreendente. Ao final de uma narrativa que você mesmo decide desvendar, o mais triste é que não haverá mais nada para descobrir.
 
-{% include image.html url="/assets/images/posts/her-story-ilustracao.jpg" alt="Imagem do jogo" title="Viva Steifert, atriz principal do jogo" %}
+{% include image.html url="assets/images/posts/her-story-ilustracao.jpg" alt="Imagem do jogo" title="Viva Steifert, atriz principal do jogo" %}
 
 ---
 

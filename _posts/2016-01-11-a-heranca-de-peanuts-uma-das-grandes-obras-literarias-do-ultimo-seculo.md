@@ -2,7 +2,7 @@
 layout: post
 title: 'A herança de <em>Peanuts</em>, uma das grandes obras literárias do último século'
 number: '#12'
-image: /assets/images/posts/peanuts.jpg
+image: assets/images/posts/peanuts.jpg
 description: 'Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).'
 author: arthrfrts
 category: 'HQs'
@@ -23,7 +23,7 @@ Uma das maiores conquistas de _Peanuts_ é que sua popularidade e influência s�
 
 A primeira coisa que você pode perceber lendo as tiras (desde a primeira, publicada em outubro de 1950), é quão frio o tom do seu humor é. A emblemática primeira tira, por exemplo, apresenta “o bom e velho Charlie Brown”, um chamado que o personagem carregaria por toda a trajetória da tira, antes de continuar: “como eu odeio ele”.
 
-{% include image.html url="/assets/images/posts/peanuts-primeira-tira.jpg" alt="Imagem da primeira tira de Peanuts" title="A primeiríssima tirinha de Peanuts, publicada em 2 de outubro de 1950." %}
+{% include image.html url="assets/images/posts/peanuts-primeira-tira.jpg" alt="Imagem da primeira tira de Peanuts" title="A primeiríssima tirinha de Peanuts, publicada em 2 de outubro de 1950." %}
 
 No início da tira, Charlie Brown é claramente o protagonista, o único personagem com traços de personalidade definidos (a famosa estampa de sua camiseta, porém, só viria meses depois). Ele tem objetivos. Ele tem até um sobrenome. Os outros personagens, porém, o desprezam ou o ignoram. E ele perde, constantemente. Ele nunca consegue o que ele quer, porque ele é superado por suas próprias falhas (um exemplo clássico, é como ele nunca consegue ir falar com a Garotinha Ruiva, sua grande paixão), ou pelos seus amigos (como quando Lucy sempre tira a bola quando ele vai chutar), ou pelo universo, que simplesmente existe (como as árvores, que adoram atrapalhar suas pipas).
 

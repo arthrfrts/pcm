@@ -16,20 +16,18 @@
       <a href="mailto:{{ site.contact.email }}" class="email"><i class="fa  fa-envelope-o fa-2x"></i></a>
     </li>
     {% endif %}
-    {% if site.contact.facebook %}
-    <li>
-      <a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa  fa-facebook  fa-2x"></i></a>
-    </li>
-    {% endif %}
     {% if site.contact.twitter %}
     <li>
-      <a href="https://twitter.com/{{ site.contact.twitter }}" class="twitter">
-        <i class="fa fa-twitter fa-2x"></i>
-      </a>
+      <a href="https://twitter.com/{{ site.contact.twitter }}" class="twitter"><i class="fa fa-twitter fa-2x"></i></a>
+    </li>
+    {% endif %}
+    {% if site.contact.facebook %}
+    <li>
+      <a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa fa-facebook-f fa-2x"></i></a>
     </li>
     {% endif %}
     <li>
-      <a href="{{ site.baseurl }}/feed.xml" class="rss"><i class="fa  fa-rss  fa-2x"></i></a>
+      <a href="{{ site.baseurl }}/feed.xml" class="rss"><i class="fa fa-rss  fa-2x"></i></a>
     </li>
   </ul>
 </footer>
