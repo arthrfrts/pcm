@@ -15,7 +15,9 @@ O fato é que Karen O é melhor fazendo canções de amor do que gritando descon
 
 {% include video.html url="https://www.youtube.com/embed/DtVk9otjN24" %}
 
-Esse sentimento rápido e intenso explica a qualidade, e o motivo de existir, de _Crush Songs_. Karen O gravou as músicas entre 2006 e 2010, e a “textura” das canções, repletas de ruídos (algumas músicas são escritas enquanto ela as toca) e com pouquíssimos instrumentos. _Crush Songs_ é feito de uma intimidade nunca presente em nenhum outro trabalho de O, seja dentro ou fora do Yeah Yeah Yeahs, e poder ouvir músicas frágeis de momentos frágeis e turbulentos de sua vida são um deleite. Com “Rapt”, “Ooo” e “NYC Baby”, Karen O expõe seu eu mais delicado, como um pedaço de bolacha prestes a se esfarelar.
+Esse sentimento rápido e intenso explica a qualidade, e o motivo de existir, de _Crush Songs_. Karen O gravou as músicas entre 2006 e 2010, poucas tem mais de dois minutos (o álbum tem 25 minutos no total); e a “textura” das canções, repletas de ruídos (algumas músicas são escritas enquanto ela as toca) e com pouquíssimos instrumentos dão uma característica dura e direta, como uma mensagem apaixonada sem rodeios
+
+. _Crush Songs_ é feito de uma intimidade nunca presente em nenhum outro trabalho de O, seja dentro ou fora do Yeah Yeah Yeahs, e o seu poder está justamente em como O consegue transportar o espectador para seu estado de espírito na hora da performance. Com “Rapt”, “Ooo” e “NYC Baby”, Karen O expõe seu eu mais delicado, como um pedaço de bolacha prestes a se esfarelar.
 
 ------
 
