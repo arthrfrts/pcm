@@ -23,7 +23,7 @@ permalink: /:title.html
 exclude:
   - readme.md
 
-paginate: 6
+paginate: 8
 
 gems:
   - jekyll-sitemap
