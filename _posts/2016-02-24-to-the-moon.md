@@ -15,6 +15,8 @@ Assim como [_Ela_]({{ 'ela.html' | prepend: site.baseurl }}), _To The Moon_ é u
 
 De maneira bem semelhante ao que acontece com Joe em _Brilho Eterno de Uma Mente Sem Lembranças_, a mente não trabalha como os doutores imaginaram e criar memórias se torna impossível. Cabe aos doutores, então, revisitar as memórias de Wyles e explorar o porquê de sua vida infeliz, e porque ele deseja ir à lua, para entendê-lo e então realizar seu desejo.
 
+{% include video.html url="https://www.youtube.com/embed/sqkJuSV-23U" %}
+
 Em _To The Moon_, o jogador vivencia as memórias de Wyles e de sua vida com River. Sem dar detalhes de como a narrativa se desenvolve, posso dizer que em _To The Moon_, devido à situação de Wyles, o jogador serve como a ligação entre ele e River nessa história de amor. Servindo não como um mediador de um relacionamento, mas de uma lembrança de porque os dois se amam, o jogo nos oferece um lugar de destaque em sua história — na qual somos tão protagonistas quanto Wyles e River naquilo que representamos para eles.
 
 Sendo delicado sem ser meloso, _To the Moon_ explora os melhores lados do RPG (inclusive no estilo visual, que lembra bastante os antigos _Final Fantasy_) enquanto oferece uma história realmente significativa para seus jogadores e para seus personagens. O final, emblemático, coloca o jogador como meio e fim, como todo o bom jogo deve fazer.
