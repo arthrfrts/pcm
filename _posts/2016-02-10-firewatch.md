@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '<em>Firewatch</em> apresenta a maturidade aos videogames'
-number: '#23'
+number: '#24'
 image: assets/images/posts/firewatch.jpg
 description: 'O jogo de estreia da Campo Santo é mais um do pequeno nicho de jogos que possuem uma narrativa madura e corajosa.'
 author: arthrfrts

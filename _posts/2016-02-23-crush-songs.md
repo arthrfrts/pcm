@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Karen O finalmente explora tons mais delicados em <em>Crush Songs</em>'
-number: '#25'
+number: '#27'
 image: assets/images/posts/crush-songs.jpg
 description: 'Com seu debut solo, a cantora explora o melhor lado da sua voz com aquilo que ela realmente faz bem: cações de amor.'
 author: arthrfrts
