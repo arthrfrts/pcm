@@ -31,4 +31,4 @@ Ainda bem. Eu ainda não peguei todos.
 
 ---
 
-_Pokémon X & Y_, _Pokémon Red, Fire & Yellow_ e mais uma penca de jogos podem ser comprados através da Nintendo eShop para Nintendo 3DS.
+_Pokémon X & Y_, _Pokémon Red, Blue & Yellow_ e mais uma penca de jogos podem ser comprados através da Nintendo eShop para Nintendo 3DS.
