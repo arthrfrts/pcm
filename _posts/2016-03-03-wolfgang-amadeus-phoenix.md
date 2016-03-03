@@ -25,6 +25,6 @@ E essa junção de tanta coisa em apenas dez faixas jamais deixa _Wolfgang Amade
 
 ---
 
-_Wolfgang Amadeus Phoenix_ (2009, Phoenix).Loyauté / Glassnote. 37min. O álbum está disponível no  [Spotify](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW). Você pode comprá-lo no iTunes.
+_Wolfgang Amadeus Phoenix_ (2009, Phoenix). Loyauté/Glassnote. 37min. O álbum está disponível no  [Spotify](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW). Você pode comprá-lo no iTunes.
 
 {% include spotify.html url="https://embed.spotify.com/?uri=spotify%3Atrack%3A7zkDEBSxkcBVsStS4qBFpK" %}
