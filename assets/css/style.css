@@ -313,6 +313,14 @@ a.linkedin .fa {
     margin-bottom: 3rem;
 }
 
+.post-ad {
+  margin-bottom: 3rem;
+
+  iframe {
+    margin: 0 auto;
+  }
+}
+
 .post-content {
     font-size: 1.313rem;
     line-height: 1.619;
