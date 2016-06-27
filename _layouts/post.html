@@ -54,6 +54,10 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-date">
+    <i class="fa fa-calendar-o"></i> {{ page.date | date: "%d/%m/%Y" }}
+  </div>
+
   <div class="post-ad">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- PCM, bloco nos posts -->
@@ -65,10 +69,6 @@ layout: default
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-  </div>
-
-  <div class="post-date">
-    <i class="fa fa-calendar-o"></i> {{ page.date | date: "%d/%m/%Y" }}
   </div>
 </article>
 
