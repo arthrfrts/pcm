@@ -38,3 +38,5 @@ Vendo hoje, quase dez anos após a série ter sido cancelada, _Gilmore Girls_ é
 Claro, _Gilmore Girls_ não é a melhor série já feita. São vários os problemas. É uma série da temporada “baixa” de um canal aberto na TV americana. Não é um bom precedente em 2000, quando a HBO estava começando a fazer as séries que mudariam tudo, anos depois. _Gilmore Girls_ tem sérios problemas de direção e de ritmo, e a atuação de Alexis Bledel é sofrível (ela melhorou muito depois). Mesmo assim, com as centenas de incertezas e péssimas escolhas (a última temporada é quase impossível de assistir), há algo no meio de _Gilmore Girls_ que ainda é imperdível: um carinho gigantesco pelas personagens, e um cuidado que ainda é pouco visto na TV pelas pequenas histórias da vida. Após acabar sua maratona, não duvido que você não vá fazer como eu e recomeçar _Gilmore Girls_ logo em seguida.
 
 É, eu sei como é. Eu nunca mais vou deixar Stars Hollow.
+
+_Você pode assistir **Gilmore Girls** no [Netflix](https://www.netflix.com/title/70155618) ou [comprar os DVDs](https://redir.lomadee.com/s/90cc8bda)._
