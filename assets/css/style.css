@@ -236,6 +236,18 @@ blockquote p {
   height: auto;
 }
 
+.post-image figcaption {
+  font-size: 1rem;
+  color: #948e85;
+  position: absolute;
+  bottom: .5rem;
+  left: .5rem;
+  background-color: rgba(0, 161, 133,.6);
+  padding: .2rem;
+  color: #FFFFFF;
+  font-style: italic;
+}
+
 .post-image,
 .post-video {
     margin: 0 -5% 1.5rem -5%;
