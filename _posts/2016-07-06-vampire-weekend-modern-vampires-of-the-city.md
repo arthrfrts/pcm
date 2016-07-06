@@ -9,7 +9,7 @@ category: 'Músicas'
 name: "Modern Vampires of the City"
 ---
 
-> É daqueles álbuns que começam e terminam sendo bons.
+> É daqueles álbuns que começam e terminam sendo muito bons.
 
 O Vampire Weekend sempre foi uma banda conhecida por sua música excêntrica e divertida. Eles são uma banda pop, afinal de contas. Eles rimam “horchata” com “balaclava”. Eles gostam de brincar.
 
