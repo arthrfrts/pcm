@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Random Access Memories</em> não reinventa um gênero, mas redescobre o Daft Punk'
 number: '#8'
-image: assets/images/posts/random-access-memories.jpg
+image: /assets/images/posts/random-access-memories.jpg
 description: 'O duo francês encontrou no álbum vencedor do Grammy sua mais perfeita definição musical.'
 author: arthrfrts
 category: 'Músicas'

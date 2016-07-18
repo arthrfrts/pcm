@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Modern Vampires of the City</em> é daquele tipo espontâneo de música boa'
 number: '#39'
-image: assets/images/posts/modern-vampires-of-the-city.jpg
+image: /assets/images/posts/modern-vampires-of-the-city.jpg
 description: 'Depois de querer brincar e experimentar com absolutamente tudo, o Vampire Weekend finalmente olha para dentro.'
 author: arthrfrts
 category: 'Músicas'

@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Wolfgang Amadeus Phoenix</em> diverte pra sempre'
 number: '#34'
-image: assets/images/posts/wolfgang-amadeus-phoenix.jpg
+image: /assets/images/posts/wolfgang-amadeus-phoenix.jpg
 description: 'O melhor álbum do Phoenix é, também, a busca deles de alcançar o pop perfeito.'
 author: arthrfrts
 category: 'Músicas'

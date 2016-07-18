@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Todos os Homens do Presidente</em> é cinema impecável'
 number: '#19'
-image: assets/images/posts/todos-os-homens-do-presidente.jpg
+image: /assets/images/posts/todos-os-homens-do-presidente.jpg
 description: 'Clássico dos anos 1970 mantém sua contemporalidade como um dos grandes filmes já feitos.'
 author: arthrfrts
 category: 'Filmes'

@@ -2,7 +2,7 @@
 layout: post
 title: 'Uma carta de amor a <em>Pokémon</em>'
 number: '#32'
-image: assets/images/posts/pokemon-20.jpg
+image: /assets/images/posts/pokemon-20.jpg
 description: 'Nos vinte anos de uma das maiores franquias dos jogos, nós declaramos nosso amor aos monstrinhos'
 author: arthrfrts
 category: 'Jogos'

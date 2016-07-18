@@ -2,7 +2,7 @@
 layout: post
 title: '<em>A House In California</em> é pequeno e perfeito'
 number: '#41'
-image: assets/images/posts/house-california.jpg
+image: /assets/images/posts/house-california.jpg
 description: 'Jogo dos criadores de Kentucky Route Zero mostrava, naquela época, o quão bons contadores de histórias eles são.'
 author: arthrfrts
 category: 'Jogos'

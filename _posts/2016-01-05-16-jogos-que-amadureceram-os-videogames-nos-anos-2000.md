@@ -2,7 +2,7 @@
 layout: post
 title: '16 jogos que amadureceram os videogames nos anos 2000'
 number: '#9'
-image: assets/images/posts/16-jogos.jpg
+image: /assets/images/posts/16-jogos.jpg
 description: 'De <em>The Sims</em> a <em>The Last of Us</em>, os anos 2000 nos apresentaram fascinantes jogos que mudaram nossa percepção de como jogar.'
 author: arthrfrts
 category: 'Listas'

@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Invocação do Mal 2</em> quase não assusta, mas também não tá aí pra isso'
 number: '#35'
-image: assets/images/posts/conjuring-2.jpg
+image: /assets/images/posts/conjuring-2.jpg
 description: 'A continuaçào do excelente filme de 2013 segue um caminho certeiro: o de causar medo, e não susto.'
 author: arthrfrts
 category: 'Filmes'

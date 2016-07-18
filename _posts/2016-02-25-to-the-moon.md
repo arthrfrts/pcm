@@ -2,7 +2,7 @@
 layout: post
 title: 'Em <em>To The Moon</em> você é a história de amor'
 number: '#29'
-image: assets/images/posts/to-the-moon.jpg
+image: /assets/images/posts/to-the-moon.jpg
 description: 'Jogo do estúdio independente Freebird Games permite você proporcionar, e vivenciar, uma história de amor'
 author: arthrfrts
 category: 'Jogos'
