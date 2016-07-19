@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Não há muito o que dizer sobre <em>Esperando Godot</em>'
+number: '#42'
+image: /assets/images/posts/esperando-godot.jpg
+description: 'Um homem, uma árvore e outro homem. Uma obra-prima.'
+author: arthrfrts
+category: 'Livros'
+name: Esperando Godot
+---
+
+> Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.
+
+Então, o post hoje talvez seja curto demais. Difícil eu te confirmar, mas acho que vai ser.
+
+A dica de hoje é um livro. Na verdade, é uma peça. Então, a dica é dupla.
+
+_Esperando Godot_. Você já leu? Se já leu, deve entender. Não tem muito o que ser dito, né? Na verdade, tem muito o que ser dito, mas é difícil. Deixa eu ver por onde começar.
+
+Bem. Tenho que começar por aqui: _Esperando Godot_ é uma obra-prima. Não tem outro jeito de falar. É estranho, porque tu termina o livro e simplesmente sente que essas últimas horas lendo ele (ele é bem curtinho) te fazem ter certeza de que, sim. Você estava com uma obra-prima nas mãos.
+
+O que te faz sentir isso? Bem, aí que é difícil de explicar. _Esperando Godot_ é diferente de tudo que você vai ler, mas também não é isso que mostra o seu poder. É algo que está ali dentro, escondido, pronto pra te pegar.
+
+Tá difícil. Deixa eu tentar de novo.
+
+_Esperando Godot_ é uma peça escrita por Samuel Beckett e encenada pela primeira vez em 1956. Na peça, nós acompanhamos Vladimir e Estragon, duas pessoas que estão, bem, esperando Godot. A peça é basicamente isso. É muito mais, também. _Esperando Godot_ é o principal trabalho do chamado “teatro do absurdo”.
+
+Bem. Definir o absurdo é, basicamente, definir _Esperando Godot_. O absurdo é, em termos leigos, o nome que a gente dá a duas forças intrinsicamente humanas: a de uma busca incessante de buscar o valor e o sentido dos acontecimentos da vida; e a nossa incrível incapacidade de nunca encontrar. Agora, tente imaginar o que é sentir isso nas quase duzentas páginas de _Godot_. É, é exatamente assim que eu me senti.
+
+Eu poderia passar parágrafos e parágrafos aqui tentando te explicar todos os sentimentos, interpretações e dinâmicas que eu explorei ao ler _Esperando Godot_. Tudo seria completamente desnecessário, porque só de eu imaginar em escrever isso, tudo perde a força. O que eu posso, seguramente, te recomendar é que a leitura de _Esperando Godot_ pode não mudar sua vida, mas certamente vai te acordar. Nem que seja naquele tempo da leitura.
+
+O que eu posso te dizer com certeza é que, nessas quase duzentas páginas, _Esperando Godot_ me quebrou. Ele não é confuso, ele não é difícil, ele não é previsível, ele não é fácil. _Esperando Godot_ ignora completamente qualquer classificação que eu queira dar pra ele. É, como o absurdo no qual foi escrito, uma verdadeira força. Ele me destruiu em vários pedaços, os escondeu e me fez procurar. É a experiência mais única que eu tive. Eu jamais vou esquecer. Ainda bem que Godot não chegou ainda, porque eu quero ficar esperando ele por muito tempo.
+
+_Esperando Godot tem uma belíssima edição da Cosac Naify. [Aproveita enquanto a Amazon ainda tem](https://www.amazon.com.br/Esperando-Godot-Samuel-Beckett-ebook/dp/B00S8LNH6W/ref=sr_1_1?ie=UTF8&qid=1468905370&sr=8-1&keywords=esperando+godot)._
