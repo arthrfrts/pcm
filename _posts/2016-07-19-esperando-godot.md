@@ -23,7 +23,7 @@ O que te faz sentir isso? Bem, aí que é difícil de explicar. _Esperando Godot
 
 Tá difícil. Deixa eu tentar de novo.
 
-_Esperando Godot_ é uma peça escrita por Samuel Beckett e encenada pela primeira vez em 1956. Na peça, nós acompanhamos Vladimir e Estragon, duas pessoas que estão, bem, esperando Godot. A peça é basicamente isso. É muito mais, também. _Esperando Godot_ é o principal trabalho do chamado “teatro do absurdo”.
+_Esperando Godot_ é uma peça escrita por Samuel Beckett e encenada pela primeira vez em 1953. Na peça, nós acompanhamos Vladimir e Estragon, duas pessoas que estão, bem, esperando Godot. A peça é basicamente isso. É muito mais, também. _Esperando Godot_ é o principal trabalho do chamado “teatro do absurdo”.
 
 Bem. Definir o absurdo é, basicamente, definir _Esperando Godot_. O absurdo é, em termos leigos, o nome que a gente dá a duas forças intrinsicamente humanas: a de uma busca incessante de buscar o valor e o sentido dos acontecimentos da vida; e a nossa incrível incapacidade de nunca encontrar. Agora, tente imaginar o que é sentir isso nas quase duzentas páginas de _Godot_. É, é exatamente assim que eu me senti.
 
