@@ -50,7 +50,7 @@ h4,
 h5,
 h6 {
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
+    font-weight: 800;
     margin: 0;
     word-wrap: break-word;
 }
@@ -278,7 +278,7 @@ blockquote p {
 .hentry__number {
     color: #948e85;
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
+    font-weight: 800;
     letter-spacing: .06em;
     margin: 0;
 }
@@ -358,7 +358,7 @@ a.linkedin .fa {
     color: #34495e;
     font-family: 'Raleway', sans-serif;
     font-style: italic;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 @media screen and (min-width: 40em) {
