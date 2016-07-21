@@ -277,7 +277,7 @@ blockquote p {
 
 .hentry__number {
     color: #948e85;
-    font-family: Montserrat, sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 700;
     letter-spacing: .06em;
     margin: 0;
@@ -356,7 +356,7 @@ a.linkedin .fa {
 
 .post-content blockquote:first-child {
     color: #34495e;
-    font-family: Montserrat, sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
     font-style: italic;
     font-weight: 700;
 }
@@ -489,7 +489,7 @@ input[type="text"] {
   width: 100%;
   display: block;
   color: #44413c;
-  font-family: Vollkorn, serif;
+  font-family: 'Crimson Text', serif;
   font-size: 1.313rem;
   line-height: 1.619;
   font-weight: 400;
@@ -504,6 +504,6 @@ input[type="text"] {
 }
 
 .pagination {
-  font-family: Montserrat, sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
   font-weight: 700;
 }
