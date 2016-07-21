@@ -37,7 +37,7 @@ title : Novas dicas pro café, todos os dias.
     <span class="previous--grid">&times; Dicas anteriores</span>
   {% endif %}
   <span class="page_number pages--grid">{{ paginator.page }} de {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
+  {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="next--grid">Próximas dicas »</a>
   {% else %}
     <span class="next--grid">Próximas dicas &times;</span>
