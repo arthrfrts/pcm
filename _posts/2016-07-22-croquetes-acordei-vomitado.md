@@ -29,4 +29,4 @@ _Acordei Vomitado_ não é, porém, bairrista, como muito do rock gaúcho me inc
 
 E, eu não sei vocês, mas eu acordo vomitado mais vezes do que eu gostaria. Finalmente uma música dá justiça a isso.
 
-_Acordei Vomitado está disponível no [YouTube](https://www.youtube.com/watch?v=3E-4-q7m4Rw). Escute mais da banda no [Bandcamp](https://oscroquetes.bandcamp.com/)_
+_Acordei Vomitado está disponível no [YouTube](https://www.youtube.com/watch?v=3E-4-q7m4Rw). Escute mais da banda no [Bandcamp](https://oscroquetes.bandcamp.com/)_.
