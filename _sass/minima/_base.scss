@@ -8,28 +8,38 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+html {
+  font-size: 62.5%;
+}
 
-
-/**
- * Basic styling
- */
-body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
+* {
+  box-sizing: border-box;
 }
 
 
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
+// Basic styling
+body {
+  font-family: $base-font-family;
+  font-weight: $base-font-weight;
+  line-height: $base-line-height;
+  font-size: $base-font-size;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+}
+
+hr {
+  width: 100%;
+  margin: $spacing-unit 0;
+  border: none;
+  height: .1rem;
+  background-color: $border-color;
+}
+
+// Vertical rhythm.
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -37,162 +47,179 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
-
-/**
- * Images
- */
+// Images
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  vertical-align: middle;
+  max-width: 100%;
 }
 
+.post-content {
+  img {
+    width: 110%;
+    margin-left: -5%;
 
+    @include media-query($on-laptop) {
+      width: 100%;
+      margin-left: 0;
+    }
+  }
+}
 
-/**
- * Figures
- */
-figure > img {
+// Figures
+figure {
+  & > img {
     display: block;
-}
+  }
 
-figcaption {
+  figcaption {
     font-size: $small-font-size;
+    font-style: italic;
+    color: $grey-color;
+  }
 }
 
-
-
-/**
- * Lists
- */
+// Lists
 ul, ol {
-    margin-left: $spacing-unit;
+  margin-left: $spacing-unit;
+}
+
+ul {
+  list-style: square;
+}
+
+ol {
+  list-style: decimal;
+
+  ol ol {
+    list-style: lower-roman;
+  }
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
 }
 
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+// Headings
+h1, h2, h3,
+h4, h5, h6 {
+  font-weight: 800;
+  font-family: $title-font-family;
 }
 
+// Links
+a:not(.site-logo) {
+  background: linear-gradient($background-color,$background-color), linear-gradient($background-color,$background-color), linear-gradient($brand-color,$brand-color);
+  background-size: .05em 1px,.05em 1px,1px 1px;
+  background-repeat: no-repeat,no-repeat,repeat-x;
+  text-shadow: .03em 0 $background-color, -.03em 0 $background-color, 0 .03em $background-color, 0 -.03em $background-color, .06em 0 $background-color, -.06em 0 $background-color, .09em 0 $background-color, -.09em 0 $background-color, .12em 0 $background-color, -.12em 0 $background-color, .15em 0 $background-color, -.15em 0 $background-color;
+  background-position: 0 95%,100% 95%,0 95%;
+  text-decoration: none;
+  color: $text-color;
+  transition: color 160ms ease, background 160ms ease, text-shadow 160ms ease;
 
-
-/**
- * Links
- */
-a {
+  &:hover {
     color: $brand-color;
-    text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+    text-shadow: none;
+    background: none;
+  }
 }
 
-
-
-/**
- * Blockquotes
- */
+// Blockquotes
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+  color: $grey-color-dark;
+  font-size: $base-font-size * 1.2;
+  padding-left: $spacing-unit / 2;
+  letter-spacing: .1rem;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+blockquote:first-child {
+  float: right;
+  width: 40%;
+  margin-right: -10%;
+  font-family: $title-font-family;
+  font-weight: 800;
+  display: inline;
+  background-color: $brand-color;
+  color: $background-color;
+  transform: rotate(-3deg);
+  margin-left: 1rem;
+  line-height: 1.4;
+  padding: 1rem ($spacing-unit / 2);
+
+  @include media-query($on-laptop) {
+    margin-right: 0;
+  }
+
+  @include media-query($on-palm) {
+    float: none;
+    display: block;
+    width: 100%;
+    transform: rotate(-1deg);
+    margin-left: 0;
+  }
 }
 
 
-
-/**
- * Code formatting
- */
+// Code
 pre,
 code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+  font-size: 1.6rem;
 }
 
 code {
-    padding: 1px 5px;
+  padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: auto;
+  padding: 8px 12px;
+  overflow-x: auto;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 
 
-/**
- * Wrapper
- */
+// Wrapper
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
 }
 
-
-
-/**
- * Clearfix
- */
 %clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 
-
-
-/**
- * Icons
- */
+// Icons
 .icon > svg {
-    display: inline-block;
-    vertical-align: middle;
+  display: inline-block;
+  vertical-align: middle;
 
-    path {
-        fill: $grey-color;
-    }
+  path {
+    fill: $grey-color;
+  }
 }
