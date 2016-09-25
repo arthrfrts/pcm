@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>Community</em> se despediu com uma das suas melhores temporadas'
-number: '#11'
+number: '11'
 image: /assets/images/posts/community.jpg
 description: 'Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer que você aprenda também.'
 author: arthrfrts
 category: 'Séries'
-name: "Community S06"
+product: "Community S06"
 ---
 
 Vamos a algumas verdades absolutas da TV: a última temporada de _The Wire_ é uma decepção; _Seinfield_ é uma das melhores comédias da TV, mas a idade pesa; _Community_ era uma das melhores coisas que vimos na televisão em suas três primeiras temporadas, mas nunca conseguiu retomar sua glória depois.

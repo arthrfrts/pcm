@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A Visita Cruel do Tempo
-number: '#3'
+number: '3'
 image: /assets/images/posts/visita-cruel.jpg
 description: Se você não tem o que ler nesse início de ano, quem sabe um livro para questionar justamente a passagem do tempo?
 author: arthrfrts
 category: 'Livros'
-name: "A Visita Cruel do Tempo"
+product: "A Visita Cruel do Tempo"
 ---
 
 Você gosta de ler contos? Contos são excelentes formas de narrativa, grandes o suficiente para eu me prender a um personagem, pequenos o suficiente pra nos deixar com água na boca. Então, eu não gostava de ler contos. E eu aprendi a gostar deles com um romance.

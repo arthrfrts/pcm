@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Viva instantes em <em>Iniciantes</em>'
-number: '#18'
+number: '18'
 image: /assets/images/posts/iniciantes.jpg
 description: 'Os primeiros contos de Raymond Carver vão levar você para outras vidas.'
 author: arthrfrts
 category: 'Livros'
-name: "Iniciantes"
+product: "Iniciantes"
 ---
 
 Eu julgo livros pela capa. Desculpa, mãe, mas é verdade. Eu evito, por exemplo, de comprar livros com as capas dos filmes inspirados neles. Quando eu não estou lendo meus livros, eles ficam na minha estante — e as capas deles deixam ela mais bonita.

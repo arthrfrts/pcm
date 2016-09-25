@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>Animal Crossing: New Leaf</em> vai vender sua alma para reformar sua casa'
-number: '#15'
+number: '15'
 image: /assets/images/posts/animal-crossing-new-leaf.jpg
 description: 'O charmoso jogo da Nintendo vai acompanhar sua vida.'
 author: arthrfrts
 category: 'Jogos'
-name: "Animal Crossing: New Leaf"
+product: "Animal Crossing: New Leaf"
 ---
 
 Eu comprei meu Nintendo 3DS em junho de 2013 com o único propósito de jogar o remake de _The Legend of Zelda: Ocarina of Time_. É um dos meus jogos favoritos, e poder jogá-lo num console de novo era um sonho. Quando eu comprei o 3DS, porém, tinham acabado de lançar um jogo que estava rasgando elogios. Fui lá e comprei.

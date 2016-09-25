@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Apaixone-se e perca-se comigo em <em>Betty Blue</em>'
-number: '#16'
+number: '16'
 image: /assets/images/posts/betty-blue.jpg
 description: 'Sinta o desejo e a perdição de Zorg e de Betty nesse fascinante filme.'
 author: arthrfrts
 category: 'Filmes'
-name: "Betty Blue"
+product: "Betty Blue"
 ---
 
 Tem algo de estranho e mágico no vento do cinema. Não é um vento normal. Quando “vemos” ele batendo no rosto dos personagens que estamos seguindo há uma hora, uma hora e meia, nós sentimos algo diferente.

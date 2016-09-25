@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>Her Story</em> é estranho, porém único'
-number: '#20'
+number: '20'
 image: /assets/images/posts/her-story.jpg
 description: 'Uma narrativa interativa, Her Story desenvolve a atenção do jogador mais que sua jogabilidade.'
 author: arthrfrts
 category: 'Jogos'
-name: "Her Story"
+product: "Her Story"
 ---
 
 _Her Story_ é um jogo que valoriza a atenção de seu jogador. Não sua persistência ou insistência, não a habilidade. Não é fácil prosseguir, após um tempo, não porque você não é habilidoso o suficiente, mas porque você _não prestou atenção suficiente_.

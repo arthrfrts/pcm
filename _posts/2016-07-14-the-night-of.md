@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>The Night Of</em> é insuportável de linda'
-number: '#40'
+number: '40'
 image: /assets/images/posts/night-of.jpg
 description: 'Preparem-se: essa pode ser a nova grande série policial.'
 author: arthrfrts
 category: 'Séries'
-name: The Night Of
+product: The Night Of
 ---
 
 > Será essa a melhor série de 2016?

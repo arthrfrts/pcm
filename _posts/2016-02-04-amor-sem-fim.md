@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>Amor sem fim</em> é um mistério sobre as razões do amor'
-number: '#23'
+number: '23'
 image: /assets/images/posts/amor-sem-fim.jpg
 description: 'Ian McEwan consegue tornar até a paixão em algo macabro.'
 author: arthrfrts
 category: 'Livros'
-name: "Amor sem fim"
+product: "Amor sem fim"
 ---
 
 Qual o mistério de _Amor sem fim_?

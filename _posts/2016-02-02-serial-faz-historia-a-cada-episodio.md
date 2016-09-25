@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>Serial</em> faz história a cada episódio'
-number: '#21'
+number: '21'
 image: /assets/images/posts/serial.jpg
 description: 'O melhor podcast já feito, Serial, é um modo único de analisar uma história.'
 author: arthrfrts
 category: 'Links'
-name: "Serial"
+product: "Serial"
 ---
 
 > _Serial_ é o podcast definitivo.

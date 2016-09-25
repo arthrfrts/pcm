@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'A herança de <em>Peanuts</em>, uma das grandes obras literárias do último século'
-number: '#12'
+number: '12'
 image: /assets/images/posts/peanuts.jpg
 description: 'Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).'
 author: arthrfrts
 category: 'HQs'
-name: "Peanuts"
+product: "Peanuts"
 ---
 
 > Peanuts é sobre como os sonhos podem nunca se tornar realidade.

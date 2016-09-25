@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>Todos os Homens do Presidente</em> é cinema impecável'
-number: '#19'
+number: '19'
 image: /assets/images/posts/todos-os-homens-do-presidente.jpg
 description: 'Clássico dos anos 1970 mantém sua contemporalidade como um dos grandes filmes já feitos.'
 author: arthrfrts
 category: 'Filmes'
-name: "Todos os Homens do Presidente"
+product: "Todos os Homens do Presidente"
 ---
 
 Thrillers processuais. Talvez um dos meus estilos de filme favoritos. _Todos os Homens do Presidente_ talvez seja o melhor deles.

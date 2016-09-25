@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Em um dia de despedida, <em>Cópia Fiel</em> se torna necessário'
-number: '#38'
+number: '38'
 image: /assets/images/posts/copia-fiel.jpg
 description: 'O maior diretor do nosso tempo partiu ontem, com 76 anos. Esse é um post com uma dica, mas na verdade é uma despedida.'
 author: arthrfrts
 category: 'Filmes'
-name: "Cópia Fiel"
+product: "Cópia Fiel"
 ---
 
 > Adeus, Kiarostami. Foi uma honra.

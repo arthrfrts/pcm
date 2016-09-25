@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Uma carta de amor a <em>Pokémon</em>'
-number: '#32'
+number: '32'
 image: /assets/images/posts/pokemon-20.jpg
 description: 'Nos vinte anos de uma das maiores franquias dos jogos, nós declaramos nosso amor aos monstrinhos'
 author: arthrfrts
 category: 'Jogos'
-name: "Pokémon"
+product: "Pokémon"
 ---
 
 _Pokémon_ fez vinte anos nesse último sábado, dia 27. Fazia anos que eu não enxia meus olhos com tantos dos monstrinhos de bolso que eu sempre amei.

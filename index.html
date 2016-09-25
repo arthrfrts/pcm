@@ -4,11 +4,27 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">A dica do dia</h1>
+
+  {% for post in site.posts limit: 1 %}
+
+  <figure class="post-card lastest-post">
+    <a href="{{ post.url }}"><img src="{{ post.image }}" alt="{{ post.product }}" /></a>
+    <figcaption class="post-info">
+      <span class="post-meta">#{{ post.number }} &middot; {{ post.category }}</span>
+
+      <h2><a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.product }}</a></h2>
+
+      <span class="post-date">{{ post.date | date: "%-d/%m/%Y" }}</span>
+    </figcaption>
+  </figure>
+
+  {% endfor %}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts offset: 1 %}
       <li>
+        <img src="{{ post.image }}" alt="{{ post.title }}" />
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
