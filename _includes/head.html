@@ -1,0 +1,20 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  {% if page.title %}
+  <title>{{ page.title | strip_html | escape }}</title>
+  {% else %}
+  <title>{{ site.title }}</title>
+  {% endif %}
+  {% if page.excerpt %}
+  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" />
+  {% else %}
+  <meta name="description" content="{{ site.description }}" />
+  {% endif %}
+
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Charter:400,700,400i,700i/Lato:300,700,700i" />
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl | prepend: site.url | escape }}" />
+  <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="Feeds – {{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
+</head>
