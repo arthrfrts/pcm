@@ -1,45 +1,23 @@
 ---
 layout: default
-title : Novas dicas pro café, todos os dias.
 ---
 
-<form method="get" id="site_search">
-  <input autofocus placeholder="Busca por qualquer coisa (título, tipo da dica, gênero), daí aperta Enter" type="text" id="search_box" name="search_box" />
-</form>
+<div class="home">
 
-<div class="grid" id="search_results">
-  {% for post in paginator.posts %}
-  {% assign author = site.data.authors[post.author] %}
-    <article class="hentry--grid">
-      <a href="{{ post.url }}">
-        <div class="hentry--summary">
-          <div class="hentry__number">{% if post.number %}{{ post.number }} • {% endif %}{{ post.category }}</div>
-          <h2 class="hentry__title">{{ post.name }}</h2>
-          {% if author %}
-            <div class="byline vcard">
-              por <span class="fn">{{ author.name }}</span>
-            </div>
-          {% endif %}
-        </div>
-        <div class="hentry--image" style="background-image: url({{ post.image | prepend: site.baseurl | prepend: site.url }})">
-          <!-- {{ post.image | prepend: site.baseurl | prepend: site.url }} -->
-        </div>
-      </a>
-    </article>
-  {% endfor %}
-</div>
+  <h1 class="page-heading">Posts</h1>
 
-<!-- Pagination links -->
-<div class="grid pagination">
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="previous--grid">« Dicas anteriores</a>
-  {% else %}
-    <span class="previous--grid">&times; Dicas anteriores</span>
-  {% endif %}
-  <span class="page_number pages--grid">{{ paginator.page }} de {{ paginator.total_pages }}</span>
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="next--grid">Próximas dicas »</a>
-  {% else %}
-    <span class="next--grid">Próximas dicas &times;</span>
-  {% endif %}
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>

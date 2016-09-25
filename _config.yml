@@ -1,7 +1,7 @@
 encoding: UTF-8
 
 title: Pão com Mortadela
-url: 'http://paomortadela.com.br'
+# url: 'http://paomortadela.com.br'
 baseurl: ''
 description: >
   Todos os dias uma sugestão de livro, filme, música, série, jogo ou link. Sempre uma coisa boa, pra deixar seu dia melhor, mais divertido e mais ~cult~.
@@ -25,6 +25,8 @@ exclude:
 
 paginate: 8
 paginate_path: '/pagina:num'
+
+theme: minima
 
 gems:
   - jekyll-sitemap
