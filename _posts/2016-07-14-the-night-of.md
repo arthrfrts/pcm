@@ -2,7 +2,7 @@
 layout: post
 title: '<em>The Night Of</em> é insuportável de linda'
 number: '40'
-image: /assets/images/posts/night-of.jpg
+image: night-of.jpg
 description: 'Preparem-se: essa pode ser a nova grande série policial.'
 author: arthrfrts
 category: 'Séries'
@@ -21,7 +21,7 @@ _The Night Of_ possui oito episódios e se começa na noite em que Naz, um desce
 
 Isso é uma parte do primeiro, e irretocável, episódio de _The Night Of_. Se desenvolvendo de forma devagar, como um bom romance policial, a série não se apressa em revelar detalhes ou em exibir grandes cenas de ação. Pelo contrário. Boa parte de “The Beach”, o piloto, trata da vida de Naz, como ele é tratado nos Estados Unidos que ele nasceu mas que não se sente parte, cheio de disparidades raciais, étnicas e de classes. A Manhattan de _The Night Of_ é hostil e sombria. As vezes até selvagem. Ela lembra um pouco _The Wire_. Parece que você pode respirar o vento da noite.
 
-{% include image.html url="/assets/images/posts/nightof.jpg" caption="Essa é uma das séries mais bonitas da TV." alt="Imagem da série. Cortesia HBO." %}
+{% include image.html url="/assets/images/covers/nightof.jpg" caption="Essa é uma das séries mais bonitas da TV." alt="Imagem da série. Cortesia HBO." %}
 
 E _The Night Of_ é mais comparável a _The Wire_ que _True Detective_ justamente pela maturidade que ele apresenta. Olha como a série usa o suspense e a tensão muito mais pra mostrar seus personagens presos em sistemas que os forçam a fazer escolhas questionáveis, ao invés de ir pro lado do suspense de impacto, da surpresa. Com o decorrer do primeiro episódio, Naz vai desaparecendo atrás de um pesado sistema judicial, ficando preso naquilo que fala. Caralho, ele vai se ferrar feio.
 

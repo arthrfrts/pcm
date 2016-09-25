@@ -2,7 +2,7 @@
 layout: post
 title: 'O Fluid quer ajudar você a se divertir enquanto trabalha'
 number: '33'
-image: /assets/images/posts/fluid.jpg
+image: fluid.jpg
 description: 'Um navegador semitransparente onde a gente pode ver uma série enquanto escreve aquele post pro 🍞.'
 author: arthrfrts
 category: 'Links'
