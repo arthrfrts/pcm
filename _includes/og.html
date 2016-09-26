@@ -1,0 +1,33 @@
+<!-- Twitter exclusive markup -->
+<meta name="twitter:site" content="@{{ site.contact.twitter }}" />
+<meta name="twitter:card" content="summary_large_image" />
+{% if page.author %}
+{% assign author = site.data.authors[page.author] %}
+<meta name="twitter:creator" content="@{{ author.twitter }}" />
+<meta name="og:article:author" content="{{ author.name }}" />
+{% else %}
+<meta name="twitter:creator" content="@{{ site.contact.twitter }}" />
+{% endif %}
+
+<!-- Open Graph generic markup -->
+{% if page.title %}
+{% if page.semantic_title %}
+<meta property="og:title" content="{{ page.title | strip_html }}" />
+{% else %}
+<meta property="og:title" content="{{ page.title | strip_html }}" />
+{% endif %}
+<meta property="og:type" content="article" />
+{% else %}
+<meta property="og:title" content="{{ site.title }}" />
+<meta property="og:type" content="website" />
+{% endif %}
+{% if page.description %}
+<meta property="og:description" content="{{ page.description | strip_html | strip_newlines }}" />
+{% else %}
+<meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | prepend: '/assets/images/covers/' | prepend: site.baseurl | prepend: site.url }}" />
+{% else %}
+<meta property="og:image" content="{{ '/assets/images/default.jpg' | prepend: site.baseurl | prepend: site.url }}" />
+{% endif %}
