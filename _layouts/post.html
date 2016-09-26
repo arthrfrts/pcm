@@ -1,125 +1,56 @@
 ---
 layout: default
 ---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-{% assign author = site.data.authors[page.author] %}
-
-<article class="hentry single">
-  <header class="post-info">
-    {% if page.image %}
-    <figure class="post-image" style="background-image: url({{ page.image | prepend: site.baseurl }});">
-      <!-- {{ page.image }} -->
-    </figure>
-    {% endif %}
-
-    <div class="hentry__number">
-      {% if page.number %}{{ page.number }} • {% endif %}{{ page.category }}
-    </div>
-
-    <h1 class="hentry__title">
-      <a href="{{ page.url }}" title="Compartilhe a dica de {{ page.name }}">{{ page.title }}</a>
-    </h1>
-
-    {% if page.description %}
-    <div class="post-description">
-      {{ page.description }}
-    </div>
-    {% endif %}
-
-    <p class="byline vcard">
-      por <span class="fn">{{ author.name }}</span>
-      {% if author.web %}
-      <a href="{{ author.web }}" title="Ver o site de {{ author.name }}" class="url"><i class="fa fa-bookmark"></i></a>
-      {% endif %}
-      {% if author.twitter %}
-      <a href="https://twitter.com/{{ author.twitter }}" title="{{ author.name }} no Twitter" class="url twitter"><i class="fa fa-twitter"></i></a>
-      {% endif %}
-    <p>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-excerpt">(#{{ page.number }} &middot; {{ page.category }}) {{ page.description }}</p>
   </header>
 
-  <div class="post-content">
+  <hr />
+
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  <div class="post-date">
-    <i class="fa fa-calendar-o"></i> {{ page.date | date: "%d/%m/%Y" }}
-  </div>
+  <footer class="post-meta">
+    {% assign author = site.data.authors[page.author] %}
+    <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d/%m/%Y" }}</time> &middot; <span class="post-author" itemprop="name">{{ author.name }} <a class="icon" href="https://twitter.com/{{ author.twitter }}">{% include icon-twitter.svg %}</a></span>
+  </footer>
 
-  <div class="post-ad">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- PCM, bloco nos posts -->
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="ca-pub-6140421780025442"
-         data-ad-slot="5277256622"
-         data-ad-format="auto"></ins>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-  </div>
+  <nav class="post-list">
+    {% if page.previous.url %}
+    {% assign author = site.data.authors[page.previous.author] %}
+    <figure class="post-card latest-post">
+      <a href="{{ page.previous.url | prepend: site.baseurl }}"><img src="{{ page.previous.image | prepend: '/assets/images/covers/' | prepend: site.baseurl }}" alt="{{ page.previous.product }}" /></a>
+      <figcaption class="post-info">
+        <span class="post-meta">Sugestão anterior</span>
+
+        <h2><a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}">{{ page.previous.product }}</a></h2>
+
+        <span class="post-meta">{{ page.previous.category }}</span>
+      </figcaption>
+    </figure>
+    {% endif %}
+
+    {% if page.next.url %}
+    {% assign author = site.data.authors[page.next.author] %}
+    <figure class="post-card latest-post">
+      <a href="{{ page.next.url | prepend: site.baseurl }}"><img src="{{ page.next.image | prepend: '/assets/images/covers/' | prepend: site.baseurl }}" alt="{{ page.next.product }}" /></a>
+      <figcaption class="post-info">
+        <span class="post-meta">Próxima sugestão</span>
+
+        <h2><a class="post-link" href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.product }}</a></h2>
+
+        <span class="post-meta">{{ page.next.category }}</span>
+      </figcaption>
+    </figure>
+    {% endif %}
+  </nav>
+
+
+  {% if site.disqus %}
+    {% include disqus_comments.html %}
+  {% endif %}
 </article>
-
-{% if site.disqus %}
-<div class="comments">
-  <div id="disqus_thread"></div>
-
-  <script type="text/javascript">
-  var disqus_shortname = '{{ site.disqus }}';
-  (function() {
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</div>
-{% endif %}
-
-<nav class="navigation grid post--navigation">
-  {% if page.previous.url %}
-  {% assign author = site.data.authors[page.previous.author] %}
-  <article class="hentry--grid">
-    <a title="Sugestão anterior: {{ page.previous.name }}" href="{{ page.previous.url }}">
-
-      <div class="hentry--summary">
-        <div class="hentry__number">
-          <i class="fa fa-arrow-left"></i> Sugestão anterior
-        </div>
-
-        <h2 class="hentry__title">{{ page.previous.name }}</h2>
-
-        {% if author %}
-        <div class="byline vcard">
-          por <span class="fn">{{ author.name }}</span>
-        </div>
-        {% endif %}
-      </div>
-      <div class="hentry--image" style="background-image: url({{ page.previous.image }})">
-        <!-- {{ page.previous.image }} -->
-      </div>
-    </a>
-  </article>
-  {% endif %}
-
-  {% if page.next.url %}
-  {% assign author = site.data.authors[page.next.author] %}
-  <article class="hentry--grid">
-    <a title="Próxima sugestão: {{ page.next.name }}" href="{{ page.next.url }}">
-
-      <div class="hentry--summary">
-        <div class="hentry__number"><i class="fa fa-arrow-right"></i> Próxima sugestão</div>
-        <h2 class="hentry__title">{{ page.next.name }}</h2>
-        {% if author %}
-        <div class="byline vcard">
-          por <span class="fn">{{ author.name }}</span>
-        </div>
-        {% endif %}
-      </div>
-
-      <div class="hentry--image" style="background-image: url({{ page.next.image | prepend: site.baseurl | prepend: site.url }})">
-        <!-- {{ page.next.image }} -->
-      </div>
-    </a>
-  </article>
-  {% endif %}
-</nav>

@@ -1,33 +1,29 @@
 <footer class="site-footer">
-  <div class="colophon">
-    <p class="about">{{ site.description }}</p>
 
-    <div class="license">
-      <a href="{{ site.url }}/">{{ site.title }}</a>
-      &middot; Todos os direitos dos textos são reservados aos respectivos autores.
-      &middot; <a href="{{ 'humans.txt' | prepend: site.baseurl }}">humans.txt</a><br />
-      Feito com amor pelo <a href="http://arthr.me/" rel="designer">Arthur</a>.
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li><a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
+          <li>Esse site foi feito pelo <a href="https://arthr.me/" role="designer">Arthr</a>.</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li><a href="https://twitter.com/{{ site.contact.twitter }}">Twitter</a></li>
+          <li><a href="https://www.facebook.com/{{ site.contact.facebook }}">Facebook</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p><a href="https://tinyletter.com/paomortadela">Assine nossa newsletter</a> quinzenal e receba sugestões exclusivas e mais brindes!</p>
+      </div>
     </div>
+
   </div>
 
-  <ul class="contact">
-    {% if site.contact.email %}
-    <li>
-      <a href="mailto:{{ site.contact.email }}" class="email"><i class="fa  fa-envelope-o fa-2x"></i></a>
-    </li>
-    {% endif %}
-    {% if site.contact.twitter %}
-    <li>
-      <a href="https://twitter.com/{{ site.contact.twitter }}" class="twitter"><i class="fa fa-twitter fa-2x"></i></a>
-    </li>
-    {% endif %}
-    {% if site.contact.facebook %}
-    <li>
-      <a href="https://www.facebook.com/{{ site.contact.facebook }}" class="facebook"><i class="fa fa-facebook-f fa-2x"></i></a>
-    </li>
-    {% endif %}
-    <li>
-      <a href="{{ site.url }}/feed.xml" class="rss"><i class="fa fa-rss  fa-2x"></i></a>
-    </li>
-  </ul>
 </footer>

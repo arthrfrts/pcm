@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '<em>Her Story</em> é estranho, porém único'
-number: '#20'
-image: /assets/images/posts/her-story.jpg
+number: '20'
+image: her-story.jpg
 description: 'Uma narrativa interativa, Her Story desenvolve a atenção do jogador mais que sua jogabilidade.'
 author: arthrfrts
 category: 'Jogos'
-name: "Her Story"
+product: "Her Story"
 ---
 
 _Her Story_ é um jogo que valoriza a atenção de seu jogador. Não sua persistência ou insistência, não a habilidade. Não é fácil prosseguir, após um tempo, não porque você não é habilidoso o suficiente, mas porque você _não prestou atenção suficiente_.
@@ -21,7 +21,7 @@ Aqui, o mistério da morte de um trabalhador de uma vidraçaria é mantido apena
 
 O mais fascinante de _Her Story_, porém, é entender justamente que dificilmente dois jogadores irão costurar a narrativa da mesma forma, e valorizar isso. Por vezes soando falso, as vezes realmente emocionante ([diferente da Polygon](http://www.polygon.com/a/game-of-the-year-2015/her-story-game-of-the-year-2015-polygon), nosso [jogo do ano](os-melhores-de-2015.html) também se baseia simplesmente em uma voz), _Her Story_ é sempre frustrante, mas também sempre recompensador e surpreendente. Ao final de uma narrativa que você mesmo decide desvendar, o mais triste é que não haverá mais nada para descobrir.
 
-{% include image.html url="assets/images/posts/her-story-ilustracao.jpg" alt="Imagem do jogo" title="Viva Steifert, atriz principal do jogo" %}
+{% include image.html url="assets/images/covers/her-story-ilustracao.jpg" alt="Imagem do jogo" title="Viva Steifert, atriz principal do jogo" %}
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Por Uma Vida Melhor
-number: '#5'
-image: /assets/images/posts/por-uma-vida-melhor.jpg
+number: '5'
+image: por-uma-vida-melhor.jpg
 description: No filme mais simples, e mais charmoso, de Sam Mendes, nós finalmente conhecemos pessoas bacanas.
 author: arthrfrts
 category: 'Filmes'
-name: "Por Uma Vida Melhor"
+product: "Por Uma Vida Melhor"
 ---
 
 > Poxa, quantos personagens legais assim a gente vê no cinema ou na TV?

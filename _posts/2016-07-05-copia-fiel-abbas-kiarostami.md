@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 'Em um dia de despedida, <em>Cópia Fiel</em> se torna necessário'
-number: '#38'
-image: /assets/images/posts/copia-fiel.jpg
+number: '38'
+image: copia-fiel.jpg
 description: 'O maior diretor do nosso tempo partiu ontem, com 76 anos. Esse é um post com uma dica, mas na verdade é uma despedida.'
 author: arthrfrts
 category: 'Filmes'
-name: "Cópia Fiel"
+product: "Cópia Fiel"
 ---
 
 > Adeus, Kiarostami. Foi uma honra.
@@ -25,7 +25,7 @@ A gente pode divagar muito sobre os temas que _Cópia Fiel_ cobre a partir daí,
 
 Dava pra recomendar outros, talvez melhores, mais premiados filmes de Abbas Kiarostami. O diretor mais importante da história do cinema iraniano possui obras-primas como _Gosto de Cereja_, uma ode à vida em forma de elegia como poucas vezes o cinema nos trouxe; _Dez_, um dos retratos mais únicos das relações sociais no Irã; a inebriante trilogia composta por _Onde Fica a Casa do Meu Amigo?_, _O Vento nos Levará_ e _Através das Oliveiras_; ou a jornada pelo filme, e pelo Irã, com _Close-up_. Kiarostami trabalhava nesse seu cinema de relações com as ligações que conectam seus personagens, seus temas ou seus lugares com o espectador. Todos eles são gratificantes. Poucos deles, porém, são tão claros quanto _Cópia Fiel_ em seu objetivo.
 
-{% include image.html url="assets/images/posts/copia-fiel-ela.jpg" alt="Imagem do filme “Cópia Fiel”" caption="Juliette Binoche, como Ela." %}
+{% include image.html url="assets/images/covers/copia-fiel-ela.jpg" alt="Imagem do filme “Cópia Fiel”" caption="Juliette Binoche, como Ela." %}
 
 O fato é que poucos diretores no cinema buscaram dar ao espectador uma voz. Claro, o cinema não aceita respostas, mas Abbas Kiarostami era um diretor único que permitia a seus filmes serem completados por aqueles que os assistiam. Quando andamos pelas ruas com os dois personagens de _Cópia Fiel_, nós podemos questionar, junto a eles, os enigmas que envolvem não só a arte, mas também o amor. Os filmes de Kiarostami foram sempre retratos tão lindos da vida por exibir que, como eles, a vida é algo que desvendamos ser cada vez mais rica, estranha, e até mesmo confusa. A vida é uma eterna reflexão de nós mesmos com aquilo que nos liga ao mundo, e foi uma honra poder ter a oportunidade de ser ligado a um mundo incrível, enigmático, mas sempre fascinante que era aquele que Kiarostami nos proporcionava.
 

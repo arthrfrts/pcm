@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Cinco coisas (que você não conferiu) pra terminar bem 2015
-number: '#2'
-image: /assets/images/posts/45-anos.jpg
+number: '2'
+image: 45-anos.jpg
 description: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para você terminar bem esse ano.
 author: arthrfrts
 category: 'Listas'
-name: "5 de 2015"
+product: "5 de 2015"
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.

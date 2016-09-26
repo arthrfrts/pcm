@@ -1,11 +1,16 @@
-<header class="site-header">
-  {% if page.title %}
-  <span class="site-title">
-    <a href="{{ site.url }}" title="Voltar pra página inicial">{{ site.title }}</a>
-  </span>
-  {% else %}
-  <h1 class="site-title">
-    <a href="{{ site.baseurl }}" title="Lar doce lar">{{ site.title }}</a>
-  </h1>
-  {% endif %}
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    {% assign custom_url = site.url | append: site.baseurl %}
+    {% assign full_base_url = site.github.url | default: custom_url %}
+    <a class="site-logo" href="{{ full_base_url }}/">
+      <img src="{{ '/assets/images/torradinha.gif' | prepend: full_base_url }}" />
+    </a>
+    <span class="site-title">
+      <a href="{{ full_base_url }}/">{{ site.title }}</a>
+    </span>
+
+  </div>
+
 </header>
