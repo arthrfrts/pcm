@@ -53,18 +53,6 @@ img {
   max-width: 100%;
 }
 
-.post-content {
-  img {
-    width: 110%;
-    margin-left: -5%;
-
-    @include media-query($on-laptop) {
-      width: 100%;
-      margin-left: 0;
-    }
-  }
-}
-
 // Figures
 figure {
   & > img {
@@ -110,9 +98,9 @@ h4, h5, h6 {
 }
 
 // Links
-a:not(.site-logo) {
+a:not(.site-logo):not(.icon) {
   background: linear-gradient($background-color,$background-color), linear-gradient($background-color,$background-color), linear-gradient($brand-color,$brand-color);
-  background-size: .05em 1px,.05em 1px,1px 1px;
+  background-size: .05em .1rem,.05em .1rem,.1rem .1rem;
   background-repeat: no-repeat,no-repeat,repeat-x;
   text-shadow: .03em 0 $background-color, -.03em 0 $background-color, 0 .03em $background-color, 0 -.03em $background-color, .06em 0 $background-color, -.06em 0 $background-color, .09em 0 $background-color, -.09em 0 $background-color, .12em 0 $background-color, -.12em 0 $background-color, .15em 0 $background-color, -.15em 0 $background-color;
   background-position: 0 95%,100% 95%,0 95%;
@@ -175,17 +163,47 @@ code {
 }
 
 code {
-  padding: 1px 5px;
+  padding: .1rem .5rem;
 }
 
 pre {
-  padding: 8px 12px;
+  padding: .8rem 1.2rem;
   overflow-x: auto;
 
   > code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
+  }
+}
+
+// Select
+::selection {
+  background-color: $brand-color;
+  text-shadow: none;
+  color: $background-color;
+}
+
+::-moz-selection {
+  background-color: $brand-color;
+  text-shadow: none;
+  color: $background-color;
+}
+
+// Videos
+.video-wrapper {
+  margin-bottom: $spacing-unit;
+  overflow: hidden;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 }
 
@@ -217,9 +235,15 @@ pre {
 // Icons
 .icon > svg {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: -.2rem;
 
   path {
-    fill: $grey-color;
+    fill: $border-color;
+  }
+
+  &:hover {
+    path {
+      fill: $text-color;
+    }
   }
 }
