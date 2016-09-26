@@ -17,13 +17,12 @@ layout: null
 
 # SPECIAL THANKS
 
-    Seu Felipe -- http://seufelipe.com.br/ -- original design and code
     Raul Fontoura -- http://raulranma.tumblr.com -- graphic art and illustrations
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    HTML5 Boilerplate, jQuery, Jekyll
+    Jekyll
     Atom, GitHub
 
     Source: https://github.com/arthrfrts/pcm
