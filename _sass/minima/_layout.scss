@@ -157,6 +157,16 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+
+    .banner {
+      margin: $spacing-unit 0 $spacing-unit -5%;
+      width: 110%;
+
+      @include media-query($on-palm) {
+        width: 100%;
+        margin: $spacing-unit 0;
+      }
+    }
 }
 
 .post-title {
