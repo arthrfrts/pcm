@@ -13,12 +13,15 @@
   <meta name="description" content="{{ site.description }}" />
   {% endif %}
 
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i|Raleway:800,800i" />
-  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i|Raleway:600,600i,800,800i" />
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}" />
   <link rel="canonical" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="alternate" type="application/rss+xml" title="Feeds – {{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
-  <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-  <script src="{{ '/js/infinite-jekyll.js' | prepend: site.baseurl }}"></script>
+  <script
+			  src="http://code.jquery.com/jquery-1.12.4.js"
+			  integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
+			  crossorigin="anonymous"></script>
+  <script src="{{ '/assets/js/jquery.jscroll.js' | prepend: site.baseurl }}"></script>
 
   {% include og.html %}
 

@@ -17,7 +17,8 @@ contact:
   twitter: paomortadela
 
 markdown: kramdown
-permalink: /:title.html
+permalink: /:slug.html
+paginate: 5
 
 theme: minima
 

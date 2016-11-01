@@ -304,39 +304,40 @@
 }
 
 /**
- * Infinite Scroll
+ * Pagination links
  */
- .infinite-spinner {
-   display: block;
-   width: 40px;
-   height: 40px;
-   border-radius: 40px;
-   background-color: #333;
-   margin: 60px auto;
 
-   -webkit-animation: scaleout 1.0s infinite ease-in-out;
-   animation: scaleout 1.0s infinite ease-in-out;
- }
+ .pagination {
+   clear: both;
+   padding-top: $spacing-unit * 2;
 
- @-webkit-keyframes scaleout {
-   0% { -webkit-transform: scale(0.0) }
-   100% {
-     -webkit-transform: scale(1.0);
-     opacity: 0;
+   .pagination-link {
+     display: block;
+     width: 100%;
+     font-family: $title-font-family;
+     font-size: $small-font-size * .9;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+     font-weight: 600;
+     padding-top: $spacing-unit;
+     text-align: center;
+     border-top: 3px solid $text-color;
+
+     &:link {
+       transition: all 300ms ease;
+     }
+
+     &:hover {
+       border-top: 3px solid $brand-color;
+     }
+
+     &.deactivated {
+       font-style: italic;
+       color: $grey-color;
+
+       &:hover {
+         border-top: 3px solid $text-color;
+       }
+     }
    }
- }
-
- @keyframes scaleout {
-   0% {
-     transform: scale(0.0);
-     -webkit-transform: scale(0.0);
-   } 100% {
-     transform: scale(1.0);
-     -webkit-transform: scale(1.0);
-     opacity: 0;
-   }
- }
-
- #post-card {
-   display: none;
  }
