@@ -18,11 +18,13 @@ layout: null
 # SPECIAL THANKS
 
     Raul Fontoura -- http://raulranma.tumblr.com -- graphic art and illustrations
+    Philip Klauzinski -- http://klauzinski.com/ -- jScroll
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     Jekyll
     Atom, GitHub
+    JQuery, JScroll
 
     Source: https://github.com/arthrfrts/pcm
