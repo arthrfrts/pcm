@@ -3,90 +3,33 @@
 ---
 @charset "utf-8";
 
+// Fonts
 $base-font-family: 'Crimson Text', serif;
 $title-font-family: 'Raleway', sans-serif;
-$base-font-size: 18px;
+$base-font-size: 1.8rem;
+$base-font-weight: 400;
 $base-line-height: 1.7;
+
+$small-font-size: $base-font-size * .875;
 
 // Colors
 $text-color: #242423;
 $brand-color: #f5cb5c;
 $background-color: #f2efea;
 $border-color: #cfdbd5;
-
 $grey-color: lighten($text-color, 60%);
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark: darken($grey-color, 90%);
 
 // Width of the content area
 $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-
-/* Grid system
- * Based on the work by Aleksandar Goševski
- */
-
- @mixin row() {
-   font-size: 0;
-   white-space: nowrap;
- }
-
- @mixin col($col, $sum, $align: top) {
-   width: 100%;
-   float: none;
-   font-size: $base-font-size;
-   box-sizing: border-box;
-   white-space: normal;
-
-   @media (min-width: $on-palm) {
-     width: percentage($col/$sum);
-     vertical-align: $align;
-     float: left;
-   }
-}
+$spacing-unit: 3rem;
 
 // Import partials from the `minima` theme.
-@import "minima";
-
-.infinite-spinner {
-  display: block;
-  width: 40px;
-  height: 40px;
-  border-radius: 40px;
-  background-color: #333;
-  margin: 60px auto;
-
-  -webkit-animation: scaleout 1.0s infinite ease-in-out;
-  animation: scaleout 1.0s infinite ease-in-out;
-}
-
-@-webkit-keyframes scaleout {
-  0% { -webkit-transform: scale(0.0) }
-  100% {
-    -webkit-transform: scale(1.0);
-    opacity: 0;
-  }
-}
-
-@keyframes scaleout {
-  0% {
-    transform: scale(0.0);
-    -webkit-transform: scale(0.0);
-  } 100% {
-    transform: scale(1.0);
-    -webkit-transform: scale(1.0);
-    opacity: 0;
-  }
-}
-
-#post-card {
-  display: none;
-}
+@import
+  "mixins",
+  "base",
+  "layout";

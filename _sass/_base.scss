@@ -99,19 +99,13 @@ h4, h5, h6 {
 
 // Links
 a:not(.site-logo):not(.icon) {
-  background: linear-gradient($background-color,$background-color), linear-gradient($background-color,$background-color), linear-gradient($brand-color,$brand-color);
-  background-size: .05em .1rem,.05em .1rem,.1rem .1rem;
-  background-repeat: no-repeat,no-repeat,repeat-x;
-  text-shadow: .03em 0 $background-color, -.03em 0 $background-color, 0 .03em $background-color, 0 -.03em $background-color, .06em 0 $background-color, -.06em 0 $background-color, .09em 0 $background-color, -.09em 0 $background-color, .12em 0 $background-color, -.12em 0 $background-color, .15em 0 $background-color, -.15em 0 $background-color;
-  background-position: 0 95%,100% 95%,0 95%;
-  text-decoration: none;
+  text-decoration: underline $brand-color;
+  -webkit-text-decoration: underline $brand-color;
   color: $text-color;
-  transition: color 160ms ease, background 160ms ease, text-shadow 160ms ease;
+  transition: color 160ms ease;
 
   &:hover {
     color: $brand-color;
-    text-shadow: none;
-    background: none;
   }
 }
 

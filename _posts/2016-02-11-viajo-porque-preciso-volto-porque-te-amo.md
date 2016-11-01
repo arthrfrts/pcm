@@ -6,7 +6,7 @@ image: viajo-porque-preciso-volto-porque-te-amo.jpg
 description: 'O filme de estrada de Karim Aïnouz e Marcelo Gomes talvez seja o mais brasileiro dos filmes.'
 author: arthrfrts
 category: 'Filmes'
-product: "Viajo Porque Preciso, Volto Porque Te Amo"
+product: "Viajo Porque Preciso,<br /> Volto Porque Te Amo"
 ---
 
 > Todo o casamento é perfeito, até que acaba.
