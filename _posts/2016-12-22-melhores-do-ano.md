@@ -15,12 +15,6 @@ Pra fechar esse ano, então, vamos pra nossa listinha dos cinco melhores do ano?
 
 Vamos começar?
 
-1. _O Coração é um caçador solitário_
-2. _Aquarius_
-3. _Halt & Catch Fire_
-5. _Firewatch_
-4. _Lemonade_
-
 ## 5. O melhor álbum: _Lemonade_.
 
 {% include video.html url="https://www.youtube.com/embed/LrCHz1gwzTo" %}
