@@ -2,13 +2,11 @@
 
   <div class="wrapper">
 
-    {% assign custom_url = site.url | append: site.baseurl %}
-    {% assign full_base_url = site.github.url | default: custom_url %}
-    <a class="site-logo" href="{{ full_base_url }}/">
-      <img src="{{ '/assets/images/torradinha.gif' | prepend: full_base_url }}" />
+    <a class="site-logo" href="{{ absolute_url }}/">
+      <img src="{{ '/assets/images/torradinha.gif' | absolute_url }}" />
     </a>
     <span class="site-title">
-      <a href="{{ full_base_url }}/">{{ site.title }}</a>
+      <a href="{{ absolute_url }}/">{{ site.title }}</a>
     </span>
 
   </div>
