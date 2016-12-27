@@ -1,6 +1,5 @@
 ---
 number: 48
-date: 2016-12-27
 layout: post
 category: Listas
 image: pcm-expectativa-2017.jpg
