@@ -125,6 +125,21 @@
 }
 
 .post-list {
+  > .post-card:first-child {
+    display: none;
+  }
+}
+
+.jscroll-added {
+  .post-list {
+    > .post-card:first-child {
+      display: block;
+    }
+  }
+}
+
+
+.post-list {
     margin-left: 0;
     list-style: none;
 
