@@ -1,5 +1,6 @@
 ---
 number: 48
+date: 2017-01-02 09:00:00
 layout: post
 category: Listas
 image: pcm-expectativa-2017.jpg
@@ -13,7 +14,7 @@ Olá, e boas vindas a 2017! Se tá lendo isso, é porque tu provavelmente está 
 
 De qualquer forma, estamos aqui. Ainda bem! O :bread: volta em 2017 com uma nova abordagem, mais condizente com aquilo que vimos ano passado através das nossas estatísticas. Parece sério? Nem é tanto assim. A gente percebeu em 2016 que o nosso site é mais acessado de manhã, e quando eu falo “manhã” é, na verdade, _cedo da manhã_. Nosso pico de acesso geralmente se concentra às 9h, o que dá pra entender: é quando nossos leitores chegam no trabalho ou estão matando ~aquela~ aulinha (ei, isso aqui é uma zona livre de julgamentos).
 
-O :bread: esse ano vai funcionar a partir do que observamos. Nossos posts irão pro ar de segunda a sexta às 8h. Elas também serão dicas menores, e não os longos textos que estávamos publicando ultimamente. Isso porque a gente sabe que aquela hora de entrar no trabalho e pegar um café não é mais tão longa quanto foi ultimamente, e não queremos que tu arranje encrenca. Não se preocupe, a gente ainda vai publicar textos maiores, agora aos sábados, quando tu pode ficar um pouco mais de tempo na cama lendo a gente no Kindle (<3 Instapaper). Então, coloque na agenda: todos os dias, às 8h, tem dica nova por aqui; sábado sim, sábado não tem _Exposição_, nossa nova coluna com uma dica maior: as vezes são listas de coisas, as vezes é um ensaio sobre aquilo que a gente anda assistindo e amando.
+O :bread: esse ano vai funcionar a partir do que observamos. Nossos posts irão pro ar de segunda a sexta às 8h. As dicas vão ser menores, porque a gente sabe que o tempo de chegar no trabalho e tomar aquele café antes de começar a rotina diminuiu. Então de segunda a quinta você terá uma dica breve e na sexta um postzinho maior, que chamamos de _Exposição_, onde podemos entrar mais a fundo na dica do dia.
 
 Lembrando que a gente continua aceitando sugestões, podem nos enviar lá pelo [Twitter](https://twitter.com/paomortadela) ou por [email](padeiros@paomortadela.com.br). A gente vai adorar.
 
@@ -45,7 +46,7 @@ Seja como for, _Peanuts Completo_ é um conjunto da obra. Não só o conteúdo �
 
 {% include spotify.html url="https://embed.spotify.com/?uri=spotify%3Atrack%3A4w2iAP3X4FkpPb5kjRdIDx" %}
 
-O The xx trabalha devagar, e eu não tenho nenhum problema com isso. Com um debut excelente com _[xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz)_ e um retorno com _[Coexist](https://open.spotify.com/album/2cRMVS71c49Pf5SnIlJX3U)_, o The xx não já mostrou seu estilo como se mostrou capaz de explorá-lo. E, pelo que a gente pode perceber com “On Hold” (acima), eles estão prontos pra seguir em frente.
+O The xx trabalha devagar, e eu não tenho nenhum problema com isso. Com um debut excelente com _[xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz)_ e um retorno com _[Coexist](https://open.spotify.com/album/2cRMVS71c49Pf5SnIlJX3U)_, o The xx não só já mostrou seu estilo como também se mostrou capaz de explorá-lo. E, pelo que a gente pode perceber com “On Hold” (acima), eles estão prontos pra seguir em frente.
 
 Não temos previsão pra quando o novo do trio vai chegar, mas o The xx diz que será “em breve”. Seja como for, os dias de desespero deles (_xx_) e de medo (_Coexist_) mudaram. Como parecem indicar com “On Hold”, o The xx parece tentar deixar-se levar, porque o destino não é nada mais que uma desilusão. Pode soar melancólico e um pouco pessimista, mas depois de um ano como 2016, o terceiro álbum do The xx parece ser aquilo que precisamos pra nos abraçar, acalmar e nos empurrar pra frente.
 
@@ -55,7 +56,7 @@ Não temos previsão pra quando o novo do trio vai chegar, mas o The xx diz que 
 
 {% include video.html url="https://www.youtube.com/embed/1rPxiXXxftE" %}
 
-Não só [a maior fila da história da E3](http://www.polygon.com/e3/2016/6/15/11948622/legend-of-zelda-breath-of-the-wild-e3-line), superando o antigo detentor da façanha (Wii, também da Nintendo, em 2006), _The Legend of Zelda: Breath of the Wild_ é o jogo mais esperado do ano: o primeiro — e, provavelmente, último — jogo da série para Wii U, e o jogo de abertura pro novo [Switch](https://youtu.be/f5uik5fgIaI); uma aventura Zelda inédita em seis anos; e **tá tudo absurdamente lindo**.
+Não só [a maior fila da história da E3](http://www.polygon.com/e3/2016/6/15/11948622/legend-of-zelda-breath-of-the-wild-e3-line), superando o antigo detentor da façanha (o Wii, também da Nintendo, em 2006), _The Legend of Zelda: Breath of the Wild_ é o jogo mais esperado do ano: o primeiro — e, provavelmente, último — jogo da série para Wii U, e o jogo de abertura pro novo [Switch](https://youtu.be/f5uik5fgIaI); uma aventura Zelda inédita em seis anos; e **tá tudo absurdamente lindo**.
 
 Depois de décadas sendo (inclusive ainda é) parâmetro de cópias para qualquer jogo de ação-aventura por aí, _The Legend of Zelda_ finalmente se dispôs a olhar pra concorrência. Com _Breath of the Wind_, a Nintendo busca a inspiração nos grandiosos _The Elder Scrolls_ e _The Witcher 3: Wild Hunt_ para trazer Hyrule, o reino de Zelda, em toda a sua glória em um imenso mundo aberto. Aonuma, o designer do jogo, diz que a narrativa desse novo capítulo será muito como o dos jogos antigos da série: um conto de destruição e ruína, e de rendição. O que muda: dessa vez, as missões são feitas na ordem que o jogador quer — e ele pode terminar a narrativa do jogo sem sequer visitar sessões do mapa. Vendo a grandiosidade do lugar, eu não duvido que eu não visite alguns lugares por ali.
 
