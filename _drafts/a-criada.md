@@ -1,0 +1,25 @@
+---
+layout: post
+number: 59
+title: 'Não tem alma, mas <em>A Criada</em> é um dos melhores filmes do ano.'
+image: a-criada-2016.jpg
+product: A Criada
+category: Filmes
+description: Novo filme do diretor de <em>Oldboy</em> é uma baita duma jornada onde a própria jornada é mais importante do que quem a faz.
+---
+
+“Caramba”, eu pensava direto. “Eu não acredito”. Eu fiquei assim pelo que, um terço do filme? _A Criada_ me deixava de queixo caído direto.
+
+Considerando que o filme não esconde violência e sexo com nenhum pudor (inclusive gosta de misturar os dois), é incrível que não sejam as imagens que me embasbacaram em _A Criada_, e sim a história. Quando eu cheguei na metade, e o filme já tinha me surpreendido me mostrando até onde ele estava disposto a me levar, ele simplesmente salta pra uma outra coisa — e me leva junto.
+
+Filmes assim geralmente não me agradam muito. O que eu gosto de ver no cinema (e, basicamente, em qualquer história) são os personagens. Eu gosto de acompanhar esses personagens, de viver aquela jornada com eles. _A Criada_ tá muito mais interessado na tragetória em si, e não se importa muito com os personagens. É um elenco grande, e que pouco a pouco vão sendo deixados de lado enquanto a história segue em frente.
+
+Mas que história. _A Criada_ se passa na Coréia nos anos 1930. Lá, um vigarista contrata uma ladra para ser a criada de uma jovem e misteriosa herdeira de uma farta herança com os planos de fazer a herdeira se apaixonar pelo homem e, assim, roubarem a herança dela. Os planos começam a dar errado quando a mulher se apaixona pela sua nova criada. E aí o escambau.
+
+{% include video.html url="https://www.youtube.com/embed/PexFjAVFEhQ" %}
+
+_A Criada_ perde a “alma”, digamos assim, porque não me faz me preocupar muito com o futuro das pessoas que o filme acompanha. Ele se preocupa muito mais, e me fez me interessar muito mais, onde aquela intricada história ia desembocar. Os irmãos Coen, diretores de filmes como _Fargo: Uma Comédia de Erros_ e _Onde Os Fracos Não Têm Vez_, conseguem dosar muito o seu cuidado com os personagens e as suas histórias, que geralmente desembocam em tramas onde os erros das pessoas se transformam em verdadeiros castigos. Chan-wook Park só consegue alcançar isso com a personagem principal (a criada do título), mas quando sua história é tão maravilhosa e deslumbrante quanto esse filme aqui, tá tudo bem. Em um filme lindo, em que o diretor nos pega pela mão corre, pula e se diverte tanto na montanha-russa de sensações que um filme desses proprociona, meu único porém é que eu não queria que ele acabasse.
+
+---
+
+**A Criada** (_아가씨_, 2016) está nos cinemas. É um dos favoritos pro Oscar de Filme em Língua Estrangeira, então prepare-se pro bafafá cedo e corre pra ver. Não sei se é uma boa fazer que nem eu e levar sua mãe pra assistir.
