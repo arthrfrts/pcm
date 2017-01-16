@@ -1,0 +1,84 @@
+---
+layout: post
+number: 65
+author: arthrfrts
+title: Os cinco melhores jogos do Nintendo 3DS.
+image: 3ds-top-5.jpg
+product: Top 5 3DS
+category: Jogos
+description: Com o Nintendo 3DS chegando ao fim da sua vida (oi, Switch!), nós decidimos ver quais os cinco melhores jogos na vida desse que talvez seja o último portátil da Nintendo.
+---
+
+Semana passada a Nintendo finalmente abriu o bico em relação ao seu novo videogame, o Switch: um híbrido entre console de mesa e portátil, que vai lançar com o novo (e que eu quero muito) _The Legend of Zelda: Breath of the Wind_.
+
+O Switch não é um portátil Nintendo — a empresa especifica que é um videogame de mesa, antes de tudo —, mas é impossível prever se o 3DS continuará nos planos da Nintendo (ela diz que sim) depois do lançamento do videogame que sucede o [maior fracasso](http://www.eurogamer.net/articles/2016-11-04-the-wii-u-a-failure-far-from-it) da empresa na história.
+
+Então, talvez pra nos despedirmos ou talvez como homenagem, decidimos fazer um ranking com os cinco melhores jogos do 3DS. Como todo o portátil da Nintendo, o 3DS sempre foi repleto de jogos estranhos — os portáreis ainda são os queridinhos do Japão. O DS e o 3DS, também, foram as plataformas que os desenvolvedores acabaram se dedicando em relação a Nintendo, quando a maioria deus às costas pro Wii e Wii U com o passar dos anos. Também, é difícil de disputar com uma empresa que desenvolva tão bem quanto a Nintendo, tem isso.
+
+Assim, os cinco melhores jogos do 3DS são da Nintendo. Longe de mim dizer que só os jogos dela são bons, a biblioteca de jogos do portátil é extensa, e eu não joguei tudo. Por isso, esse top 5 tem apenas dois critérios: eu precise iter jogado o jogo até o final (quando aplicado) e ele não pode ser um remake (embora eu, sinceramente, ache que _Ocarina of Time_ e _Majora's Mask_ tenham suas versões definitivas aqui).
+
+Enfim, antes de começarmos, vale considerar a quantidade de jogo bom do 3DS. Não entraram no top 10, e continuam sendo excelentes: _Super Smash Bros. for Nintendo 3DS_, _Professor Layton and the Azran Legacy_, _Monster Hunter 4_, _BoxboxBoy!_, _Braverly Seconds_, _Shovel Knight_ e _Luigi Mansion's 2_. E, já que todo mundo se perguntou, a primeira parte do top 10 é essa:
+
+10 - _Scribblenauts Unlimited_, o melhor jogo da série na plataforma perfeita pra ele.
+
+9 - _Fire Emblem Fates_, não é o melhor _Fire Emblem_ do 3DS, mas a audácia e a capacidade de contar uma história em três narrativas é fascinante e funciona muito bem.
+
+8 - _Professor Layton and the Miracle Mask_, eu amo Professor Layton e vou defendê-lo.
+
+7 - _Pokémon X/Y_, o melhor Pokémon desde _Pokémon Diamond/Pearl_, _X/Y_ entra de vez no 3D, e finalmente decide conectar os monstrinhos ao jogador.
+
+6 - _Bravely Default_, mostrando que, não importa o percalço, a Square ainda é a rainha do RPG japonês.
+
+E vamos começar:
+
+---
+
+{% include image.html url="/assets/images/covers/3ds-top-5-mario-kart-7.jpg" %}
+
+## 5. _Mario Kart 7_.
+
+Quando lançou, em 2011, _Mario Kart 7_ foi automaticamente clamado como o melhor _Mario Kart_ já feito (depois veio o _Mario Kart 8_ pro Wii U que trouxe o [Luigi Death Stare](https://youtu.be/C1Kv619FkaM), então obviamente…). Não é pra menos: _Mario Kart 7_ traz toda a criatividade da EAD Group (com a ajuda da Retro)  em pistas maravilhosas e com um senso de velocidade que a série ainda não havia experimentado antes. Pode ter envelhecido mal depois de _Mario Kart 8_, mas considerando que a sequência basicamente levou as inovações que esse aqui trouxe a outros patamares — depois de _7_ limpar a mecânica que _Double Dash_ e _Wii_ encheram ela de complexidade desnecessária — é mais uma prova de como _Mario Kart 7_ é revitalizante pra uma franquia tão copiada.
+
+---
+
+{% include image.html url="/assets/images/covers/3ds-top-5-fire-emblem-awakening.jpg" %}
+
+## 4. _Fire Emblem: Awakening_.
+
+_Fire Emblem_, a série de estratégia tática de guerra da Intelligent Systems, sempre retratou a brutalidade das decisões que são necessárias de se tomar durante a guerra. Com _Awakening_, o melhor jogo da série, _Fire Emblem_ leva as decisões a outro patamar com um elenco gigantesco de personagens altamente envolventes, ao mesmo tempo que revitaliza uma fórmula já consagrada com benvindas novidades que, ao mesmo tempo que homenageia todo o legado da série, dá uma visão excitante de como será o futuro de _Fire Emblem_ (e _Fates_ comprovou as promessas). _Awakening_ pode ser brutal, mas é profundamente emocionante e, como a guerra, devastador.
+
+---
+
+{% include image.html url="/assets/images/covers/3ds-top-5-a-link-between-worlds.jpg" %}
+
+## 3. _The Legend of Zelda: A Link Between Worlds_.
+
+Continuar _A Link to the Past_, um dos Zelda favoritos de todos os tempos (não pra mim, sou um tiete de _Ocarina of Time_ e _Skyward Sword_, mas entendo o amor), era uma tarefa no mínimo arriscada. Se inspirar no top-down que a série foi rápida em abandonar, também. _The Legend of Zelda: A Link Between Worlds_ não tinha (como nenhum Zelda, inclusive) um legado fácil de bater, mas olha só.
+
+A sofisticação do design que a Nintendo emprega em suas duas maiores séries é sem precedente nos jogos. _A Link Between Worlds_ é um exemplo perfeito: acessível para novos jogadores e incrivelmente complexo para os mais experientes, esse novo Zelda não é só o melhor jogo da série para um videogame portátil, mas também mostra uma coragem em inovar e brincar com os mecanismos que Zelda trouxe pela sua história de maneiras muito mais interessantes do que em qualquer capítulo nesses trinta anos. _A Link Between Worlds_ vive numa tela pequena mas é sem dúvidas um grande _The Legend of Zelda_, digno de seu legado.
+
+---
+
+{% include image.html url="/assets/images/covers/3ds-top-5-super-mario-3d-land.jpg" %}
+
+## 2. _Super Mario 3D Land_.
+
+Claro. Toda plataforma da Nintendo é casa de ao menos um grande jogo do _Super Mario_, a maior franquia dos jogos. E esse jogo, em troca, utiliza todos os recursos que o videogame tem à disposição do jogador. Com o 3DS oferecendo giroscópio e, bem, 3D, a EAD Group 1 tinha algumas novidades pra mostrar.
+
+E _Super Mario 3D Land_ não decepciona. Mostrando que a Nintendo ainda é a rainha dos jogos em plataforma, esse jogo explora todas as possibilidades do (na época novo) videogame da empresa. _Super Mario_ é sempre uma vitrine pras plataformas, mas antes disso sempre é um grande jogo. Em _3D Land_ a equipe do EAD Group 1 parece ter criado muito mais um baú de brinquedos e, em cada mundo, brinca com alguns deles. Pode não ter a coesão temática de _Super Mario 64_ ou _Super Mario Galaxy_, mas talvez esse seja justamente o trunfo desse que é um dos Marios mais divertidos: tentar brincar com tudo que pode. Só um mestre conseguiria, e sem dúvidas _Super Mario 3D Land_ conseguiu.
+
+---
+
+{% include image.html url="/assets/images/covers/3ds-top-5-animal-crossing-new-leaf.jpg" %}
+
+## 1. _Animal Crossing: New Leaf_.
+
+Eu sou suspeito pra falar de _Animal Crossing: New Leaf_, tanto que [já escrevi um post sobre meu amor por ele]({{ '/animal-crossing-new-leaf.html' | relative_url }}). Comprar _New Leaf_ representa ou a) a melhor escolha que você vai fazer na sua vida; ou b) a pior. Eu juro pra mim mesmo que é a primeira opção.
+
+_Animal Crossing: New Leaf_ é o primor dos jogos portáteis da Nintendo, e que justifica a existência de videogames portáteis. É uma experiência rica e recompensadora, que usa os sistemas de um videogame portátil muito bem — é, inclusive, a casa ideal da série _Animal Crossing_, que parece fora do lugar em videogames como o Wii. No 3DS, _Animal Crossing_ brilha como um jogo completo como pouquíssimos nessa geração conseguiram ser. Eu o jogo há quatro anos e ainda assim tem coisas pra eu descobrir, como todo o bom jogo que vive com você. Eu jogo ele todas as manhãs, as vezes na tardinha, e eu nunca me arrependo (eu acho? É muito carinho, mesmo, pra me arrepender agora).
+
+Por qual outro motivo eu me preocuparia com o que Bernard, meu vizinho cachorro, quer vestir. Eu já passei madrugadas coletando besouros pro meu Museu. Eu já planejei como seriam as obras públicas para que todos os meus vizinhos ficassem satisfeitos. _Animal Crossing: New Leaf_ requer a tua atenção sempre que tu pode dar (ainda bem que não é um jogo intrusivo, ou eu ia me irritar pra caramba), e o mais importante: ele requer teu carinho. Pra um jogo que eu jogo há tanto tempo, eu fico sempre impressionado o quão ele é vivo e recompensador, depois de todo esse tempo. O meu maior medo quando o Switch lançar é o que vai acontecer com meus vizinhos. Eu não vou poder deixar eles pra trás.
+
+---
+
+Todos os jogos estão disponíveis na Nintendo eShop.
