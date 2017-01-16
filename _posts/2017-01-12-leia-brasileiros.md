@@ -1,6 +1,7 @@
 ---
 layout: post
 number: 57
+author: arthrfrts
 title: <em>Leia Brasileiros</em>. É um pedido e uma dica.
 image: leia-brasileiros.jpg
 product: Leia Brasileiros

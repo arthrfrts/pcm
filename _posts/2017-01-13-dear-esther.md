@@ -1,6 +1,7 @@
 ---
 layout: post
 number: 58
+author: arthrfrts
 image: 'dear-esther-landmark-edition.jpg'
 title: Eu não queria sair da ilha de <em>Dear Esther</em>.
 product: Dear Esther
