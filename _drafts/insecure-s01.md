@@ -1,0 +1,26 @@
+---
+layout: post
+number: 66
+author: arthrfrts
+title: <em>Insecure</em> segue a onda de comédias  que mais parecem dramas.
+image: insecure.jpg
+product: Insecure (S01)
+category: Séries
+description: Nova série da HBO mantém os pés firmes no chão, não perde a piada mas também sabe exatamente onde bater.
+---
+
+As melhores séries dos últimos anos na HBO são sobre nada. Elas também não acontecem no primetime e têm 50 minutos por episódio. Elas normalmente vêm depois dos blockbusters, tem vinte e tantos minutos e são propagandeadas como comédias. Elas até podem ser engraçadas, mas elas são dolorosamente reais.
+
+Quando _Looking_ foi cancelada ano retrasado, parecia que a HBO estava cancelando de vez essa abordagem (_Togetherness_, também excelente, também foi cancelada pela mesma época). Mas daí em 2016 veio _Insecure_, talvez a melhor entre essas três séries.
+
+_Insecure_ segue Issa, uma mulher no final dos seus 20 sem muitos planos ou expectativas. Ela tem vontades do que fazer, mas não tem vontade de pôr em prática. Sim, parece bastante com _Looking_, mas _Insecure_ não é sobre gays em São Francisco, é sobre duas amigas negras, Issa e Molly, que estão insatisfeitas sobre onde a vida delas está indo. No limite pros 30, a insatisfação delas vira uma ânsia.
+
+{% include video.html url="https://www.youtube.com/embed/YdKqUMZi5-I" %}
+
+Falando assim até parece que tem uma trama, mas _Insecure_ parece deliciosamente uma série sobre nada, onde o que realmente importa é o que seus personagens sentem e como eles reagem ao que tá acontecendo ao redor. Era a melhor parte de _Looking_ e, graças a Issa Rae e Yvonne Orji — que estão excelentes como Issa e Molly —, também é a melhor parte de _Insecure_. Molly tenta encontrar um cara legal, mas todos andam sendo escrotos. Issa tá com medo de seguir sua vida com seu namorado Lawrence, que parece não ter um rumo nem um interesse de ter um rumo. E, assim, a série segue, com elas tomando decisões e absorvendo como Los Angeles enxerga elas (Issa e Molly, por exemplo, são as únicas mulheres negras em seus escritórios, e a forma como seus colegas encaram isso é vista com humor pela série, mas também com uma língua afiada).
+
+Mas sabe no que _Insecure_ arrasa durante esses oito episódios nessa temporada: em apresentar, e desconstruir, suas personagens principais. É a história de duas amigas que percebem que são egoístas, e como dói ser egoista. Issa e Molly tentam se transformar naquilo que querem ser, mas como dói quando elas precisam contar a verdade uma para a outra, mas principalmente o quanto dói ouvir essa verdade vindo de uma pessoa tão imperfeita quanto você. Issa e Molly compartilham uma das amizades mais realistas da TV hoje, e por isso sabem trazer a alegria desse relacionamento como poucos. Mas também sabem se destruir como ninguém.
+
+---
+
+**Insecure** (2016–, HBO) foi renovada para uma segunda temporada. A primeira temporada completa pode ser vista na [HBO GO](http://www.hbogo.com.br/).
