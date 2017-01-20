@@ -19,7 +19,7 @@ _La La Land – Cantando Estações_ começa já dizendo a que veio: em uma prim
 
 E dói ver? Dói, mas _La La Land_ vai mostrar isso com tanta empolgação, visitando um pouco de cada canto da história do gênero (e de filmes que alguma vez já se basearam nele) ao mesmo tempo que faz tudo com uma modernidade que o Chazelle, esse diretor novo mas talentosíssimo, fez com _Whiplash – Em Busca da Perfeição_.
 
-A câmera mergulha, os dançarinos voam, o trânsito vira música (em uma deliciosa sequência que lembra _Los Angeles Plays Itself_) e uma belíssima homenagem ao cinema acontece. Mas, no final de tanto malabarismo e reverência, _La La Land_ usa o mais básico artifício da linguagem cinematográfica: Mia e Sebastian se olham através de um salão cheio. Há um mundo todo ali entre eles, feitos de sonhos que existem só entre eles. Não é o suficiente, mas é mágico como poucos filmes são.
+A câmera mergulha, os dançarinos voam, o trânsito vira música (em uma deliciosa sequência que lembra _Los Angeles Plays Itself_) e uma belíssima homenagem ao cinema acontece. Mas, no final de tanto malabarismo e reverência, _La La Land_ usa o mais básico artifício da linguagem cinematográfica: Mia e Sebastian se olham através de um salão cheio. Há um mundo todo ali entre eles, feitos de sonhos que existem só pros dois. Não é o suficiente, mas é mágico como poucos filmes são.
 
 ---
 
