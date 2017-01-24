@@ -21,7 +21,7 @@ _Reflektor_ me soou muito estranho da primeira vez que eu ouvi. Depois de uma od
 
 {% include video.html url="https://www.youtube.com/embed/tBTTd0gfkn0" %}
 
-A paranoia que parece viciar as músicas de _Reflektor_ é a mesma que está entranhada em [_Ela_]({{ ela.html | absolute_url }}) (que a banda compôs a trilha-sonora junto com esse álbum, e que exibe a influência em faixas como “It's NeHey Orpheus” e “Supersymmetry”). É a de perceber como experimentamos o mundo de uma forma muito diferente daquela de 2009, quando lançaram _The Suburbs_: agora estamos sempre sozinhos, juntos. _Reflektor_ é um álbum que almeja grande, alcança sempre e nunca está satisfeito. O que só comprova, e promete, até onde o Arcade Fire consegue chegar.
+A paranoia que parece viciar as músicas de _Reflektor_ é a mesma que está entranhada em [_Ela_]({{ ela.html | absolute_url }}) (que a banda compôs a trilha-sonora junto com esse álbum, e que exibe a influência em faixas como “It's Never Over (Hey, Orpheus)” e “Supersymmetry”). É a de perceber como experimentamos o mundo de uma forma muito diferente daquela de 2009, quando lançaram _The Suburbs_: agora estamos sempre sozinhos, juntos. _Reflektor_ é um álbum que almeja grande, alcança sempre e nunca está satisfeito. O que só comprova, e promete, até onde o Arcade Fire consegue chegar.
 
 ---
 
