@@ -17,4 +17,4 @@ Ler _Orgulho e Preconceito_ é um ato de liberdade. É incrível como o livro vo
 
 ---
 
-**Orgulho e Preconceito** (Penguin-Companhia) é ótimo de ler. A versão da Penguin vem com notas bem interessantes, então recomendo comprá-la em [papel](http://click.linksynergy.com/fs-bin/click?id=vgrz3PzAsxY&subid=&offerid=397418.1&type=10&tmpid=19388&RD_PARM1=http%3A%2F%2Fwww.livrariacultura.com.br%2Fp%2Forgulho-e-preconceito-22612778) ou em [ebook](https://www.amazon.com.br/Orgulho-e-preconceito-Jane-Austen-ebook/dp/B009WVX8JI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1485482213&sr=8-5). E ler e reler e reler.
+**Orgulho e Preconceito** (Penguin-Companhia) é ótimo de ler. A versão da Penguin vem com notas bem interessantes, então recomendo comprá-la em [papel](http://click.linksynergy.com/fs-bin/click?id=vgrz3PzAsxY&subid=&offerid=397418.1&type=10&tmpid=19388&RD_PARM1=http%3A%2F%2Fwww.livrariacultura.com.br%2Fp%2Forgulho-e-preconceito-22612778) ou em [ebook](https://www.amazon.com.br/Orgulho-e-preconceito-Jane-Austen-ebook/dp/B009WVX8JI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1485482213&sr=8-5). E ler e reler e ler mais uma vez.
