@@ -16,7 +16,7 @@ De qualquer forma, estamos aqui. Ainda bem! O :bread: volta em 2017 com uma nova
 
 O :bread: esse ano vai funcionar a partir do que observamos. Nossos posts irão pro ar de segunda a sexta às 8h. As dicas vão ser menores, porque a gente sabe que o tempo de chegar no trabalho e tomar aquele café antes de começar a rotina diminuiu. Então de segunda a quinta você terá uma dica breve e na sexta um postzinho maior, que chamamos de _Exposição_, onde podemos entrar mais a fundo na dica do dia.
 
-Lembrando que a gente continua aceitando sugestões, podem nos enviar lá pelo [Twitter](https://twitter.com/paomortadela) ou por [email](padeiros@paomortadela.com.br). A gente vai adorar.
+Lembrando que a gente continua aceitando sugestões, podem nos enviar lá pelo [Twitter](https://twitter.com/paomortadela) ou por [email](email@arthr.me). A gente vai adorar.
 
 Então, pra começar o ano, vamos ver o que a gente tá mais empolgado pra ver, ouvir, jogar ou ler em 2017? Por favor, nos acompanhe nessa verdadeira lista de hype.
 

@@ -11,6 +11,6 @@ A gente criou o Pão com Mortadela em 2012, e depois de muitas mudanças a gente
 
 Quem somos nós, porém? Dois autores: o [Arthur](https://twitter.com/arthrfrts) e a [Thaiane](https://twitter.com/thaimandua). A gente não decide quem escreve sobre o quê, a gente só escreve, mesmo. A única regra é escrever só sobre aquilo que a gente gosta (ou seja, tu não vai encontrar posts falando mal de algo por aqui). O :bread: é pra pessoas que gostam de ver coisas novas, ouvir uma banda diferente ou conferir aquela série que o Netflix sugere, mas que tu tá com medo de se dedicar e ver que não é lá essas coisas. Se está no Pão com Mortadela, pode garantir que tem nosso selo de aprovação!
 
-Se você quer anunciar no site, nos avise. A gente procura sempre divulgar a marca do produto e deixar claro pro leitor que é um post patrocinado. Fale com a gente sobre anúncios, sugestões e pra enviar suas dicas, tudo no mesmo email: [padeiros@paomortadela.com.br](mailto:padeiros@paomortadela.com.br). A gente vai procurar responder em menos de um dia.
+Se você quer anunciar no site, nos avise. A gente procura sempre divulgar a marca do produto e deixar claro pro leitor que é um post patrocinado. Fale com a gente sobre anúncios, sugestões e pra enviar suas dicas, tudo no mesmo email: [email@arthr.me](mailto:email@arthr.me). A gente vai procurar responder em menos de um dia.
 
 É isso? Bora descobrir coisas novas? [Bora](http://paomortadela.com.br/).
