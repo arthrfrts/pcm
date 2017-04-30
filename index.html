@@ -41,7 +41,7 @@ layout: default
 
     <nav class="pagination wrapper">
       {% if paginator.next_page %}
-      <a class="next-page pagination-link" href="{{ paginator.next_page_path }}">Veja mais dicas</a>
+      <a class="next-page pagination-link" href="{{ paginator.next_page_path | prepend: site.url }}">Veja mais dicas</a>
       {% else %}
       <span class="next-page pagination-link deactivated"> &times; Isso é tudo pessoal!<br />(amanhã tem mais)<br />:bread:</span>
       {% endif %}
