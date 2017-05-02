@@ -23,6 +23,11 @@ paginate: 5
 theme: minima
 
 gems:
+  - jekyll-feed
   - jekyll-sitemap
   - jemoji
   - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

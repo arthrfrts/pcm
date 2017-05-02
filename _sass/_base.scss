@@ -103,11 +103,12 @@ h4, h5, h6 {
 
 // Links
 a:not(.site-logo):not(.icon) {
-  text-decoration: none;
   color: $text-color;
   transition: color 160ms ease;
   display: inline;
-  border-bottom: .1rem solid $brand-color;
+  text-decoration: underline;
+  text-decoration-color: $brand-color;
+  -webkit-text-decoration-color: $brand-color;
 
   &:hover {
     color: $brand-color;
