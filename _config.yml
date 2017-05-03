@@ -25,8 +25,8 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
-  - jemoji
   - jekyll-paginate
+  - jemoji
 
 exclude:
   - Gemfile
