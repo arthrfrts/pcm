@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'Não há muito o que dizer sobre <em>Esperando Godot</em>'
-number: '42'
+title: Não há muito o que dizer sobre <em>Esperando Godot</em>
+number: 42
 image: esperando-godot.jpg
-description: 'Um homem, uma árvore e outro homem. Uma obra-prima.'
+description: Um homem, uma árvore e outro homem. Uma obra-prima.
 author: arthrfrts
-category: 'Livros'
 product: Esperando Godot
+categories: Livros
+date: '2016-07-19T00:00:00.000+00:00'
 ---
 
 > Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.

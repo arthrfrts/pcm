@@ -1,12 +1,14 @@
 ---
 layout: post
-title: '<em>Kentucky Route Zero, Act IV</em> é desesperador'
-number: '43'
+title: "<em>Kentucky Route Zero, Act IV</em> é desesperador"
+number: 43
 image: kr04.jpg
-description: 'Depois de dois anos, o quarto ato de Kentucky Route Zero finalmente foi lançado. É excelente.'
+description: Depois de dois anos, o quarto ato de Kentucky Route Zero finalmente foi
+  lançado. É excelente.
 author: arthrfrts
-category: 'Jogos'
-product: 'Kentucky Route Zero Act IV'
+product: Kentucky Route Zero Act IV
+categories: Jogos
+date: '2016-07-21T00:00:00.000+00:00'
 ---
 
 > Kentucky Route Zero é uma tragédia. E todas as tragédias acabam do mesmo jeito.

@@ -5,8 +5,9 @@ author: arthrfrts
 title: Você nunca vai jogar nada como <em>The Entertainment</em>
 image: the-entertainment.jpg
 product: The Entertainment
-category: Jogos
-description: É uma peça. É um jogo. Sei lá o que é, mas é demais.
+description: "É uma peça. É um jogo. Sei lá o que é, mas é demais."
+categories: Jogos
+date: '2017-01-25T00:00:00.000+00:00'
 ---
 
 > Seja lá o que você acha que é, _The Entertainment_ é fantástico.

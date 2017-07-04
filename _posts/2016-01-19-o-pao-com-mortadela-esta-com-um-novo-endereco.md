@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'O Pão com Mortadela está com um novo endereço'
+title: O Pão com Mortadela está com um novo endereço
 image: pcm-novo-url.jpg
-description: 'O PCM agora é acessível pelo endereço <strong>paomortadela.com.br</strong>'
+description: O PCM agora é acessível pelo endereço <strong>paomortadela.com.br</strong>
 author: arthrfrts
-category: 'Editorial'
-product: "Casa nova!"
+product: Casa nova!
+categories: Editorial
+date: '2016-01-19T00:00:00.000+00:00'
 ---
 
 Como você deve ter percebido, a partir dessa semana o Pão com Mortadela passou a usar um endereço diferente. Nós não estamos mais sob os domínios da Shipe, que fechou as portas no início desse ano. Agora, o PCM é um veículo totalmente independente outra vez, e isso vem com algumas mudanças. :smile:

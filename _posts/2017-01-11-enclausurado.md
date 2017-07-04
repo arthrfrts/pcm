@@ -2,11 +2,12 @@
 layout: post
 number: 56
 author: arthrfrts
-title: <em>Enclausurado</em> é estranho pra caramba.
+title: "<em>Enclausurado</em> é estranho pra caramba."
 image: enclausurado-ian-mcewan.jpg
 description: Ian McEwan está manipulativo como sempre, mas divertido como nunca.
-category: Livros
 product: Enclausurado
+categories: Livros
+date: '2017-01-11T00:00:00.000+00:00'
 ---
 
 Nem sempre é fácil ler os livros de Ian McEwan. Seus primeiros beiravam ao sórdido, como o marcante _O Jardim de Cimento_. Depois, ficaram extremamente introspectivos, como _Amsterdam_ ou, mais furiosamente, _Sábado_. Seu livro anterior, _A Balada de Adam Henry_, flertava com muita coisa, e nem sempre conseguia entregar um bom desenvolvimento pra tudo. E daí agora tem _Enclausurado_, que é uma loucura.

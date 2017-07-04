@@ -2,11 +2,12 @@
 layout: post
 number: 69
 author: arthrfrts
-title: <em>Reflektor</em> é diferente de tudo o que o Arcade Fire já fez.
+title: "<em>Reflektor</em> é diferente de tudo o que o Arcade Fire já fez."
 image: arcade-fire-reflektor.jpg
 product: Reflektor
-category: Música
 description: E, ao mesmo tempo, um reflexo de tudo o que eles conseguiram alcançar.
+categories: Música
+date: '2017-01-24T00:00:00.000+00:00'
 ---
 
 O Arcade Fire [lançou uma música nova](https://youtu.be/f6jma9VQEls) semana passada. Considerando que _The Suburbs_ é um dos meus álbuns favoritos — senão **o** meu álbum favorito —, me assustei de nunca ter falado sobre a banda aqui. A nova música me lembrou do porquê de eu amar o conjunto canadense, e voilá.

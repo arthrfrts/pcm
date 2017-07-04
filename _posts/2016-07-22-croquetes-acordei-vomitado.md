@@ -1,12 +1,14 @@
 ---
 layout: post
-title: '<em>Acordei Vomitado</em> é, antes de qualquer coisa, sincero demais'
-number: '44'
+title: "<em>Acordei Vomitado</em> é, antes de qualquer coisa, sincero demais"
+number: 44
 image: acordei-vomitado.jpg
-description: Nova música d'Os Croquetes gosta de mostrar o lado brincalhão. Escute de perto.
-category: Músicas
+description: Nova música d'Os Croquetes gosta de mostrar o lado brincalhão. Escute
+  de perto.
 product: Acordei Vomitado
 author: arthrfrts
+categories: Músicas
+date: '2016-07-22T00:00:00.000+00:00'
 ---
 
 > Esses cara deviam tá com os olhos que eram umas bolita.

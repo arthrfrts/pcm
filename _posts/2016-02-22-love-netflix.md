@@ -1,12 +1,14 @@
 ---
 layout: post
-title: '<em>Love</em> é a melhor série original do Netflix'
-number: '26'
+title: "<em>Love</em> é a melhor série original do Netflix"
+number: 26
 image: netflix-love.jpg
-description: 'Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.'
+description: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes
+  de sua vida, errando ao se apaixonarem.
 author: arthrfrts
-category: 'Séries'
-product: "Love S01"
+product: Love S01
+categories: Séries
+date: '2016-02-22T00:00:00.000+00:00'
 ---
 
 > Eu assisti a _Love_ de uma só vez, não faça isso (se conseguir).

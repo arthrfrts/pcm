@@ -1,12 +1,14 @@
 ---
 layout: post
-title: '<em>A House In California</em> é pequeno e perfeito'
-number: '41'
+title: "<em>A House In California</em> é pequeno e perfeito"
+number: 41
 image: house-california.jpg
-description: 'Jogo dos criadores de Kentucky Route Zero mostrava, naquela época, o quão bons contadores de histórias eles são.'
+description: Jogo dos criadores de Kentucky Route Zero mostrava, naquela época, o
+  quão bons contadores de histórias eles são.
 author: arthrfrts
-category: 'Jogos'
 product: A House In California
+categories: Jogos
+date: '2016-07-18T00:00:00.000+00:00'
 ---
 
 > A House In California talvez seja meu webgame favorito.
