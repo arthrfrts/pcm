@@ -4,8 +4,8 @@
 @charset "utf-8";
 
 // Fonts
-$base-font-family: 'Crimson Text', serif;
-$title-font-family: 'Raleway', sans-serif;
+$base-font-family: 'libertine', serif;
+$title-font-family: 'montserrat', sans-serif;
 $base-font-size: 1.8rem;
 $base-font-weight: 400;
 $base-line-height: 1.7;
@@ -30,6 +30,7 @@ $spacing-unit: 3rem;
 
 // Import partials from the `minima` theme.
 @import
+  "fonts",
   "mixins",
   "base",
   "layout";

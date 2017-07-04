@@ -2,30 +2,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  {% if page.title %}
-  <title>{{ page.title | strip_html | escape }} ~ {{ site.title }}</title>
-  {% else %}
-  <title>{{ site.title }}</title>
-  {% endif %}
-  {% if page.excerpt %}
-  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" />
-  {% else %}
-  <meta name="description" content="{{ site.description }}" />
-  {% endif %}
+  <title>{% if page.title %}{{ page.title }} ~ {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | normalize_whitespace | truncate: 160 }}" />
 
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i|Raleway:600,600i,800,800i" />
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
+  <link rel="author" type="text/plain" href="{{ '/humans.txt' | absolute_url }}" />
   <link rel="canonical" href="{{ page.url | replace: 'index.html','' | absolute_url }}" />
-  <link rel="alternate" type="application/rss+xml" title="Feeds – {{ site.title }}" href="{{ '/feed.xml' | absolute_url }}" />
-  <script
-			  src="https://code.jquery.com/jquery-3.1.1.min.js"
-			  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-			  crossorigin="anonymous"></script>
-  <script src="{{ '/assets/js/jquery.jscroll.js' | relative_url }}"></script>
-
-  {% include og.html %}
-
-  {% include favicons.html %}
-
-  {% include google-analytics.html %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} / RSS" href="{{ '/feed.xml' | absolute_url }}" />
 </head>
