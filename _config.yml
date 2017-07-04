@@ -20,8 +20,6 @@ markdown: kramdown
 permalink: /:slug.html
 paginate: 5
 
-theme: minima
-
 gems:
   - jekyll-feed
   - jekyll-sitemap
@@ -29,5 +27,6 @@ gems:
   - jemoji
 
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock

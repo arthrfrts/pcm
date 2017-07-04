@@ -3,8 +3,6 @@ ruby RUBY_VERSION
 
 gem "jekyll"
 
-gem "minima"
-
 group :jekyll_plugins do
    gem "jekyll-feed"
    gem "jekyll-paginate"
