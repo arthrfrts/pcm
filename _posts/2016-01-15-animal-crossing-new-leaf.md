@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Animal Crossing: New Leaf</em> vai vender sua alma para reformar sua casa'
 number: '15'
-image: animal-crossing-new-leaf.jpg
+cover:  animal-crossing-new-leaf.jpg
 description: 'O charmoso jogo da Nintendo vai acompanhar sua vida.'
 author: arthrfrts
 category: 'Jogos'

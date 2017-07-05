@@ -2,7 +2,7 @@
 layout: post
 title: 'Não há muito o que dizer sobre <em>Esperando Godot</em>'
 number: '42'
-image: esperando-godot.jpg
+cover:  esperando-godot.jpg
 description: 'Um homem, uma árvore e outro homem. Uma obra-prima.'
 author: arthrfrts
 category: 'Livros'

@@ -1,25 +1,24 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
+<article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" itemref="pcm">
   <header class="post-header">
-    <div class="banner">
-      <img src="{{ page.image | prepend: '/assets/images/covers/' | absolute_url }}" alt="{{ page.product }}" />
+    <div class="post-cover">
+      <img itemprop="image" src="{{ page.cover | prepend: '/assets/media/' | absolute_url }}" alt="{{ page.product }}" />
     </div>
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-excerpt">(#{{ page.number }} &middot; {{ page.category }}) {{ page.description }}</p>
-  </header>
 
-  <hr />
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    {% assign author = site.data.authors[page.author] %}
+    <p class="post-excerpt">{{ page.description }} (Por <a rel="author" itemprop="author" itemscope itemtype="http://schema.org/Person" href="{{ author.twitter }}"><span class="author" itemprop="name">{{ author.name }}</span></a>).</p>
+  </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
 
   <footer class="post-meta">
-    {% assign author = site.data.authors[page.author] %}
-    <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" pubdate>{{ page.date | date: "%-d/%m/%Y" }}</time> &middot; <span class="post-author" itemprop="name" rel="author">{{ author.name }} <a class="icon" href="https://twitter.com/{{ author.twitter }}">{% include icon-twitter.svg %}</a></span>
+    #{{ page.index }} &middot;
+    <span itemprop="keywords">{{ page.category }}</span> &middot; <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d-%m-%Y" }}</time>
   </footer>
 
   <nav class="post-list">

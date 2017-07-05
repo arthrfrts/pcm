@@ -5,7 +5,7 @@
 
 // Fonts
 $base-font-family: 'libertine', serif;
-$title-font-family: 'montserrat', sans-serif;
+$title-font-family: 'muli', sans-serif;
 $base-font-size: 1.8rem;
 $base-font-weight: 400;
 $base-line-height: 1.7;
@@ -29,8 +29,8 @@ $on-laptop:        800px;
 $spacing-unit: 3rem;
 
 // Import partials from the `minima` theme.
-@import
-  "fonts",
-  "mixins",
-  "base",
-  "layout";
+@import "fonts",
+        "reset",
+        "mixins",
+        "base",
+        "layout";

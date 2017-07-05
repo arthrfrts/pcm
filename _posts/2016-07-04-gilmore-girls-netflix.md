@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Gilmore Girls</em> não é a melhor série já feita, mas é a melhor série já feita'
 number: '37'
-image: gilmore-girls.jpg
+cover:  gilmore-girls.jpg
 description: 'Um dos mais charmosos seriados americanos de todos os tempos está disponível na Netflix — é hora de rever <em>Gilmore Girls</em> o resto de nossa existência.'
 author: arthrfrts
 category: 'Séries'

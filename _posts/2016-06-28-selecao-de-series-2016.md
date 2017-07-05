@@ -2,7 +2,7 @@
 layout: post
 title: '7 séries pra você ver nessas férias'
 number: '36'
-image: americans.jpg
+cover:  americans.jpg
 description: 'Nossa seleção de séries para você começar a acompanhar, ou fazer uma maratona, nesse próximo mês'
 author: arthrfrts
 category: 'Séries'

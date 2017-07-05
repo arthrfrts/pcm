@@ -8,18 +8,30 @@ disqus: paomortadela
 analytics: UA-71750920-3
 lang: pt
 
-contact:
-  email: email@arthr.me
-  facebook: paocomortadela
-  github: arthrfrts/pcm
-  twitter: paomortadela
+email: email@arthr.me
+facebook: paocomortadela
+github: arthrfrts/pcm
+twitter: paomortadela
+
+colections:
+  uploads:
+    output: true
+    permalink: "/assets/media/:path"
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 
 markdown: kramdown
-permalink: /:slug.html
-paginate: 5
+permalink: /:year/:slug.html
+paginate: 4
 
 plugins:
   - jekyll-feed
+  - jekyll-coffeescript
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji

@@ -2,7 +2,7 @@
 layout: post
 title: '<em>The Night Of</em> é insuportável de linda'
 number: '40'
-image: night-of.jpg
+cover:  night-of.jpg
 description: 'Preparem-se: essa pode ser a nova grande série policial.'
 author: arthrfrts
 category: 'Séries'

@@ -3,7 +3,7 @@ number: 48
 date: 2017-01-02 09:00:00
 layout: post
 category: Listas
-image: pcm-expectativa-2017.jpg
+cover:  pcm-expectativa-2017.jpg
 title: O que mais esperamos em 2017
 product: O que vem em 2017
 author: arthrfrts

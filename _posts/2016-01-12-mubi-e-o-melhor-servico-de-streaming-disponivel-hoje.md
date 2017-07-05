@@ -2,7 +2,7 @@
 layout: post
 title: 'MUBI é o melhor serviço de streaming disponível hoje'
 number: '13'
-image: mubi.jpg
+cover:  mubi.jpg
 description: 'Com o MUBI, você sempre terá um filme novo pra ver.'
 author: arthrfrts
 category: 'Links'

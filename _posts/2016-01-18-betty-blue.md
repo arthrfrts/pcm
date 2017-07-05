@@ -2,7 +2,7 @@
 layout: post
 title: 'Apaixone-se e perca-se comigo em <em>Betty Blue</em>'
 number: '16'
-image: betty-blue.jpg
+cover:  betty-blue.jpg
 description: 'Sinta o desejo e a perdição de Zorg e de Betty nesse fascinante filme.'
 author: arthrfrts
 category: 'Filmes'

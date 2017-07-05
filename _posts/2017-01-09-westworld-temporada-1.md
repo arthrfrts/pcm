@@ -3,7 +3,7 @@ layout: post
 number: 54
 author: arthrfrts
 title: <em>Westworld</em> pergunta muito e raramente responde.
-image: westworld-s01.jpg
+cover:  westworld-s01.jpg
 category: Séries
 product: Westworld S01
 description: As vezes frustrante, as vezes fascinante, a primeira temporada do novo blockbuster da HBO foi a maior série do ano.

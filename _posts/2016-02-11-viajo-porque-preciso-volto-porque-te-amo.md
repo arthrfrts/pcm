@@ -2,7 +2,7 @@
 layout: post
 title: 'Lugares, pessoas, paisagens e histórias se confundem em <em>Viajo Porque Preciso, Volto Porque Te Amo</em>'
 number: '25'
-image: viajo-porque-preciso-volto-porque-te-amo.jpg
+cover:  viajo-porque-preciso-volto-porque-te-amo.jpg
 description: 'O filme de estrada de Karim Aïnouz e Marcelo Gomes talvez seja o mais brasileiro dos filmes.'
 author: arthrfrts
 category: 'Filmes'

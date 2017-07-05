@@ -2,7 +2,7 @@
 layout: post
 title: 'A herança de <em>Peanuts</em>, uma das grandes obras literárias do último século'
 number: '12'
-image: peanuts.jpg
+cover:  peanuts.jpg
 description: 'Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).'
 author: arthrfrts
 category: 'HQs'

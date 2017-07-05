@@ -2,7 +2,7 @@
 number: 47
 layout: post
 category: Listas
-image: pcm-melhores-2016.png
+cover:  pcm-melhores-2016.png
 title: Os 5 melhores de 2016
 product: Melhores do Ano
 author: arthrfrts

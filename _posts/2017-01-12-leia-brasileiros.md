@@ -3,7 +3,7 @@ layout: post
 number: 57
 author: arthrfrts
 title: <em>Leia Brasileiros</em>. É um pedido e uma dica.
-image: leia-brasileiros.jpg
+cover:  leia-brasileiros.jpg
 product: Leia Brasileiros
 category: Links
 description: Todos os dias um pouquinho de literatura brasileira no seu email.

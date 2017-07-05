@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Her Story</em> é estranho, porém único'
 number: '20'
-image: her-story.jpg
+cover:  her-story.jpg
 description: 'Uma narrativa interativa, Her Story desenvolve a atenção do jogador mais que sua jogabilidade.'
 author: arthrfrts
 category: 'Jogos'

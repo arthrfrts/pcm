@@ -1,14 +1,6 @@
-<header class="site-header" role="banner">
+<header id="branding" class="site-header" itemprop="brand" itemscope itemtype="http://schema.org/Brand">
 
-  <div class="wrapper">
+  <a class="site-logo" itemprop="url" href="{{ '/' | absolute_url }}"><img itemprop="logo" src="{{ '/assets/img/logo.gif' | relative_url }}" alt="Logo do site {{ site.title }}" /></a>
 
-    <a class="site-logo" href="{{ absolute_url }}/">
-      <img src="{{ '/assets/images/torradinha.gif' | absolute_url }}" />
-    </a>
-    <span class="site-title">
-      <a href="{{ absolute_url }}/">{{ site.title }}</a>
-    </span>
-
-  </div>
-
+  <a class="site-title" href="{{ '/' | absolute_url }}" itemprop="name">{{ site.title }}</a>
 </header>

@@ -3,7 +3,7 @@ layout: post
 number: 73
 author: arthrfrts
 title: Cuidado ao entrar em <em>Welcome to Night Vale</em>…
-image: welcome-to-night-vale.jpg
+cover:  welcome-to-night-vale.jpg
 product: Welcome to Night Vale
 category: Links
 description: Existem sérias chances de você não querer sair de lá.

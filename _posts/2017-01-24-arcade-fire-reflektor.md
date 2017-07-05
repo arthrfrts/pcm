@@ -3,7 +3,7 @@ layout: post
 number: 69
 author: arthrfrts
 title: <em>Reflektor</em> é diferente de tudo o que o Arcade Fire já fez.
-image: arcade-fire-reflektor.jpg
+cover:  arcade-fire-reflektor.jpg
 product: Reflektor
 category: Música
 description: E, ao mesmo tempo, um reflexo de tudo o que eles conseguiram alcançar.

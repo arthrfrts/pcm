@@ -1,0 +1,30 @@
+{% if include.format == 'featured' %}
+<figure class="post-card latest-post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <a href="{{ post.url | relative_url }}" itemprop="url">
+    <img src="{{ post.cover | prepend: '/assets/media/' | relative_url }}" alt="{{ post.product }}" itemprop="image" />
+  </a>
+
+  <figcaption class="post-info">
+    <span class="post-meta">#{{ post.index }}</span>
+    <h2 class="post-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    <span class="post-meta" itemprop="keywords">{{ post.category }}</span>
+  </figcaption>
+</figure>
+{% else %}
+<figure class="post-card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <a href="{{ post.url | relative_url }}" itemprop="url">
+    <img src="{{ post.cover | prepend: '/assets/media/' | relative_url }}" alt="{{ post.product }}" itemprop="image" />
+  </a>
+
+  <figcaption class="post-info">
+    <span class="post-meta">
+      #{{ post.index }} &middot; <span itemprop="keywords">{{ post.category }}</span>
+    </span>
+    <h2 class="post-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+  </figcaption>
+</figure>
+{% endif %}

@@ -2,7 +2,7 @@
 layout: post
 title: 'Viva instantes em <em>Iniciantes</em>'
 number: '18'
-image: iniciantes.jpg
+cover:  iniciantes.jpg
 description: 'Os primeiros contos de Raymond Carver vão levar você para outras vidas.'
 author: arthrfrts
 category: 'Livros'

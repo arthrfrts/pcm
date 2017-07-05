@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Serial</em> faz história a cada episódio'
 number: '21'
-image: serial.jpg
+cover:  serial.jpg
 description: 'O melhor podcast já feito, Serial, é um modo único de analisar uma história.'
 author: arthrfrts
 category: 'Links'
