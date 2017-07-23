@@ -1,7 +1,7 @@
 ---
-title: '<em>Animal Crossing: New Leaf</em> vai vender sua alma para reformar sua casa'
-cover:  animal-crossing-new-leaf.jpg
-description: 'O charmoso jogo da Nintendo vai acompanhar sua vida.'
+title: "<em>Animal Crossing: New Leaf</em> vai vender sua alma para reformar sua casa"
+cover: animal-crossing-new-leaf.jpg
+description: O charmoso jogo da Nintendo vai acompanhar sua vida.
 product: 'Animal Crossing: New Leaf'
 category: Jogos
 date: '2016-01-15'

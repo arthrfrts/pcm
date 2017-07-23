@@ -1,7 +1,7 @@
 ---
-title: 'O Fluid quer ajudar você a se divertir enquanto trabalha'
-cover:  fluid.jpg
-description: 'Um navegador semitransparente onde a gente pode ver uma série enquanto escreve aquele post pro 🍞.'
+title: O Fluid quer ajudar você a se divertir enquanto trabalha
+cover: fluid.jpg
+description: "Um navegador semitransparente onde a gente pode ver uma série enquanto escreve aquele post pro :bread:."
 product: Fluid Browser
 category: Links
 date: '2016-03-01'

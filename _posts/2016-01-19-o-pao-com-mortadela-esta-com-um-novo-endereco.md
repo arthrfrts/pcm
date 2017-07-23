@@ -1,7 +1,7 @@
 ---
-title: 'O Pão com Mortadela está com um novo endereço'
-cover:  pcm-novo-url.jpg
-description: 'O PCM agora é acessível pelo endereço <strong>paomortadela.com.br</strong>'
+title: O Pão com Mortadela está com um novo endereço
+cover: pcm-novo-url.jpg
+description: O PCM agora é acessível pelo endereço <strong>paomortadela.com.br</strong>
 product: Casa nova!
 category: Editorial
 date: '2016-01-19'

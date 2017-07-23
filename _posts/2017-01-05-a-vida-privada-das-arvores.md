@@ -1,7 +1,7 @@
 ---
 author: arthrfrts
-title: <em>A Vida Privada das Árvores</em> é rápido e direto ao ponto.
-cover:  a-vida-privada-das-arvores.jpg
+title: "<em>A Vida Privada das Árvores</em> é rápido e direto ao ponto."
+cover: a-vida-privada-das-arvores.jpg
 product: A Vida Privada das Árvores
 description: O título estranho pode dar uma ideia errada, mas o livro é uma delicada história de expectativas.
 category: Livros

@@ -1,6 +1,6 @@
 ---
-title: 'Karen O finalmente explora tons mais delicados em <em>Crush Songs</em>'
-cover:  crush-songs.jpg
+title: Karen O finalmente explora tons mais delicados em <em>Crush Songs</em>
+cover: crush-songs.jpg
 description: 'Com seu debut solo, a cantora explora o melhor lado da sua voz com aquilo que ela realmente faz bem: cações de amor.'
 product: Crush Songs
 category: Músicas

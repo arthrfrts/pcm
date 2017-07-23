@@ -1,6 +1,5 @@
 ---
-category: Listas
-cover:  pcm-melhores-2016.png
+cover: pcm-melhores-2016.png
 title: Os 5 melhores de 2016
 product: Melhores do Ano
 description: Antes de entrarmos em férias, vamos dar uma olhada naquilo que teve de melhor nesse (péssimo) ano. Nos acompanhe com o melhor filme, o melhor álbum, o melhor jogo, a melhor série e o melhor livro que vimos, jogamos, ouvimos e lemos esse ano.

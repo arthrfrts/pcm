@@ -1,7 +1,7 @@
 ---
-title: '<em>Next Picture Show</em> vai fazer você querer voltar a escutar podcasts'
-cover:  next-pic-show.jpg
-description: 'Novo podcast da equipe do The Dissolve traz a paixão pelo cinema de volta a Internet.'
+title: "<em>Next Picture Show</em> vai fazer você querer voltar a escutar podcasts"
+cover: next-pic-show.jpg
+description: Novo podcast da equipe do The Dissolve traz a paixão pelo cinema de volta a Internet.
 product: Next Picture Show
 category: Links
 date: '2016-01-20'

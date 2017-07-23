@@ -1,7 +1,7 @@
 ---
-title: 'A herança de <em>Peanuts</em>, uma das grandes obras literárias do último século'
-cover:  peanuts.jpg
-description: 'Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).'
+title: A herança de <em>Peanuts</em>, uma das grandes obras literárias do último século
+cover: peanuts.jpg
+description: Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).
 product: Peanuts
 category: HQs
 date: '2016-01-11'

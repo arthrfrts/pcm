@@ -1,6 +1,6 @@
 ---
-title: <em>Leia Brasileiros</em>. É um pedido e uma dica.
-cover:  leia-brasileiros.jpg
+title: "<em>Leia Brasileiros</em>. É um pedido e uma dica."
+cover: leia-brasileiros.jpg
 product: Leia Brasileiros
 description: Todos os dias um pouquinho de literatura brasileira no seu email.
 category: Links

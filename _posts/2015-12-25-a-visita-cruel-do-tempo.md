@@ -1,6 +1,6 @@
 ---
 title: A Visita Cruel do Tempo
-cover:  visita-cruel.jpg
+cover: visita-cruel.jpg
 description: Se você não tem o que ler nesse início de ano, quem sabe um livro para questionar justamente a passagem do tempo?
 product: A Visita Cruel do Tempo
 category: Livros

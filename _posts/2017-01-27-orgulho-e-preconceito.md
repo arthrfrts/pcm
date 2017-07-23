@@ -2,8 +2,8 @@
 layout: post
 number: 72
 author: arthrfrts
-title: <em>Orgulho e Preconceito</em> ainda surpreende
-cover:  orgulho-e-preconceito.jpg
+title: "<em>Orgulho e Preconceito</em> ainda surpreende"
+cover: orgulho-e-preconceito.jpg
 product: Orgulho e Preconceito
 description: O clássico de Jane Austen continua sendo um livro moderno e empolgante, como poucos desde então conseguiram ser.
 category: Livros

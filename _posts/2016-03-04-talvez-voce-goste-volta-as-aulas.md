@@ -1,7 +1,7 @@
 ---
-title: 'A Edição de Volta as Aulas'
-cover:  talvez-voce-goste-volta-as-aulas.jpg
-description: 'Vamos voltar a rotina com algumas dicas rápidas do que ver, ouvir e jogar.'
+title: A Edição de Volta as Aulas
+cover: talvez-voce-goste-volta-as-aulas.jpg
+description: Vamos voltar a rotina com algumas dicas rápidas do que ver, ouvir e jogar.
 product: Volta as aulas
 category: Talvez você goste…
 date: '2016-03-04'

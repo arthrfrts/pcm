@@ -1,7 +1,7 @@
 ---
-title: 'Vencedor do Oscar, <em>Citizenfour</em> é amedrontador'
-cover:  citizenfour.jpg
-description: 'O documentário de Laura Poitras vai fazer você pensar duas vezes na hora de digitar sua senha.'
+title: Vencedor do Oscar, <em>Citizenfour</em> é amedrontador
+cover: citizenfour.jpg
+description: O documentário de Laura Poitras vai fazer você pensar duas vezes na hora de digitar sua senha.
 product: Citizenfour
 category: Filmes
 date: '2016-01-13'

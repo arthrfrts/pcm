@@ -1,7 +1,7 @@
 ---
-title: 'Na maior derrapada da carreira, <em>Os Oito Odiados</em> extrapola no tarantinesco'
-cover:  os-oito-odiados.jpg
-description: 'Novo filme do Tarantino é lindo e vale ser visto — mas também é um sinal preocupante que o diretor pode estar perdendo o jeito.'
+title: Na maior derrapada da carreira, <em>Os Oito Odiados</em> extrapola no tarantinesco
+cover: os-oito-odiados.jpg
+description: Novo filme do Tarantino é lindo e vale ser visto — mas também é um sinal preocupante que o diretor pode estar perdendo o jeito.
 product: Os Oito Odiados
 category: Filmes
 date: '2016-01-06'

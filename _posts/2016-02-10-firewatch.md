@@ -1,7 +1,8 @@
 ---
-title: '<em>Firewatch</em> apresenta a maturidade aos videogames'
-cover:  firewatch.jpg
-description: 'O jogo de estreia da Campo Santo é mais um do pequeno nicho de jogos que possuem uma narrativa madura e corajosa.'
+title: "<em>Firewatch</em> apresenta a maturidade aos videogames"
+cover: firewatch.jpg
+description: O jogo de estreia da Campo Santo é mais um do pequeno nicho de jogos
+  que possuem uma narrativa madura e corajosa.
 product: Firewatch
 category: Jogos
 date: '2016-02-10'

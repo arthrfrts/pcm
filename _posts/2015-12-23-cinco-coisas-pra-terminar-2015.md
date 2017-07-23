@@ -1,7 +1,8 @@
 ---
 title: Cinco coisas (que você não conferiu) pra terminar bem 2015
-cover:  45-anos.jpg
-description: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para você terminar bem esse ano.
+cover: 45-anos.jpg
+description: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para
+  você terminar bem esse ano.
 product: 5 de 2015
 category: Listas
 date: '2015-12-23'

@@ -1,7 +1,7 @@
 ---
-title: '<em>A House In California</em> é pequeno e perfeito'
-cover:  house-california.jpg
-description: 'Jogo dos criadores de Kentucky Route Zero mostrava, naquela época, o quão bons contadores de histórias eles são.'
+title: "<em>A House In California</em> é pequeno e perfeito"
+cover: house-california.jpg
+description: Jogo dos criadores de Kentucky Route Zero mostrava, naquela época, o quão bons contadores de histórias eles são.
 product: A House In California
 category: Jogos
 date: '2016-07-18'

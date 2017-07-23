@@ -1,6 +1,6 @@
 ---
-title: <em>Dream Cave</em> é novo e empolgante.
-cover:  cloud-control-dream-cave.jpg
+title: "<em>Dream Cave</em> é novo e empolgante."
+cover: cloud-control-dream-cave.jpg
 product: Dream Cave
 description: O segundo álbum do Cloud Control não é perfeito, mas caramba como é bom.
 category: Músicas

@@ -1,6 +1,6 @@
 ---
-cover:  the-xx-i-see-you.jpg
-title: <em>I See You</em> segue em frente com The xx no seu melhor álbum até aqui.
+cover: the-xx-i-see-you.jpg
+title: "<em>I See You</em> segue em frente com The xx no seu melhor álbum até aqui."
 product: I See You
 description: O novo álbum do The xx não segue nenhum dos caminhos que os álbuns anteriores indicavam. Quem diria que seria tão bom.
 category: Músicas

@@ -1,7 +1,7 @@
 ---
-title: 'Viva instantes em <em>Iniciantes</em>'
-cover:  iniciantes.jpg
-description: 'Os primeiros contos de Raymond Carver vão levar você para outras vidas.'
+title: Viva instantes em <em>Iniciantes</em>
+cover: iniciantes.jpg
+description: Os primeiros contos de Raymond Carver vão levar você para outras vidas.
 product: Iniciantes
 category: Livros
 date: '2016-01-22'

@@ -1,7 +1,7 @@
 ---
-title: '<em>Wolfgang Amadeus Phoenix</em> diverte pra sempre'
-cover:  wolfgang-amadeus-phoenix.jpg
-description: 'O melhor álbum do Phoenix é, também, a busca deles de alcançar o pop perfeito.'
+title: "<em>Wolfgang Amadeus Phoenix</em> diverte pra sempre"
+cover: wolfgang-amadeus-phoenix.jpg
+description: O melhor álbum do Phoenix é, também, a busca deles de alcançar o pop perfeito.
 product: Wolfgang Amadeus Phoenix
 category: Músicas
 date: '2016-03-03'

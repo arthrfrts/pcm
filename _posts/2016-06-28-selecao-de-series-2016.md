@@ -1,7 +1,7 @@
 ---
-title: '7 séries pra você ver nessas férias'
-cover:  americans.jpg
-description: 'Nossa seleção de séries para você começar a acompanhar, ou fazer uma maratona, nesse próximo mês'
+title: 7 séries pra você ver nessas férias
+cover: americans.jpg
+description: Nossa seleção de séries para você começar a acompanhar, ou fazer uma maratona, nesse próximo mês
 product: Séries para o inverno
 category: Séries
 date: '2016-06-28'

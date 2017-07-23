@@ -1,6 +1,6 @@
 ---
-title: <em>Enclausurado</em> é estranho pra caramba.
-cover:  enclausurado-ian-mcewan.jpg
+title: "<em>Enclausurado</em> é estranho pra caramba."
+cover: enclausurado-ian-mcewan.jpg
 description: Ian McEwan está manipulativo como sempre, mas divertido como nunca.
 product: Enclausurado
 category: Livros

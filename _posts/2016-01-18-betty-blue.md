@@ -1,7 +1,7 @@
 ---
-title: 'Apaixone-se e perca-se comigo em <em>Betty Blue</em>'
-cover:  betty-blue.jpg
-description: 'Sinta o desejo e a perdição de Zorg e de Betty nesse fascinante filme.'
+title: Apaixone-se e perca-se comigo em <em>Betty Blue</em>
+cover: betty-blue.jpg
+description: Sinta o desejo e a perdição de Zorg e de Betty nesse fascinante filme.
 product: Betty Blue
 category: Filmes
 date: '2016-01-18'

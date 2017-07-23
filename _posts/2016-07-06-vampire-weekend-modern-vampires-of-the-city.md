@@ -1,7 +1,7 @@
 ---
-title: '<em>Modern Vampires of the City</em> é daquele tipo espontâneo de música boa'
-cover:  modern-vampires-of-the-city.jpg
-description: 'Depois de querer brincar e experimentar com absolutamente tudo, o Vampire Weekend finalmente olha para dentro.'
+title: "<em>Modern Vampires of the City</em> é daquele tipo espontâneo de música boa"
+cover: modern-vampires-of-the-city.jpg
+description: Depois de querer brincar e experimentar com absolutamente tudo, o Vampire Weekend finalmente olha para dentro.
 product: Modern Vampires of the City
 category: Músicas
 date: '2016-07-06'

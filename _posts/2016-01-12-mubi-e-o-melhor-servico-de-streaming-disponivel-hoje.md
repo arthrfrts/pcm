@@ -1,7 +1,7 @@
 ---
-title: 'MUBI é o melhor serviço de streaming disponível hoje'
-cover:  mubi.jpg
-description: 'Com o MUBI, você sempre terá um filme novo pra ver.'
+title: MUBI é o melhor serviço de streaming disponível hoje
+cover: mubi.jpg
+description: Com o MUBI, você sempre terá um filme novo pra ver.
 product: MUBI
 category: Links
 date: '2016-01-12'

@@ -1,7 +1,7 @@
 ---
-title: '<em>Random Access Memories</em> não reinventa um gênero, mas redescobre o Daft Punk'
-cover:  random-access-memories.jpg
-description: 'O duo francês encontrou no álbum vencedor do Grammy sua mais perfeita definição musical.'
+title: "<em>Random Access Memories</em> não reinventa um gênero, mas redescobre o Daft Punk"
+cover: random-access-memories.jpg
+description: O duo francês encontrou no álbum vencedor do Grammy sua mais perfeita definição musical.
 product: Random Access Memories
 category: Músicas
 date: '2016-01-04'

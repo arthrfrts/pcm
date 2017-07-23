@@ -1,7 +1,7 @@
 ---
-title: '<em>Todos os Homens do Presidente</em> é cinema impecável'
-cover:  todos-os-homens-do-presidente.jpg
-description: 'Clássico dos anos 1970 mantém sua contemporalidade como um dos grandes filmes já feitos.'
+title: "<em>Todos os Homens do Presidente</em> é cinema impecável"
+cover: todos-os-homens-do-presidente.jpg
+description: Clássico dos anos 1970 mantém sua contemporalidade como um dos grandes filmes já feitos.
 product: Todos os Homens do Presidente
 category: Filmes
 date: '2016-01-25'

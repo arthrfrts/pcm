@@ -1,7 +1,7 @@
 ---
-title: 'Em <em>To The Moon</em> você é a história de amor'
-cover:  to-the-moon.jpg
-description: 'Jogo do estúdio independente Freebird Games permite você proporcionar, e vivenciar, uma história de amor'
+title: Em <em>To The Moon</em> você é a história de amor
+cover: to-the-moon.jpg
+description: Jogo do estúdio independente Freebird Games permite você proporcionar, e vivenciar, uma história de amor
 product: To The Moon
 category: Jogos
 date: '2016-02-25'

@@ -1,6 +1,6 @@
 ---
-title: <em>Reflektor</em> é diferente de tudo o que o Arcade Fire já fez.
-cover:  arcade-fire-reflektor.jpg
+title: "<em>Reflektor</em> é diferente de tudo o que o Arcade Fire já fez."
+cover: arcade-fire-reflektor.jpg
 product: Reflektor
 description: E, ao mesmo tempo, um reflexo de tudo o que eles conseguiram alcançar.
 category: Música

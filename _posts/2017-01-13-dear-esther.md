@@ -1,5 +1,5 @@
 ---
-cover:  'dear-esther-landmark-edition.jpg'
+cover: dear-esther-landmark-edition.jpg
 title: Eu não queria sair da ilha de <em>Dear Esther</em>.
 product: Dear Esther
 description: Com o relançamento para o PlayStation 4, a ilha de <em>Dear Esther</em> está mais linda do que nunca.

@@ -1,7 +1,7 @@
 ---
-title: '<em>Her Story</em> é estranho, porém único'
-cover:  her-story.jpg
-description: 'Uma narrativa interativa, Her Story desenvolve a atenção do jogador mais que sua jogabilidade.'
+title: "<em>Her Story</em> é estranho, porém único"
+cover: her-story.jpg
+description: Uma narrativa interativa, Her Story desenvolve a atenção do jogador mais que sua jogabilidade.
 product: Her Story
 category: Jogos
 date: '2016-02-01'

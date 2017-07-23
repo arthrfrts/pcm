@@ -1,7 +1,7 @@
 ---
-title: '<em>Love</em> é a melhor série original do Netflix'
-cover:  netflix-love.jpg
-description: 'Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.'
+title: "<em>Love</em> é a melhor série original do Netflix"
+cover: netflix-love.jpg
+description: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.
 product: Love S01
 category: Séries
 date: '2016-02-22'
