@@ -30,7 +30,7 @@ markdown: kramdown
 permalink: /:year/:slug.html
 paginate: 4
 
-plugins:
+gems:
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-sitemap
