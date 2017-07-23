@@ -38,6 +38,5 @@ plugins:
   - jemoji
 
 exclude:
-  - CNAME
   - Gemfile
   - Gemfile.lock
