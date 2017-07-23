@@ -24,6 +24,7 @@ defaults:
     type: posts
   values:
     layout: post
+    author: arthrfrts
 
 markdown: kramdown
 permalink: /:year/:slug.html

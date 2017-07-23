@@ -1,13 +1,11 @@
 ---
-number: 49
-date: 2017-01-02 12:00:00
-layout: post
+date: '2017-01-02T12:00:00.000+00:00'
 title: O Pão com Mortadela agora tem uma newsletter!
 product: Pãozinho quente
 cover:  paozinho-quente.png
 description: Agora você pode receber nossas dicas direto na caixa de entrada do seu email. Ainda bem.
 category: Links
-author: arthrfrts
+category: Links
 ---
 
 [2017 começou](/o-que-esperamos-em-2017.html), ainda bem. Tem uma série de coisas novas que a gente vai tentar fazer aqui no :bread:, como revitalizar umas colunas, tentar chamar a Thai pra postar mais vezes, criar playlists (!!!). Tem umas coisas que eu e a Thai estamos trabalhando mais por baixo do capô, também, então vamos deixar pra falar quando estiver mais certo.

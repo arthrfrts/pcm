@@ -1,12 +1,10 @@
 ---
-layout: post
 title: '<em>Firewatch</em> apresenta a maturidade aos videogames'
-number: '24'
 cover:  firewatch.jpg
 description: 'O jogo de estreia da Campo Santo é mais um do pequeno nicho de jogos que possuem uma narrativa madura e corajosa.'
-author: arthrfrts
-category: 'Jogos'
-product: "Firewatch"
+product: Firewatch
+category: Jogos
+date: '2016-02-10T00:00:00.000+00:00'
 ---
 
 > _Firewatch_ possui alguns dos melhores diálogos já escritos pros videogames.

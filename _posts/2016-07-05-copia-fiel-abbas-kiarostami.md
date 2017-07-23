@@ -1,12 +1,10 @@
 ---
-layout: post
 title: 'Em um dia de despedida, <em>Cópia Fiel</em> se torna necessário'
-number: '38'
 cover:  copia-fiel.jpg
 description: 'O maior diretor do nosso tempo partiu ontem, com 76 anos. Esse é um post com uma dica, mas na verdade é uma despedida.'
-author: arthrfrts
-category: 'Filmes'
-product: "Cópia Fiel"
+product: Cópia Fiel
+category: Filmes
+date: '2016-07-05T00:00:00.000+00:00'
 ---
 
 > Adeus, Kiarostami. Foi uma honra.

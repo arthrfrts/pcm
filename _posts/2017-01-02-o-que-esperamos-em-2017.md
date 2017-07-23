@@ -1,12 +1,9 @@
 ---
-number: 48
-date: 2017-01-02 09:00:00
-layout: post
+date: '2017-01-02T09:00:00.000+00:00'
 category: Listas
 cover:  pcm-expectativa-2017.jpg
 title: O que mais esperamos em 2017
 product: O que vem em 2017
-author: arthrfrts
 description: Para celebrar esse ano que tá chegando, escolhemos cinco coisas que esperamos ver, ouvir, jogar e ler em 2017. Nos acompanhe…
 ---
 

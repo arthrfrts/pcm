@@ -1,12 +1,10 @@
 ---
-layout: post
-number: 58
-author: arthrfrts
 cover:  'dear-esther-landmark-edition.jpg'
 title: Eu não queria sair da ilha de <em>Dear Esther</em>.
 product: Dear Esther
-category: Jogos
 description: Com o relançamento para o PlayStation 4, a ilha de <em>Dear Esther</em> está mais linda do que nunca.
+category: Jogos
+date: '2017-01-13T00:00:00.000+00:00'
 ---
 
 Eu me apaixonei por _Dear Esther_ logo depois do fade in. A gente está numa marina abandonada, e uma voz começa a ler uma carta. Você anda.

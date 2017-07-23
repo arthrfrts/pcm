@@ -1,12 +1,12 @@
 ---
 layout: post
-number: 73
 author: arthrfrts
 title: Cuidado ao entrar em <em>Welcome to Night Vale</em>…
 cover:  welcome-to-night-vale.jpg
 product: Welcome to Night Vale
-category: Links
 description: Existem sérias chances de você não querer sair de lá.
+category: Links
+date: '2017-01-30T00:00:00.000+00:00'
 ---
 
 Você gosta de podcasts, né? Meus dois favoritos eu já escrevi aqui: [_Serial_]({{ '/serial-faz-historia-a-cada-episodio.html' | absolute_url }}) e [_Next Picture Show_]({{ '/next-picture-show-vai-fazer-voce-querer-voltar-a-escutar-podcasts.html' | absolute_url }}) são minhas melhores companhias no trabalho. Mas a sugestão de hoje não é de se ouvir no trabalho. É pra sentar no meio da madrugada e escutar com cuidado.

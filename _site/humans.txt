@@ -1,0 +1,32 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Arthur Freitas -- http://arthr.me/
+
+# AUTHORS
+
+
+    Arthur -- http://arthr.me/ -- @arthrfrts
+
+    Thaiane -- @thaimandua
+
+    Erê -- @ourovaleere
+
+    Guilherme -- @guilhelbraganca
+
+
+# SPECIAL THANKS
+
+    Raul Fontoura -- http://raulranma.tumblr.com -- graphic art and illustrations
+    Philip Klauzinski -- http://klauzinski.com/ -- jScroll
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Jekyll
+    Atom, GitHub
+    JQuery, JScroll
+
+    Source: https://github.com/arthrfrts/pcm

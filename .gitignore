@@ -1,7 +1,3 @@
-_site/
 .sass-cache
-<<<<<<< HEAD
 .DS_Store
-=======
->>>>>>> redesign
 Gemfile.lock

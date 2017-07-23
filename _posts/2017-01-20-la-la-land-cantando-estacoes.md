@@ -1,12 +1,10 @@
 ---
-layout: post
-number: 67
-author: arthrfrts
 title: A mágica do cinema tá todinha em <em>La La Land – Cantando Estações</em>
 cover:  la-la-land-cantando-estacoes.jpg
 product: La La Land – Cantando Estações
-category: Filmes
 description: Eu não esperava um filme tão bom assim.
+category: Filmes
+date: '2017-01-20T00:00:00.000+00:00'
 ---
 
 _La La Land – Cantando Estações_ começa já dizendo a que veio: em uma primeira, imensa e muitíssima bem coreografada cena, um engarrafamento se torna palco de um número musical. Ele nem esconde, é um musical e os números pipocam. Cada um mais impressionante que o outro. Fazia tempo que eu não via coisa assim no cinema.
