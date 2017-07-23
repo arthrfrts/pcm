@@ -4,7 +4,7 @@ cover:  visita-cruel.jpg
 description: Se você não tem o que ler nesse início de ano, quem sabe um livro para questionar justamente a passagem do tempo?
 product: A Visita Cruel do Tempo
 category: Livros
-date: '2015-12-25T00:00:00.000+00:00'
+date: '2015-12-25'
 ---
 
 Você gosta de ler contos? Contos são excelentes formas de narrativa, grandes o suficiente para eu me prender a um personagem, pequenos o suficiente pra nos deixar com água na boca. Então, eu não gostava de ler contos. E eu aprendi a gostar deles com um romance.

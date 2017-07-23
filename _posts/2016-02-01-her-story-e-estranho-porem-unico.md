@@ -4,7 +4,7 @@ cover:  her-story.jpg
 description: 'Uma narrativa interativa, Her Story desenvolve a atenção do jogador mais que sua jogabilidade.'
 product: Her Story
 category: Jogos
-date: '2016-02-01T00:00:00.000+00:00'
+date: '2016-02-01'
 ---
 
 _Her Story_ é um jogo que valoriza a atenção de seu jogador. Não sua persistência ou insistência, não a habilidade. Não é fácil prosseguir, após um tempo, não porque você não é habilidoso o suficiente, mas porque você _não prestou atenção suficiente_.

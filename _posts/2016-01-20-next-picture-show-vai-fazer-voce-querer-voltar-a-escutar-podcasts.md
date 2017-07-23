@@ -4,7 +4,7 @@ cover:  next-pic-show.jpg
 description: 'Novo podcast da equipe do The Dissolve traz a paixão pelo cinema de volta a Internet.'
 product: Next Picture Show
 category: Links
-date: '2016-01-20T00:00:00.000+00:00'
+date: '2016-01-20'
 ---
 
 Quando eu trabalhava numa agência, em 2012, minha melhor companhia de trabalho eram os podcasts. Eu escutava vários, sobre temas totalmente diversos. Naquela época o Seu Felipe tinha uma comentando séries (durou três inesquecíveis episódios), o Nerdcast reinava soberano e um bando de sites de humor começavam a publicar seus primeiros episódios.

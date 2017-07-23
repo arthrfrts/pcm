@@ -4,7 +4,7 @@ cover:  netflix-love.jpg
 description: 'Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.'
 product: Love S01
 category: Séries
-date: '2016-02-22T00:00:00.000+00:00'
+date: '2016-02-22'
 ---
 
 > Eu assisti a _Love_ de uma só vez, não faça isso (se conseguir).

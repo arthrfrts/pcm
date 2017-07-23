@@ -4,7 +4,7 @@ product: Upstream Color
 cover:  upstream-color.jpg
 description: O segundo filme de um dos diretores americanos mais interessantes dessa geração é um mistério — e você não vai querer sair dele.
 category: Filmes
-date: '2017-01-03T00:00:00.000+00:00'
+date: '2017-01-03'
 ---
 
 Eu sou uma das seis pessoas no planeta que não gosta de _Primer_, o primeiro longa-metragem do diretor Shane Carruth. Pode falar que é porque eu não entendi, não tem problema, eu realmente posso não ter entendido; mas eu também não me senti apaixonado pela história pra fazer como os fãs e **diagramar** as linhas do tempo para tentar decodificar o que, afinal, tava acontecendo por lá.

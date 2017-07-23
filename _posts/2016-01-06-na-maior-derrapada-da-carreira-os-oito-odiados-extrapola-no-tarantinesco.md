@@ -4,7 +4,7 @@ cover:  os-oito-odiados.jpg
 description: 'Novo filme do Tarantino é lindo e vale ser visto — mas também é um sinal preocupante que o diretor pode estar perdendo o jeito.'
 product: Os Oito Odiados
 category: Filmes
-date: '2016-01-06T00:00:00.000+00:00'
+date: '2016-01-06'
 ---
 
 Tarantino é um ótimo diretor. Com uma carreira enxuta, ele conseguiu definir uma marca pessoal forte, seja visual ou narrativamente. Seus filmes são belos de seu próprio jeito, sujos e prolixos. Por trás deles, porém, existem personagens cativantes que nos fazem torcer por eles, mesmo os mais amorais. A noiva vingadora de _Kill Bill_, por exemplo, ou a trupe de judeus enlouquecidos de _Bastardos Inglórios_. Tarantino trata de temas polêmicos com uma simplicidade e uma eficácia surpreendente — vide a forma honesta, engraçada e ao mesmo tempo perturbadora que ele emprega em _Django Livre_, seu filme anterior.

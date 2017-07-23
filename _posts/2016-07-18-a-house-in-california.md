@@ -4,7 +4,7 @@ cover:  house-california.jpg
 description: 'Jogo dos criadores de Kentucky Route Zero mostrava, naquela época, o quão bons contadores de histórias eles são.'
 product: A House In California
 category: Jogos
-date: '2016-07-18T00:00:00.000+00:00'
+date: '2016-07-18'
 ---
 
 > A House In California talvez seja meu webgame favorito.

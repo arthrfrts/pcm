@@ -4,7 +4,7 @@ cover:  westworld-s01.jpg
 product: Westworld S01
 description: As vezes frustrante, as vezes fascinante, a primeira temporada do novo blockbuster da HBO foi a maior série do ano.
 category: Séries
-date: '2017-01-09T00:00:00.000+00:00'
+date: '2017-01-09'
 ---
 
 “O que nos faz humanos?” pergunta _Westworld_ desde a primeira cena. O novo blockbuster HBO terminou sua primeira e conturbada temporada sendo a série mais falada do ano. E o final, que aponta um novo e empolgante caminho pro futuro, indica a jornada para sua grande questão.

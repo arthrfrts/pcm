@@ -4,7 +4,7 @@ cover:  the-leftovers-2.png
 description: 'Em sua segunda temporada, The Leftovers se transformou na melhor série de 2015.'
 product: The Leftovers S02
 category: Séries
-date: '2015-12-30T00:00:00.000+00:00'
+date: '2015-12-30'
 ---
 
 > A melhor série de 2015.
