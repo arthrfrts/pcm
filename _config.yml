@@ -27,7 +27,7 @@ defaults:
     author: arthrfrts
 
 markdown: kramdown
-permalink: /:slug.html
+permalink: /:year/:slug.html
 paginate: 4
 
 plugins:
