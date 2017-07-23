@@ -13,13 +13,12 @@ $base-line-height: 1.7;
 $small-font-size: $base-font-size * .875;
 
 // Colors
-$text-color: #242423;
-$brand-color: #f5cb5c;
-$background-color: #f2efea;
-$border-color: #cfdbd5;
-$grey-color: lighten($text-color, 60%);
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark: darken($grey-color, 90%);
+$color-text: #242423;
+$color-accent: #f5cb5c;
+$color-background: #f2efea;
+$color-details: #cfdbd5;
+
+$color-aux: darken($color-details, 20%);
 
 // Width of the content area
 $content-width:    800px;
@@ -32,5 +31,5 @@ $spacing-unit: 3rem;
 @import "fonts",
         "reset",
         "mixins",
-        "base",
+        "elements",
         "layout";

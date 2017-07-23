@@ -1,7 +1,7 @@
 <footer id="pcm" class="site-footer">
+  <div class="wrapper">
     <dl class="site-info" itemprop="publisher" itemscope itemtype="http://schema.org/Organization" itemref="branding">
       <dt itemprop="name"><a itemprop="url" href="{{ '/' | absolute_url }}">{{ site.title }}</a></dt>
-      <dd itemprop="description">{{ site.description }}</dd>
       <dd><a href="http://tinyletter.com/paomortadela">Assine a nossa newsletter</a> e receba as dicas por email.</dd>
       <meta itemprop="logo" content="{{ '/assets/img/logo.gif' | absolute_url }}" />
     </dl>
@@ -11,5 +11,6 @@
       <li aria-label="Twitter"><a href="https://twitter.com/{{ site.twitter }}">{% include svg/twitter.svg %}</a></li>
       <li aria-label="Facebook"><a href="https://www.facebook.com/{{ site.facebook }}">{% include svg/facebook.svg %}</a></li>
     </ul>
+  </div>
     <p class="site-credits"><a href="{{ '/' | absolute_url }}">{{ site.title }}</a> &middot; Todos os direitos dos textos são reservados a seus respectivos autores &middot; <a role="author" href="{{ '/humans.txt' | absolute_url }}">humans.txt</a>.</p>
 </footer>

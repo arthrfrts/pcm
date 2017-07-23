@@ -1,0 +1,144 @@
+// Basic styling
+body {
+  background-color: $color-background;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $color-text;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+}
+
+::selection {
+  background: $color-accent;
+  color: $color-background;
+}
+
+::-moz-selection {
+  background: $color-accent;
+  color: $color-background;
+}
+
+hr {
+  width: 100%;
+  margin: $spacing-unit 0;
+  border: none;
+  height: .1rem;
+  background-color: $color-details;
+}
+
+// Text elements
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: 700;
+}
+
+ins {
+  text-decoration: none;
+  background: $color-accent;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+abbr {
+  border-bottom: .1rem solid $color-accent;
+  cursor: help;
+}
+
+// Vertical rhythm
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+iframe, object, embed, table,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit / 2;
+}
+
+// Figure
+figure {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+// Lists
+ul, ol, dl {
+  margin-left: $spacing-unit / 2;
+}
+
+ul, ol {
+  ul, ol {
+    margin-bottom: 0;
+  }
+}
+
+ul {
+  list-style: square;
+
+  ul {
+    list-style: disc;
+  }
+}
+
+ol {
+  list-style: decimal;
+
+  ol {
+    list-style: lower-alpha;
+
+    ol {
+      list-style: lower-roman;
+    }
+  }
+}
+
+dl {
+  dt, dd {
+    margin-left: 0;
+  }
+
+  dt {
+    font-weight: 700;
+  }
+
+  dd {
+    @extend %vertical-rhythm;
+  }
+}
+
+// Links
+a {
+  color: $color-text;
+  text-decoration: underline solid $color-accent;
+  -webkit-text-decoration-color: $color-accent;
+  transition: color .36s ease;
+
+  &:hover,
+  &:focus {
+    outline: none;
+    color: $color-accent;
+    text-shadow: 0 0 .1rem $color-details;
+  }
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 800;
+  font-family: $title-font-family;
+}
+
+// Embeds
+iframe, embed,
+figure, object {
+  margin-left: -($spacing-unit / 2);
+  width: calc(100% + #{$spacing-unit});
+
+  @include media-query($on-palm) {
+    margin-left: 0;
+    width: 100%;
+  }
+}

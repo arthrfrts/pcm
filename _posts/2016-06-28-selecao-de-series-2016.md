@@ -20,7 +20,7 @@ _Game of Thrones_ acabou nesse último domingo com um monte de morte e um monte 
 
 Nós esperamos que essas sete séries lhe dão aquele gostinho de fazer uma maratona, de buscar coisas ainda mais legais e, claro, nos sugerir algo que você também acha que iremos gostar. Essas séries são só o começo: a gente gosta de ver o que você acha delas, e o que mais poderíamos ter sugerido. Vamos nessa?
 
-{% include image.html url="assets/images/covers/americans.jpg" alt="Imagem da série “The Americans”" title="The Americans, cortesia FX" %}
+{% include image.html url="assets/media/americans.jpg" alt="Imagem da série “The Americans”" title="The Americans, cortesia FX" %}
 
 ## The Americans
 
@@ -31,7 +31,7 @@ Nós esperamos que essas sete séries lhe dão aquele gostinho de fazer uma mara
 
 Vamos começar por cima? _The Americans_ é uma das melhores séries na TV hoje. A terceira temporada, que foi exibida nesse ano, é disparado a melhor coisa que aconteceu na TV em 2016. _The Americans_ é o filho de séries como _Família Soprano_, _Mad Men_ e _Breaking Bad_: isso mesmo, uma herança de gigantes. Talvez seja até melhor que elas. Contanto a história de um casal de espiões soviéticos nos EUA, a série não brinca em ser emocionalmente forte e muitíssimo bem escrita. E prepara o espectador para um jogo tão forte com aquilo que nos ensinou e nos fez acreditar que, mesmo depois de assistir todos os episódios, vai ficar sedendo esperando a próxima temporada.
 
-{% include image.html url="assets/images/covers/broad-city.jpg" alt="Imagem da série “Broad City”" title="Broad City, cortesia Comedy Central" %}
+{% include image.html url="assets/media/broad-city.jpg" alt="Imagem da série “Broad City”" title="Broad City, cortesia Comedy Central" %}
 
 ## Broad City
 
@@ -42,7 +42,7 @@ Vamos começar por cima? _The Americans_ é uma das melhores séries na TV hoje.
 
 É incrível que _Broad City_ exista, pra falar a verdade. Ela existe naquele universo insano de que a televisão consegue criar teoricamente tudo — mas que muitíssimo pouco disso é realmente percebido pelos seus manda-chuvas. Contando a vida de duas mulheres e suas desventuras por Nova York, com muitíssimo bom humor, sinceridade e aquele sabor agridoce do aprendizado e da realização de que a vida, por mais feliz e divertida que seja, vem carregada de perdas, medos e histerias. Sua última temporada foi insana de divertida, e fez suas duas personagens principais crescerem como poucas séries permitiriam (vide _Girls_ — que eu também gosto bastante —, que demorou cinco temporadas para que suas personagens finalmente amadurecessem).
 
-{% include image.html url="assets/images/covers/halt.jpg" alt="Imagem da série “Halt and Catch Fire”" title="Halt and Catch Fire, cortesia AMC" %}
+{% include image.html url="assets/media/halt.jpg" alt="Imagem da série “Halt and Catch Fire”" title="Halt and Catch Fire, cortesia AMC" %}
 
 ## Halt and Catch Fire
 
@@ -53,7 +53,7 @@ Vamos começar por cima? _The Americans_ é uma das melhores séries na TV hoje.
 
 A melhor surpresa que eu tive na TV do ano passado _Halt and Catch Fire_ é um deleite. Capturando um momento na indústria da informática que une o fervor da descoberta (como aquele que vemos em _A Rede Social_), mas também o medo de até onde esse avanço pode alcançar. Unindo um elenco de peso e ideias maravilhosas que realmente se concretizam (e não apenas vivem no mundo da possibilidade, já que aqui é uma série que bota tudo o que tem na tela), _Halt and Catch Fire_ é algo como um thriller e um drama de época, um fervor de descoberta e um medo do desconhecido — seja ele do tecnológico ou do humano. É TV de primeira, também.
 
-{% include image.html url="assets/images/covers/master-of-none.jpg" alt="Imagem da série “Master of None”" title="Master of None, cortesia Netflix" %}
+{% include image.html url="assets/media/master-of-none.jpg" alt="Imagem da série “Master of None”" title="Master of None, cortesia Netflix" %}
 
 ## Master of None
 
@@ -64,7 +64,7 @@ A melhor surpresa que eu tive na TV do ano passado _Halt and Catch Fire_ é um d
 
 A vida adulta fascina a TV já que, afinal de contas, ela atingiu a maturidade há pouco mais de uma década. _Master of None_ mostra como a vida adulta, no final de contas, não é nada demais e esse já é um grande motivo de ela ser interessante. Aziz Ansari encontra nessa premissa uma excelente série de auto descoberta, romance e, inclusive, o modo da Netflix de tratar suas séries. É diferente de tudo o que o serviço ofereceu até o momento: ao invés de ser uma grande e intrincada temporada com episódios bastante co-dependentes, _Master of None_ é totalmente episódica e imprevisível — e isso a torna fascinante por si só.
 
-{% include image.html url="assets/images/covers/silicon-valley.jpg" alt="Imagem da série “Silicon Valley”" title="Silicon Valley, cortesia HBO" %}
+{% include image.html url="assets/media/silicon-valley.jpg" alt="Imagem da série “Silicon Valley”" title="Silicon Valley, cortesia HBO" %}
 
 ## Silicon Valley
 
@@ -75,7 +75,7 @@ A vida adulta fascina a TV já que, afinal de contas, ela atingiu a maturidade h
 
 Eu sempre achei _Silicon Valley_ divertida. Ela é meio que o oposto de _Halt and Catch Fire_, e mostra uma visão bem decepcionada do universo da tecnologia da informação. Mas, cara, o que eles fizeram esse ano é surreal. _Silicon Valley_ passou uma temporada inteira explorando seus personagens e vendo do que eles eram capazes, e com isso nos entregou uma das melhores comédias que a HBO já fez (ao lado de uma outra que está logo abaixo) e um dos retratos mais honestos de amizade da TV. Uma surpresa, e um deleite.
 
-{% include image.html url="assets/images/covers/veep.jpg" alt="Imagem da série “Veep”" title="Veep, cortesia HBO" %}
+{% include image.html url="assets/media/veep.jpg" alt="Imagem da série “Veep”" title="Veep, cortesia HBO" %}
 
 ## Veep
 
@@ -86,7 +86,7 @@ Eu sempre achei _Silicon Valley_ divertida. Ela é meio que o oposto de _Halt an
 
 A finale desse domingo foi difícil. _Veep_ apontou pra um caminho que eu nunca havia pensado antes, mas vamos lá. A verdadeira líder das comédias hoje. _Veep_ é poderosa e divertidíssima, honestamente aterrorizante e dolorosamente hilária. Repleta pelo melhor elenco em uma série cômica atualmente, e roteiros afiadíssimos que exploram, debocham e se fascinam pelo intrincado universo político americano — e pelos incríveis seres que habitam esse universo —, _Veep_ é uma versão mais honesta, menos glamurosa de _The West Wing_, se é que você consegue me entender. Mais que isso, porém: é um retrato bastante doloroso de como o poder destroi uma pessoa, e a performance vertiginosa da Julia Louis-Dreyfus entrega cada nuance necessária.
 
-{% include image.html url="assets/images/covers/leftovers.jpg" alt="Imagem da série “The Leftovers”" title="The Leftovers, cortesia HBO" %}
+{% include image.html url="assets/media/leftovers.jpg" alt="Imagem da série “The Leftovers”" title="The Leftovers, cortesia HBO" %}
 
 ## The Leftovers
 

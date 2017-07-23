@@ -2,17 +2,17 @@
 layout: default
 ---
 <article class="page" itemprop="mainEntity" id="blog" data-paginator-current="{{ paginator.page }}" data-paginator-total="{{ paginator.total_pages }}">
-{% assign postsPerPage = site.paginate %}
+{% assign posts_per_page = site.paginate %}
 
 {% if paginator.page == 1 %}
-  {% assign postsOffset = 0 %}
-  {% assign postsPerPage = postsPerPage | plus: 1 %}
+  {% assign posts_offset = 0 %}
+  {% assign posts_per_page = posts_per_page | plus: 1 %}
 {% else %}
-  {% assign postsOffset = paginator.page | minus: 1 | times: postsPerPage | plus: 1 %}
+  {% assign posts_offset = paginator.page | minus: 1 | times: posts_per_page | plus: 1 %}
 {% endif %}
 
-  {% for post in site.posts offset: postsOffset limit: postsPerPage %}
-    {% if postsOffset == 0 and forloop.first == true %}
+  {% for post in site.posts offset: posts_offset limit: posts_per_page %}
+    {% if posts_offset == 0 and forloop.first == true %}
       <header class="page-header">
         <h1 class="headline">A nossa dica hoje é:</h1>
       </header>
@@ -22,12 +22,12 @@ layout: default
 
         <p class="site-description">{{ site.description }}</p>
 
-    {% else %}
         <div class="post-list">
+    {% else %}
           {% include post-card.html format=standard %}
+        {% if posts_offset == 0 and forloop.last == true %}
+          </div>
         </div>
-        {% if postsOffset == 0 and forloop.last == true %}
-      </div>
         {% endif %}
     {% endif %}
   {% endfor %}
@@ -35,7 +35,7 @@ layout: default
 
 <nav class="pagination">
   {% if paginator.next_page %}
-  <a class="next-page pagination-link" href="javascript:void()">Veja mais dicas</a>
+  <a class="next-page pagination-link" href="javascript:void(0)">Veja mais dicas</a>
   {% else %}
   <span class="next-page pagination-link">&times; Isso é tudo, pessoal!<br />
     (amanhã tem mais)<br />
