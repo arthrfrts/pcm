@@ -1,5 +1,5 @@
 ---
-date: '2017-01-02'
+date: 2017-01-02
 title: O Pão com Mortadela agora tem uma newsletter!
 product: Pãozinho quente
 cover: paozinho-quente.png

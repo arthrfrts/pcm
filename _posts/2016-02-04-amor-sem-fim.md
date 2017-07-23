@@ -4,7 +4,7 @@ cover: amor-sem-fim.jpg
 description: Ian McEwan consegue tornar até a paixão em algo macabro.
 product: Amor sem fim
 category: Livros
-date: '2016-02-04'
+date: 2016-02-04
 ---
 
 Qual o mistério de _Amor sem fim_?

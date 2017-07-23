@@ -4,7 +4,7 @@ cover: peanuts.jpg
 description: Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).
 product: Peanuts
 category: HQs
-date: '2016-01-11'
+date: 2016-01-11
 ---
 
 > Peanuts é sobre como os sonhos podem nunca se tornar realidade.

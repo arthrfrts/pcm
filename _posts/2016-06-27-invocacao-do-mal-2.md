@@ -5,7 +5,7 @@ description: 'A continuaçào do excelente filme de 2013 segue um caminho certei
   o de causar medo, e não susto.'
 product: Invocação do Mal 2
 category: Filmes
-date: '2016-06-27'
+date: 2016-06-27
 ---
 
 > O filme prende você dentro de um verdadeiro pesadelo.

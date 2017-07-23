@@ -5,7 +5,7 @@ description: Depois de dois anos, o quarto ato de Kentucky Route Zero finalmente
   lançado. É excelente.
 product: Kentucky Route Zero Act IV
 category: Jogos
-date: '2016-07-21'
+date: 2016-07-21
 ---
 
 > Kentucky Route Zero é uma tragédia. E todas as tragédias acabam do mesmo jeito.

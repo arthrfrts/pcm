@@ -4,7 +4,7 @@ cover: night-of.jpg
 description: 'Preparem-se: essa pode ser a nova grande série policial.'
 product: The Night Of
 category: Séries
-date: '2016-07-14'
+date: 2016-07-14
 ---
 
 > Será essa a melhor série de 2016?

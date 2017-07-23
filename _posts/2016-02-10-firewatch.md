@@ -5,7 +5,7 @@ description: O jogo de estreia da Campo Santo é mais um do pequeno nicho de jog
   que possuem uma narrativa madura e corajosa.
 product: Firewatch
 category: Jogos
-date: '2016-02-10'
+date: 2016-02-10
 ---
 
 > _Firewatch_ possui alguns dos melhores diálogos já escritos pros videogames.

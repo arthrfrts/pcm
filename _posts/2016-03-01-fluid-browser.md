@@ -4,7 +4,7 @@ cover: fluid.jpg
 description: "Um navegador semitransparente onde a gente pode ver uma série enquanto escreve aquele post pro :bread:."
 product: Fluid Browser
 category: Links
-date: '2016-03-01'
+date: 2016-03-01
 ---
 
 A dica de hoje é um app. Mas é um app que eu ando usando com uma certa frequência ultimamente. O [Fluid](http://fluidbrowser.com) é um navegador que permite que tu faça duas coisas ao mesmo tempo. Seja trabalho e trabalho, seja diversão e diversão, seja diversão e trabalho.

@@ -4,7 +4,7 @@ cover: esperando-godot.jpg
 description: Um homem, uma árvore e outro homem. Uma obra-prima.
 product: Esperando Godot
 category: Livros
-date: '2016-07-19'
+date: 2016-07-19
 ---
 
 > Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.

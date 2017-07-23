@@ -4,7 +4,7 @@ cover: leia-brasileiros.jpg
 product: Leia Brasileiros
 description: Todos os dias um pouquinho de literatura brasileira no seu email.
 category: Links
-date: '2017-01-12'
+date: 2017-01-12
 ---
 
 (Tá aí uma dica que foi difícil de encontrar uma imagem pra ilustrar).

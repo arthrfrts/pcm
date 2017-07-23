@@ -4,7 +4,7 @@ cover: todos-os-homens-do-presidente.jpg
 description: Clássico dos anos 1970 mantém sua contemporalidade como um dos grandes filmes já feitos.
 product: Todos os Homens do Presidente
 category: Filmes
-date: '2016-01-25'
+date: 2016-01-25
 ---
 
 Thrillers processuais. Talvez um dos meus estilos de filme favoritos. _Todos os Homens do Presidente_ talvez seja o melhor deles.

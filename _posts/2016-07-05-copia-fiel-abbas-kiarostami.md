@@ -4,7 +4,7 @@ cover: copia-fiel.jpg
 description: O maior diretor do nosso tempo partiu ontem, com 76 anos. Esse é um post com uma dica, mas na verdade é uma despedida.
 product: Cópia Fiel
 category: Filmes
-date: '2016-07-05'
+date: 2016-07-05
 ---
 
 > Adeus, Kiarostami. Foi uma honra.

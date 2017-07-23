@@ -4,7 +4,7 @@ cover: gilmore-girls.jpg
 description: Um dos mais charmosos seriados americanos de todos os tempos está disponível na Netflix — é hora de rever <em>Gilmore Girls</em> o resto de nossa existência.
 product: Gilmore Girls
 category: Séries
-date: '2016-07-04'
+date: 2016-07-04
 ---
 
 > Poucas séries se preocuparam tanto com seus personagens quanto essa.

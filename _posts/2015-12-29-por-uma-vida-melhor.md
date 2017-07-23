@@ -5,7 +5,7 @@ description: No filme mais simples, e mais charmoso, de Sam Mendes, nós finalme
   conhecemos pessoas bacanas.
 product: Por Uma Vida Melhor
 category: Filmes
-date: '2015-12-29'
+date: 2015-12-29
 ---
 
 > Poxa, quantos personagens legais assim a gente vê no cinema ou na TV?

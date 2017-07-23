@@ -5,7 +5,7 @@ description: Nós selecionamos um filme, uma série, um jogo, um álbum e um lin
   você terminar bem esse ano.
 product: 5 de 2015
 category: Listas
-date: '2015-12-23'
+date: 2015-12-23
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.

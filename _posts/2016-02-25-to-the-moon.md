@@ -4,7 +4,7 @@ cover: to-the-moon.jpg
 description: Jogo do estúdio independente Freebird Games permite você proporcionar, e vivenciar, uma história de amor
 product: To The Moon
 category: Jogos
-date: '2016-02-25'
+date: 2016-02-25
 ---
 
 Se você, assim como eu, é fascinado pelos jogos de RPG, mas tem problemas com toda aquela complexidade desnecessária de classes, grupos, mecânicas de batalha; ou com os clichês traiçoeiros que eles exploram, vai adorar _To The Moon_. Feito sob medida para aqueles que gostam de jogos “narrativos”, como andam chamando por aí, o jogo permite ao jogador ser o sentimento que liga um casal, perdido em memórias.

@@ -1,5 +1,5 @@
 ---
-date: '2017-01-02T09:00:00.000+00:00'
+date: 2017-01-02
 cover: pcm-expectativa-2017.jpg
 title: O que mais esperamos em 2017
 product: O que vem em 2017
