@@ -1,10 +1,11 @@
 ---
 title: Por Uma Vida Melhor
-cover:  por-uma-vida-melhor.jpg
-description: No filme mais simples, e mais charmoso, de Sam Mendes, nós finalmente conhecemos pessoas bacanas.
+cover: por-uma-vida-melhor.jpg
+description: No filme mais simples, e mais charmoso, de Sam Mendes, nós finalmente
+  conhecemos pessoas bacanas.
 product: Por Uma Vida Melhor
-category: Filmes
 date: '2015-12-29T00:00:00.000+00:00'
+categories: Filmes
 ---
 
 > Poxa, quantos personagens legais assim a gente vê no cinema ou na TV?

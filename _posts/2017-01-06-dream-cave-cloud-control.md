@@ -1,10 +1,10 @@
 ---
-title: <em>Dream Cave</em> é novo e empolgante.
-cover:  cloud-control-dream-cave.jpg
+title: "<em>Dream Cave</em> é novo e empolgante."
+cover: cloud-control-dream-cave.jpg
 product: Dream Cave
 description: O segundo álbum do Cloud Control não é perfeito, mas caramba como é bom.
-category: Músicas
 date: '2017-01-06T00:00:00.000+00:00'
+categories: Músicas
 ---
 
 Eu sou apaixonado pelo _Bliss Release_, álbum de estreia dos australianos Cloud Control. “Islands”, “My Fear (1)”, “Gold Canary” e “There's No Smoking In The Water” são divertidíssimas de ouvir, sempre, e embalaram uma boa parte do meu ensino médio. O melhor? Elas envelhecem muitíssimo bem.

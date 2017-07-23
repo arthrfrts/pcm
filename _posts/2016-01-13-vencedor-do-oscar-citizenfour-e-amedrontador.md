@@ -1,10 +1,11 @@
 ---
-title: 'Vencedor do Oscar, <em>Citizenfour</em> é amedrontador'
-cover:  citizenfour.jpg
-description: 'O documentário de Laura Poitras vai fazer você pensar duas vezes na hora de digitar sua senha.'
+title: Vencedor do Oscar, <em>Citizenfour</em> é amedrontador
+cover: citizenfour.jpg
+description: O documentário de Laura Poitras vai fazer você pensar duas vezes na hora
+  de digitar sua senha.
 product: Citizenfour
-category: Filmes
 date: '2016-01-13T00:00:00.000+00:00'
+categories: Filmes
 ---
 
 Existe uma grande probabilidade de que _Snowden_, o filme que Oliver Stone dirige sobre a revelação do sistema de vigilância global da NSA que espionou centenas de milhares de meios de comunicação de civis internacionalmente, seja uma dramatização bem menos empolgante que _Citizenfour_.

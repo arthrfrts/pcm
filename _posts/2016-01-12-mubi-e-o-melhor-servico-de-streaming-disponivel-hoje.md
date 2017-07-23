@@ -1,10 +1,10 @@
 ---
-title: 'MUBI é o melhor serviço de streaming disponível hoje'
-cover:  mubi.jpg
-description: 'Com o MUBI, você sempre terá um filme novo pra ver.'
+title: MUBI é o melhor serviço de streaming disponível hoje
+cover: mubi.jpg
+description: Com o MUBI, você sempre terá um filme novo pra ver.
 product: MUBI
-category: Links
 date: '2016-01-12T00:00:00.000+00:00'
+categories: Links
 ---
 
 Se você é como eu, deve passar muito tempo olhando o catálogo do Netflix, buscando aquele filme. Ele é um tipo bem específico. Ele é diferente, mas não necessariamente conceitual. Ele parece ser bom, mas se não for, pelo menos valeu a viagem. Ele tem algo a mais. Aquilo que te faz buscar por ele, que outros filmes não o fazem. O problema é: muitas vezes, não é no Netflix que eu vou encontrar.

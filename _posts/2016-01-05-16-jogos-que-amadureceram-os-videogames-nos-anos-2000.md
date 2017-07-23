@@ -1,10 +1,11 @@
 ---
-title: '16 jogos que amadureceram os videogames nos anos 2000'
-cover:  16-jogos.jpg
-description: 'De <em>The Sims</em> a <em>The Last of Us</em>, os anos 2000 nos apresentaram fascinantes jogos que mudaram nossa percepção de como jogar.'
+title: 16 jogos que amadureceram os videogames nos anos 2000
+cover: 16-jogos.jpg
+description: De <em>The Sims</em> a <em>The Last of Us</em>, os anos 2000 nos apresentaram
+  fascinantes jogos que mudaram nossa percepção de como jogar.
 product: 16 Jogos dos anos 2000
-category: Listas
 date: '2016-01-05T00:00:00.000+00:00'
+categories: Listas
 ---
 
 No início dos anos 1990, os videogames se salvaram da falta de criatividade com títulos _Super Mario World_ e _SimCity_, que ou elevavam os padrões de qualidade com um game design perfeito, ou expandiam a compreensão do que podia ser jogado. Demoraria seis anos para que o mercado visse outra revolução, novamente com Mario, em _Super Mario 64_, _Half-Life_ e o inigualável _The Legend of Zelda: Ocarina of Time_. Eles definiriam como os jogos 3D funcionariam e quais suas possibilidades, dariam um salto de qualidade tão grande aos jogos que seriam alcançados apenas anos depois e, graças a eles, os jogadores se perguntavam “e agora?”

@@ -1,10 +1,10 @@
 ---
-title: 'A Edição de Volta as Aulas'
-cover:  talvez-voce-goste-volta-as-aulas.jpg
-description: 'Vamos voltar a rotina com algumas dicas rápidas do que ver, ouvir e jogar.'
+title: A Edição de Volta as Aulas
+cover: talvez-voce-goste-volta-as-aulas.jpg
+description: Vamos voltar a rotina com algumas dicas rápidas do que ver, ouvir e jogar.
 product: Volta as aulas
-category: Talvez você goste…
 date: '2016-03-04T00:00:00.000+00:00'
+categories: Talvez você goste…
 ---
 
 É, as férias oficialmente acabaram. Tá na hora de voltar com faculdade, escola, trabalho… o que fazer nesse primeiro final de semana depois do retorno da rotina? Aproveitar a folguinha, com certeza!

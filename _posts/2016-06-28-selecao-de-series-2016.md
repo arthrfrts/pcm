@@ -1,10 +1,11 @@
 ---
-title: '7 séries pra você ver nessas férias'
-cover:  americans.jpg
-description: 'Nossa seleção de séries para você começar a acompanhar, ou fazer uma maratona, nesse próximo mês'
+title: 7 séries pra você ver nessas férias
+cover: americans.jpg
+description: Nossa seleção de séries para você começar a acompanhar, ou fazer uma
+  maratona, nesse próximo mês
 product: Séries para o inverno
-category: Séries
 date: '2016-06-28T00:00:00.000+00:00'
+categories: Séries
 ---
 
 _Game of Thrones_ acabou nesse último domingo com um monte de morte e um monte de pistas pro que vai acontecer nas duas próximas (e últimas?) temporadas. Você vai ter até o ano que vem para esperar uma nova temporada e as férias de inverno estão aí. Péssimo _timing_, HBO, a gente vai precisar de algumas coisas pra ver.

@@ -1,11 +1,13 @@
 ---
-category: Listas
-cover:  pcm-melhores-2016.png
+cover: pcm-melhores-2016.png
 title: Os 5 melhores de 2016
 product: Melhores do Ano
-description: Antes de entrarmos em férias, vamos dar uma olhada naquilo que teve de melhor nesse (péssimo) ano. Nos acompanhe com o melhor filme, o melhor álbum, o melhor jogo, a melhor série e o melhor livro que vimos, jogamos, ouvimos e lemos esse ano.
-category: Listas
+description: Antes de entrarmos em férias, vamos dar uma olhada naquilo que teve de
+  melhor nesse (péssimo) ano. Nos acompanhe com o melhor filme, o melhor álbum, o
+  melhor jogo, a melhor série e o melhor livro que vimos, jogamos, ouvimos e lemos
+  esse ano.
 date: '2016-12-22T00:00:00.000+00:00'
+categories: Listas
 ---
 
 2016 não foi lá um bom ano no geral. Aqui com os padeiros também. Eu e a Thai tivemos um ano puxado e frustrante, e acabamos não conseguindo dar toda a nossa atenção ao nosso querido :bread:. Nós esperamos que 2017 seja melhor, e por isso vamos voltar com as dicas diárias na primeira segunda-feira do ano, dia 2 de janeiro.

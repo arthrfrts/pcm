@@ -1,10 +1,11 @@
 ---
-title: 'Uma carta de amor a <em>Pokémon</em>'
-cover:  pokemon-20.jpg
-description: 'Nos vinte anos de uma das maiores franquias dos jogos, nós declaramos nosso amor aos monstrinhos'
+title: Uma carta de amor a <em>Pokémon</em>
+cover: pokemon-20.jpg
+description: Nos vinte anos de uma das maiores franquias dos jogos, nós declaramos
+  nosso amor aos monstrinhos
 product: Pokémon
-category: Jogos
 date: '2016-02-29T00:00:00.000+00:00'
+categories: Jogos
 ---
 
 _Pokémon_ fez vinte anos nesse último sábado, dia 27. Fazia anos que eu não enxia meus olhos com tantos dos monstrinhos de bolso que eu sempre amei.

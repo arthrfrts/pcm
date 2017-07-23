@@ -1,10 +1,11 @@
 ---
-title: 'Em <em>To The Moon</em> você é a história de amor'
-cover:  to-the-moon.jpg
-description: 'Jogo do estúdio independente Freebird Games permite você proporcionar, e vivenciar, uma história de amor'
+title: Em <em>To The Moon</em> você é a história de amor
+cover: to-the-moon.jpg
+description: Jogo do estúdio independente Freebird Games permite você proporcionar,
+  e vivenciar, uma história de amor
 product: To The Moon
-category: Jogos
 date: '2016-02-25T00:00:00.000+00:00'
+categories: Jogos
 ---
 
 Se você, assim como eu, é fascinado pelos jogos de RPG, mas tem problemas com toda aquela complexidade desnecessária de classes, grupos, mecânicas de batalha; ou com os clichês traiçoeiros que eles exploram, vai adorar _To The Moon_. Feito sob medida para aqueles que gostam de jogos “narrativos”, como andam chamando por aí, o jogo permite ao jogador ser o sentimento que liga um casal, perdido em memórias.

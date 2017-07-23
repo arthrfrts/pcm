@@ -3,11 +3,11 @@ layout: post
 number: 70
 author: arthrfrts
 title: Você nunca vai jogar nada como <em>The Entertainment</em>
-cover:  the-entertainment.jpg
+cover: the-entertainment.jpg
 product: The Entertainment
 description: "É uma peça. É um jogo. Sei lá o que é, mas é demais."
-category: Jogos
 date: '2017-01-25T00:00:00.000+00:00'
+categories: Jogos
 ---
 
 > Seja lá o que você acha que é, _The Entertainment_ é fantástico.

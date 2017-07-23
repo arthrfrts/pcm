@@ -1,10 +1,10 @@
 ---
-title: '<em>Amor sem fim</em> é um mistério sobre as razões do amor'
-cover:  amor-sem-fim.jpg
-description: 'Ian McEwan consegue tornar até a paixão em algo macabro.'
+title: "<em>Amor sem fim</em> é um mistério sobre as razões do amor"
+cover: amor-sem-fim.jpg
+description: Ian McEwan consegue tornar até a paixão em algo macabro.
 product: Amor sem fim
-category: Livros
 date: '2016-02-04T00:00:00.000+00:00'
+categories: Livros
 ---
 
 Qual o mistério de _Amor sem fim_?

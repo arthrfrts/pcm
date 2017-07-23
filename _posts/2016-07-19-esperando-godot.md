@@ -1,10 +1,10 @@
 ---
-title: 'Não há muito o que dizer sobre <em>Esperando Godot</em>'
-cover:  esperando-godot.jpg
-description: 'Um homem, uma árvore e outro homem. Uma obra-prima.'
+title: Não há muito o que dizer sobre <em>Esperando Godot</em>
+cover: esperando-godot.jpg
+description: Um homem, uma árvore e outro homem. Uma obra-prima.
 product: Esperando Godot
-category: Livros
 date: '2016-07-19T00:00:00.000+00:00'
+categories: Livros
 ---
 
 > Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.

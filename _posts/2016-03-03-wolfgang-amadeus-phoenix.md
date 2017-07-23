@@ -1,10 +1,11 @@
 ---
-title: '<em>Wolfgang Amadeus Phoenix</em> diverte pra sempre'
-cover:  wolfgang-amadeus-phoenix.jpg
-description: 'O melhor álbum do Phoenix é, também, a busca deles de alcançar o pop perfeito.'
+title: "<em>Wolfgang Amadeus Phoenix</em> diverte pra sempre"
+cover: wolfgang-amadeus-phoenix.jpg
+description: O melhor álbum do Phoenix é, também, a busca deles de alcançar o pop
+  perfeito.
 product: Wolfgang Amadeus Phoenix
-category: Músicas
 date: '2016-03-03T00:00:00.000+00:00'
+categories: Músicas
 ---
 
 A “busca pelo _pop perfeito_” é incessante. Mesmo pra Michael Jackson, que já o encontrou mais de uma vez, o pop perfeito era algo que se metamorfoseava toda a vez que ele o encontrava. Não é a toa. O pop em si se transforma a cada punhado de anos, e se você parar pra pensar [no que era pop antes](https://youtu.be/dsUXAEzaC3Q), e [o que é pop agora](https://youtu.be/pFptt7Cargc), pode se espantar: o pop como gênero é uma eterna transformação. Atingir essa perfeição, então, não é só fruto de conhecer o seu tempo, é também saber o que virá pela frente.

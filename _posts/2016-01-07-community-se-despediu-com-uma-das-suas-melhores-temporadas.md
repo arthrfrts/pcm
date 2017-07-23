@@ -1,10 +1,11 @@
 ---
-title: '<em>Community</em> se despediu com uma das suas melhores temporadas'
-cover:  community.jpg
-description: 'Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer que você aprenda também.'
+title: "<em>Community</em> se despediu com uma das suas melhores temporadas"
+cover: community.jpg
+description: Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer
+  que você aprenda também.
 product: Community S06
-category: Séries
 date: '2016-01-07T00:00:00.000+00:00'
+categories: Séries
 ---
 
 Vamos a algumas verdades absolutas da TV: a última temporada de _The Wire_ é uma decepção; _Seinfield_ é uma das melhores comédias da TV, mas a idade pesa; _Community_ era uma das melhores coisas que vimos na televisão em suas três primeiras temporadas, mas nunca conseguiu retomar sua glória depois.

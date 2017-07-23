@@ -1,10 +1,11 @@
 ---
 date: '2017-01-02T09:00:00.000+00:00'
-category: Listas
-cover:  pcm-expectativa-2017.jpg
+cover: pcm-expectativa-2017.jpg
 title: O que mais esperamos em 2017
 product: O que vem em 2017
-description: Para celebrar esse ano que tá chegando, escolhemos cinco coisas que esperamos ver, ouvir, jogar e ler em 2017. Nos acompanhe…
+description: Para celebrar esse ano que tá chegando, escolhemos cinco coisas que esperamos
+  ver, ouvir, jogar e ler em 2017. Nos acompanhe…
+categories: Listas
 ---
 
 Olá, e boas vindas a 2017! Se tá lendo isso, é porque tu provavelmente está no futuro. Como foi a virada de ano? Alguma tragédia nesses quatro dias de diferença? 2017 já é melhor que 2016? Esperamos que sim.
