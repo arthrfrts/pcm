@@ -134,8 +134,8 @@ h1, h2, h3, h4, h5, h6 {
 // Embeds
 iframe, embed,
 figure, object {
-  margin-left: -($spacing-unit / 2);
-  width: calc(100% + #{$spacing-unit});
+  margin-left: -($spacing-unit);
+  width: calc(100% + (#{$spacing-unit} * 2));
 
   @include media-query($on-palm) {
     margin-left: 0;
