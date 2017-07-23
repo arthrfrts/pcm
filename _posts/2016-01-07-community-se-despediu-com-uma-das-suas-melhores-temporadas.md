@@ -2,7 +2,7 @@
 layout: post
 title: '<em>Community</em> se despediu com uma das suas melhores temporadas'
 number: '11'
-image: community.jpg
+cover:  community.jpg
 description: 'Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer que você aprenda também.'
 author: arthrfrts
 category: 'Séries'

@@ -1,0 +1,58 @@
+{% if include.format == 'featured' %}
+<figure class="post-card latest-post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <a href="{{ post.url | relative_url }}" itemprop="url">
+    <img src="{{ post.cover | prepend: '/assets/media/' | relative_url }}" alt="{{ post.product }}" itemprop="image" />
+  </a>
+
+  <figcaption class="post-info">
+    <span class="post-meta">#{{ post.index }}</span>
+    <h2 class="post-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}">{{ post.product }}</a>
+    </h2>
+    <span class="post-meta" itemprop="keywords">{{ post.category }}</span>
+  </figcaption>
+</figure>
+{% endif %}
+{% if include.format == 'previous' %}
+<figure class="post-card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <a href="{{ page.previous.url | relative_url }}" itemprop="url">
+    <img src="{{ page.previous.cover | prepend: '/assets/media/' | relative_url }}" alt="{{ page.previous.product }}" itemprop="image" />
+  </a>
+
+  <figcaption class="post-info">
+    <span class="post-meta">Dica anterior</span>
+    <h2 class="post-title" itemprop="headline">
+      <a href="{{ page.previous.url | relative_url }}">{{ page.previous.product }}</a>
+    </h2>
+  </figcaption>
+</figure>
+{% endif %}
+{% if include.format == 'next' %}
+{{ post.cover }}
+<figure class="post-card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <a href="{{ page.next.url | relative_url }}" itemprop="url">
+    <img src="{{ page.next.cover | prepend: '/assets/media/' | relative_url }}" alt="{{ page.next.product }}" itemprop="image" />
+  </a>
+
+  <figcaption class="post-info">
+    <span class="post-meta">Próxima dica</span>
+    <h2 class="post-title" itemprop="headline">
+      <a href="{{ page.next.url | relative_url }}">{{ page.next.product }}</a>
+    </h2>
+  </figcaption>
+</figure>
+{% endif %}
+{% unless include.format %}
+<figure class="post-card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <a href="{{ post.url | relative_url }}" itemprop="url">
+    <img src="{{ post.cover | prepend: '/assets/media/' | relative_url }}" alt="{{ post.product }}" itemprop="image" />
+  </a>
+
+  <figcaption class="post-info">
+    <span class="post-meta">#{{ post.index }} &middot; {{ post.category }}</span>
+    <h2 class="post-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}">{{ post.product }}</a>
+    </h2>
+  </figcaption>
+</figure>
+{% endunless %}

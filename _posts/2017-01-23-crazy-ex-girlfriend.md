@@ -2,7 +2,7 @@
 layout: post
 number: 68
 author: arthrfrts
-image: crazy-ex-girlfriend.jpg
+cover:  crazy-ex-girlfriend.jpg
 title: Tá na hora de ver <em>Crazy Ex-Girlfriend</em>.
 product: Crazy Ex-Girlfriend (S01)
 category: Séries

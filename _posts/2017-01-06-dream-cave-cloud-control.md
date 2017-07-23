@@ -2,7 +2,7 @@
 layout: post
 number: 53
 title: <em>Dream Cave</em> é novo e empolgante.
-image: cloud-control-dream-cave.jpg
+cover:  cloud-control-dream-cave.jpg
 author: arthrfrts
 product: Dream Cave
 category: Músicas

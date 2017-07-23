@@ -2,7 +2,7 @@
 layout: post
 number: 60
 author: arthrfrts
-image: the-xx-i-see-you.jpg
+cover:  the-xx-i-see-you.jpg
 title: <em>I See You</em> segue em frente com The xx no seu melhor álbum até aqui.
 product: I See You
 category: Músicas

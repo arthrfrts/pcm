@@ -2,7 +2,7 @@
 layout: post
 title: 'Lugares, pessoas, paisagens e histórias se confundem em <em>Viajo Porque Preciso, Volto Porque Te Amo</em>'
 number: '25'
-image: viajo-porque-preciso-volto-porque-te-amo.jpg
+cover:  viajo-porque-preciso-volto-porque-te-amo.jpg
 description: 'O filme de estrada de Karim Aïnouz e Marcelo Gomes talvez seja o mais brasileiro dos filmes.'
 author: arthrfrts
 category: 'Filmes'
@@ -15,7 +15,7 @@ product: "Viajo Porque Preciso,<br /> Volto Porque Te Amo"
 
 Ontem, a gente recomendou [_Firewatch_](firewatch.html), um jogo que levava o seu personagem principal para o isolamento de uma floresta, onde ele se reajustaria em relação à sua vida anterior. Em _Viajo Porque Preciso, Volto Porque Te Amo_, José Renato está atravessando o sertão a trabalho. Ele é um geólogo que precisa avaliar o trajeto de um possível novo canal que o governo quer criar ali. José Renato conhece mais que paisagens, e mais que pessoas nessa sua viagem. Como Henry no isolamento em Wyomig, ele está lá para se conhecer, ou se reconhecer. Em certos momentos, _Viajo Porque Preciso…_ flerta com a carta de amor, com o documental. Ele é certeiro, porém, quando não tenta nem um, nem outro. _Viajo Porque Preciso, Volto Porque Te Amo_ é imbativel quando sentamos ao lado de José Renato em seu carro, olhamos para a janela e o ouvimos questionar seu amor, seu passado e seu futuro, enquanto observamos um Brasil muito brasileiro. Lá pelos vinte minutos de filme, enquanto uma caravana passa, a câmera fica observando o rosto de uma mulher — e ela retribui o olhar. É aí que a essência, e a magia, de _Viajo…_ exala da tela. É aí que, mais que uma história de amor e de redenção, ele se torna um retrato íntimo do ser humano.
 
-{% include image.html url="assets/images/covers/viajo-2.jpg" alt="Imagem do filme" title="O rosto que significa Viajo Porque Preciso, Volto Porque Te Amo" %}
+{% include image.html url="/assets/media/viajo-2.jpg" alt="Imagem do filme" title="O rosto que significa Viajo Porque Preciso, Volto Porque Te Amo" %}
 
 O rosto em questão, uma hora, se encabula. Olha para baixo, volta a olhar para a câmera, dá um sorriso tímido. _Viajo Porque Preciso, Volto Porque Te Amo_ é um registro desses momentos, com várias pessoas. Nas vidas monótonas do filme, surgem esses instantes. Eles são breves, e quase imperceptíveis, esses momentos em que o tempo passa, em que _percebemos_ que ele passa. _Viajo…_ não busca a beleza da pobrezao ou na tristeza, como muitos poderiam fazer em sua situação. Ele busca, em sua viajem, entender a solidão. Mais que isso, porém, em entender a nossa necessidade de estar junto. De ter uma vida lazer, como uma das personagens dirá em um momento decisivo do filme. Afinal de contas, todos buscam amar e, ao menos um pouco, serem amados de volta.
 

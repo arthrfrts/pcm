@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'O Pão com Mortadela está com um novo endereço'
-image: pcm-novo-url.jpg
+cover:  pcm-novo-url.jpg
 description: 'O PCM agora é acessível pelo endereço <strong>paomortadela.com.br</strong>'
 author: arthrfrts
 category: 'Editorial'

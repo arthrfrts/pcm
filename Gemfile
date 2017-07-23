@@ -3,10 +3,9 @@ ruby RUBY_VERSION
 
 gem "jekyll"
 
-gem "minima"
-
 group :jekyll_plugins do
    gem "jekyll-feed"
+   gem "jekyll-coffeescript"
    gem "jekyll-paginate"
    gem "jekyll-sitemap"
    gem "jemoji"

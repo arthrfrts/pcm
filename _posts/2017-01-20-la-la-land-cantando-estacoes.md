@@ -3,7 +3,7 @@ layout: post
 number: 67
 author: arthrfrts
 title: A mágica do cinema tá todinha em <em>La La Land – Cantando Estações</em>
-image: la-la-land-cantando-estacoes.jpg
+cover:  la-la-land-cantando-estacoes.jpg
 product: La La Land – Cantando Estações
 category: Filmes
 description: Eu não esperava um filme tão bom assim.

@@ -2,7 +2,7 @@
 layout: post
 title: '<em>The Leftovers</em>: segunda temporada'
 number: '6'
-image: the-leftovers-2.png
+cover:  the-leftovers-2.png
 description: 'Em sua segunda temporada, The Leftovers se transformou na melhor série de 2015.'
 author: arthrfrts
 category: 'Séries'

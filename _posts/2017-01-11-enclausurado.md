@@ -3,7 +3,7 @@ layout: post
 number: 56
 author: arthrfrts
 title: <em>Enclausurado</em> é estranho pra caramba.
-image: enclausurado-ian-mcewan.jpg
+cover:  enclausurado-ian-mcewan.jpg
 description: Ian McEwan está manipulativo como sempre, mas divertido como nunca.
 category: Livros
 product: Enclausurado

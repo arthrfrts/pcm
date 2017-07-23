@@ -2,7 +2,7 @@
 layout: post
 title: 'A Edição de Volta as Aulas'
 number: '34'
-image: talvez-voce-goste-volta-as-aulas.jpg
+cover:  talvez-voce-goste-volta-as-aulas.jpg
 description: 'Vamos voltar a rotina com algumas dicas rápidas do que ver, ouvir e jogar.'
 author: arthrfrts
 category: 'Talvez você goste…'

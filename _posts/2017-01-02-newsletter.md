@@ -4,7 +4,7 @@ date: 2017-01-02 12:00:00
 layout: post
 title: O Pão com Mortadela agora tem uma newsletter!
 product: Pãozinho quente
-image: paozinho-quente.png
+cover:  paozinho-quente.png
 description: Agora você pode receber nossas dicas direto na caixa de entrada do seu email. Ainda bem.
 category: Links
 author: arthrfrts

@@ -4,7 +4,7 @@ layout: post
 title: <em>Upstream Color</em> não sai da minha cabeça.
 category: Filmes
 product: Upstream Color
-image: upstream-color.jpg
+cover:  upstream-color.jpg
 description: O segundo filme de um dos diretores americanos mais interessantes dessa geração é um mistério — e você não vai querer sair dele.
 author: arthrfrts
 ---
