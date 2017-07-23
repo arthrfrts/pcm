@@ -1,6 +1,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#f5cb5c" />
 
   <title>{{ page.title | default: site.title | strip_html | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | normalize_whitespace | truncate: 160 }}" />
@@ -9,6 +10,7 @@
   <link rel="author" type="text/plain" href="{{ '/humans.txt' | absolute_url }}" />
   <link rel="canonical" href="{{ page.url | replace: 'index.html','' | absolute_url }}" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} / RSS" href="{{ '/feed.xml' | absolute_url }}" />
+  <link rel="icon" type="image/png" href="{{ '/favicon.png' | absolute_url }}" />
 
   {% include opengraph.html %}
 </head>
