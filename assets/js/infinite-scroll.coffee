@@ -8,7 +8,7 @@ loadMorePosts = ->
   nextPage = parseInt($blogContainer.attr('data-paginator-current')) + 1
   totalPages = parseInt($blogContainer.attr('data-paginator-total'))
   $(this).addClass 'loading'
-  $.get '/page' + nextPage, (data) ->
+  $.get '/page' + nextPage + '/', (data) ->
     htmlData = $.parseHTML(data)
     $articles = $(htmlData).find('figure')
     $blogContainer.attr('data-paginator-current', nextPage).find('.post-list').append $articles
