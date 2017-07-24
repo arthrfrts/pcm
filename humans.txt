@@ -16,17 +16,17 @@ layout: null
 
 # TEAM
 
-    Arthur Freitas -- web site design and code
+  Arthur Freitas -- https://arthr.me/ -- web site design and code
 
 # AUTHORS
 
 {% for author in site.data.authors %}
-    {{ author[1].name | xml_escape }}{% if author[1].web %} -- {{ author[1].web }}{% endif %}{% if author[1].twitter %} -- @{{ author[1].twitter }}{% endif %}
+  {{ author[1].name | xml_escape }}{% if author[1].web %} -- {{ author[1].web }}{% endif %}{% if author[1].twitter %} -- @{{ author[1].twitter }}{% endif %}
 {% endfor %}
 
 # SPECIAL THANKS
 
-    Raul Fontoura -- http://raulranma.tumblr.com -- graphic art and illustrations
+  Raul Fontoura -- http://raulranma.tumblr.com -- graphic art and illustrations
 
 # TECHNOLOGY COLOPHON
 

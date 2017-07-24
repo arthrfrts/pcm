@@ -46,6 +46,11 @@
       text-align: center;
       font-style: italic;
     }
+
+    .page-title {
+      text-align: center;
+      font-size: $base-font-size * 2;
+    }
   }
 
   .page-content {
