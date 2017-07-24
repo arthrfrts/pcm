@@ -148,6 +148,12 @@
   }
 
   &.latest-post {
+    margin-left: -$spacing-unit;
+
+    @include media-query($on-palm) {
+        margin-left: 0;
+    }
+
     .post-info {
       @media screen and (min-width: $on-palm) {
         width: 70%;
