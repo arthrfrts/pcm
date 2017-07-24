@@ -38,5 +38,6 @@ plugins:
   - jemoji
 
 exclude:
+  - LICENSE
   - Gemfile
   - Gemfile.lock

@@ -1,13 +1,22 @@
 ---
 layout: null
 ---
+                     ###########
+                 ################
+              ###################
+            ##############
+          #############   #####
+         ###########   #######
+        ########### ########   #
+        ##################  ####
+        ##########  #########
+          ####      #######              arthr.me
 
-# humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible and technology colophon.
 
 # TEAM
 
-    Arthur Freitas -- http://arthr.me/
+    Arthur Freitas -- web site design and code
 
 # AUTHORS
 
@@ -18,13 +27,15 @@ layout: null
 # SPECIAL THANKS
 
     Raul Fontoura -- http://raulranma.tumblr.com -- graphic art and illustrations
-    Philip Klauzinski -- http://klauzinski.com/ -- jScroll
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    Jekyll
-    Atom, GitHub
-    JQuery, JScroll
+  Jekyll
+  HTML5, CSS3
+  jQuery
+  CoffeScript
 
-    Source: https://github.com/arthrfrts/pcm
+# TOOLS
+
+  GitHub -- code collaboration and hosting
+  Atom -- hackable text editor
