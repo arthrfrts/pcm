@@ -1,5 +1,5 @@
 ---
-product: Legion S01
+product: Legion, 1ª temporada
 title: '<em>Legion</em> é o futuro brilhante dos super-heróis.'
 description: A primeira série do universo dos X-Men é tudo o que tem de melhor nos super-heróis — e um pouco mais.
 cover: legion-s01.jpg

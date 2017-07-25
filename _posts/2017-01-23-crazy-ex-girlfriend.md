@@ -1,7 +1,7 @@
 ---
 cover: crazy-ex-girlfriend.jpg
 title: Tá na hora de ver <em>Crazy Ex-Girlfriend</em>.
-product: Crazy Ex-Girlfriend (S01)
+product: Crazy Ex-Girlfriend, 1ª temporada
 description: A animada e inteligente série da The CW é a melhor comédia no ar hoje.
 category: Séries
 date: 2017-01-23

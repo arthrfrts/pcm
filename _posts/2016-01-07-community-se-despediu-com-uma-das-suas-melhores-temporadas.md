@@ -2,7 +2,7 @@
 title: "<em>Community</em> se despediu com uma das suas melhores temporadas"
 cover: community.jpg
 description: Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer que você aprenda também.
-product: Community S06
+product: Community, 6ª temporada
 category: Séries
 date: 2016-01-07
 ---

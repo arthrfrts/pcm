@@ -1,7 +1,7 @@
 ---
 title: "<em>Westworld</em> pergunta muito e raramente responde."
 cover: westworld-s01.jpg
-product: Westworld S01
+product: Westworld, 1ª temporada
 description: As vezes frustrante, as vezes fascinante, a primeira temporada do novo blockbuster da HBO foi a maior série do ano.
 category: Séries
 date: 2017-01-09
