@@ -204,6 +204,7 @@
   .post-title {
     font-size: $base-font-size * 2;
     line-height: 1.2;
+    text-align: center;
   }
 
   .post-excerpt {
@@ -232,6 +233,9 @@
   }
 
   .post-content {
+    text-align: justify;
+    hyphens: auto;
+    
     figure {
       figcaption {
         font-style: italic;
