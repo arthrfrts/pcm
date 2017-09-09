@@ -158,6 +158,7 @@ blockquote {
   transform: rotate(-3deg);
   padding: $spacing-unit / 2;
   font-size: $base-font-size * 1.2;
+  hyphens: none;
 
   @include media-query($on-palm) {
     width: 90%;
