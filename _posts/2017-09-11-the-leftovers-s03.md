@@ -24,6 +24,8 @@ E no que você acredita, no final das contas? Esses novos mundos servem pra algo
 
 São as histórias, _The Leftovers_ acredita, no final das contas, que salvam um mundo, ou criam um novo. Quando Grace conta o que aconteceu com seus filhos; quando Laurie escuta a história de Jill ao telefone, prestes a pular no mar; quando Nora olha diretamente para Kevin, e conta o que aconteceu. Nossas vidas estão nas histórias que contamos, e as vezes tudo o que nos resta é acreditar nelas. Lutar contra a falta de sentido do mundo é importante, porque nos torna um indivíduo. Mas quando contamos histórias, e ouvimos histórias, nós construímos um mundo entre nós, juntos. _The Leftovers_, no final das contas, nunca esteve preocupado com como acabamos com nossos mundos — mas como salvamos aqueles que amamos com os nossos pequenos paraísos. Nós temos esse infinito, mortal e frio, ao redor de nós. Mas nós temos um ao outro e, ainda bem, nós estamos aqui.
 
+{% include video.html url="https://www.youtube.com/embed/Ev9NvQR-l2E?rel=0&amp;showinfo=0" %}
+
 ---
 
 **Onde posso assistir _The Leftovers_?** As três temporadas estão disponíveis na [HBO Go](http://www.hbogo.com.br/). Reprises acontecem na HBO Signature. Dê uma chance. É a melhor série que eu já vi.
