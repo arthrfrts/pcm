@@ -1,0 +1,11 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>{% if page.title %}{{ page.title | strip_html | normalize_whitespace }} ~ {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ page.description | strip_html | strip_newlines | normalize_whitespace | truncate: 140 | default: site.description }}" />
+
+<link rel="stylesheet" type="text/css" href="{{ '/assets/style.css' | relative_url }}" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}" />
+
+{% include parts/favicon.html %}
+{% include parts/opengraph.html %}

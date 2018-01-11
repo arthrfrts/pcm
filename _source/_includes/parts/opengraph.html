@@ -1,0 +1,27 @@
+<meta property="og:title" content="{{ page.title | strip_html | normalize_whitespace | default: site.title }}" />
+<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | normalize_whitespace | default: site.description }}" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta name="twitter:site" content="{{ site.contact.twitter | prepend: '@' }}" />
+{% if page.layout == 'post' %}
+<meta property="og:type" content="article" />
+<meta property="og:article:tag" content="{{ page.tags | split: ',' }}" />
+<meta property="og:article:published_date" content="{{ page.date | date_to_xmlschema }}" />
+{% if page.author %}
+{% assign author = site.data.authors[page.author] %}
+<meta property="og:article:author" content="{{ author.fullname }}" />
+<meta name="twitter:creator" content="{{ author.twitter | prepend: '@' }}" />
+{% endif %}
+{% endif %}
+{% if page.cover %}
+<meta property="og:image" content="{{ page.cover.src }}" />
+<meta property="og:image:alt" content="{{ page.cover.alt }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:alt" content="{{ page.cover.alt }}" />
+{% else %}
+<meta property="og:image" content="https://cldup.com/bb4lIeOhdW.jpg" />
+<meta name="twitter:card" content="summary" />
+{% endif %}
+{% unless page.layout == 'post' %}
+<meta property="og:type" content="website" />
+{% endunless %}

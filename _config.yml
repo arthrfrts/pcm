@@ -1,21 +1,17 @@
+# Site settings
 title: Pão com Mortadela
-url: 'https://paomortadela.com.br'
-baseurl: ''
 description: >
-  Todos os dias postamos uma sugestão de livro, filme, música, série, jogo ou link. Sempre uma coisa boa, pra deixar sua semana melhor e mais divertida.
+  Algo bacana pra ler na hora do café.
+lang: pt-BR
 
-disqus: paomortadela
-lang: pt
+# Content settings
+contact:
+  facebook: paomortadela.com.br
+  twitter: paomortadela
 
-email: email@arthr.me
-facebook: paocomortadela
-github: arthrfrts/pcm
-twitter: paomortadela
-
-colections:
-  uploads:
-    output: true
-    permalink: "/assets/media/:path"
+collections:
+  svg:
+    output: false
 
 defaults:
 - scope:
@@ -23,20 +19,22 @@ defaults:
     type: posts
   values:
     layout: post
-    author: arthrfrts
+    author: arthr
+
+# Build settings
+url: 'https://paomortadela.com.br'
+baseurl: ''
 
 markdown: kramdown
-permalink: /:year/:slug.html
-paginate: 4
+permalink: /:year/:name/
+paginate: 10
 
 plugins:
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-archives
   - jemoji
 
-exclude:
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
+source: _source
