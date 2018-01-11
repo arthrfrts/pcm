@@ -1,0 +1,59 @@
+---
+layout: default
+pagination:
+  enabled: false
+---
+
+<header class="wrapper entry-header archive-header">
+  {% if page.type == 'category' %}
+  <h1 class="entry-title">Posts arquivados em <em>{{ page.title }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'tag' %}
+  <h1 class="entry-title">Posts sobre <em>{{ page.title }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'year' %}
+  <h1 class="entry-title">Posts em <em>{{ page.date | date: '%Y' }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'month' %}
+  <h1 class="entry-title">Posts em <em>{{ page.date | date: '%m/%Y' }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'day' %}
+  <h1 class="entry-title">Posts em <em>{{ page.date | date: '%d/%m/%Y' }}</em>.</h1>
+  {% endif %}
+</header>
+
+<div class="wrapper">
+  <main class="page blog-list">
+    {% for post in site.posts %}
+      {% assign author = site.data.author[post.author] %}
+
+      {% if forloop.first %}
+        {% include parts/post-featured.html %}
+      {% else %}
+        {% include parts/post-card.html %}
+      {% endif %}
+    {% endfor %}
+  </main>
+  <aside class="sidebar">
+    <section class="widget">
+      <h1 class="widget-title">Categorias</h1>
+
+      <ul>
+        {% for category in site.categories %}
+        <li><a href="{{ category[0] | prepend: '/blog/categorias/' | append: '/' | relative_url }}">{{ category[0] | capitalize }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section class="widget">
+      <h1 class="widget-title">Tags</h1>
+
+      <p class="tags-list">
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+        <a href="{{ tag[0] | prepend: '/blog/tags/' | append: '/' | relative_url }}">{{ tag[0] }}</a>{% unless forloop.last %} / {% endunless %}
+        {% endfor %}
+      </p>
+    </section>
+  </aside>
+</div>

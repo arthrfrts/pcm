@@ -4,13 +4,12 @@
 @charset "utf-8";
 
 // Fonts
-$base-font-family: vollkorn, serif;
-$title-font-family: montserrat, sans-serif;
-$base-font-size: 1.8rem;
-$base-font-weight: 400;
-$base-line-height: 1.5;
-
-$small-font-size: $base-font-size * .75;
+$font-family-main: montserrat, sans-serif;
+$font-family-text: vollkorn, serif;
+$font-size-base: 1.8rem;
+$font-size-small: calc(#{$font-size-base} * #{0.75});
+$font-weight-base: 400;
+$font-line-height:1.75;
 
 // Colors
 $color-text: #242423;
@@ -18,11 +17,13 @@ $color-accent: #f5cb5c;
 $color-background: #f2efea;
 $color-details: #cfdbd5;
 
-// Width of the content area
-$content-width:    800px;
-$on-palm:          600px;
-$on-laptop:        800px;
+// Layout
+$container-width: 960px;
+$content-width: 800px;
+$palm-width: 600px;
 
 $spacing-unit: 3rem;
 
-// Import partials from the `minima` theme.
+@import "fonts",
+        "reset",
+        "mixins";

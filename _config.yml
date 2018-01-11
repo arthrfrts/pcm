@@ -27,14 +27,33 @@ baseurl: ''
 
 markdown: kramdown
 permalink: /:year/:name/
-paginate: 10
+
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/parte/:num/'
+  sort_reverse: true
+
+autopages:
+  enabled: true
+  categories:
+    enabled: true
+    layouts:
+      - 'archive.html'
+    permalink: '/arquivos/:cat/'
+  collections:
+    enabled: false
+  tags:
+    enabled: true
+    layouts:
+      - 'archive.html'
+    permalink: '/arquivos/tags/:tag/'
 
 plugins:
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-archives
+  - jekyll-paginate-v2
   - jemoji
 
 source: _source
