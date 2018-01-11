@@ -35,7 +35,7 @@ pagination:
   sort_reverse: true
 
 autopages:
-  enabled: true
+  enabled: false
   categories:
     enabled: true
     layouts:

@@ -1,55 +1,41 @@
 @font-face {
   font-family: vollkorn;
-  src: url('assets/fonts/vollkorn-400.woff2') format('woff2');
+  src: url('fonts/vollkorn-400.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: vollkorn;
-  src: url('assets/fonts/vollkorn-400i.woff2') format('woff2');
+  src: url('fonts/vollkorn-400i.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: vollkorn;
-  src: url('assets/fonts/vollkorn-700.woff2') format('woff2');
+  src: url('fonts/vollkorn-700.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: vollkorn;
-  src: url('assets/fonts/vollkorn-700i.woff2') format('woff2');
+  src: url('fonts/vollkorn-700i.woff2') format('woff2');
   font-weight: 700;
   font-style: italic;
 }
 
 @font-face {
-  font-family: montserrat;
-  src: url('assets/fonts/montserrat-400.woff2') format('woff2');
-  font-weight: 400;
+  font-family: palanquin;
+  src: url('fonts/palanquin-500.woff2') format('woff2');
+  font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family: montserrat;
-  src: url('assets/fonts/montserrat-400i.woff2') format('woff2');
-  font-weight: 400;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: montserrat;
-  src: url('assets/fonts/montserrat-700.woff2') format('woff2');
+  font-family: palanquin;
+  src: url('fonts/palanquin-700.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
-}
-
-@font-face {
-  font-family: montserrat;
-  src: url('assets/fonts/montserrat-700i.woff2') format('woff2');
-  font-weight: 700;
-  font-style: italic;
 }

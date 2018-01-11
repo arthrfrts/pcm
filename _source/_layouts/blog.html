@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% if page.layout == 'archive' %}
+<header class="wrapper entry-header archive-header">
+  {% if page.type == 'category' %}
+  <h1 class="entry-title">Posts arquivados em <em>{{ page.title }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'tag' %}
+  <h1 class="entry-title">Posts sobre <em>{{ page.title }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'year' %}
+  <h1 class="entry-title">Posts em <em>{{ page.date | date: '%Y' }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'month' %}
+  <h1 class="entry-title">Posts em <em>{{ page.date | date: '%m/%Y' }}</em>.</h1>
+  {% endif %}
+  {% if page.type == 'day' %}
+  <h1 class="entry-title">Posts em <em>{{ page.date | date: '%d/%m/%Y' }}</em>.</h1>
+  {% endif %}
+</header>
+{% endif %}
+<div class="blog posts-list">
+  {% for post in paginator.posts %}
+    {% if forloop.first %}
+      {% include parts/post-featured.html %}
+    {% else %}
+      {% include parts/post-card.html %}
+    {% endif %}
+  {% endfor %}
+</div>

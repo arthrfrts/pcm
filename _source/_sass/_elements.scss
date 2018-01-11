@@ -1,0 +1,21 @@
+body {
+  font: $font-weight-base #{$font-size-base}/#{$font-line-height} $font-family-main;
+  color: $color-text;
+}
+
+// Links
+a,
+a:visited {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration: underline wavy $color-accent;
+  text-decoration-skip-ink: auto;
+  -webkit-text-decoration-style: wavy;
+  -webkit-text-decoration-color: $color-accent;
+  transition: color 0.25s ease;
+
+  &:hover,
+  &:focus {
+    color: $color-accent;
+  }
+}

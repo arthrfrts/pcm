@@ -4,10 +4,11 @@
 @charset "utf-8";
 
 // Fonts
-$font-family-main: montserrat, sans-serif;
+$font-family-main: palanquin, sans-serif;
 $font-family-text: vollkorn, serif;
-$font-size-base: 1.8rem;
-$font-size-small: calc(#{$font-size-base} * #{0.75});
+$font-size-base: 1.6rem;
+$font-size-small: $font-size-base * 0.85;
+$font-size-content: calc(#{$font-size-base} * 1.125);
 $font-weight-base: 400;
 $font-line-height:1.75;
 
@@ -16,6 +17,7 @@ $color-text: #242423;
 $color-accent: #f5cb5c;
 $color-background: #f2efea;
 $color-details: #cfdbd5;
+$color-grey: darken($color-details, 25%);
 
 // Layout
 $container-width: 960px;
@@ -26,4 +28,6 @@ $spacing-unit: 3rem;
 
 @import "fonts",
         "reset",
-        "mixins";
+        "mixins",
+        "elements",
+        "layout";

@@ -20,9 +20,11 @@
   content: "";
   display: table;
   clear: both;
+  flex: 100%;
 }
 
 %container {
+  width: 100%;
   max-width: $container-width;
   padding-left: $spacing-unit;
   padding-right: $spacing-unit;

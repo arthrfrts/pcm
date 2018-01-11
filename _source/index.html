@@ -1,13 +1,5 @@
 ---
-layout: default
+layout: blog
 pagination:
   enabled: true
 ---
-
-{% for post in paginator.posts %}
-  {% if forloop.first %}
-    {% include parts/post-featured.html %}
-  {% else %}
-    {% include parts/post-card.html %}
-  {% endif %}
-{% endfor %}

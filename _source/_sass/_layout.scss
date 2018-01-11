@@ -1,0 +1,168 @@
+/*
+    Basic Structure
+*/
+body {
+  background: $color-background;
+}
+
+.wrapper {
+  @extend %container;
+}
+
+body {
+  display: flex;
+  flex-flow: column wrap;
+
+  .site-header,
+  .site-content {
+    flex: 0 0 auto;
+  }
+
+  .site-footer {
+    flex: 1 0 auto;
+  }
+}
+
+/*
+    Site Header
+*/
+.site-header {
+  border-top: .3rem solid $color-accent;
+  border-bottom: .1rem solid $color-grey;
+  background: $color-details;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  text-align: center;
+
+  // Branding
+  .site-title {
+    display: inline-block;
+    background: transparent url("images/logo.png") top center/contain no-repeat;
+    padding-top: 8.5rem;
+
+    font: 700 #{$font-size-base * 2}/#{0} $font-family-main;
+    letter-spacing: -0.025em;
+  }
+
+  // Navigation
+  .main-menu {
+    margin-top: $spacing-unit / 2;
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    font-size: $font-size-small;
+
+    a:not(:last-child) {
+      margin-right: $spacing-unit / 2;
+    }
+
+    @include on-palm {
+      display: flex;
+      flex-flow: row nowrap;
+      font-size: $font-size-base;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      -ms-overflow-style: -ms-autohiding-scrollbar;
+      line-height: 2.5;
+    }
+  }
+}
+
+/*
+    Site Content
+*/
+.site-content {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  @extend %container;
+
+  // The Blog
+  .blog {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    justify-content: space-between flex-start;
+
+    .post-card {
+      flex: 0 0 100%;
+      margin-bottom: $spacing-unit / 2;
+      padding: ($spacing-unit * 2) ($spacing-unit / 2);
+      background-size: cover;
+      background-position: center;
+
+      text-align: center;
+      color: #ffffff;
+
+
+      .post-title {
+        font: 700 #{$font-size-base * 1.75}/#{1.25} $font-family-main;
+
+        a {
+          text-decoration: none;
+
+          em {
+            color: transparent;
+            -webkit-text-stroke: 0.2rem $color-background;
+          }
+
+          &:hover,
+          &:focus {
+            color: $color-accent;
+
+            em {
+              color: $color-background;
+              -webkit-text-stroke: 0.2rem $color-accent;
+            }
+          }
+        }
+      }
+    }
+
+    @include on-laptop {
+      .post-card {
+        margin-bottom: $spacing-unit / 2;
+        flex: 1 0 calc(#{33.32%} - #{$spacing-unit / 2});
+        margin: 0 ($spacing-unit / 4) ($spacing-unit / 2);
+        color: #ffffff;
+
+        .post-title {
+          font-weight: 700;
+          line-height: 1.2;
+          font-size: calc(#{$font-size-base} * 1.25);
+        }
+
+        a {
+          text-decoration: none;
+          color: #ffffff;
+
+          em {
+            color: transparent;
+            -webkit-text-stroke: .2rem #ffffff;
+            transition: color .25s ease;
+          }
+
+          &:hover,
+          &:focus {
+            color: $color-accent;
+
+            em {
+              -webkit-text-stroke: .1rem $color-accent;
+              color: #ffffff;
+            }
+          }
+        }
+
+        &.featured {
+          flex-basis: calc(#{100%} - #{$spacing-unit / 2});
+          padding-left: $spacing-unit * 4;
+          padding-right: $spacing-unit * 4;
+          text-align: center;
+
+          .post-title {
+            font-size: calc(#{$font-size-base} * #{2});
+          }
+        }
+      }
+    }
+
+  }
+}
