@@ -1,3 +1,25 @@
 ---
 layout: default
 ---
+{% assign author = site.author %}
+
+<article class="post">
+  <header class="post-header">
+    {% if page.image %}
+    <figure class="post-image" style="background-image: url('{{ page.image.path }}');" role="banner">
+      <img itemprop="contentUrl" src="{{ page.image.path }}" alt="{{ page.image.alt }}" />
+    </figure>
+    {% endif %}
+
+    <time class="post-meta post-date" itemprop="datePublished" datetime="{{ page.date | date: 'date_to_xmlschema' }}">{{ page.date | date: '%d/%m/%y' }}</time>
+
+    <h1 class="post-title" itemprop="name headline"><a href="{{ page.url | relative_url }}" rel="bookmark" itemprop="url">{{ page.title }}</a></h1>
+
+    <div class="post-description">{{ page.excerpt | markdownify }}</div>
+
+    <a class="post-meta post-author" rel="author" href="{{ author.twitter | prepend: 'https://twitter.com/' }}">{{ author.name }}</a>
+  </header>
+  <div class="post-content">
+    {{ page.content | markdownify }}
+  </div>
+</article>

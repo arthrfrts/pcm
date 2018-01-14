@@ -1,14 +1,20 @@
 # Site settings
 title: Pão com Mortadela
 description: >
-  Algo bacana pra ler na hora do café.
+  Sempre algo bacana pra ler na hora do café.
 lang: pt-BR
+timezone: America/Sao_Paulo
 
-# Content settings
 contact:
   facebook: paomortadela.com.br
   twitter: paomortadela
 
+author:
+  name: Arthur Freitas
+  uri: https://arthr.me/
+  twitter: arthrfrts
+
+# Content settings
 collections:
   svg:
     output: false
@@ -19,7 +25,6 @@ defaults:
     type: posts
   values:
     layout: post
-    author: arthr
 
 # Build settings
 url: 'https://paomortadela.com.br'
@@ -31,23 +36,23 @@ permalink: /post/:year/:title/
 pagination:
   enabled: true
   per_page: 5
-  permalink: '/parte/:num/'
+  permalink: '/arquivos/parte/:num/'
   sort_reverse: true
 
 autopages:
-  enabled: false
+  enabled: true
   categories:
     enabled: true
     layouts:
       - 'archive.html'
-    permalink: '/arquivos/:cat/'
+    permalink: '/arquivos/secao/:cat/'
   collections:
     enabled: false
   tags:
     enabled: true
     layouts:
       - 'archive.html'
-    permalink: '/arquivos/tags/:tag/'
+    permalink: '/arquivos/tag/:tag/'
 
 plugins:
   - jekyll-feed

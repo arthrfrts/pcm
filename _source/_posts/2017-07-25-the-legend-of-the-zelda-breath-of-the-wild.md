@@ -1,8 +1,13 @@
 ---
 title: "<em>The Legend of Zelda: Breath of the Wild</em> é um jogo monumental."
 excerpt: O novo integrante de uma das mais importantes franquias dos jogos é gigante e revolucionário.
-cover:
-  url: https://cldup.com/Gko5g_YMq5.gif
+image:
+  path: https://cldup.com/Gko5g_YMq5.gif
+category: Vindos do PCM
+tags:
+  - jogos
+  - Nintendo
+  - Zelda
 ---
 
 É gigante.

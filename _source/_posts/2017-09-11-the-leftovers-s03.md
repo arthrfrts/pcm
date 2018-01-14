@@ -1,15 +1,16 @@
 ---
+date: 2017-09-11
 title: Em sua última temporada, <em>The Leftovers</em> não responde nada.
-cover:
-  url: 'https://cldup.com/9rLS_FKUsg.gif'
+image:
+  path: 'https://cldup.com/9rLS_FKUsg.gif'
   alt: 'Kevin (interpretado por Justin Theroux) e Patty (interpretado por Ann Dowd) testemunham o fim do mundo.'
 excerpt: E responde tudo. E então acaba.
-category: Exposição
+category: Vindos do PCM
 tags:
   - críticas
-  - the Leftovers
+  - The Leftovers
   - hbo
-  - séries
+  - seriados
 ---
 
 > Eu queria que todos estivéssemos prontos.

@@ -9,7 +9,7 @@
 <meta name="description" content="{{ page.description | strip_html | strip_newlines | normalize_whitespace | truncate: 140 | default: site.description }}" />
 
 <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}" />
+{% feed_meta %}
 
 {% include parts/favicon.html %}
 {% include parts/opengraph.html %}

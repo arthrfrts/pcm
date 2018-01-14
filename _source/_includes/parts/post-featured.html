@@ -1,11 +1,22 @@
-<article class="post-card featured" {% if post.cover %}style="background-image: url('{{ post.cover.url }}');"{% endif %}>
+{% assign author = site.author %}
+
+<article class="post">
   <header class="post-header">
-    <span class="post-meta">
-      <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%y" }}</time>
-    </span>
-    <h1 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+    {% if post.image %}
+    <figure class="post-image" style="background-image: url('{{ post.image.path }}');" role="banner">
+      <img itemprop="contentUrl" src="{{ post.image.path }}" alt="{{ post.image.alt }}" />
+    </figure>
+    {% endif %}
+
+    <time class="post-meta post-date" itemprop="datePublished" datetime="{{ post.date | date: 'date_to_xmlschema' }}">{{ post.date | date: '%d/%m/%y' }}</time>
+
+    <h1 class="post-title" itemprop="name headline"><a href="{{ post.url | relative_url }}" rel="bookmark" itemprop="url">{{ post.title }}</a></h1>
+
+    <div class="post-description">{{ post.excerpt | markdownify }}</div>
+
+    <a class="post-meta post-author" rel="author" href="{{ author.twitter | prepend: 'https://twitter.com/' }}">{{ author.name }}</a>
   </header>
   <div class="post-content">
-    <p>{{ post.excerpt | strip_html }}</p>
+    {{ post.content | markdownify }}
   </div>
 </article>

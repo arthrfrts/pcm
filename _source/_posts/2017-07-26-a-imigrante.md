@@ -1,8 +1,9 @@
 ---
 title: "James Gray torna <em>A Imigrante</em> em um dos fundamentos da América."
-description: "O melhor filme do pouco reconhecido diretor procura entender a sociedade americana através de um dos seus elementos fundadores."
-cover:
-  url: 'https://cldup.com/hjgMoTkSCr.jpg'
+excerpt: O melhor filme do pouco reconhecido diretor procura entender a sociedade americana através de um dos seus elementos fundadores.
+image:
+  path: 'https://cldup.com/hjgMoTkSCr.jpg'
+category: Vindos do PCM
 tags:
   - filmes
   - James Gray
