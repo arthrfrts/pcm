@@ -26,11 +26,11 @@ url: 'https://paomortadela.com.br'
 baseurl: ''
 
 markdown: kramdown
-permalink: /:year/:name/
+permalink: /post/:year/:title/
 
 pagination:
   enabled: true
-  per_page: 9
+  per_page: 5
   permalink: '/parte/:num/'
   sort_reverse: true
 

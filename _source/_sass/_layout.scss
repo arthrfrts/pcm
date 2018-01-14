@@ -1,68 +1,71 @@
 /*
-    Basic Structure
+    Basic Structure.
 */
-body {
-  background: $color-background;
-}
-
-.wrapper {
-  @extend %container;
-}
 
 body {
+  border-top: .3rem solid $color-brand;
   display: flex;
   flex-flow: column wrap;
+  text-shadow: 0 .1rem .3rem rgba($color-text, 0.25);
+}
 
-  .site-header,
-  .site-content {
-    flex: 0 0 auto;
-  }
+.site-header,
+.site-content {
+  flex: 0 0 auto;
+}
 
-  .site-footer {
-    flex: 1 0 auto;
-  }
+.site-footer {
+  flex: 1 0 auto;
 }
 
 /*
     Site Header
 */
 .site-header {
-  border-top: .3rem solid $color-accent;
+  background: $color-background;
   border-bottom: .1rem solid $color-grey;
-  background: $color-details;
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
   text-align: center;
 
   // Branding
   .site-title {
+    font-size: calc(#{$font-size-base} * 1.5);
+    font-weight: 900;
+    text-decoration: none;
+    line-height: 0;
+    padding-top: 10rem;
+    background-image: url("images/logo.png");
+    background-position: top center;
+    background-size: contain;
+    background-repeat: no-repeat;
     display: inline-block;
-    background: transparent url("images/logo.png") top center/contain no-repeat;
-    padding-top: 8.5rem;
-
-    font: 700 #{$font-size-base * 2}/#{0} $font-family-main;
-    letter-spacing: -0.025em;
   }
 
   // Navigation
   .main-menu {
+    display: flex;
+    flex-flow: row nowrap;
+    overflow-x: scroll;
+    justify-content: center;
+    font: 700 #{$font-size-small}/#{$font-line-height} $font-family-main;
     margin-top: $spacing-unit / 2;
-    text-transform: uppercase;
-    letter-spacing: 0.05rem;
-    font-size: $font-size-small;
-
-    a:not(:last-child) {
-      margin-right: $spacing-unit / 2;
-    }
+    text-transform: lowercase;
 
     @include on-palm {
-      display: flex;
-      flex-flow: row nowrap;
-      font-size: $font-size-base;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      -ms-overflow-style: -ms-autohiding-scrollbar;
-      line-height: 2.5;
+      justify-content: flex-start;
+      padding: $spacing-unit / 2;
+    }
+
+    a {
+      &:not(:first-child) {
+        margin-left: $spacing-unit;
+      }
+    }
+
+    svg {
+      height: calc(#{$font-size-small} * #{$font-line-height});
+      width: calc(#{$font-size-small} * #{$font-line-height});
     }
   }
 }
@@ -71,98 +74,89 @@ body {
     Site Content
 */
 .site-content {
-  margin-top: $spacing-unit;
-  margin-bottom: $spacing-unit;
   @extend %container;
+  margin-top: $spacing-unit;
+}
 
-  // The Blog
-  .blog {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-    justify-content: space-between flex-start;
+.post-card {
+  text-align: center;
+  margin-bottom: $spacing-unit;
+  background-size: contain;
+  background-position: center;
 
-    .post-card {
-      flex: 0 0 100%;
-      margin-bottom: $spacing-unit / 2;
-      padding: ($spacing-unit * 2) ($spacing-unit / 2);
-      background-size: cover;
-      background-position: center;
-
-      text-align: center;
-      color: #ffffff;
-
-
-      .post-title {
-        font: 700 #{$font-size-base * 1.75}/#{1.25} $font-family-main;
-
-        a {
-          text-decoration: none;
-
-          em {
-            color: transparent;
-            -webkit-text-stroke: 0.2rem $color-background;
-          }
-
-          &:hover,
-          &:focus {
-            color: $color-accent;
-
-            em {
-              color: $color-background;
-              -webkit-text-stroke: 0.2rem $color-accent;
-            }
-          }
-        }
-      }
-    }
-
-    @include on-laptop {
-      .post-card {
-        margin-bottom: $spacing-unit / 2;
-        flex: 1 0 calc(#{33.32%} - #{$spacing-unit / 2});
-        margin: 0 ($spacing-unit / 4) ($spacing-unit / 2);
-        color: #ffffff;
-
-        .post-title {
-          font-weight: 700;
-          line-height: 1.2;
-          font-size: calc(#{$font-size-base} * 1.25);
-        }
-
-        a {
-          text-decoration: none;
-          color: #ffffff;
-
-          em {
-            color: transparent;
-            -webkit-text-stroke: .2rem #ffffff;
-            transition: color .25s ease;
-          }
-
-          &:hover,
-          &:focus {
-            color: $color-accent;
-
-            em {
-              -webkit-text-stroke: .1rem $color-accent;
-              color: #ffffff;
-            }
-          }
-        }
-
-        &.featured {
-          flex-basis: calc(#{100%} - #{$spacing-unit / 2});
-          padding-left: $spacing-unit * 4;
-          padding-right: $spacing-unit * 4;
-          text-align: center;
-
-          .post-title {
-            font-size: calc(#{$font-size-base} * #{2});
-          }
-        }
-      }
-    }
-
+  &:after {
+    display: block;
+    content: ' ';
   }
+
+  &.featured {
+    padding: $spacing-unit * 2;
+    //margin-left: -($spacing-unit);
+    //margin-right: -($spacing-unit);
+
+
+    @include on-palm {
+      margin-left: -($spacing-unit / 2);
+      margin-right: -($spacing-unit / 2);
+      padding: $spacing-unit ($spacing-unit / 2);
+    }
+  }
+}
+
+.posts-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  color: #FFFFFF;
+  margin-left: -$spacing-unit * 2;
+  margin-right: -$spacing-unit * 2;
+
+  @include on-palm {
+    margin-left: -$spacing-unit / 2;
+    margin-right: -$spacing-unit / 2;
+  }
+
+  .post-card {
+    flex: 1 0 calc(#{50%} - #{$spacing-unit});
+
+    &.featured {
+      flex: 1 0 100%;
+
+      @include on-palm {
+        margin-bottom: 0;
+      }
+    }
+
+    &:not(.featured) {
+      margin: 0 $spacing-unit / 2 $spacing-unit;
+      padding: $spacing-unit ($spacing-unit / 2);
+
+      h1 {
+        font-size: $font-size-base;
+      }
+    }
+
+    @include on-palm {
+
+      &:not(.featured) {
+        flex: 1 0 100%;
+        margin-left: -$spacing-unit / 2;
+        margin-right: -$spacing-unit / 2;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+/*
+    The Post
+*/
+
+// Post Information
+.post-meta {
+  font: 300 #{$font-size-small}/#{$font-line-height} $font-family-main;
+}
+
+.post-title {
+  font-weight: 400;
 }

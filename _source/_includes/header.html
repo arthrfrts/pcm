@@ -1,14 +1,12 @@
 <header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
+  <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
 
-    <nav class="main-menu">
-      <a class="page-link" href="{{ '/' | relative_url }}">Capa</a>
-      <a class="page-link" href="{{ '/sobre/' | relative_url }}">Sobre</a>
-      <a class="page-link" href="{{ '/arquivos/' | relative_url }}">Arquivos</a>
-      <a class="social-link" href="{{ site.contact.twitter | prepend: 'https://twitter.com/' }}">Twitter</a>
-      <a class="social-link" href="{{ site.contact.facebook | prepend: 'https://www.facebook.com/' }}">Facebook</a>
-      <a class="social-link" href="{{ '/feed.xml' | relative }}">RSS</a>
-    </nav>
-  </div>
+  <nav class="main-menu">
+    <a class="page-link" href="{{ '/' | relative_url }}">Capa</a>
+    <a class="page-link" href="{{ '/sobre/' | relative_url }}">Sobre</a>
+    <a class="page-link" href="{{ '/arquivos/' | relative_url }}">Arquivos</a>
+    <a class="social-link" href="{{ site.contact.twitter | prepend: 'https://twitter.com/' }}">{% include elements/symbol.svg id="twitter" title="Twitter" %}</a>
+    <a class="social-link" href="{{ site.contact.facebook | prepend: 'https://www.facebook.com/' }}">{% include elements/symbol.svg id="facebook" title="Facebook" %}</a>
+    <a class="social-link" href="{{ '/feed.xml' | relative }}">{% include elements/symbol.svg id="rss" title="Assine o RSS" %}</a>
+  </nav>
 </header>

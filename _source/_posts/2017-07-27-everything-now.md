@@ -1,9 +1,10 @@
 ---
 category: Músicas
-product: Everything Now
 title: "<em>Everything Now</em> pede para encararmos o abismo juntos"
-description: "O mais recente álbum do Arcade Fire é um misto de excitação e desespero."
-cover: everything-now.jpg
+excerpt: "O mais recente álbum do Arcade Fire é um misto de excitação e desespero."
+cover:
+  url: 'https://cldup.com/R3lOnbxu2L.jpg'
+  alt: Capa do álbum
 ---
 
 Quando eu terminei de ouvir _Everything Now_, eu fiquei desesperado.

@@ -1,0 +1,9 @@
+<svg>
+  {% if include.title %}
+  <title>{{ include.title }}</title>
+  {% endif %}
+  {% if include.desc %}
+  <desc>{{ include.desc }}</desc>
+  {% endif %}
+  <use xlink:href="{{ include.id | prepend: '/assets/sprite.svg#' | absolute_url }}" />
+</svg>

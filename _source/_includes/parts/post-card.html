@@ -1,6 +1,8 @@
-<article class="post-card" style="background-image: url({{ post.cover | prepend: '/assets/media/' | absolute_url }})">
-  <header>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%y" }}
-    <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+<article class="post-card" {% if post.cover %}style="background-image: url('{{ post.cover.url }}');"{% endif %}>
+  <header class="post-header">
+    <span class="post-meta">
+      <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%y" }}</time>
+    </span>
+    <h1 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
   </header>
 </article>

@@ -1,41 +1,48 @@
 @font-face {
-  font-family: vollkorn;
-  src: url('fonts/vollkorn-400.woff2') format('woff2');
+  font-family: muli;
+  src: url("fonts/muli-400.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: vollkorn;
-  src: url('fonts/vollkorn-400i.woff2') format('woff2');
+  font-family: muli;
+  src: url("fonts/muli-400i.woff2") format("woff2");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
-  font-family: vollkorn;
-  src: url('fonts/vollkorn-700.woff2') format('woff2');
+  font-family: muli;
+  src: url("fonts/muli-300.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: muli;
+  src: url("fonts/muli-300i.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: muli;
+  src: url("fonts/muli-700.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family: vollkorn;
-  src: url('fonts/vollkorn-700i.woff2') format('woff2');
+  font-family: muli;
+  src: url("fonts/muli-700i.woff2") format("woff2");
   font-weight: 700;
   font-style: italic;
 }
 
 @font-face {
-  font-family: palanquin;
-  src: url('fonts/palanquin-500.woff2') format('woff2');
-  font-weight: 500;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: palanquin;
-  src: url('fonts/palanquin-700.woff2') format('woff2');
-  font-weight: 700;
+  font-family: muli;
+  src: url("fonts/muli-900.woff2") format("woff2");
+  font-weight: 900;
   font-style: normal;
 }

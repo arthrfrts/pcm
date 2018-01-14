@@ -3,19 +3,71 @@ body {
   color: $color-text;
 }
 
+/*
+    Text Elements
+*/
+
+p, ul, ol, dl,
+blockquote, pre,
+table, address,
+audio, video, figure,
+iframe, object, embed,
+h1, h2, h3, h4, h5, h6 {
+  margin: $spacing-unit / 2 0;
+}
+
+em, i, address {
+  font-style: italic;
+}
+
+strong, b, dt {
+  font-weight: 700;
+}
+
+// Headings
+h1 {
+  font: 400 calc(#{$font-size-base} * #{2})/#{1.25} $font-family-main;
+
+  @include on-palm {
+    font-size: calc(#{$font-size-base} * #{1.5});
+  }
+}
+
 // Links
 a,
 a:visited {
   color: inherit;
   text-decoration: underline;
-  text-decoration: underline wavy $color-accent;
+  text-decoration: underline dotted $color-accent;
   text-decoration-skip-ink: auto;
-  -webkit-text-decoration-style: wavy;
+  -webkit-text-decoration-style: dotted;
   -webkit-text-decoration-color: $color-accent;
   transition: color 0.25s ease;
 
   &:hover,
   &:focus {
     color: $color-accent;
+  }
+}
+
+/*
+    Media
+*/
+
+.site-content {
+  figure {
+    margin-left: -$spacing-unit;
+    margin-right: -$spacing-unit;
+    width: calc(#{100%} + ($spacing-unit * 2));
+
+    @include on-palm {
+      margin-left: -($spacing-unit / 2);
+      margin-right: -($spacing-unit / 2);
+      width: calc(#{100%} + #{$spacing-unit});
+    }
+
+    img {
+      width: 100%;
+    }
   }
 }

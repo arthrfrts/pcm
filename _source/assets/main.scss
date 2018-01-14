@@ -4,8 +4,7 @@
 @charset "utf-8";
 
 // Fonts
-$font-family-main: palanquin, sans-serif;
-$font-family-text: vollkorn, serif;
+$font-family-main: muli, sans-serif;
 $font-size-base: 1.6rem;
 $font-size-small: $font-size-base * 0.85;
 $font-size-content: calc(#{$font-size-base} * 1.125);
@@ -13,14 +12,15 @@ $font-weight-base: 400;
 $font-line-height:1.75;
 
 // Colors
-$color-text: #242423;
-$color-accent: #f5cb5c;
-$color-background: #f2efea;
-$color-details: #cfdbd5;
-$color-grey: darken($color-details, 25%);
+$color-text: #303032;
+$color-accent: #8EC2D1;
+$color-background: #F2EFEA;
+$color-brand: #FFDD77;
+$color-details: #84BB91;
+$color-grey: lighten($color-text, 60%);
 
 // Layout
-$container-width: 960px;
+$container-width: 690px;
 $content-width: 800px;
 $palm-width: 600px;
 

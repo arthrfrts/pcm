@@ -1,9 +1,8 @@
 ---
-product: "The Legend of Zelda: Breath of the Wild"
 title: "<em>The Legend of Zelda: Breath of the Wild</em> é um jogo monumental."
-description: O novo integrante de uma das mais importantes franquias dos jogos é gigante e revolucionário.
-cover: breath-of-the-wild.jpg
-category: Jogos
+excerpt: O novo integrante de uma das mais importantes franquias dos jogos é gigante e revolucionário.
+cover:
+  url: https://cldup.com/Gko5g_YMq5.gif
 ---
 
 É gigante.

@@ -1,9 +1,11 @@
 ---
-product: A Imigrante
 title: "James Gray torna <em>A Imigrante</em> em um dos fundamentos da América."
 description: "O melhor filme do pouco reconhecido diretor procura entender a sociedade americana através de um dos seus elementos fundadores."
-category: Filmes
-cover: immigrant.jpg
+cover:
+  url: 'https://cldup.com/hjgMoTkSCr.jpg'
+tags:
+  - filmes
+  - James Gray
 ---
 
 James Gray é um diretor fenomenal. É um dos únicos diretores em atividade hoje em dia no cinema americano que consegue criar aquela sensação de estar assistindo o filme de uma vida — um sentimento que parece vindo diretamente da Era de Ouro de Hollywood, com aqueles grandes e intensos dramas que acompanhavam seus personagens de perto enquanto criavam uma parábola sobre a situação americana.

@@ -1,9 +1,15 @@
 ---
 title: Em sua última temporada, <em>The Leftovers</em> não responde nada.
-cover: leftovers-s03.jpg
-description: E responde tudo. E então acaba.
-product: The Leftovers, 3ª temporada
-category: Séries
+cover:
+  url: 'https://cldup.com/9rLS_FKUsg.gif'
+  alt: 'Kevin (interpretado por Justin Theroux) e Patty (interpretado por Ann Dowd) testemunham o fim do mundo.'
+excerpt: E responde tudo. E então acaba.
+category: Exposição
+tags:
+  - críticas
+  - the Leftovers
+  - hbo
+  - séries
 ---
 
 > Eu queria que todos estivéssemos prontos.
