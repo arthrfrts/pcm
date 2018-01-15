@@ -11,7 +11,7 @@ No início dos anos 1990, os videogames se salvaram da falta de criatividade com
 
 Os jogos, via de regra, precisavam de grandes títulos a cada três ou quatro anos para que um novo parâmetro fosse alcançado. Até Ocarina of Time ser lançado e toda uma época subsequente a ele passou a se redefinir. Mas os anos 2000 chegaram e, com eles, os jogos que amadureceriam ainda mais essa mídia. A cada ano, um novo título traria novas tecnologias e mecânicas que possibilitariam novos tipos de interação e de narrativa, novas experiências e novas sensações. Nós escolhemos dezesseis desses títulos, que você pode conferir (por ordem de lançamento) a seguir:
 
-{% include elements/figure.html url="/assets/media/the-sims.jpg" alt="Imagem do jogo" title="The Sims" %}
+{% include elements/figure.html src="/assets/media/the-sims.jpg" alt="Imagem do jogo" title="The Sims" %}
 
 ## _The Sims_
 
@@ -19,7 +19,7 @@ Will Wright, o grande game designer do ocidente, já havia colocado o seu nome n
 
 _The Sims_. 2000. Electronic Arts, Maxis. Windows.
 
-{% include elements/figure.html url="/assets/media/halo.jpg" alt="Imagem do jogo" title="Halo: Combat Evolved" %}
+{% include elements/figure.html src="/assets/media/halo.jpg" alt="Imagem do jogo" title="Halo: Combat Evolved" %}
 
 ## _Halo: Combat Evolved_
 
@@ -27,7 +27,7 @@ Quando _Half-Life_ foi lançado, o PC se consagrou como a plataforma definitiva 
 
 _Halo: Combat Evolved_. 2001. Microsoft Game Studios, Bungie. Xbox.
 
-{% include elements/figure.html url="/assets/media/metroid-prime.jpg" alt="Imagem do jogo" title="Metroid Prime" %}
+{% include elements/figure.html src="/assets/media/metroid-prime.jpg" alt="Imagem do jogo" title="Metroid Prime" %}
 
 ## _Metroid Prime_
 
@@ -35,7 +35,7 @@ Samus Aran não aparecia em um título próprio em oito anos, mas seu retorno re
 
 _Metroid Prime_. 2002. Nintendo, Retro Studios. GameCube.
 
-{% include elements/figure.html url="/assets/media/half-life-2.jpg" alt="Imagem do jogo" title="Half-Life 2" %}
+{% include elements/figure.html src="/assets/media/half-life-2.jpg" alt="Imagem do jogo" title="Half-Life 2" %}
 
 ## _Half-Life 2_
 
@@ -43,7 +43,7 @@ O terceiro FPS dessa lista? Calma. De todos os dezesseis títulos, nenhum oferec
 
 _Half-Life 2_. 2004. Valve. Windows, Mac, Linux.
 
-{% include elements/figure.html url="/assets/media/shadow-of-the-colossus.jpg" alt="Imagem do jogo" title="Shadow of the Colossus" %}
+{% include elements/figure.html src="/assets/media/shadow-of-the-colossus.jpg" alt="Imagem do jogo" title="Shadow of the Colossus" %}
 
 ## _Shadow of the Colossus_
 
@@ -51,7 +51,7 @@ O Andarilho e seu cavalo, Agro, apresentariam ao PlayStation 2 seu mais marcante
 
 _Shadow of the Colossus_. 2005. Sony Computer Entertainment, Team Ico. PlayStation 2.
 
-{% include elements/figure.html url="/assets/media/call-of-duty-4-modern-warfare.jpg" alt="Imagem do jogo" title="Call of Duty 4: Modern Warfare" %}
+{% include elements/figure.html src="/assets/media/call-of-duty-4-modern-warfare.jpg" alt="Imagem do jogo" title="Call of Duty 4: Modern Warfare" %}
 
 ## _Call of Duty 4: Modern Warfare_
 
@@ -59,7 +59,7 @@ _Modern Warfare_ pode não ter redefinido o gênero e elevado o nível de qualid
 
 _Call of Duty 4: Modern Warfare_. 2007. Activision, Infinity Ward. Windows, Xbox 360, PlayStation 3.
 
-{% include elements/figure.html url="/assets/media/super-smash-bros-brawl.jpg" alt="Imagem do jogo" title="Super Smash Bros. Brawl" %}
+{% include elements/figure.html src="/assets/media/super-smash-bros-brawl.jpg" alt="Imagem do jogo" title="Super Smash Bros. Brawl" %}
 
 ## _Super Smash Bros. Brawl_
 
@@ -67,7 +67,7 @@ O combate desenfreado de _Melee_ daria lugar a um universo de conteúdos e uma e
 
 _Super Smash Bros. Brawl_. 2008. Nintendo, Sora Ltd., Game Arts. Wii.
 
-{% include elements/figure.html url="/assets/media/metal-gear-solid-4-guns-of-the-patriots.jpg" alt="Imagem do jogo" title="Metal Gear Solid 4: Guns of the Patriots" %}
+{% include elements/figure.html src="/assets/media/metal-gear-solid-4-guns-of-the-patriots.jpg" alt="Imagem do jogo" title="Metal Gear Solid 4: Guns of the Patriots" %}
 
 ## _Metal Gear Solid 4: Guns of the Patriots_
 
@@ -75,7 +75,7 @@ O adeus ao Solid Snake é difícil e tortuoso. Mas vale cada segundo. _Metal Gea
 
 _Metal Gear Solid 4: Guns of the Patriots_. 2008. Konami, Kojima Productions. PlayStation 4.
 
-{% include elements/figure.html url="/assets/media/super-mario-galaxy-2.png" alt="Imagem do jogo" title="Super Mario Galaxy 2" %}
+{% include elements/figure.html src="/assets/media/super-mario-galaxy-2.png" alt="Imagem do jogo" title="Super Mario Galaxy 2" %}
 
 ## _Super Mario Galaxy 2_
 
@@ -83,7 +83,7 @@ Como superar o jogo plataforma 3D definitivo? Quando _Super Mario Galaxy_ fora l
 
 _Super Mario Galaxy 2_. 2010. Nintendo, Nintendo EAD Tokyo. Wii.
 
-{% include elements/figure.html url="/assets/media/portal-2.jpg" alt="Imagem do jogo" title="Portal 2" %}
+{% include elements/figure.html src="/assets/media/portal-2.jpg" alt="Imagem do jogo" title="Portal 2" %}
 
 ## _Portal 2_
 
@@ -91,7 +91,7 @@ _Super Mario Galaxy 2_. 2010. Nintendo, Nintendo EAD Tokyo. Wii.
 
 _Portal 2_. 2011. Valve. Windows, Mac, Linux, PlayStation 3, Xbox 360.
 
-{% include elements/figure.html url="/assets/media/skyrim.jpg" alt="Imagem do jogo" title="The Elder Scrolls V: Skyrim" %}
+{% include elements/figure.html src="/assets/media/skyrim.jpg" alt="Imagem do jogo" title="The Elder Scrolls V: Skyrim" %}
 
 ## _The Elder Scrolls V: Skyrim_
 
@@ -99,13 +99,13 @@ _Skyrim_ não criou o mundo aberto nos videogames, mas definiu como esse mundo r
 
 _The Elder Scrolls V: Skyrim_. 2011. Bathesda. Windows, PlayStation 3, Xbox 360.
 
-{% include elements/figure.html url="/assets/media/the-legend-of-zelda-skyward-sword.png" alt="Imagem do jogo" title="The Legend of Zelda: Skyward Sword" %}
+{% include elements/figure.html src="/assets/media/the-legend-of-zelda-skyward-sword.png" alt="Imagem do jogo" title="The Legend of Zelda: Skyward Sword" %}
 
 _Majora’s Mask_ e _Wind Waker_ tentaram fugir da sombra de _Ocarina of Time_, seu predecessor, indo para caminhos distintos. _Majora’s Mask_ é um conto de terror, _Wind Waker_ se passa em um grande oceano. Quando _The Legend of Zelda_ finalmente teve coragem de retornar à Hyrule, a sombra do gigante dos jogos ainda pairava. _Twilight Princess_, embora excelente, era diminuto demais. Precisou de _Skyward Sword_, cinco anos depois, para que Zelda voltasse a forma consagrada. E conseguiu. Sem o estilo visual obscuro de _Ocarina_ e _Twilight Princess_, _Skyward Sword_ seguia um conceito visual próprio. Mais importante, porém, apresentou o esquema de controles definitivo para a franquia. Sem a utilização pesada dos sensores de movimento, a Nintendo optou pelo uso intuitivo do Wii Remote, e mostrou ao mundo como um jogo de combate poderia ser feito sem ser baseado no cansaço. É o jogo que responde a existência do Wii. _Skyward Sword_ levaria, também, a empresa para um amadurecimento narrativo até então não alcançado, com uma história finalmente importante e questionadora. _Skyward Sword_ pode não ser definitivo como _Ocarina of Time_, mas é um título que se orgulha de seu passado, e entrega excelentes opções para o futuro.
 
 _The Legend of Zelda: Skyward Sword_. 2011. Nintendo. Wii.
 
-{% include elements/figure.html url="/assets/media/journey.jpg" alt="Imagem do jogo" title="Journey" %}
+{% include elements/figure.html src="/assets/media/journey.jpg" alt="Imagem do jogo" title="Journey" %}
 
 ## _Journey_
 
@@ -113,7 +113,7 @@ Se _Shadow of the Colossus_ aproximaria o jogador ao seu personagem como nunca a
 
 _Journey_. 2012. Sony Computer Entertainment, thatgamecompany. PlayStation 3.
 
-{% include elements/figure.html url="/assets/media/the-last-of-us.jpg" alt="Imagem do jogo" title="The Last of Us" %}
+{% include elements/figure.html src="/assets/media/the-last-of-us.jpg" alt="Imagem do jogo" title="The Last of Us" %}
 
 ## _The Last Of Us_
 
@@ -121,7 +121,7 @@ Para cada coisa errada que _The Last of Us_ faz, ele entrega dois momentos magn�
 
 _The Last of Us_. 2013. Sony Computer Entertainment, Naughty Dog. PlayStation 4.
 
-{% include elements/figure.html url="/assets/media/grand-theft-auto-v.jpg" alt="Imagem do jogo" title="Grand Theft Auto V" %}
+{% include elements/figure.html src="/assets/media/grand-theft-auto-v.jpg" alt="Imagem do jogo" title="Grand Theft Auto V" %}
 
 ## _Grand Theft Auto V_
 
@@ -129,7 +129,7 @@ O grande blockbuster dos jogos, _Grand Theft Auto V_ é grandioso desde seu prim
 
 _Grand Theft Auto V_. 2013. Rockstar. PlayStation 3, Xbox 360.
 
-{% include elements/figure.html url="/assets/media/kentucky-route-zero.jpg" alt="Imagem do jogo" title="Kentucky Route Zero" %}
+{% include elements/figure.html src="/assets/media/kentucky-route-zero.jpg" alt="Imagem do jogo" title="Kentucky Route Zero" %}
 
 ## _Kentucky Route Zero_
 

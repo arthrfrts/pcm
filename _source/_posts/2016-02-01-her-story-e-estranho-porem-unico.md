@@ -17,7 +17,7 @@ Aqui, o mistério da morte de um trabalhador de uma vidraçaria é mantido apena
 
 O mais fascinante de _Her Story_, porém, é entender justamente que dificilmente dois jogadores irão costurar a narrativa da mesma forma, e valorizar isso. Por vezes soando falso, as vezes realmente emocionante ([diferente da Polygon](http://www.polygon.com/a/game-of-the-year-2015/her-story-game-of-the-year-2015-polygon), nosso [jogo do ano](os-melhores-de-2015.html) também se baseia simplesmente em uma voz), _Her Story_ é sempre frustrante, mas também sempre recompensador e surpreendente. Ao final de uma narrativa que você mesmo decide desvendar, o mais triste é que não haverá mais nada para descobrir.
 
-{% include elements/figure.html url="/assets/media/her-story-ilustracao.jpg" alt="Imagem do jogo" title="Viva Steifert, atriz principal do jogo" %}
+{% include elements/figure.html src="/assets/media/her-story-ilustracao.jpg" alt="Imagem do jogo" title="Viva Steifert, atriz principal do jogo" %}
 
 ---
 
