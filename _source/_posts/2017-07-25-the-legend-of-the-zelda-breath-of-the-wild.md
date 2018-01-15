@@ -3,7 +3,6 @@ title: "<em>The Legend of Zelda: Breath of the Wild</em> é um jogo monumental."
 excerpt: O novo integrante de uma das mais importantes franquias dos jogos é gigante e revolucionário.
 image:
   path: https://cldup.com/Gko5g_YMq5.gif
-category: Vindos do PCM
 tags:
   - jogos
   - Nintendo
@@ -28,7 +27,7 @@ Deve ser inútil falar isso, mas não existe lugares que você não pode alcanç
 
 Foram décadas para _The Legend of Zelda_ olhar para trás e decidir mudar a sua mecânica básica. Desde _A Link to the Past_, a série nos pede para descobrirmos um item que permitirá acessar uma área; nessa área, os enigmas devem ser solucionados com o item que você usou para desbloqueá-la, e assim descobrir um novo item para a área seguinte. Essa fórmula foi um sucesso tremendo, e definiu boa parte dos jogos da metade dos anos 1990 em diante. Mas agora foi a vez de _Breath of the Wild_ olhar ao redor, absorver tudo aquilo que outras desenvolvedoras faziam, e ensinar elas a fazer melhor. Não quero desmerecer o trabalho e as revoluções que jogos como _Grand Theft Auto_ e _The Witcher_ trouxeram, mas ao jogarmos _Breath of the Wild_ nos deparamos com algo gigante, realmente gigante. E é nossa tarefa entendê-lo.
 
-{% include video.html url="https://www.youtube.com/embed/zw47_q9wbBE?rel=0&amp;showinfo=0" %}
+{% include elements/video.html url="https://www.youtube.com/embed/zw47_q9wbBE?rel=0&amp;showinfo=0" %}
 
 Jogos de mundo aberto geralmente possuem aquele sentimento de que o ambiente está aos seus pés. _Grand Theft Auto_, inclusive, libera áreas novas de acordo com o quanto a sua dominância em uma outra área vai aumentando. É seu dever “domar” esse mundo e fazer dele o que quiser. Você pode queimar uma floresta inteira em _Breath of the Wild_, se quiser. Mas você quer? Hyrule não é um lugar qualquer: é um ambiente vivo, instigante e fascinante que te apresenta um mundo inteiro que não está ao seu dispôr, mas que reage as suas ações. É nosso dever conhecer e salvar Hyrule porque, ao conhecermos cada pico e cada vale, cada rio e cada habitante, nós nos sentimos pouco a pouco parte dela. Ao nos tornar parte de um mundo tão gigante e tão vivo, tão misterioso e tão fascinante quanto Hyrule, _Breath of the Wild_ nos eleva.
 

@@ -3,6 +3,14 @@ body {
   color: $color-text;
 }
 
+hr {
+  margin: $spacing-unit auto;
+  width: 15rem;
+  height: .3rem;
+  border: none;
+  background: $color-grey;
+}
+
 /*
     Text Elements
 */
@@ -70,4 +78,9 @@ a:visited {
       width: 100%;
     }
   }
+}
+
+.spotify-embed {
+  margin: $spacing-unit auto;
+  display: block;
 }

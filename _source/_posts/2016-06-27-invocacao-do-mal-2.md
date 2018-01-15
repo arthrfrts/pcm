@@ -1,11 +1,10 @@
 ---
 title: "<em>Invocação do Mal 2</em> quase não assusta, mas também não tá aí pra isso"
-cover: conjuring-2.jpg
-description: 'A continuaçào do excelente filme de 2013 segue um caminho certeiro:
+excerpt: 'A continuaçào do excelente filme de 2013 segue um caminho certeiro:
   o de causar medo, e não susto.'
-product: Invocação do Mal 2
-category: Filmes
-date: 2016-06-27
+tags:
+  - filmes
+  - terror
 ---
 
 > O filme prende você dentro de um verdadeiro pesadelo.
@@ -24,6 +23,6 @@ O bom do filme anterior era como tudo se fechava direitinho, e como absolutament
 
 E, no meio de alguns erros e vários acertos, _Invocação do Mal 2_ se junta com _A Bruxa_ num ano que promete bons filmes de terror por serem, justamente, aterrorizantes, e não assustadores. Não há muitos sustos em _Invocação do Mal 2_, mas ele não se importa muito com isso. A gente perde muito tempo conhecendo aqueles personagens e aquela casa por um simples motivo: quando o pesadelo começa, _Invocação do Mal 2_ nos prende lá dentro com eles. E daí, sim, ele cria o medo.
 
-{% include video.html url="https://www.youtube.com/embed/YBffSK8p9Ro" %}
+{% include elements/video.html url="https://www.youtube.com/embed/YBffSK8p9Ro" %}
 
 _**Invocação do Mal 2** está nos cinemas em todo o país. Você pode comprar o [DVD](http://oferta.vc/sgNv) ou o [blu-ray](http://oferta.vc/sgNw) do primeiro filme._

@@ -1,10 +1,8 @@
 ---
 title: "<em>Acordei Vomitado</em> é, antes de qualquer coisa, sincero demais"
-cover: acordei-vomitado.jpg
-description: Nova música d'Os Croquetes gosta de mostrar o lado brincalhão. Escute de perto.
-product: Acordei Vomitado
-category: Músicas
-date: 2016-07-22
+excerpt: Nova música d'Os Croquetes gosta de mostrar o lado brincalhão. Escute de perto.
+tags:
+  - músicas
 ---
 
 > Esses cara deviam tá com os olhos que eram umas bolita.
@@ -15,7 +13,7 @@ Eu não me lembro de ter me divertindo tanto em apresentar uma música.
 
 _Acordei Vomitado_ é a nova música d'Os Croquetes, uma banda que eu não tenho ideia da história nem de trabalhos anteriores; mas ela chegou ao meu WhatsApp (realizando a profecia do Wilco de que as pessoas não se reuniriam mais para apresentar músicas uns aos outros) e, depois disso, chegou ao YouTube e é disso que vou falar hoje.
 
-{% include video.html url="https://www.youtube-nocookie.com/embed/3E-4-q7m4Rw" %}
+{% include elements/video.html url="https://www.youtube-nocookie.com/embed/3E-4-q7m4Rw" %}
 
 No início da internet gaúcha havia uma fanzine formada por estudantes universitários em Porto Alegre, que publicavam texto e divulgavam os textos uns dos outros. O Cardosonline era produto de jovens que vieram a ser romancistas e jornalistas conhecidos depois; mas na época da fanzine eles tavam por ir na Garagem Hermética, beber Polar sempre que podiam; e, claro, passar mal por alguma péssima escolha na orla da Redenção.
 

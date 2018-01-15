@@ -1,10 +1,9 @@
 ---
 title: "<em>Random Access Memories</em> não reinventa um gênero, mas redescobre o Daft Punk"
-cover: random-access-memories.jpg
-description: O duo francês encontrou no álbum vencedor do Grammy sua mais perfeita definição musical.
-product: Random Access Memories
-category: Músicas
-date: 2016-01-04
+excerpt: O duo francês encontrou no álbum vencedor do Grammy sua mais perfeita definição musical.
+tags:
+  - músicas
+  - Daft Punk
 ---
 
 O que fazer depois de realizar um álbum praticamente perfeito, que redefiniria tudo o que se escuta nas pistas de dança dali em diante? O Daft Punk demorou doze anos, mas finalmente encontrou em _Random Access Memories_ não só um verdadeiro sucessor para seu impecável _Discovery_, mas uma perfeita definição daquilo que o duo sempre foi.
@@ -19,4 +18,4 @@ _Random Access Memories_ é um catálogo da força, da referência e do talento 
 
 Se a primeira música do álbum é um hino de sua missão, ao final de “_Contact_” podemos constatar o quão paradoxal é que precisamos dos “robôs” da eletrônica para termos, enfim, vida na música de novo.
 
-{% include spotify.html url="https://embed.spotify.com/?uri=spotify:album:4m2880jivSbbyEGAKfITCa" %}
+{% include elements/player.html url="https://embed.spotify.com/?uri=spotify:album:4m2880jivSbbyEGAKfITCa" %}

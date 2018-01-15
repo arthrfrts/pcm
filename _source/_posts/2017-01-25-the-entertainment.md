@@ -1,13 +1,10 @@
 ---
-layout: post
-number: 70
-author: arthrfrts
 title: Você nunca vai jogar nada como <em>The Entertainment</em>
-cover: the-entertainment.jpg
-product: The Entertainment
-description: "É uma peça. É um jogo. Sei lá o que é, mas é demais."
-category: Jogos
-date: 2017-01-25
+excerpt: "É uma peça. É um jogo. Sei lá o que é, mas é demais."
+tags:
+  - jogos
+  - teatro
+  - Kentucky Route Zero
 ---
 
 > Seja lá o que você acha que é, _The Entertainment_ é fantástico.

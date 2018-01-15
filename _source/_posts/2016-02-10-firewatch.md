@@ -1,11 +1,10 @@
 ---
 title: "<em>Firewatch</em> apresenta a maturidade aos videogames"
-cover: firewatch.jpg
-description: O jogo de estreia da Campo Santo é mais um do pequeno nicho de jogos
+excerpt: O jogo de estreia da Campo Santo é mais um do pequeno nicho de jogos
   que possuem uma narrativa madura e corajosa.
-product: Firewatch
-category: Jogos
-date: 2016-02-10
+tags:
+  - jogos
+  - Campo Santo
 ---
 
 > _Firewatch_ possui alguns dos melhores diálogos já escritos pros videogames.
@@ -20,7 +19,7 @@ Ela é, na verdade, o grande mistério de _Firewatch_, e sua maior virtude. A du
 
 Muito pode ser questionado sobre as dinâmicas de _Firewatch_. O jogo nos apresenta um ambiente vasto, mas nos ilude quanto a sua função. Não estamos em um jogo de mundo aberto, como poderíamos imaginar, embora possamos explorá-lo quase que livremente. A Campo Santo não cria obstáculos muito visíveis para bloquear áreas, mas torna claro que os vastos ambientes de _Firewatch_ na verdade são apenas caminhos para o ponto de destino. E é esse ponto que irá fazer a história progredir, e não necessariamente a jornada até ele. Não existem grandes desafios nesses caminhos, e poucas vezes o jogo irá apresentar algum obstáculo que fará o jogador pensar. A ideia de _Firewatch_ é transformar o trajeto de Henry não em jogabilidade, mas em história. Tudo no jogo gira em torno das necessidades narrativas e emocionais, inclusive o relacionamento de Henry e Delilah. Escritos com perfeição, jamais idealizados e cheios de ansiedades e medos, Henry e Delilah possuem alguns dos melhores diálogos já escritos nos videogames.
 
-{% include video.html url="https://www.youtube.com/embed/cXWlgP5hZzc?rel=0&amp;showinfo=0" %}
+{% include elements/video.html url="https://www.youtube.com/embed/cXWlgP5hZzc?rel=0&amp;showinfo=0" %}
 
 _Firewatch_ vai apresentar vários mistérios nesse caminho. O desaparecimento de duas meninas, o caso de um pai e de um filho, um misterioso incêndio. Nenhum deles é mais importante que o enigma que é Delilah e suas vontades. Ela é uma personagem fantástica, e é realmente emocionante perceber o quão forte sua conexão com a personagem se torna com o passar das horas. Querida, um tanto alcóolatra e bastante sedutora, Delilah escuta Henry sempre que necessário, mas também responde com sua necessidade de se abrir. E esse talvez seja o maior tema de _Firewatch_. A necessidade do ser humano de se conectar com alguém, da sua ansiedade pelo destino desse relacionamento (e não necessariamente no trajeto que se toma para moldá-lo), e uma nota sobre como no mundo de hoje, diferente desses anos 80 que Henry e Delilah partilham na floresta, em que ser monitorado é visto com normalidade, e até como segurança. A ideia de ser ouvida, de ter seus sentimentos expostos, enfurece e ofende Delilah. _Firewatch_ nos lembra que intimidade é uma necessidade, e que a ideia de violá-la ou de sequer possuí-la.
 

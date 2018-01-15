@@ -1,10 +1,9 @@
 ---
 title: "<em>Love</em> é a melhor série original do Netflix"
-cover: netflix-love.jpg
-description: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.
-product: Love, 1ª temporada
-category: Séries
-date: 2016-02-22
+excerpt: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.
+tags:
+  - séries
+  - Netflix
 ---
 
 > Eu assisti a _Love_ de uma só vez, não faça isso (se conseguir).
@@ -19,7 +18,7 @@ _Love_ é sincero e doloroso na sua forma de tratar esse relacionamento. Se nos 
 
 Você pode achar que a série é sombria demais, então? Nada disso. Embora trate de um relacionamento cercado de problemas, intrínsecos dos próprios elementos que o formam, _Love_ é genuinamente engraçado. Pode não provocar as guinadas de riso como [_Community_]({{ 'community-se-despediu-com-uma-das-suas-melhores-temporadas.html' | prepend: site.baseurl }}) (série anterior da Jacobs), mas o seu humor carismático existe na sua realidade: o condomínio que parece um inferno; os amigos de Gus, que são excessivamente legais, os casos de amor fracassados de Mickey; e todo o humor de situação que Appatow coloca em seus filmes (com muito sucesso no seu melhor, _Missão Madinha de Casamento_), aqui presentes com melhor efeito na curta duração dos episódios.
 
-{% include video.html url="https://www.youtube.com/embed/2tV1zi0IbCk" %}
+{% include elements/video.html url="https://www.youtube.com/embed/2tV1zi0IbCk" %}
 
 Com personagens principais fascinantes de tão falhos em um relacionamento honesto e ao mesmo tempo singular, _Love_ consegue ser a melhor série do Netflix, conhecido por ambicionar com produções grandes e “de peso”, por finalmente entender seus personagens e saber o que quer contar. Colocando toda a primeira temporada a disposição, eu assisti _Love_ de uma só vez. Se conseguir, não faça isso: os arcos dos episódios são tão bem fechados e os ganchos são tão bem pensados que cada episódio da série só tem na espera pelo próximo episódio. _Love_ é precisa, honesta e engraçada, e já é uma das melhores novas séries do ano.
 

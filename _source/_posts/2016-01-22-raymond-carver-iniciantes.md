@@ -2,9 +2,9 @@
 title: Viva instantes em <em>Iniciantes</em>
 cover: iniciantes.jpg
 description: Os primeiros contos de Raymond Carver vão levar você para outras vidas.
-product: Iniciantes
-category: Livros
-date: 2016-01-22
+tags:
+  - livros
+  - Raymond Carver
 ---
 
 Eu julgo livros pela capa. Desculpa, mãe, mas é verdade. Eu evito, por exemplo, de comprar livros com as capas dos filmes inspirados neles. Quando eu não estou lendo meus livros, eles ficam na minha estante — e as capas deles deixam ela mais bonita.
@@ -15,7 +15,7 @@ _Iniciantes_ é uma coletânea de contos do Raymond Carver. Se você assistiu o 
 
 Não há muito minimalismo em _Iniciantes_. Aqui você pode conferir as versões integrais da primeira coletânea de contos do autor (_What we talk about when we talk about love_), antes das alterações e cortes de seu editor na época. Em _Iniciantes_, Carver é visto sem resumos, e seus contos brilham pela sua simplicidade narrativa, pela sua linguagem direta e pela sua clareza. Mais que isso, porém. Em _Iniciantes_, Carver nos dá momentos para viver.
 
-{% include image.html url="images/covers/carver.jpg" alt="Imagem de Raymond Carver" title="Carver, o autor. Muito de sua personalidade pode ser vista em seus personagens." %}
+{% include elements/figure.html url="images/covers/carver.jpg" alt="Imagem de Raymond Carver" title="Carver, o autor. Muito de sua personalidade pode ser vista em seus personagens." %}
 
 É por isso que eu comecei esse post comentando a capa. Se a foto que abre o livro é um retrato instantâneo de um momento qualquer, é exatamente essa a impressão que fica quando estamos lendo os contos ali dentro. Desde o incrível conto de abertura, “Porque não dançam”, até o “Mais uma coisa”, que encerra, passando pelos geniais “Uma coisinha boa”, “Coreto”, “Torta” e os amedrontadores  “Diga às mulheres que a gente já vai”, “É meu” e “Tanta água tão perto de casa”. Os contos em _Iniciantes_ diferem de tamanho e as vezes do modo de prosa (algumas vezes em primeira pessoa, outras vezes em terceira), mas a impressão é a mesma: estamos ouvindo um momento da história de outras pessoas, aquele exato instante que essas pessoas percebem que não são mais especiais, ou aguardadas em um grande destino, como o sonho americano as fez acreditar. Elas são pessoas ordinárias, as vezes medíocres, que esperaram a vida toda por algo acontecer. E, quando perceberam, já havia acontecido.
 

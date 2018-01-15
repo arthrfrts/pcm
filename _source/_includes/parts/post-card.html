@@ -1,4 +1,5 @@
 {% assign author = site.author %}
+{% assign comments = site.data.comments[post.id] | size %}
 
 <article class="post">
   <header class="post-header">
@@ -14,4 +15,6 @@
 
     <div class="post-description">{{ post.excerpt | markdownify }}</div>
   </header>
+
+  {% include elements/post-info.html %}
 </article>

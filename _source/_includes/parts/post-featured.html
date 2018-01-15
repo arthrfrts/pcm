@@ -16,7 +16,10 @@
 
     <a class="post-meta post-author" rel="author" href="{{ author.twitter | prepend: 'https://twitter.com/' }}">{{ author.name }}</a>
   </header>
+
   <div class="post-content">
     {{ post.content | markdownify }}
   </div>
+
+  {% include elements/post-info.html %}
 </article>

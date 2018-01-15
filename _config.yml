@@ -45,7 +45,7 @@ autopages:
     enabled: true
     layouts:
       - 'archive.html'
-    permalink: '/arquivos/secao/:cat/'
+    permalink: '/arquivos/coluna/:cat/'
   collections:
     enabled: false
   tags:

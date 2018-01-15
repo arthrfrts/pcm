@@ -18,6 +18,14 @@ body {
   flex: 1 0 auto;
 }
 
+::selection {
+  background: rgba($color-details, 0.4);
+}
+
+::-moz-selection {
+  background: rgba($color-details, 0.4);
+}
+
 /*
     Site Header
 */
@@ -80,6 +88,18 @@ body {
 
   // The Post
   .post {
+
+    &:not(:last-of-type) {
+      &:after {
+        display: block;
+        content: ' ';
+        background: $color-brand;
+        height: .3rem;
+        width: 15rem;
+        margin: ($spacing-unit * 2) auto;
+      }
+    }
+
     .post-header {
       text-align: center;
       margin-bottom: $spacing-unit;
@@ -114,6 +134,12 @@ body {
       .post-meta {
         font: 400 #{$font-size-small}/#{$font-line-height} $font-family-main;
         color: $color-grey;
+
+        svg {
+          height: $font-size-small;
+          max-width: $font-size-small;
+          fill: $color-grey;
+        }
       }
     }
 
@@ -135,6 +161,16 @@ body {
           margin: 0 (-$spacing-unit * 2) 0 $spacing-unit;
           width: 25rem;
         }
+      }
+    }
+
+    // Post Footer {
+    .post-footer {
+      text-align: center;
+      margin-top: $spacing-unit;
+
+      .post-meta:not(:last-child) {
+        margin-right: $spacing-unit;
       }
     }
   }

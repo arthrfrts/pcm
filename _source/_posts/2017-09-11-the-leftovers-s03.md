@@ -1,16 +1,14 @@
 ---
 date: 2017-09-11
 title: Em sua última temporada, <em>The Leftovers</em> não responde nada.
+excerpt: E responde tudo. E então acaba.
 image:
   path: 'https://cldup.com/9rLS_FKUsg.gif'
   alt: 'Kevin (interpretado por Justin Theroux) e Patty (interpretado por Ann Dowd) testemunham o fim do mundo.'
-excerpt: E responde tudo. E então acaba.
-category: Vindos do PCM
 tags:
-  - críticas
   - The Leftovers
-  - hbo
-  - seriados
+  - HBO
+  - séries
 ---
 
 > Eu queria que todos estivéssemos prontos.
@@ -31,7 +29,7 @@ E no que você acredita, no final das contas? Esses novos mundos servem pra algo
 
 São as histórias, _The Leftovers_ acredita, no final das contas, que salvam um mundo, ou criam um novo. Quando Grace conta o que aconteceu com seus filhos; quando Laurie escuta a história de Jill ao telefone, prestes a pular no mar; quando Nora olha diretamente para Kevin, e conta o que aconteceu. Nossas vidas estão nas histórias que contamos, e as vezes tudo o que nos resta é acreditar nelas. Lutar contra a falta de sentido do mundo é importante, porque nos torna um indivíduo. Mas quando contamos histórias, e ouvimos histórias, nós construímos um mundo entre nós, juntos. _The Leftovers_, no final das contas, nunca esteve preocupado com como acabamos com nossos mundos — mas como salvamos aqueles que amamos com os nossos pequenos paraísos. Nós temos esse infinito, mortal e frio, ao redor de nós. Mas nós temos um ao outro e, ainda bem, nós estamos aqui.
 
-{% include video.html url="https://www.youtube.com/embed/Ev9NvQR-l2E?rel=0&amp;showinfo=0" %}
+{% include elements/video.html url="https://www.youtube.com/embed/Ev9NvQR-l2E" %}
 
 ---
 

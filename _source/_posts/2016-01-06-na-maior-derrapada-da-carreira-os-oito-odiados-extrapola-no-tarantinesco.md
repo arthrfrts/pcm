@@ -1,10 +1,9 @@
 ---
 title: Na maior derrapada da carreira, <em>Os Oito Odiados</em> extrapola no tarantinesco
-cover: os-oito-odiados.jpg
-description: Novo filme do Tarantino é lindo e vale ser visto — mas também é um sinal preocupante que o diretor pode estar perdendo o jeito.
-product: Os Oito Odiados
-category: Filmes
-date: 2016-01-06
+excerpt: Novo filme do Tarantino é lindo e vale ser visto — mas também é um sinal preocupante que o diretor pode estar perdendo o jeito.
+tags:
+  - filmes
+  - Quentin Tarantino
 ---
 
 Tarantino é um ótimo diretor. Com uma carreira enxuta, ele conseguiu definir uma marca pessoal forte, seja visual ou narrativamente. Seus filmes são belos de seu próprio jeito, sujos e prolixos. Por trás deles, porém, existem personagens cativantes que nos fazem torcer por eles, mesmo os mais amorais. A noiva vingadora de _Kill Bill_, por exemplo, ou a trupe de judeus enlouquecidos de _Bastardos Inglórios_. Tarantino trata de temas polêmicos com uma simplicidade e uma eficácia surpreendente — vide a forma honesta, engraçada e ao mesmo tempo perturbadora que ele emprega em _Django Livre_, seu filme anterior.
@@ -19,7 +18,7 @@ _Os Oito Odiados_ reúne oito personas deploráveis em uma cabana. Os caçadores
 
 O que é um tanto triste. _Os Oito Odiados_ tinha tudo pra ser um dos melhores filmes de Tarantino, mas o diretor tenta tanto fazer tantas coisas de forma tão grandiosa, que se perde na essência. É ainda um filme divertido e com sacadas bacanas, mas lá pela metade você já pouco se importa com o rumo deles, e quer que o mundo pegue fogo de uma vez por todas, como você sabe que vai acontecer num filme tipicamente tarantinesco. É um peso na mão e um excesso de exagero que provocam a maior derrapada de Tarantino em sua carreira. Vale a pena ser visto? Vale, mas o filme também é um aviso: Tarantino está subindo a cabeça com seus trejeitos, e começou a derrapar. Se ele apostar mais alto na próxima vez, eu não duvido que ele caia.
 
-{% include video.html url="https://www.youtube.com/embed/aR38_FXwvJ8" %}
+{% include elements/video.html url="https://www.youtube.com/embed/aR38_FXwvJ8" %}
 
 ---
 

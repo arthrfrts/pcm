@@ -1,10 +1,9 @@
 ---
 title: Vencedor do Oscar, <em>Citizenfour</em> é amedrontador
-cover: citizenfour.jpg
-description: O documentário de Laura Poitras vai fazer você pensar duas vezes na hora de digitar sua senha.
-product: Citizenfour
-category: Filmes
-date: 2016-01-13
+excerpt: O documentário de Laura Poitras vai fazer você pensar duas vezes na hora de digitar sua senha.
+tags:
+  - filmes
+  - documentário
 ---
 
 Existe uma grande probabilidade de que _Snowden_, o filme que Oliver Stone dirige sobre a revelação do sistema de vigilância global da NSA que espionou centenas de milhares de meios de comunicação de civis internacionalmente, seja uma dramatização bem menos empolgante que _Citizenfour_.
@@ -19,6 +18,6 @@ _Citizenfour_ não faz com que o perigo da situação que ele exibe — o vazame
 
 Em uma bela peça de acompanhamento do também excelente _A Hora Mais Escura_ (_Zero Dark Thirty_, de Kathryn Bigelow), _Citizenfour_ vê o mundo com ameaças invisíveis e poucos lugares onde se sentem seguros. Por isso a força de ver Snowden, ao final do filme, em uma casa com sua parceira, ou Greenwald com seus cachorros no Rio de Janeiro; ou a diretora em sua cidade adotiva, em Berlim. Ambos não estão parados, porém, porque o filme implica que a batalha para retomar liberdades básicas ainda não acabou para eles. E, como a última cena do filme implica, não acabou para nós também.
 
-{% include video.html url="https://www.youtube.com/embed/XiGwAvd5mvM" %}
+{% include elements/video.html url="https://www.youtube.com/embed/XiGwAvd5mvM" %}
 
 _Citizenfour_ pode ser assistido na HBO Go.

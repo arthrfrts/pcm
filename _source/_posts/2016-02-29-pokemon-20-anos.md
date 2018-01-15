@@ -1,10 +1,10 @@
 ---
 title: Uma carta de amor a <em>Pokémon</em>
-cover: pokemon-20.jpg
-description: Nos vinte anos de uma das maiores franquias dos jogos, nós declaramos nosso amor aos monstrinhos
-product: Pokémon
-category: Jogos
-date: 2016-02-29
+excerpt: Nos vinte anos de uma das maiores franquias dos jogos, nós declaramos nosso amor aos monstrinhos
+tags:
+  - jogos
+  - Nintendo
+  - Pokémon
 ---
 
 _Pokémon_ fez vinte anos nesse último sábado, dia 27. Fazia anos que eu não enxia meus olhos com tantos dos monstrinhos de bolso que eu sempre amei.
@@ -21,7 +21,7 @@ Claro, eu acabei, eventualmente, jogando _Pokémon LeafGreen_, _Pokémon Crystal
 
 Tenho meus problemas com a franquia? Tenho, claro. Realmente acho a história bastante batida, já. Me irrito com a impossibilidade de completar a PokéDex hoje em dia, e na necessidade de ter alguém pra jogar contigo pra que tu complete tarefas básicas do jogo (eu sou bastante solo nos meus jogos, não curto um multiplayer). Mas isso tudo também adiciona ao charme da grandiosidade de _Pokémon_, e a complexidade de sua mitologia — em sua visão avançada, porque ele é bastante simples e direto se você não gosta de se dedicar — sempre acabaram me reconquistando. _Pokémon_ não precisa de dedicação do jogador, mas se ele o tem, o jogo irá recompensá-lo como poucos aí sabem fazer.
 
-{% include video.html url="https://www.youtube.com/embed/2sj2iQyBTQs" %}
+{% include elements/video.html url="https://www.youtube.com/embed/2sj2iQyBTQs" %}
 
 _Pokémon_ faz vinte anos e envelheceu, sim. Mas eu não digo que já passamos de seu tempo. _Pokémon X & Y_ são as renovações necessárias que a franquia deveria passar para chegar a um novo tempo, e parece que ela está disposta a avançar mais lançando _Pokémon Go_, o sonho de muita gente, em breve. _Pokémon_ sempre será importante para mim, porém, porque ele representa, assim como o Pikachu para o Ash no desenho, a lembrança do companherismo que é tão necessário na infância — e que, por boa parte dela, foram os monstrinhos que me fizeram. E pela sua presença em minha vida hoje. Não diária ou central, como um dia foi. Mas tangencial, e sempre presente. _Pokémon_ vive, ainda bem, porque quero que esses monstrinhos continuem comigo por um bom tempo. E se esse aniversário repleto de novos anúncios (inclusive uma nova geração, _Pokémon Sun & Moon_) comprova algo, é que eles estão aqui para ficar por mais alguns anos.
 

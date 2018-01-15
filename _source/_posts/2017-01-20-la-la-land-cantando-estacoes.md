@@ -1,15 +1,14 @@
 ---
 title: A mágica do cinema tá todinha em <em>La La Land – Cantando Estações</em>
-cover: la-la-land-cantando-estacoes.jpg
-product: La La Land – Cantando Estações
-description: Eu não esperava um filme tão bom assim.
-category: Filmes
-date: 2017-01-20
+excerpt: Eu não esperava um filme tão bom assim.
+tags:
+  - filmes
+  - musical
 ---
 
 _La La Land – Cantando Estações_ começa já dizendo a que veio: em uma primeira, imensa e muitíssima bem coreografada cena, um engarrafamento se torna palco de um número musical. Ele nem esconde, é um musical e os números pipocam. Cada um mais impressionante que o outro. Fazia tempo que eu não via coisa assim no cinema.
 
-{% include video.html url="https://www.youtube.com/embed/0KpWc-cwQtY" %}
+{% include elements/video.html url="https://www.youtube.com/embed/0KpWc-cwQtY" %}
 
 É incrível, mesmo, e vale muito a pena ver. _La La Land_ pega um gênero que tá cada vez mais morimbundo e traz alegria, energia e nos lembra porque o musical é, sim, um grande gênero do cinema. Com toda a teatralidade que ele traz as telas, é impressionante como esse filme brinca com enquadramento, movimento e luz com tanta “leveza”. A imagem corre como Emma Stone e Ryan Gosling, e é tão bom correr atrás dela também.
 

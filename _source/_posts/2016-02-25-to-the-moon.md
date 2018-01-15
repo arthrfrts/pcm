@@ -1,10 +1,8 @@
 ---
 title: Em <em>To The Moon</em> você é a história de amor
-cover: to-the-moon.jpg
-description: Jogo do estúdio independente Freebird Games permite você proporcionar, e vivenciar, uma história de amor
-product: To The Moon
-category: Jogos
-date: 2016-02-25
+excerpt: Jogo do estúdio independente Freebird Games permite você proporcionar, e vivenciar, uma história de amor
+tags:
+  - jogos
 ---
 
 Se você, assim como eu, é fascinado pelos jogos de RPG, mas tem problemas com toda aquela complexidade desnecessária de classes, grupos, mecânicas de batalha; ou com os clichês traiçoeiros que eles exploram, vai adorar _To The Moon_. Feito sob medida para aqueles que gostam de jogos “narrativos”, como andam chamando por aí, o jogo permite ao jogador ser o sentimento que liga um casal, perdido em memórias.
@@ -13,7 +11,7 @@ Assim como [_Ela_]({{ 'ela.html' | prepend: site.baseurl }}), _To The Moon_ é u
 
 De maneira bem semelhante ao que acontece com Joe em _Brilho Eterno de Uma Mente Sem Lembranças_, a mente não trabalha como os doutores imaginaram e criar memórias se torna impossível. Cabe aos doutores, então, revisitar as memórias de Wyles e explorar o porquê de sua vida infeliz, e porque ele deseja ir à lua, para entendê-lo e então realizar seu desejo.
 
-{% include video.html url="https://www.youtube.com/embed/sqkJuSV-23U" %}
+{% include elements/video.html url="https://www.youtube.com/embed/sqkJuSV-23U" %}
 
 Em _To The Moon_, o jogador vivencia as memórias de Wyles e de sua vida com River. Sem dar detalhes de como a narrativa se desenvolve, posso dizer que em _To The Moon_, devido à situação de Wyles, o jogador serve como a ligação entre ele e River nessa história de amor. Servindo não como um mediador de um relacionamento, mas de uma lembrança de porque os dois se amam, o jogo nos oferece um lugar de destaque em sua história — na qual somos tão protagonistas quanto Wyles e River naquilo que representamos para eles.
 

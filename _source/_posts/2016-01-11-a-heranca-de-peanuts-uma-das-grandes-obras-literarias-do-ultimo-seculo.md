@@ -1,10 +1,9 @@
 ---
 title: A herança de <em>Peanuts</em>, uma das grandes obras literárias do último século
-cover: peanuts.jpg
-description: Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).
-product: Peanuts
-category: HQs
-date: 2016-01-11
+excerpt: Como a tira de Charles Schulz sobre um bando de crianças problemáticas ganhou o mundo (e muito dinheiro).
+tags:
+  - Peanuts
+  - HQs
 ---
 
 > Peanuts é sobre como os sonhos podem nunca se tornar realidade.
@@ -21,7 +20,7 @@ Uma das maiores conquistas de _Peanuts_ é que sua popularidade e influência s�
 
 A primeira coisa que você pode perceber lendo as tiras (desde a primeira, publicada em outubro de 1950), é quão frio o tom do seu humor é. A emblemática primeira tira, por exemplo, apresenta “o bom e velho Charlie Brown”, um chamado que o personagem carregaria por toda a trajetória da tira, antes de continuar: “como eu odeio ele”.
 
-{% include image.html url="/assets/media/peanuts-primeira-tira.jpg" alt="Imagem da primeira tira de Peanuts" title="A primeiríssima tirinha de Peanuts, publicada em 2 de outubro de 1950." %}
+{% include elements/figure.html url="/assets/media/peanuts-primeira-tira.jpg" alt="Imagem da primeira tira de Peanuts" title="A primeiríssima tirinha de Peanuts, publicada em 2 de outubro de 1950." %}
 
 No início da tira, Charlie Brown é claramente o protagonista, o único personagem com traços de personalidade definidos (a famosa estampa de sua camiseta, porém, só viria meses depois). Ele tem objetivos. Ele tem até um sobrenome. Os outros personagens, porém, o desprezam ou o ignoram. E ele perde, constantemente. Ele nunca consegue o que ele quer, porque ele é superado por suas próprias falhas (um exemplo clássico, é como ele nunca consegue ir falar com a Garotinha Ruiva, sua grande paixão), ou pelos seus amigos (como quando Lucy sempre tira a bola quando ele vai chutar), ou pelo universo, que simplesmente existe (como as árvores, que adoram atrapalhar suas pipas).
 
@@ -35,7 +34,7 @@ Em toda a sua trajetória de cinquenta anos, _Peanuts_ sempre refletiu o trabalh
 
 Claro, _Peanuts_ existe até hoje não só por causa disso, mas também pela sua possibilidade de que seus personagens podem ser pegos sorrindo, as vezes. E Snoopy pode ser um bicho de pelúcia. Quando Schulz licenciou sua obra, as figuras de Charlie Brown, Lucy, Linus, Snoopy e Woodstock se tornaram mais e mais proeminentes nos Estados Unidos, se tornando até mesmo em selos do serviço postal (quando ele ainda representava algo).
 
-{% include video.html url="https://www.youtube.com/embed/hkkC45TfXL4" %}
+{% include elements/video.html url="https://www.youtube.com/embed/hkkC45TfXL4" %}
 
 Nem todos os produtos licenciados eram ruins. _O Natal de Charlie Brown_, que fez cinquenta anos em dezembro, é um dos melhores programas de televisão já feitos; _Volte pra casa, Snoopy_ capturava toda a melancolia das tirinhas; mas era inegável: quando Schulz começou a vender a imagem de sua gangue, após uma grande disputa com a United Features sobre os direitos de propriedade deles, parece que seus personagens perderam algum objetivo central. Com seus personagens sendo mascotes de empresas de seguro, enfeitando cabos de escovas de dente ou estampando camisetas “inspiradoras”, Charlie Brown e sua turma não podiam mais estar furiosos com o mundo. Eles estavam sempre rindo, sempre prontos para se divertir. E essa não era a turma que havia conquistado os Estados Unidos nos últimos vinte anos.
 
@@ -47,6 +46,6 @@ Com o declínio da mídia impressa, a página de tirinhas dos jornais ou fora di
 
 A genialidade de _Peanuts_ era de perceber (ou melhor, lembrar) o quão cruel a infância poderia ser — e o quanto isso poderia apelar para os adultos. Nenhuma peça de merchandising desde _Volte para Casa, Snoopy_ conseguiu capturar isso desde então. Talvez _Snoopy & Charlie Brown: Peanuts, o filme_ consiga. O que é importante, porém, é que alguns dos mais influentes e importantes personagens do século 20, protagonistas do maior feito editorial dos Estados Unidos, finalmente estão de volta à relevância.
 
-{% include video.html url="https://www.youtube.com/embed/FXUIlLLE-7Q" %}
+{% include elements/video.html url="https://www.youtube.com/embed/FXUIlLLE-7Q" %}
 
 _Peanuts_ pode ter sido a obra literária que melhor conhecia o seu autor. E Schulz, o medroso e desajustado que deu vida a ela, talvez tenha sido uma das pessoas que melhor entendeu sua época e seu mundo. _Peanuts_ é fruto de um outro tempo, sim, mas lendo (e assistindo) ele hoje, é inegável dizer que ele pertence a nós, também.

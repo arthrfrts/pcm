@@ -19,7 +19,31 @@ layout: default
 
     <a class="post-meta post-author" rel="author" href="{{ author.twitter | prepend: 'https://twitter.com/' }}">{{ author.name }}</a>
   </header>
+
   <div class="post-content">
     {{ page.content | markdownify }}
   </div>
+
+  {% if page.category or page.tags %}
+  <footer class="post-footer">
+    {% if page.category %}
+    <span class="post-meta post-category">
+      {% include elements/symbol.svg id="category" title="Seção" %}
+      {% for category in page.category %}
+      <a href="{{ category | slugify | prepend: '/arquivos/coluna/' | relative_url }}">{{ category }}</a>
+      {% endfor %}
+    </span>
+    {% endif %}
+
+    {% if page.tags %}
+    <span class="post-meta post-tags">
+      {% include elements/symbol.svg id="tag" title="Tags" %}
+
+      {% for tag in page.tags %}
+        <a rel="tag" href="{{ tag | slugify | prepend: '/arquivos/tag/' | relative_url }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </span>
+    {% endif %}
+  </footer>
+  {% endif %}
 </article>

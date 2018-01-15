@@ -1,11 +1,11 @@
 ---
 title: Cinco coisas (que você não conferiu) pra terminar bem 2015
-cover: 45-anos.jpg
-description: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para
+excerpt: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para
   você terminar bem esse ano.
-product: 5 de 2015
-category: Listas
-date: 2015-12-23
+tags:
+  - listas
+  - rankings
+  - retrospectiva do ano
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.
@@ -16,7 +16,7 @@ Já que o ano tá acabando e tá na hora de ver o que fazer nesse recesso, aí v
 
 ## Um filme: _45 Anos_
 
-{% include video.html url="https://www.youtube.com/embed/Nck9thDEfK0" %}
+{% include elements/video.html url="https://www.youtube.com/embed/Nck9thDEfK0" %}
 
 O que me deixa triste com _45 Anos_ não foi que ele foi pouco visto. É normal, pra um filme que vai ser lembrado só nas premiações, lá por fevereiro e março do ano que vem, que seu lançamento em outubro leve pouca gente pra ver. O que me deixa realmente triste é que ele foi lançado na pior semana do ano. Seus concorrentes, _Os 33_ e _O Último Caçador de Bruxas_, foram dois fracassos de bilheteria, que não encheram salas e que quem viu não gostou. Daí _45 Anos_, que quem viu amou, ficou lá, com duas salinhas aqui em POA, enquanto as outras pros “grandes lançamentos” estavam vazias.
 
@@ -28,7 +28,7 @@ O mais impressionante de _45 Anos_ é a simplicidade com que tudo é exibido, ma
 
 ## Uma série: _Hannibal_
 
-{% include video.html url="https://www.youtube.com/embed/4NuAnUmKn4w" %}
+{% include elements/video.html url="https://www.youtube.com/embed/4NuAnUmKn4w" %}
 
 Essa foi difícil. 2015 foi um ano incrível para a televisão. _Transparent_ é uma das coisas mais sensacionais já feitas, _Mad Men_ se encerrou em uma belíssima temporada, _Community_ deu adeus (mas ainda espera um filme), _The Leftovers_ foi a melhor série dramática do ano e _Looking_ teve o mais incrível finale que eu poderia imaginar.
 
@@ -52,7 +52,7 @@ E isso é tudo o que você precisa saber aqui. _Here And There Along The Echo_ �
 
 ## Um álbum: _Currents_
 
-{% include spotify.html url="https://embed.spotify.com/?uri=spotify%3Atrack%3A068LmtzI6xJJDPfPnMje0U" %}
+{% include elements/player.html url="https://embed.spotify.com/?uri=spotify%3Atrack%3A068LmtzI6xJJDPfPnMje0U" %}
 
 Deixa eu te contar uma verdade: eu não gosto do Tame Impala. Nunca vi o que eles têm de especial. Sério. O que é aquele _InnerSpeaker_, ou aquele _Lonerism_, com uma só música boa? Mas daí todo o mundo falou bem de _Currents_. Daí né, o pau mandado aqui foi conferir.
 
@@ -62,7 +62,7 @@ E _Currents_ não é todo excelente, pra falar a verdade. Tem umas três ou quat
 
 ## Um link: _Jout Jout Prazer_
 
-{% include video.html url="https://www.youtube.com/embed/OADVVyy_MKo" %}
+{% include elements/video.html url="https://www.youtube.com/embed/OADVVyy_MKo" %}
 
 A melhor dica que eu recebi esse ano não foi de livro, não foi de filme, não foi de série e nem de jogo. Quando me recomendaram ver a Jout Jout lá por julho, eu não dei muita bola. Vi um vídeo. Daí fui ver outro. E agora eu fico vendo todos eles repetindo várias vezes.
 

@@ -1,9 +1,12 @@
 ---
-product: Legion, 1ª temporada
 title: '<em>Legion</em> é o futuro brilhante dos super-heróis.'
-description: A primeira série do universo dos X-Men é tudo o que tem de melhor nos super-heróis — e um pouco mais.
-cover: legion-s01.jpg
-category: Séries
+excerpt: A primeira série do universo dos X-Men é tudo o que tem de melhor nos super-heróis — e um pouco mais.
+image:
+  path: 'https://cldup.com/WAUHY6foJB.gif'
+tags:
+  - séries
+  - X-Men
+  - Legion
 ---
 
 E então, o que tu acha dessa onda de filmes e séries de super-heróis que explodiu nessa última década?
@@ -16,7 +19,7 @@ Os X-Men sempre foram plurais. [Existem muitos](https://en.wikipedia.org/wiki/Li
 
 Centrada em David Haller, o Legião, interpretado aqui pelo Dan Stevens (que está em aproximadamente 170% dos filmes esse ano), a série é tão única quanto seu personagem. Criada pelo mesmo showrunner da antologia _Fargo_, Noah Hawley, _Legion_ usa das especificades de um dos X-Men mais legais pra fazer uma série igualmente cheia de especificidades.
 
-{% include video.html url="https://player.vimeo.com/video/208238174" %}
+{% include elements/video.html url="https://player.vimeo.com/video/208238174" %}
 
 Essa primeira temporada de _Legion_, pra ter uma ideia, se passa quase toda dentro da cabeça de David Haller. E a gente precisa ficar desvendando o que é realidade e o que é invenção das múltiplas mentes que habitam o cérebro do Legião. Acredite: a série é divertidíssima, e tem algumas das cenas mais legais do ano (em um ano com _Twin Peaks_ cada vez mais… únicos… é algo a se considerar).
 

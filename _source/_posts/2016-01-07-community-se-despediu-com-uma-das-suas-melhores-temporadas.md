@@ -1,10 +1,9 @@
 ---
 title: "<em>Community</em> se despediu com uma das suas melhores temporadas"
-cover: community.jpg
-description: Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer que você aprenda também.
-product: Community, 6ª temporada
-category: Séries
-date: 2016-01-07
+excerpt: Mudar é inevitável. Como <em>Community</em> aprendeu com isso — e quer que você aprenda também.
+tags:
+  - séries
+  - Community
 ---
 
 Vamos a algumas verdades absolutas da TV: a última temporada de _The Wire_ é uma decepção; _Seinfield_ é uma das melhores comédias da TV, mas a idade pesa; _Community_ era uma das melhores coisas que vimos na televisão em suas três primeiras temporadas, mas nunca conseguiu retomar sua glória depois.
@@ -27,7 +26,7 @@ Esse nível de conhecimento de seus personagens, e do que eles precisam para ser
 
 Claro, falando assim parece que essa temporada era toda sobre ir embora, algo meio melancólico. Embora seja seu tema central, a sexta temporada foi repleta de comédia. Abed, agora sem Troy, precisou lidar com suas manias de transformar tudo em uma fórmula de TV; Britta se reconciliou com seus pais e consigo mesma; Annie percebeu finalmente que seus amigos ali são o que há de melhor na sua vida, e não precisa mais mudá-los. Todos esses desenvolvimentos de personagem vieram repletos de piada, responsáveis por manter as engrenagens da série girando quase da mesma forma que a gente sempre conheceu ela. O humor charmoso e bastante preciso de _Community_ parece ser a maior constante da série — aquilo pelo qual ela sempre foi reconhecida, e continuará sendo.
 
-{% include video.html url="https://www.youtube.com/embed/STYxQ7s0lZg" %}
+{% include elements/video.html url="https://www.youtube.com/embed/STYxQ7s0lZg" %}
 
 Mas, olhando para a sexta temporada agora, com certa distância, é certeiro falar que seu tom é bastante saudosista. _Community_ tenta ser ela mesma quando não dá mais, quando precisa mudar e seguir em frente. Para isso, todos seus personagens ganham um certo final, mesmo Jeff, que finalmente percebe que, se seus amigos forem embora buscar novos picos, ele continuará lá para recebe-los se eles voltarem com a cara quebrada.
 

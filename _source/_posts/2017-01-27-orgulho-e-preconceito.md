@@ -1,13 +1,9 @@
 ---
-layout: post
-number: 72
-author: arthrfrts
 title: "<em>Orgulho e Preconceito</em> ainda surpreende"
-cover: orgulho-e-preconceito.jpg
-product: Orgulho e Preconceito
-description: O clássico de Jane Austen continua sendo um livro moderno e empolgante, como poucos desde então conseguiram ser.
-category: Livros
-date: 2017-01-27
+excerpt: O clássico de Jane Austen continua sendo um livro moderno e empolgante, como poucos desde então conseguiram ser.
+tags:
+  - livros
+  - Jane Austen
 ---
 
 O livro foi publicado pela primeira vez no início em 1813, mas continua sendo inusitado, divertido e moderno até hoje. _Orgulho e Preconceito_ não precisa de defensores e sim de leitores.

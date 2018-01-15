@@ -1,10 +1,10 @@
 ---
-cover: pcm-melhores-2016.png
 title: Os 5 melhores de 2016
-product: Melhores do Ano
-description: Antes de entrarmos em férias, vamos dar uma olhada naquilo que teve de melhor nesse (péssimo) ano. Nos acompanhe com o melhor filme, o melhor álbum, o melhor jogo, a melhor série e o melhor livro que vimos, jogamos, ouvimos e lemos esse ano.
-category: Listas
-date: 2016-12-22
+excerpt: Antes de entrarmos em férias, vamos dar uma olhada naquilo que teve de melhor nesse (péssimo) ano. Nos acompanhe com o melhor filme, o melhor álbum, o melhor jogo, a melhor série e o melhor livro que vimos, jogamos, ouvimos e lemos esse ano.
+tags:
+  - listas
+  - rankings
+  - retrospectiva do ano
 ---
 
 2016 não foi lá um bom ano no geral. Aqui com os padeiros também. Eu e a Thai tivemos um ano puxado e frustrante, e acabamos não conseguindo dar toda a nossa atenção ao nosso querido :bread:. Nós esperamos que 2017 seja melhor, e por isso vamos voltar com as dicas diárias na primeira segunda-feira do ano, dia 2 de janeiro.
@@ -15,7 +15,7 @@ Vamos começar?
 
 ## 5. O melhor álbum: _Lemonade_.
 
-{% include video.html url="https://www.youtube.com/embed/LrCHz1gwzTo" %}
+{% include elements/video.html url="https://www.youtube.com/embed/LrCHz1gwzTo" %}
 
 Que Beyoncé está colocando seu plano de dominação mundial em prática, todo mundo já sabe, mas o que a gente podia não esperar é que seu próximo passo fosse algo tão grandioso e pessoal como seu novo “álbum visual”, _Lemonade_.
 
@@ -29,7 +29,7 @@ Beyoncé navega no seu álbum mais coeso nessa sua fase mais madura que começou
 
 ## 4. O melhor jogo: _Firewatch_.
 
-{% include image.html url="/assets/media/campo-santo-firewatch.jpg" %}
+{% include elements/figure.html url="/assets/media/campo-santo-firewatch.jpg" %}
 
 Poucos jogos conseguem o efeito absorvente e imediato de um conto. Primeiro, porque eles tendem a ser longos; e segundo, porque a narrativa nos jogos ainda cai no sobrenatural, na aventura e na grandiosidade. Poucos jogos buscam pequenas coisas, pequenos confrontos e pequenas jornadas. Os que fazem isso, como _Gone Home_ e _Dear Esther_, são bem específicos: são jornadas de um personagem através de um ambiente, geralmente recompensados pela sua destreza na hora de descobrir objetos escondidos ou de acessar certos lugares.
 
@@ -43,7 +43,7 @@ _Firewatch_, o jogo de estréia da Campo Santo, é um desses jogos que te prende
 
 ## 3. A melhor série: _Halt & Catch Fire_.
 
-{% include image.html url="/assets/media/halt-and-catch-fire.jpg" %}
+{% include elements/figure.html url="/assets/media/halt-and-catch-fire.jpg" %}
 
 2016 foi consideravelmente mais fraco na TV do que 2015, mas três séries conseguiram aumentar ainda mais o nível nessa temporada: _The Americans_ e _Veep_ elevam já grandes séries a níveis impecáveis, mas _Halt & Catch Fire_, depois de uma segunda temporada fantástica, encontra em seus terceiro ano a força ideal.
 
@@ -58,7 +58,7 @@ _High Maintenance_ (HBO); _The Night Of_ (HBO); _Insecure_ (HBO); _Atlanta_ (FX)
 
 ## 2. O melhor filme: _Aquarius_.
 
-{% include video.html url="https://www.youtube.com/embed/VB-5rodvHUc" %}
+{% include elements/video.html url="https://www.youtube.com/embed/VB-5rodvHUc" %}
 
 Não existe nada tão monumental como _Aquarius_ no cinema esse ano. Foda-se, sinceramente, sua visão política. Quando um filme é tão bem dirigido, escrito, atuado, fotografado, sonorizado e montado como _Aquarius_, em que a linguagem cinematográfica tá tão plenamente na tela, presente para o espectador, é impossível negar: _esse é um dos grandes filmes do cinema_.
 
@@ -72,7 +72,7 @@ Compre _Aquarius_ [em blu-ray](http://click.linksynergy.com/fs-bin/click?id=vgrz
 
 ## 1. O melhor do ano: _O Coração é Um Caçador Solitário_.
 
-{% include image.html url="/assets/media/coracao-cacador-solitario.jpg" %}
+{% include elements/figure.html url="/assets/media/coracao-cacador-solitario.jpg" %}
 
 Eu li muito em 2016, pra te falar a verdade. Não foi o meu ano mais produtivo, não foi o ano em que eu me dediquei mais naquilo que eu me interesso, mas eu li. Eu li muito, eu tirei meu atraso de anos, e isso me fez bem. Ler, ainda, é o melhor remédio. E, de todos os livros que eu li, eu tive certeza na primeira página qual foi o melhor livro do ano.
 
