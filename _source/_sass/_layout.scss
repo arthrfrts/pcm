@@ -54,14 +54,15 @@ body {
   .main-menu {
     display: flex;
     flex-flow: row nowrap;
-    overflow-x: scroll;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
     justify-content: center;
     font: 700 #{$font-size-small}/#{$font-line-height} $font-family-main;
     margin-top: $spacing-unit / 2;
     text-transform: lowercase;
 
     @include on-palm {
-      justify-content: flex-start;
       padding: $spacing-unit / 2;
     }
 
@@ -112,7 +113,7 @@ body {
         background-size: contain;
 
         img {
-          width: auto;
+          object-fit: scale-down;
           max-height: 20rem;
         }
       }
