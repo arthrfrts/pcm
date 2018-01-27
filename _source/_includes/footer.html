@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <dl class="site-info">
+      <dt><a href="{{ site.url }}">{{ site.title }}</a></dt>
+      <dd>{{ site.description }}</dd>
+    </dl>
+
+    <ul class="contact-links">
+      <li><a href="{{ site.contact.email | prepend: 'mailto:' }}">{% include elements/symbol.svg id="email" title="Email" %}</a></li>
+      <li><a href="{{ site.contact.twitter | prepend: 'https://twitter.com/' }}">{% include elements/symbol.svg id="twitter" title="Twitter" %}</a></li>
+      <li><a href="{{ site.contact.facebook | prepend: 'https://www.facebook.com/' }}">{% include elements/symbol.svg id="facebook" title="Facebook" %}</a></li>
+    </ul>
+
+    <p class="site-credits">Site feito pelo <a href="https://arthr.me/" title="Desenvolvedor front-end e consultor WordPress">{% include elements/symbol.svg id="arthr" title="Arthur Freitas" %}</a>.</p>
+  </div>
+</footer>

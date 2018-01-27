@@ -89,7 +89,6 @@ body {
 
   // The Post
   .post {
-
     &:not(:last-of-type) {
       &:after {
         display: block;
@@ -149,18 +148,22 @@ body {
       text-align: justify;
 
       blockquote:first-child {
-        text-align: left;
         font: italic 700 calc(#{$font-size-base} * #{1.25})/#{1.25} $font-family-main;
         color: $color-brand;
+      }
 
-        @include on-palm {
-          text-align: center;
-        }
-
-        @include on-laptop {
+      @include on-laptop {
+        blockquote:first-child {
+          text-align: left;
           float: right;
           margin: 0 (-$spacing-unit * 2) 0 $spacing-unit;
           width: 25rem;
+        }
+      }
+
+      @include on-palm {
+        blockquote:first-child {
+          text-align: center;
         }
       }
     }
@@ -173,6 +176,91 @@ body {
       .post-meta:not(:last-child) {
         margin-right: $spacing-unit;
       }
+
+      @include on-palm {
+        .post-meta {
+          margin: $spacing-unit / 2 0;
+          display: block;
+        }
+      }
     }
+  }
+}
+
+/*
+    Site Footer
+*/
+.site-footer {
+  background: $color-brand;
+  border-top: .3rem solid $color-accent;
+  margin-top: $spacing-unit;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  text-align: center;
+  color: $color-background;
+  font-size: $font-size-small;
+
+  a {
+    text-decoration: underline dotted $color-background;
+    -webkit-text-decoration-color: $color-background;
+    -webkit-text-decoration-style: dotted;
+    color: $color-background;
+
+    &:hover,
+    &:focus {
+      color: $color-details;
+      -webkit-text-decoration-color: $color-details;
+    }
+  }
+
+  .contact-links {
+    li {
+      display: inline-block;
+
+      &:not(:last-child) {
+        margin-right: $spacing-unit / 2;
+      }
+
+      a {
+        svg {
+          height: calc(#{$font-size-small} * #{$font-line-height});
+          max-width: calc(#{$font-size-small} * #{$font-line-height});
+          fill: $color-background;
+          transition: fill .25s ease;
+        }
+
+        &:hover,
+        &:focus {
+          svg {
+            fill: $color-details;
+          }
+        }
+      }
+
+    }
+  }
+
+  .site-credits {
+    a {
+      text-decoration: none;
+
+      svg {
+        height: calc(#{$font-size-small} * #{$font-line-height});
+        max-width: 7rem;
+        fill: $color-background;
+        transition: fill .25s ease;
+      }
+
+      &:hover,
+      &:focus {
+        svg {
+          fill: $color-details;
+        }
+      }
+    }
+  }
+
+  .wrapper {
+    @extend %container;
   }
 }

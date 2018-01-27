@@ -6,6 +6,7 @@ lang: pt-BR
 timezone: America/Sao_Paulo
 
 contact:
+  email: paomortadela@icloud.com
   facebook: paomortadela.com.br
   twitter: paomortadela
 
@@ -37,6 +38,7 @@ pagination:
   enabled: true
   per_page: 5
   permalink: '/arquivos/parte/:num/'
+  title: ':title ~ página :num'
   sort_reverse: true
 
 autopages:
