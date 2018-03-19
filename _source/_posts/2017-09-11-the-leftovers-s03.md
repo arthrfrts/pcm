@@ -1,14 +1,12 @@
 ---
 date: 2017-09-11
-title: Em sua última temporada, <em>The Leftovers</em> não responde nada.
+title: Em sua última temporada, The Leftovers não responde nada.
 excerpt: E responde tudo. E então acaba.
 image:
-  path: 'https://cldup.com/9rLS_FKUsg.gif'
-  alt: 'Kevin (interpretado por Justin Theroux) e Patty (interpretado por Ann Dowd) testemunham o fim do mundo.'
+  path: 'https://arthrfrts.files.wordpress.com/2018/03/leftovers-s03.jpg'
 tags:
-  - The Leftovers
-  - HBO
   - séries
+category: pcm
 ---
 
 > Eu queria que todos estivéssemos prontos.
@@ -21,16 +19,15 @@ O que aconteceu, então, no dia 14 de outubro de 2011, quando dois porcento da p
 
 Kevin, Nora, Matt, Laurie e John estão todos se preparando para esse caos quando a terceira temporada começa. Às vésperas do sétimo aniversário d'A Partida, o mundo parece ter enlouquecido ainda mais, e agora acredita que estão próximos do fim: ameaças nucleares, o suposto “retorno” dos que partiram, um grande cometa ou — pior de tudo —, nada. Ninguém sabe exatamente o que vai acontecer no sétimo aniversário, mas todos têm a certeza de que vai acontecer algo. Na premiere da temporada, todos estão felizes, juntos. É quase como um final _per se_.
 
+![Imagem de The Leftovers](https://cldup.com/9rLS_FKUsg.gif)
+_SOS_
+
 A última temporada de _The Leftovers_ é menor, com oito episódios, e todos servem como _finales_. Embora cada episódio seja focado em um personagem específico (muito como a segunda temporada e os melhores episódios da primeira foram), o arco de todos sempre anda para frente. O segredo é que estamos sempre ouvindo histórias, agora, inclusive daqueles que não vemos mais. Para cada um, um de cada vez, _The Leftovers_ traz algum conforto. E então acaba.
 
 É o fim do mundo que assola todos os episódios da série. O fim está próximo, literalmente, pra todos. É _o que acontece_, a série acredita, quando suas verdades e seus significados são tirados de você: caos. Um caos incontrolável, que rumará ou para o fim, ou em busca de um novo conforto. Quando um mundo acaba — como acabou n'A Partida, sete anos atrás —, alguns entregam-se ao fim e outros buscam um novo. A jornada dos personagens de _The Leftovers_ é tortuosa, mas não é trágica — ainda bem que a série, logo no seu segundo ano, abraçou o cômico para aliviar o seu pesado drama existencial. O mundo está sempre acabando, de novo e de novo, e estamos sempre descobrindo um novo.
 
 E no que você acredita, no final das contas? Esses novos mundos servem pra algo, ou estamos fadados a repetir nossos ciclos destrutivos, de novo e de novo? Você acredita nas explicações que nos dão para as coisas estarem assim? Você se permite acreditar em algo? Embora se passe entre apocalipses, _The Leftovers_ ressoa o nosso próprio mundo. Se a vida é mantida por atos aleatórios e incontroláveis, como os nossos maiores medos acreditam, então estamos fadados a essa incerteza total e destrutiva. Mas nós ao menos temos nossas histórias.
 
+<iframe width="1280" height="739" src="https://www.youtube.com/embed/Ev9NvQR-l2E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 São as histórias, _The Leftovers_ acredita, no final das contas, que salvam um mundo, ou criam um novo. Quando Grace conta o que aconteceu com seus filhos; quando Laurie escuta a história de Jill ao telefone, prestes a pular no mar; quando Nora olha diretamente para Kevin, e conta o que aconteceu. Nossas vidas estão nas histórias que contamos, e as vezes tudo o que nos resta é acreditar nelas. Lutar contra a falta de sentido do mundo é importante, porque nos torna um indivíduo. Mas quando contamos histórias, e ouvimos histórias, nós construímos um mundo entre nós, juntos. _The Leftovers_, no final das contas, nunca esteve preocupado com como acabamos com nossos mundos — mas como salvamos aqueles que amamos com os nossos pequenos paraísos. Nós temos esse infinito, mortal e frio, ao redor de nós. Mas nós temos um ao outro e, ainda bem, nós estamos aqui.
-
-{% include elements/video.html url="https://www.youtube.com/embed/Ev9NvQR-l2E" %}
-
----
-
-**Onde posso assistir _The Leftovers_?** As três temporadas estão disponíveis na [HBO Go](http://www.hbogo.com.br/). Reprises acontecem na HBO Signature. Dê uma chance. É a melhor série que eu já vi.

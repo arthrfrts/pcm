@@ -1,19 +1,18 @@
 ---
-title: "<em>Everything Now</em> pede para encararmos o abismo juntos"
-excerpt: O mais recente álbum do Arcade Fire é um misto de excitação e desespero.
+title: "Everything Now pede para encararmos o abismo juntos"
 image:
-  path: 'https://cldup.com/R3lOnbxu2L.jpg'
-  alt: Capa do álbum
+  path: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
 tags:
-  - música
+  - músicas
   - Arcade Fire
+category: pcm
 ---
 
 Quando eu terminei de ouvir _Everything Now_, eu fiquei desesperado.
 
 O Arcade Fire sempre foi adepto de grandes declarações. Desde _Funeral_, uma ode à morte e ao luto, até _[Reflektor](https://paomortadela.com.br/2017/arcade-fire-reflektor.html)_, sua elegia ao amor, eles estão acostumados em usarem suas músicas para tocar em temas maiores do que seus braços podem abraçar. Com _Everything Now_ eles fazem justamente isso, e _somente_ isso. Mas nunca antes na carreira da banda as coisas estiveram tanto em jogo quanto agora.
 
-{% include elements/video.html url="https://www.youtube.com/embed/zC30BYR3CUk?rel=0&amp;showinfo=0" %}
+<iframe width="1280" height="739" src="https://www.youtube.com/embed/zC30BYR3CUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Everything Now_ começa com a festiva faixa-título e, duas músicas depois,
 discutir o aborto com os pesados versos “_God make me famous/If you can't just make it painless_”. O suicídio volta em jogo mais pro final, mas a banda tem outras coisas pra falar no meio do caminho.
@@ -24,12 +23,8 @@ Mas foi o álbum começar de novo para eu perceber que o coração da banda est�
 
 Esse jogo de controle é essencial em _Everything Now_. O mundo não parece ser muito receptivo para muitos de nós hoje em dia, e o álbum usa de suas referências a ABBA, Talking Heads e Bee Gees para soar um pouco como o todo. As coisas não estão boas, por mais que a gente tente assumir o controle sobre elas. Nós não conseguimos assumir o controle de nós mesmos, do nosso tempo, da nossa vida.
 
-{% include elements/video.html url="https://www.youtube.com/embed/UymXRxJPOQo?rel=0&amp;showinfo=0" %}
+<iframe width="1280" height="739" src="https://www.youtube.com/embed/UymXRxJPOQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 É em uma grande incerteza que vive _Everything Now_, tanto em temas quanto em estilos. O álbum brinca com homenagens aos álbuns passados (“Everything Now” soa como uma nova “Wake Up”, “Electric Blue” soa muito como “Sprawl II”), com coisas totalmente novas (“Peter Pan” parece a coisa mais diferente já posta em um álbum do Arcade Fire, e ao mesmo tempo cabe como uma luva). Parece estranho, mas é familiar ao mesmo tempo.
 
 E então o desespero passou. Quando _Everything Now_ acabou de novo, me tirando o prazer de ouvir o poslúdio por inteiro, ele me lembra que essa ilusão que eu criei de ter o controle sobre meus filmes, minhas músicas e, pior ainda, sobre minha vida, é um reflexo de um mundo que nos encaminha pra um abismo. Mas é nesse momento que _Everything Now_ parece estender a mão pro ouvinte. Se for pular, pulamos todos juntos.
-
----
-
-**Onde eu posso ouvir _Everything Now_?** O novo álbum do Arcade Fire está disponível no [Spotify](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) e em praticamente qualquer outro serviço de música por aí. Tu também pode comprá-lo no [iTunes](https://itunes.apple.com/us/album/everything-now/id1240796998).

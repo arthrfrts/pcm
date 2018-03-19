@@ -1,12 +1,11 @@
 ---
-title: "<em>A House In California</em> é pequeno e perfeito"
-excerpt: Jogo dos criadores de Kentucky Route Zero mostrava, naquela época, o quão bons contadores de histórias eles são.
+title: "A House In California é pequeno e perfeito"
 tags:
   - jogos
-  - Cardboard Computer
+category: pcm
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
 ---
-
-> A House In California talvez seja meu webgame favorito.
 
 O som de grilos em uma noite. Parece que vai chover depois. Uma criança fala para a avó que está muito escuro. Ela não consegue dormir.
 
@@ -23,5 +22,3 @@ Se você já jogou algum dos atos de _Kentucky Route Zero_, ou até mesmo algum 
 Como nos melhores momentos de _KR0_, _A House In California_ vai um pouco além. É aí que o jogo começa a te confundir. Não pela história confusa (ela é, na verdade, bem simples). Mas ao construir uma jornada tão pessoal e tão simples, o jogo começa a nos confundir em o quê faz parte da experiência do personagem e o que é a nossa própria experiência. O quanto das lembranças que estamos buscando são, na verdade, lembranças nossas.
 
 E é aí que _A House In California_ chega: em você.
-
-_A House In California pode ser jogado gratuitamente no [Kongregate](http://www.kongregate.com/games/racter/a-house-in-california)._

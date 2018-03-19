@@ -1,12 +1,11 @@
 ---
-title: "<em>Gilmore Girls</em> não é a melhor série já feita, mas é a melhor série já feita"
-excerpt: Um dos mais charmosos seriados americanos de todos os tempos está disponível na Netflix — é hora de rever <em>Gilmore Girls</em> o resto de nossa existência.
+title: "Gilmore Girls não é a melhor série já feita, mas é a melhor série já feita"
 tags:
   - séries
-  - Netflix
+category: pcm
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls.jpg"
 ---
-
-> Poucas séries se preocuparam tanto com seus personagens quanto essa.
 
 Na última sexta-feira a Netflix liberou pro resto do mundo as sete temporadas de _Gilmore Girls_, antes disponíveis somente para a América do Norte. Se você, assim como eu, assistia nas terças-feiras de noite na Warner Channel, deve ter vibrado com a notícia. Afinal, _Gilmore Girls_ é a melhor série já feita.
 
@@ -16,7 +15,8 @@ _Gilmore Girls_ conta a história de três gerações de mulheres da família Gi
 
 O que torna _Gilmore Girls_ realmente especial são seus personagens. Lorelai é uma mãe incrível que, mesmo cometendo erros, busca o melhor para sua filha e, quando essa precisa traçar o seu caminho, busca seguir o seu. Rory é uma querida que precisa tropeçar e não é uma dessas adolecentes da TV que é idiota por ser idiota. Emily é uma matriarca com todos os seus defeitos, mas um grande coração e grande personalidade, mas as garotas Gilmore são apenas a ponta de um iceberg cheio de personagens carismáticos.
 
-{% include elements/figure.html src="/assets/media/gilmore-girls-cast.jpg" alt="Elenco de Gilmore Girls" title="O elenco de Gilmore Girls" caption="Você vai aprender a amar todos eles." %}
+![O elenco de Gilmore Girls](https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls-cast.jpg)
+_Você vai aprender a amar (e odiar) cada um deles._
 
 Os habitantes de Stars Hollow criam uma das melhores mitologias da TV, de tão lúdicos e divertidos: temos Kirk, um empreendedor com os mais loucos tipos de negócio; Babette, uma das vizinhas de Lorelai apaixonada por gatos; Patty, uma instrutora de dança com gostos no mínimo exóticos; os colegas da pousada de Lorelai, Sookie (a excelente Melissa McCarthy) e Michel; a amiga de infância de Rory, Lane, uma roqueira enrustida; Paris, a para sempre arquirival de Rory; Luke, a grande paixão de Lorelai, e por aí vai.
 
@@ -30,10 +30,9 @@ Assim, _Gilmore Girls_ nunca acabou tratando de temas maiores do que seus própr
 
 Vendo hoje, quase dez anos após a série ter sido cancelada, _Gilmore Girls_ é um alívio. Uma pequena dramédia sobre o cotidiano de uma série de pessoas em uma pequena cidade no interior dos EUA não parece muito interessante, mas é justamente nesses personagens que se esconde a vida da série. São sempre eventos espalhafatosos, encontros da cidade e muito mais para criar a vida da série. Mas aquilo que dá a vida aos episódios é, realmente, Lorelai e Rory.
 
-{% include elements/figure.html src="/assets/media/gilmore-girls-elas.jpg" alt="Personagens de Gilmore Girls" caption="Eu quero passar o resto dos meus domingos assim." %}
+![Lorelai e Rory aproveitam o domingo com doritos](https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls-elas.jpg)
+_Eu quero passar o resto dos meus domingos assim._
 
 Claro, _Gilmore Girls_ não é a melhor série já feita. São vários os problemas. É uma série da temporada “baixa” de um canal aberto na TV americana. Não é um bom precedente em 2000, quando a HBO estava começando a fazer as séries que mudariam tudo, anos depois. _Gilmore Girls_ tem sérios problemas de direção e de ritmo, e a atuação de Alexis Bledel é sofrível (ela melhorou muito depois). Mesmo assim, com as centenas de incertezas e péssimas escolhas (a última temporada é quase impossível de assistir), há algo no meio de _Gilmore Girls_ que ainda é imperdível: um carinho gigantesco pelas personagens, e um cuidado que ainda é pouco visto na TV pelas pequenas histórias da vida. Após acabar sua maratona, não duvido que você não vá fazer como eu e recomeçar _Gilmore Girls_ logo em seguida.
 
 É, eu sei como é. Eu nunca mais vou deixar Stars Hollow.
-
-_Você pode assistir **Gilmore Girls** no [Netflix](https://www.netflix.com/title/70155618) ou [comprar os DVDs](https://redir.lomadee.com/s/90cc8bda)._

@@ -1,12 +1,11 @@
 ---
-title: '<em>Legion</em> é o futuro brilhante dos super-heróis.'
-excerpt: A primeira série do universo dos X-Men é tudo o que tem de melhor nos super-heróis — e um pouco mais.
+title: 'Legion é o futuro brilhante dos super-heróis.'
 image:
-  path: 'https://cldup.com/WAUHY6foJB.gif'
+  path: "https://arthrfrts.files.wordpress.com/2018/03/legion-s01.jpg"
 tags:
   - séries
   - X-Men
-  - Legion
+category: pcm
 ---
 
 E então, o que tu acha dessa onda de filmes e séries de super-heróis que explodiu nessa última década?
@@ -19,11 +18,8 @@ Os X-Men sempre foram plurais. [Existem muitos](https://en.wikipedia.org/wiki/Li
 
 Centrada em David Haller, o Legião, interpretado aqui pelo Dan Stevens (que está em aproximadamente 170% dos filmes esse ano), a série é tão única quanto seu personagem. Criada pelo mesmo showrunner da antologia _Fargo_, Noah Hawley, _Legion_ usa das especificades de um dos X-Men mais legais pra fazer uma série igualmente cheia de especificidades.
 
-{% include elements/video.html url="https://player.vimeo.com/video/208238174" %}
+<iframe src="https://player.vimeo.com/video/208238174" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Essa primeira temporada de _Legion_, pra ter uma ideia, se passa quase toda dentro da cabeça de David Haller. E a gente precisa ficar desvendando o que é realidade e o que é invenção das múltiplas mentes que habitam o cérebro do Legião. Acredite: a série é divertidíssima, e tem algumas das cenas mais legais do ano (em um ano com _Twin Peaks_ cada vez mais… únicos… é algo a se considerar).
 
 _Legion_ parece apontar pra um futuro brilhante para os super-heróis, nem que seja só nessa série. Apostando demais na identidade do herói principal, Noah Hawley investe em uma estética particular pra série e se diverte um monte ao fazer a narrativa parecer estar sendo manipulada pelo próprio Haller. É uma loucura, é único e é divertidíssimo do início ao fim. E aponta pra um futuro ainda melhor. É a melhor temporada de estreia do ano.
-
----
-**Onde posso assistir _Legion_?** A primeira temporada, com oito episódios, está disponível via _streaming_ pela [FOX Play](https://foxplay.com/br/show/FNGTVSeriesP5813). A série foi renovada para uma segunda temporada (ainda bem).

@@ -1,11 +1,10 @@
 ---
 title: 'Looking: a segunda temporada'
-excerpt: A dramédia de público muito específico da HBO se tornou, essa semana, uma das melhores séries no ar atualmente.
+image:
+  path: "https://pcmbackup.files.wordpress.com/2015/03/looking-s02e07.jpg"
 tags:
   - séries
-  - Looking
-  - HBO
-  - Andrew Haigh
+category: pcm
 ---
 Desde a primeira temporada eu defendo que _Looking_ é uma grande série que tem como maior defeito buscar um nicho bastante restrito do público. Bem, eu estava errado. Com o episódio dessa semana, _Looking_ se tornou uma das melhores séries na TV atualmente — e se focar em um público específico talvez seja seu maior acerto.
 
@@ -22,7 +21,3 @@ _Looking_ é, de certa forma, uma versão extendida e semanal de _Weekend_, o q
 A intimidade e a naturalidade com que _Looking_ trata seus personagens e sua temática tornam a série em um produto bastante específico, mas como o próprio Haigh diz sobre _Weekend_, “quanto mais específico sobre algum assunto você consegue ser, mais universal ele se tornará para as pessoas”. É uma série sobre gays em San Francisco, sim, mas _Looking_ também é sobre seres humanos, como quaisquer outros, em busca de algo que seja real e que valha a pena.
 
 E quem aí não está?
-
----
-
-**Onde posso assistir _Looking_?** Em exibição na HBO aos domingos à 1h da manhã, com reprises na HBO Signatures, só restam mais três episódios para a conclusão dessa segunda temporada. Você pode ver todos os episódios, porém, através do [HBO Go](http://www.hbogo.com.br/). Você pode comprar a primeira temporada completa em DVD na [Livraria Cultura](http://oferta.vc/6xAx).

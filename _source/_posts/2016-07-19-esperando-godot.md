@@ -1,11 +1,13 @@
 ---
-title: Não há muito o que dizer sobre <em>Esperando Godot</em>
-excerpt: Um homem, uma árvore e outro homem. Uma obra-prima.
+title: Não há muito o que dizer sobre Esperando Godot
+category: pcm
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/esperando-godot.jpg"
 tags:
   - livros
 ---
 
-> Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.
+**Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.**
 
 Então, o post hoje talvez seja curto demais. Difícil eu te confirmar, mas acho que vai ser.
 
@@ -26,5 +28,3 @@ Bem. Definir o absurdo é, basicamente, definir _Esperando Godot_. O absurdo é,
 Eu poderia passar parágrafos e parágrafos aqui tentando te explicar todos os sentimentos, interpretações e dinâmicas que eu explorei ao ler _Esperando Godot_. Tudo seria completamente desnecessário, porque só de eu imaginar em escrever isso, tudo perde a força. O que eu posso, seguramente, te recomendar é que a leitura de _Esperando Godot_ pode não mudar sua vida, mas certamente vai te acordar. Nem que seja naquele tempo da leitura.
 
 O que eu posso te dizer com certeza é que, nessas quase duzentas páginas, _Esperando Godot_ me quebrou. Ele não é confuso, ele não é difícil, ele não é previsível, ele não é fácil. _Esperando Godot_ ignora completamente qualquer classificação que eu queira dar pra ele. É, como o absurdo no qual foi escrito, uma verdadeira força. Ele me destruiu em vários pedaços, os escondeu e me fez procurar. É a experiência mais única que eu tive. Eu jamais vou esquecer. Ainda bem que Godot não chegou, porque eu quero ficar esperando ele por muito tempo.
-
-_Esperando Godot tem uma belíssima edição da Cosac Naify. [Aproveita enquanto a Amazon ainda tem](https://www.amazon.com.br/Esperando-Godot-Samuel-Beckett-ebook/dp/B00S8LNH6W/ref=sr_1_1?ie=UTF8&qid=1468905370&sr=8-1&keywords=esperando+godot)._

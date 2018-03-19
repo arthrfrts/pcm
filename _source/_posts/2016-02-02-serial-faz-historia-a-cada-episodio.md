@@ -1,11 +1,11 @@
 ---
-title: "<em>Serial</em> faz história a cada episódio"
-excerpt: O melhor podcast já feito, Serial, é um modo único de analisar uma história.
+title: "Serial faz história a cada episódio"
+category: pcm
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/serial.jpg"
 tags:
   - podcasts
 ---
-
-> _Serial_ é o podcast definitivo.
 
 Os podcasts, por anos, tentaram se identificar. Uma versão atualizada dos programas de rádio, agora na Internet, podcasts sempre tiveram o problema de não serem relevantes, de não introduzirem nada de novo que valha a eles serem considerados um meio de expressão. Não se engane: podcasts são divertidos pelos mais diferentes motivos, de serem verdadeiros diários sonoros a conversas fantásticas ou um modo interessante de contar histórias.
 
@@ -20,7 +20,3 @@ Na sensacional — e já histórica — primeira temporada, Koenig segue a hist�
 Claro, ao final _Serial_ não condena ou anistia Adnan, mas questiona os métodos de julgamento e os furos investigativos aplicados em 1999. Serial também questiona, em momentos, o modo como os bairros de Baltimore são criminalizados, ou vistos como criminalizados, por serem formados por muçulmanos, negros ou imigrantes. Koenig expõe, naturalmente e sem nunca ser catedrática, o modo como uma comunidade é vista pelo resto de uma sociedade, em uma visão pessoal e fascinante dos Estados Unidos. Em sua segunda temporada, esse escopo é aumentado para âmbitos internacionais, seguindo a história de Bowe Bergdahl, um soldado americano que desapareceu uma noite e acabou sendo sequestrado pelo talibã. Serial acerta em sua segunda temporada, mas também erra. Os erros de _Serial_, porém, indicam muito mais o quão esse é um trabalho de uma pequena equipe em contar histórias ouvidas de seus personagens, e entender seus motivos e posições.
 
 _Serial_ é um mestre em narrar, em indicar e em sugerir. É um monstro em criar uma comunidade ao redor. Para termos de comparação, um episódio de _Serial_ teve em vinte quatro horas mais ouvintes que o grande campeão de audiência de _Breaking Bad_. Como a série da AMC, também, _Serial_ busca entender como uma pessoa se transforma. Seja Adnan, de possível assassino para a figura angustiada dentro da prisão. Seja Bergdahl, e seus motivos para desaparecer. Mais que isso, porém, _Serial_ engaja como poucas coisas hoje em dia (o Reddit da série é uma loucura de tanto conteúdo), e nos mostra nossa obsessão pela mente humana, e o modo que ela pode quebrar. Fazendo história a cada episódio, _Serial_ indica a força milenar que é contar uma história bem contada.
-
----
-
-_Serial_ pode ser escutado gratuitamente. Assine o podcast no [iTunes](https://geo.itunes.apple.com/us/podcast/serial/id917918570?mt=2) ou [ouça-o online no site](https://serialpodcast.org/), que inclui documentos e imagens de suporte.

@@ -1,10 +1,11 @@
 ---
-title: Você nunca vai jogar nada como <em>The Entertainment</em>
-excerpt: "É uma peça. É um jogo. Sei lá o que é, mas é demais."
+title: Você nunca vai jogar nada como The Entertainment
 tags:
   - jogos
-  - teatro
   - Kentucky Route Zero
+category: pcm
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 ---
 
 > Seja lá o que você acha que é, _The Entertainment_ é fantástico.
@@ -18,7 +19,3 @@ Mas você também pode interpretá-lo.
 _The Entertaiment_ é isso, basicamente. No jogo você interpreta um personagem que não tem nome, só é identificado como “Mosca de Bar”. Tem algo de misterioso rolando no The Lower Depths, o bar onde tudo se passa. _The Entertaiment_ não dura mais do que uma hora. Mas quando acaba ele te leva junto no medo que ele criou devagarinho.
 
 E eu não consigo sair dele.
-
----
-
-**The Entertainment** é um jogo gratuito para Windows, macOS e Linux. [Você pode baixá-lo no site oficial](http://kentuckyroutezero.com/the-entertainment/), ou [comprar o livro](http://www.lulu.com/shop/lem-doolittle/the-entertainment/paperback/product-21312732.html).

@@ -1,11 +1,11 @@
 ---
-title: "<em>The Night Of</em> é insuportável de linda"
-excerpt: 'Preparem-se: essa pode ser a nova grande série policial.'
+title: "The Night Of é insuportável de linda"
+category: pcm
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/night-of.jpg"
 tags:
   - séries
 ---
-
-> Será essa a melhor série de 2016?
 
 _The Night Of_ começa com uma sequência de títulos bem clássica. Faz tempos que a HBO começou a apostar em grandes aberturas pras suas séries de drama, contrariando a onda de títulos curtos que outras emissoras vinham fazendo. Ela não é mais bonita, por exemplo, como as duas aberturas de _True Detective_. A gente compara com _True Detective_ naturalmente, aliás. Essa minissérie (embora ja se fale em segunda temporada) veio, muito discretamente, ocupar o espaço que seria da terceira temporada da antologia de crimes escrita pelo Nick Pizzolatto.
 
@@ -17,7 +17,8 @@ _The Night Of_ possui oito episódios e se começa na noite em que Naz, um desce
 
 Isso é uma parte do primeiro, e irretocável, episódio de _The Night Of_. Se desenvolvendo de forma devagar, como um bom romance policial, a série não se apressa em revelar detalhes ou em exibir grandes cenas de ação. Pelo contrário. Boa parte de “The Beach”, o piloto, trata da vida de Naz, como ele é tratado nos Estados Unidos que ele nasceu mas que não se sente parte, cheio de disparidades raciais, étnicas e de classes. A Manhattan de _The Night Of_ é hostil e sombria. As vezes até selvagem. Ela lembra um pouco _The Wire_. Parece que você pode respirar o vento da noite.
 
-{% include elements/figure.html src="/assets/media/nightof.jpg" caption="Essa é uma das séries mais bonitas da TV." alt="Imagem da série. Cortesia HBO." %}
+![Imagem de The Night Of.](https://arthrfrts.files.wordpress.com/2018/03/nightof.jpg)
+_Essa é uma das séries mais bonitas da TV._
 
 E _The Night Of_ é mais comparável a _The Wire_ que _True Detective_ justamente pela maturidade que ele apresenta. Olha como a série usa o suspense e a tensão muito mais pra mostrar seus personagens presos em sistemas que os forçam a fazer escolhas questionáveis, ao invés de ir pro lado do suspense de impacto, da surpresa. Com o decorrer do primeiro episódio, Naz vai desaparecendo atrás de um pesado sistema judicial, ficando preso naquilo que fala. Caralho, ele vai se ferrar feio.
 
@@ -25,8 +26,6 @@ O interesse de _The Night Of_ pelo processo judicial (assim como _The Wire_, na 
 
 No seu núcleo, _The Night Of_ ainda é um suspense sobre quem cometeu o crime (o chamado _whodunnit_). Mas ele é tão interessado em quem cometeu o crime quanto as pessoas envolvidas por toda a investigação. Seja o Naz, o advogado John, os policiais Box, Klein, Chandra, e até mesmo os outros suspeitos. Cada um desses personagens possui uma vida fora desse caso policial, e é interessantíssimo como ele joga com isso no primeiro episódio (e vai ser ainda mais interessante ver o que vai ser feito após). Embora boa parte das vidas dos acusados e dos advogados parem de acordo com o caso, muito de suas crises pessoais, seus problemas físicos ou sua aparência dependem daquilo que estão vivendo.
 
-{% include elements/video.html url="https://www.youtube.com/embed/556N5vojtp0" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/556N5vojtp0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _The Night Of_ começa com um episódio impecável, o melhor que a TV exibiu durante todo esse ano. Com um começo tão brilhante assim, vai ser difícil a série continuar no ritmo. Mas isso vai ser empolgante: se _The Night Of_ continuar desse jeito, ela já tem um lugar na história dos grandes seriados policiais da história. Esse neo-noir tem um dos melhores elencos da televisão, uma realização que só a HBO consegue produzir, e uma história envolvente, importante e instigante. Eu tive que parar um pouco após terminar “The Beach”. Isso é televisão perfeita.
-
-_**The Night Of** está sendo exibido todas as noites de domingo na HBO. Você pode assistir ao primeiro episódio gratuitamente na [HBO Go](http://www.hbogo.com.br/#series/video&assetID=BRGOROSTGP35534)._

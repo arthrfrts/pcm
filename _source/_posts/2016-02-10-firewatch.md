@@ -1,13 +1,11 @@
 ---
-title: "<em>Firewatch</em> apresenta a maturidade aos videogames"
-excerpt: O jogo de estreia da Campo Santo é mais um do pequeno nicho de jogos
-  que possuem uma narrativa madura e corajosa.
+title: "Firewatch apresenta a maturidade aos videogames"
+category: pcm
 tags:
   - jogos
-  - Campo Santo
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
 ---
-
-> _Firewatch_ possui alguns dos melhores diálogos já escritos pros videogames.
 
 A gente aqui no PCM defende que os videogames não param de amadurecer. Nosso [jogo do ano](os-melhores-de-2015.html), por exemplo, é uma obra-prima na narrativa e na participação do jogador, colocando ele como espectador e agente da ação ao mesmo tempo. Nós inclusive fizemos uma lista com [dezesseis jogos que amaruderecam os videogames](16-jogos-que-amadureceram-os-videogames-nos-anos-2000.html). E, agora, a gente tem o prazer de dar como dica nessa volta de carnaval um jogo que segue essa linha (e, ao mesmo tempo, se alinha com as outras dicas que teremos essa semana): _Firewatch_, o belíssimo jogo de estréia da Campo Santo.
 
@@ -19,12 +17,8 @@ Ela é, na verdade, o grande mistério de _Firewatch_, e sua maior virtude. A du
 
 Muito pode ser questionado sobre as dinâmicas de _Firewatch_. O jogo nos apresenta um ambiente vasto, mas nos ilude quanto a sua função. Não estamos em um jogo de mundo aberto, como poderíamos imaginar, embora possamos explorá-lo quase que livremente. A Campo Santo não cria obstáculos muito visíveis para bloquear áreas, mas torna claro que os vastos ambientes de _Firewatch_ na verdade são apenas caminhos para o ponto de destino. E é esse ponto que irá fazer a história progredir, e não necessariamente a jornada até ele. Não existem grandes desafios nesses caminhos, e poucas vezes o jogo irá apresentar algum obstáculo que fará o jogador pensar. A ideia de _Firewatch_ é transformar o trajeto de Henry não em jogabilidade, mas em história. Tudo no jogo gira em torno das necessidades narrativas e emocionais, inclusive o relacionamento de Henry e Delilah. Escritos com perfeição, jamais idealizados e cheios de ansiedades e medos, Henry e Delilah possuem alguns dos melhores diálogos já escritos nos videogames.
 
-{% include elements/video.html url="https://www.youtube.com/embed/cXWlgP5hZzc?rel=0&amp;showinfo=0" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cXWlgP5hZzc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Firewatch_ vai apresentar vários mistérios nesse caminho. O desaparecimento de duas meninas, o caso de um pai e de um filho, um misterioso incêndio. Nenhum deles é mais importante que o enigma que é Delilah e suas vontades. Ela é uma personagem fantástica, e é realmente emocionante perceber o quão forte sua conexão com a personagem se torna com o passar das horas. Querida, um tanto alcóolatra e bastante sedutora, Delilah escuta Henry sempre que necessário, mas também responde com sua necessidade de se abrir. E esse talvez seja o maior tema de _Firewatch_. A necessidade do ser humano de se conectar com alguém, da sua ansiedade pelo destino desse relacionamento (e não necessariamente no trajeto que se toma para moldá-lo), e uma nota sobre como no mundo de hoje, diferente desses anos 80 que Henry e Delilah partilham na floresta, em que ser monitorado é visto com normalidade, e até como segurança. A ideia de ser ouvida, de ter seus sentimentos expostos, enfurece e ofende Delilah. _Firewatch_ nos lembra que intimidade é uma necessidade, e que a ideia de violá-la ou de sequer possuí-la.
 
 E _Firewatch_ é bem sucedido nisso também. Quando o jogo acaba, a decepção do jogador não é de como a história termina. É de perceber o quão nos tornamos íntimos desses dois personagens fantásticos por algumas horas e como é decepcionante termos que nos despedir deles de uma vez por todas.
-
----
-
-_Firewatch_ (Campo Santo, 2016). Windows, Mac, Linux, PlayStation 4. Você pode comprar o jogo na [Steam](http://store.steampowered.com/app/383870) e na [PlayStation Store](https://store.playstation.com/#!/en-us/search/q=firewatch).

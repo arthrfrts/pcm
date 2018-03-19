@@ -1,12 +1,10 @@
 ---
 title: Por Uma Vida Melhor
-excerpt: No filme mais simples, e mais charmoso, de Sam Mendes, nós finalmente
-  conhecemos pessoas bacanas.
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/por-uma-vida-melhor.jpg"
 tags:
   - filmes
 ---
-
-> Poxa, quantos personagens legais assim a gente vê no cinema ou na TV?
 
 Quantas pessoas bacanas você viu no cinema? Bacanas mesmo. Alguém gente-fina, que é legal e se importa em fazer algo bom — seja para si, para a família ou para um bem comum —, mas que não é um herói por isso. É só uma pessoa bacana.
 
@@ -18,10 +16,6 @@ _Por uma vida melhor_ é simples e eficaz. Em seus pouco menos de cem minutos, c
 
 E, talvez por isso, _Por uma vida melhor_ seja seu melhor filme. É o filme em que tudo está mais confortável em seus lugares. Sem os personagens desesperados de _Foi apenas um sonho_ nem as sequências de ação grandiosas (e excelentes) de _007: Operação Skyfall_, Mendes finalmente dá espaço para que seus atores tomem o filme para si. É de Burt e Verona o filme — reflexos de seus autores, os excelentes David Eggers e Vendela Vida, que não são apenas grandes escritores e ensaístas, mas também excelentes pessoas (sério, eles tem uma loja pirata, com tapa olhos, pernas de pau e bússolas em frente a uma de suas editoras).
 
-{% include elements/video.html url="https://www.youtube.com/embed/Hp_ZwQH2nfI" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Hp_ZwQH2nfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Você pode enxergar _Por uma vida melhor_ como um filme em que pessoas sem grandes problemas encontram algo pelo qual se preocupar. Mas e quem aqui não faz isso? Sem grandes comentários, sem grandes declarações, apenas uma observação sobre família e o significado de lar, _Por uma vida melhor_ é um dos filmes que melhor sabe o que é e onde chegar que eu vi em um bom tempo. Calmo e delicioso de assistir. Eu gostaria de ver filmes assim todos os dias.
-
----
-
-**Por Uma Vida Melhor** (_Away We Go_, 2009) está disponível no [Netflix](http://www.netflix.com/watch/70114018). Você pode comprar o DVD na [Livraria Cultura](http://oferta.vc/oFjC).

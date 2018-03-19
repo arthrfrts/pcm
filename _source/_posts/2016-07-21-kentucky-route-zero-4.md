@@ -1,12 +1,10 @@
 ---
-title: "<em>Kentucky Route Zero, Act IV</em> é desesperador"
-cover: kr04.jpg
-description: Depois de dois anos, o quarto ato de Kentucky Route Zero finalmente foi
-  lançado. É excelente.
+title: "Kentucky Route Zero: Ato IV é desesperador"
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/kr04.jpg"
 tags:
   - jogos
   - Kentucky Route Zero
-  - Cardboard Computer
 ---
 
 > Kentucky Route Zero é uma tragédia. E todas as tragédias acabam do mesmo jeito.
@@ -25,6 +23,4 @@ Não se engane, porém. Tudo está ruindo.
 
 E assim, nesse tom desesperador e quase apocalíptico que encontramos, e deixamos, os personagens em _Kentucky Route Zero, Act IV_, o jogo finalmente iguala a atual situação do mundo endividado de Kentucky com os sentimentos de seus personagens. Não é mais a melancolia que os bate, mas a fúria de se sentir amarrados, tentando resolver seus problemas, mas cada vez se prendendo mais. _Kentucky Route Zero_ não está brincando em serviço. E, pelo visto, nem Conway. As coisas estão ficando feias para todos os lados. _Kentucky Route Zero_, agora, é o nosso reflexo.
 
-{% include elements/video.html url="https://www.youtube.com/embed/9bFCNFqf_-0" %}
-
-_Kentucky Route Zero, Act IV pode ser adquirido juntamente com os outros atos no [Steam](http://store.steampowered.com/app/231200/) e no [GOG](https://www.gog.com/game/kentucky_route_zero_season_pass). O quinto ato será lançado dentro de um ano ou mais. Eu não consigo esperar._
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9bFCNFqf_-0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

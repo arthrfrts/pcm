@@ -4,8 +4,10 @@ excerpt: Nós selecionamos um filme, uma série, um jogo, um álbum e um link pa
   você terminar bem esse ano.
 tags:
   - listas
-  - rankings
-  - retrospectiva do ano
+  - filmes
+  - jogos
+  - séries
+  - músicas
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.
@@ -16,7 +18,7 @@ Já que o ano tá acabando e tá na hora de ver o que fazer nesse recesso, aí v
 
 ## Um filme: _45 Anos_
 
-{% include elements/video.html url="https://www.youtube.com/embed/Nck9thDEfK0" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Nck9thDEfK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 O que me deixa triste com _45 Anos_ não foi que ele foi pouco visto. É normal, pra um filme que vai ser lembrado só nas premiações, lá por fevereiro e março do ano que vem, que seu lançamento em outubro leve pouca gente pra ver. O que me deixa realmente triste é que ele foi lançado na pior semana do ano. Seus concorrentes, _Os 33_ e _O Último Caçador de Bruxas_, foram dois fracassos de bilheteria, que não encheram salas e que quem viu não gostou. Daí _45 Anos_, que quem viu amou, ficou lá, com duas salinhas aqui em POA, enquanto as outras pros “grandes lançamentos” estavam vazias.
 
@@ -26,9 +28,11 @@ O mais impressionante de _45 Anos_ é a simplicidade com que tudo é exibido, ma
 
 **Onde assistir?** _45 Anos_ ainda está no circuito, em algumas salas do país. O DVD deve chegar em março do ano que vem.
 
+---
+
 ## Uma série: _Hannibal_
 
-{% include elements/video.html url="https://www.youtube.com/embed/4NuAnUmKn4w" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4NuAnUmKn4w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Essa foi difícil. 2015 foi um ano incrível para a televisão. _Transparent_ é uma das coisas mais sensacionais já feitas, _Mad Men_ se encerrou em uma belíssima temporada, _Community_ deu adeus (mas ainda espera um filme), _The Leftovers_ foi a melhor série dramática do ano e _Looking_ teve o mais incrível finale que eu poderia imaginar.
 
@@ -40,6 +44,8 @@ E também é uma história de amor.
 
 **Onde assistir?** O AXN está fazendo reprise da série e você pode assistir tudo no site da emissora. As duas primeiras temporadas estão no Netflix, e a terceira deve aportar no primeiro semestre do ano que vem.
 
+---
+
 ## Um jogo: _Here And There Along The Echo_
 
 Nada em 2015 se compara a _Here And There Along The Echo_.
@@ -50,9 +56,11 @@ E isso é tudo o que você precisa saber aqui. _Here And There Along The Echo_ �
 
 **Onde jogar?** Várias formas. Você pode ligar para o número do jogo através do Skype (é um número americano, então use o Skype para ser mais barato), ou (acesse o site)[http://kentuckyroutezero.com/here-and-there-along-the-echo/] e baixe-o gratuitamente.
 
+---
+
 ## Um álbum: _Currents_
 
-{% include elements/player.html url="https://embed.spotify.com/?uri=spotify%3Atrack%3A068LmtzI6xJJDPfPnMje0U" %}
+<iframe src="https://open.spotify.com/embed/track/068LmtzI6xJJDPfPnMje0U" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Deixa eu te contar uma verdade: eu não gosto do Tame Impala. Nunca vi o que eles têm de especial. Sério. O que é aquele _InnerSpeaker_, ou aquele _Lonerism_, com uma só música boa? Mas daí todo o mundo falou bem de _Currents_. Daí né, o pau mandado aqui foi conferir.
 
@@ -60,9 +68,11 @@ E _Currents_ não é todo excelente, pra falar a verdade. Tem umas três ou quat
 
 **Onde ouvir?** Já a venda em qualquer lugar, se você é desses. [O álbum já está disponível no Spotify](https://open.spotify.com/album/0rxKf57PZvWEoU8v3m5W2q).
 
+---
+
 ## Um link: _Jout Jout Prazer_
 
-{% include elements/video.html url="https://www.youtube.com/embed/OADVVyy_MKo" %}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OADVVyy_MKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 A melhor dica que eu recebi esse ano não foi de livro, não foi de filme, não foi de série e nem de jogo. Quando me recomendaram ver a Jout Jout lá por julho, eu não dei muita bola. Vi um vídeo. Daí fui ver outro. E agora eu fico vendo todos eles repetindo várias vezes.
 

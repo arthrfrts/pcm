@@ -1,16 +1,13 @@
 ---
-title: Em um dia de despedida, <em>Cópia Fiel</em> se torna necessário
-excerpt: O maior diretor do nosso tempo partiu ontem, com 76 anos. Esse é um post com uma dica, mas na verdade é uma despedida.
+title: Adeus, Kiarostami
 tags:
   - filmes
   - Abbas Kiarostami
+image:
+  path: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
 ---
 
-> Adeus, Kiarostami. Foi uma honra.
-
-**Nota do editor:** _nós planejávamos uma dica diferente pra essa terça-feira, mas a notícia na última segunda, da morte do grande Abbas Kiarostami, nos pegou de surpresa. Nós decidimos adiar a dica para quarta e nos despedir, através desse post, de um dos maiores diretores da história do cinema._
-
-É estranho dizer isso, mas filmes nos conectam. Nos conectam com diferentes realidades, com diferentes ideias, com diferentes pessoas. Seja na própria imagem, seja nas conexões que criamos ao ir no cinema com alguém, ao discutir um filme com alguém, mas filmes nos aproximam de relações, não de coisas.
+Filmes nos conectam. Nos conectam com diferentes realidades, com diferentes ideias, com diferentes pessoas. Seja na própria imagem, seja nas conexões que criamos ao ir no cinema com alguém, ao discutir um filme com alguém, mas filmes nos aproximam de relações, não de coisas.
 
 O ponto central de _Cópia Fiel_, o momento em que tudo muda, é um momento filmado de um modo diferente de tudo o que o filme havia mostrado até ali. Ela (interpretada por Juliette Binoche), está de frente para a câmera, sentada em uma mesa de um café toscano. Ela olha para nós, embora fale com o personagem que a acompanha. Ela questiona a validade daquele casamento. Ele foi um bom pai? Um bom marido? Ela fala com ele, mas ela olha para nós. Ela fala para nós.
 
@@ -22,7 +19,8 @@ A gente pode divagar muito sobre os temas que _Cópia Fiel_ cobre a partir daí,
 
 Dava pra recomendar outros, talvez melhores, mais premiados filmes de Abbas Kiarostami. O diretor mais importante da história do cinema iraniano possui obras-primas como _Gosto de Cereja_, uma ode à vida em forma de elegia como poucas vezes o cinema nos trouxe; _Dez_, um dos retratos mais únicos das relações sociais no Irã; a inebriante trilogia composta por _Onde Fica a Casa do Meu Amigo?_, _O Vento nos Levará_ e _Através das Oliveiras_; ou a jornada pelo filme, e pelo Irã, com _Close-up_. Kiarostami trabalhava nesse seu cinema de relações com as ligações que conectam seus personagens, seus temas ou seus lugares com o espectador. Todos eles são gratificantes. Poucos deles, porém, são tão claros quanto _Cópia Fiel_ em seu objetivo.
 
-{% include elements/figure.html src="/assets/media/copia-fiel-ela.jpg" alt="Imagem do filme “Cópia Fiel”" caption="Juliette Binoche, como Ela." %}
+![Juliette Binoche em Cópia Fiel](https://arthrfrts.files.wordpress.com/2018/03/copia-fiel-ela.jpg)
+_A Mona Lisa de Kiarostami._
 
 O fato é que poucos diretores no cinema buscaram dar ao espectador uma voz. Claro, o cinema não aceita respostas, mas Abbas Kiarostami era um diretor único que permitia a seus filmes serem completados por aqueles que os assistiam. Quando andamos pelas ruas com os dois personagens de _Cópia Fiel_, nós podemos questionar, junto a eles, os enigmas que envolvem não só a arte, mas também o amor. Os filmes de Kiarostami foram sempre retratos tão lindos da vida por exibir que, como eles, a vida é algo que desvendamos ser cada vez mais rica, estranha, e até mesmo confusa. A vida é uma eterna reflexão de nós mesmos com aquilo que nos liga ao mundo, e foi uma honra poder ter a oportunidade de ser ligado a um mundo incrível, enigmático, mas sempre fascinante que era aquele que Kiarostami nos proporcionava.
 
@@ -33,5 +31,3 @@ E o poeta nos deixou. O cinema não acaba aqui, mas algo realmente não vai mais
 Através das lacunas da sua poesia, Kiarostami nos ensinou a saborear o maior enigma que há: o de nós mesmos.
 
 E por isso, meu muito obrigado, Kiarostami. Foi uma honra.
-
-_Você pode adquirir o último filme de Abbas Kiarostami, **Um Alguém Apaixonado**, [aqui](https://redir.lomadee.com/s/54b70dea)._
