@@ -2,11 +2,7 @@
 layout: default
 ---
 <div class="blog posts-list">
-  {% for post in paginator.posts %}
-    {% if forloop.first %}
-      {% include parts/post-featured.html %}
-    {% else %}
+  {% for post in site.posts %}
       {% include parts/post-card.html %}
-    {% endif %}
   {% endfor %}
 </div>
