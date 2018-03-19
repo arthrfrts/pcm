@@ -64,6 +64,75 @@ h6 {
   font-size: $font-size-small;
 }
 
+// Lists
+ol, ul, dl {
+  margin-left: $spacing-unit;
+}
+
+ol {
+  list-style: decimal;
+
+  ol {
+    list-style: lower-alpha;
+
+    ol {
+      list-style: lower-roman;
+    }
+  }
+}
+
+ul {
+  list-style: square;
+
+  ul {
+    list-style: disc;
+
+    ul {
+      list-style: circle;
+    }
+  }
+}
+
+// Images
+img:not(.emoji) {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0.3rem;
+  filter: drop-shadow(0 0 1rem $color-details);
+}
+
+.emoji {
+  vertical-align: text-bottom;
+}
+
+p {
+  position: relative;
+
+  img+em {
+    display: block;
+    max-width: 75%;
+    padding: 0;
+    margin-top: $spacing-unit / 2;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: $font-size-small;
+    font-style: normal;
+    color: darken($color-details, 20%);
+
+    @include on-laptop {
+      position: absolute;
+      top: 0;
+      right: -16rem;
+      width: 15rem;
+      margin-top: 0;
+    }
+  }
+}
+
 // Quotes
 blockquote {
   border-left: 0.5rem solid $color-accent;
