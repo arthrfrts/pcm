@@ -1,17 +1,3 @@
----
-layout: null
----
-                     ###########
-                 ################
-              ###################
-            ##############
-          #############   #####
-         ###########   #######
-        ########### ########   #
-        ##################  ####
-        ##########  #########
-          ####      #######              arthr.me
-
 # The humans responsible and technology colophon.
 
 # TEAM
@@ -21,7 +7,7 @@ layout: null
 # AUTHORS
 
 {% for author in site.data.authors %}
-  {{ author[1].name | xml_escape }}{% if author[1].web %} -- {{ author[1].web }}{% endif %}{% if author[1].twitter %} -- @{{ author[1].twitter }}{% endif %}
+  {{ author[1].name | xml_escape }}{% if author[1].web %} -- {{ author[1].twitter | prepend: '@' }}{% endif %}
 {% endfor %}
 
 # SPECIAL THANKS
@@ -32,7 +18,6 @@ layout: null
 
   Jekyll
   HTML5, CSS3
-  jQuery
   CoffeScript
 
 # TOOLS

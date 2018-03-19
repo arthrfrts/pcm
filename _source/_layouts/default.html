@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
-  <head>
-    {% include head.html %}
-  </head>
+  {% include head.html %}
+
   <body>
     {% include header.html %}
 
-    <main class="site-content">
+    <main class="content">
       {{ content }}
     </main>
 
     {% include footer.html %}
+
     <script type="text/javascript" src="{{ '/assets/js/responsive-embeds.js' | relative_url }}"></script>
   </body>
 </html>

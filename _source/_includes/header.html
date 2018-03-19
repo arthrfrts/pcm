@@ -1,9 +1,5 @@
-<header class="site-header">
-  <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
-
-  <nav class="main-menu">
-    <a class="page-link" href="{{ '/' | relative_url }}">Capa</a>
-    <a class="page-link" href="{{ '/sobre/' | relative_url }}">Sobre</a>
-    <a class="page-link" href="{{ '/arquivos/' | relative_url }}">Arquivos</a>
-  </nav>
+<header class="masthead">
+  <a class="site-title" href="{{ site.url }}">
+    <img src="{{ site.logo | relative_url }}" alt="Marca do site" />
+    {{ site.title }}</a>
 </header>

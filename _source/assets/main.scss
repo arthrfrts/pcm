@@ -1,33 +1,23 @@
 ---
 # Hello, Jekyll!
 ---
-@charset "utf-8";
 
-// Fonts
-$font-family-main: muli, sans-serif;
+$font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+$font-family-content: Georgia, Cantarell, Times, serif;
 $font-size-base: 1.6rem;
-$font-size-small: $font-size-base * 0.85;
-$font-size-content: calc(#{$font-size-base} * 1.125);
-$font-weight-base: 400;
-$font-line-height:1.75;
+$font-size-small: $font-size-base * 0.75;
+$font-line-height: 1.5;
 
-// Colors
-$color-text: #303032;
-$color-accent: #8EC2D1;
+$color-text: #242423;
+$color-accent: #F5CB5C;
 $color-background: #F2EFEA;
-$color-details: #FFDD77;
-$color-brand: #84BB91;
-$color-grey: lighten($color-text, 40%);
+$color-details: #CFDBD5;
 
-// Layout
-$container-width: 690px;
-$content-width: 800px;
+$content-width: 64rem;
+$spacing-unit: 3rem;
 $palm-width: 600px;
 
-$spacing-unit: 3rem;
-
-@import "fonts",
+@import "mixins",
         "reset",
-        "mixins",
-        "elements",
-        "layout";
+        "layout",
+        "elements";

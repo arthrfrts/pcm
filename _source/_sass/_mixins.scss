@@ -1,6 +1,4 @@
-/*
-    Media queries
-*/
+// Media queries
 @mixin on-palm {
   @media screen and (max-width: $palm-width) {
     @content;
@@ -13,28 +11,22 @@
   }
 }
 
-/*
-    Site Container
-*/
+// Wrap contents on the specified container width
+// and then adds some paddings to better mobile appearance.
+%wrapper {
+  width: 100%;
+  max-width: calc(#{$content-width} - #{$spacing-unit});
+  padding-left: $spacing-unit / 2;
+  padding-right: $spacing-unit / 2;
+  margin-left: auto;
+  margin-right: auto;
+
+  @extend %clearfix;
+}
+
+// Cleafix
 %clearfix:after {
   content: "";
   display: table;
   clear: both;
-  width: 100%;
-}
-
-%container {
-  width: 100%;
-  max-width: $container-width;
-  padding-left: $spacing-unit;
-  padding-right: $spacing-unit;
-  margin-left: auto;
-  margin-right: auto;
-
-  @include on-palm {
-    padding-left: $spacing-unit / 2;
-    padding-right: $spacing-unit / 2;
-  }
-
-  @extend %clearfix;
 }

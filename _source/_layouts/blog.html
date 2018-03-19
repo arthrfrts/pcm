@@ -2,7 +2,42 @@
 layout: default
 ---
 <div class="blog posts-list">
-  {% for post in site.posts %}
-      {% include parts/post-card.html %}
+  {% for post in site.posts limit: 1 %}
+  {% assign author = site.data.authors[post.author] %}
+  <article class="post">
+    <header style="background-image: url('{{ post.image.path }}');">
+      <div class="wrapper">
+        <h1>
+          <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
+        </h1>
+
+        <p class="post-meta">
+          <time datetime="{{ post.date | date: 'date_to_xmlschema' }}">{{  post.date | date: '%d/%m/%Y' }}</time>
+          &middot; <a rel="author" href="{{ author.twitter | prepend: 'https://twitter.com/' }}">{{ author.name }}</a>
+        </p>
+      </div>
+    </header>
+
+    <div class="post-content wrapper">
+      {{ post.content }}
+    </div>
+
+    <footer class="wrapper">
+      <p class="post-meta"><strong>Tags:</strong> {{ post.tags | join: ', ' }} &middot; <a href="{{ post.url | append: '#comentar' }}">Comente!</a></p>
+    </footer>
+  </article>
+  {% endfor %}
+
+  {% for post in site.posts offset: 1 %}
+  <article class="older-post" style="background-image: url('{{ post.image.path }}');">
+    <div class="wrapper">
+      <h1>
+        <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
+      </h1>
+      <p class="post-meta">
+        <time datetime="{{ post.date | date: 'date_to_xmlschema' }}">{{  post.date | date: '%d/%m/%Y' }}</time></a>
+      </p>
+    </div>
+  </article>
   {% endfor %}
 </div>

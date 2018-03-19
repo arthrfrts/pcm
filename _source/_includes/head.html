@@ -1,15 +1,13 @@
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-{% if page.autopages %}
-  <title>{{ page.autopages.display_name }} ~ {{ site.title }}</title>
-{% else %}
-  <title>{{ page.title | strip_html | normalize_whitespace }}</title>
-{% endif %}
-<meta name="description" content="{{ page.description | strip_html | strip_newlines | normalize_whitespace | truncate: 140 | default: site.description }}" />
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | strip_html | strip_newlines | normalize_whitespace | truncate: 140 | default: site.description }}" />
 
-<link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
-{% feed_meta %}
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
+  {% feed_meta %}
 
-{% include parts/favicon.html %}
-{% include parts/opengraph.html %}
+  {% include parts/favicon.html %}
+  {% include parts/opengraph.html %}
+</head>

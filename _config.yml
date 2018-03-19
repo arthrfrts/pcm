@@ -5,20 +5,19 @@ description: >
 lang: pt-BR
 timezone: America/Sao_Paulo
 
+logo: "/assets/images/logo.png"
+
 contact:
   email: paomortadela@icloud.com
   facebook: paomortadela.com.br
   twitter: paomortadela
 
-author:
-  name: Arthur Freitas
-  uri: https://arthr.me/
-  twitter: arthrfrts
+# Build settings
+url: 'https://paomortadela.com.br'
+baseurl: ''
 
-# Content settings
-collections:
-  svg:
-    output: false
+markdown: kramdown
+permalink: /:year/:title/
 
 defaults:
 - scope:
@@ -26,41 +25,12 @@ defaults:
     type: posts
   values:
     layout: post
-
-# Build settings
-url: 'https://paomortadela.com.br'
-baseurl: ''
-
-markdown: kramdown
-permalink: /post/:year/:title/
-
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/arquivos/parte/:num/'
-  title: ':title ~ página :num'
-  sort_reverse: true
-
-autopages:
-  enabled: true
-  categories:
-    enabled: true
-    layouts:
-      - 'archive.html'
-    permalink: '/arquivos/coluna/:cat/'
-  collections:
-    enabled: false
-  tags:
-    enabled: true
-    layouts:
-      - 'archive.html'
-    permalink: '/arquivos/tag/:tag/'
+    author: arthur
 
 plugins:
   - jekyll-feed
   - jekyll-coffeescript
   - jekyll-sitemap
-  - jekyll-paginate-v2
   - jemoji
 
 source: _source

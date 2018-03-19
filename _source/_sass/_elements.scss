@@ -1,86 +1,75 @@
-body {
-  font: $font-weight-base #{$font-size-base}/#{$font-line-height} $font-family-main;
-  color: $color-text;
-}
-
-hr {
-  margin: $spacing-unit auto;
-  width: 15rem;
-  height: .3rem;
-  border: none;
-  background: $color-grey;
-}
-
 /*
     Text Elements
 */
-
 p, ul, ol, dl,
-blockquote, pre,
-table, address,
-audio, video, figure,
-iframe, object, embed,
-h1, h2, h3, h4, h5, h6 {
-  margin: $spacing-unit / 2 0;
+table, figure,
+audio, video, iframe,
+embed, object,
+address, blockquote {
+  margin-bottom: $spacing-unit;
 }
 
-em, i, address {
-  font-style: italic;
-}
-
-strong, b, dt {
+strong, b, th {
   font-weight: 700;
 }
 
-// Headings
-h1 {
-  font: 400 calc(#{$font-size-base} * #{2})/#{1.25} $font-family-main;
-
-  @include on-palm {
-    font-size: calc(#{$font-size-base} * #{1.5});
-  }
+em, i {
+  font-style: italic;
 }
 
 // Links
-a,
-a:visited {
+a {
+  text-decoration: none;
   color: inherit;
-  text-decoration: underline;
-  text-decoration: underline dotted $color-accent;
-  text-decoration-skip-ink: auto;
-  -webkit-text-decoration-style: dotted;
-  -webkit-text-decoration-color: $color-accent;
-  transition: color 0.25s ease;
+  transition: color 0.3s ease;
 
   &:hover,
   &:focus {
-    color: $color-accent;
+    color: darken($color-details, 40%);
   }
 }
 
-/*
-    Media
-*/
-
-.site-content {
-  figure {
-    margin-left: -$spacing-unit;
-    margin-right: -$spacing-unit;
-    width: calc(#{100%} + (#{$spacing-unit} * #{2}));
-
-    @include on-palm {
-      margin-left: -($spacing-unit / 2);
-      margin-right: -($spacing-unit / 2);
-      width: calc(#{100%} + #{$spacing-unit});
-    }
-
-    img {
-      width: 100%;
-    }
-  }
+.post-content a {
+  box-shadow: inset 0 -0.4em 0 $color-accent;
 }
 
-.spotify-embed {
-  margin: $spacing-unit auto;
-  display: block;
+// Headings
+h1, h2, h3,
+h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: $font-size-base * 2;
+}
+
+h2 {
+  font-size: $font-size-base * 1.75;
+}
+
+h3 {
+  font-size: $font-size-base * 1.5;
+}
+
+h4 {
+  font-size: $font-size-base * 1.25;
+}
+
+h5 {
+  font-size: $font-size-base;
+}
+
+h6 {
+  font-size: $font-size-small;
+}
+
+// Quotes
+blockquote {
+  border-left: 0.5rem solid $color-accent;
+  padding-left: $spacing-unit;
+  font-family: $font-family-base;
+  font-size: $font-size-base * 1.25;
+  font-style: italic;
+  font-weight: 900;
 }

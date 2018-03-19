@@ -1,187 +1,155 @@
-/*
-    Basic Structure.
-*/
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
 body {
-  border-top: .3rem solid $color-brand;
-  display: flex;
-  flex-flow: column wrap;
-  text-shadow: 0 .1rem .3rem rgba($color-text, 0.25);
+  background: $color-background;
+  font: 400 #{$font-size-base}/#{$font-line-height} $font-family-base;
+  color: $color-text;
+  border-top: 0.5rem solid $color-accent;
 }
 
-.site-header,
-.site-content {
-  flex: 0 0 auto;
-}
-
-.site-footer {
-  flex: 1 0 auto;
-}
-
-::selection {
-  background: rgba($color-details, 0.4);
-}
-
-::-moz-selection {
-  background: rgba($color-details, 0.4);
+.wrapper {
+  @extend %wrapper;
 }
 
 /*
     Site Header
 */
-.site-header {
-  background: $color-background;
-  border-bottom: .1rem solid $color-grey;
+.masthead {
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
+  background: $color-details;
+  border-bottom: 0.1rem solid darken($color-details, 20%);
   text-align: center;
 
-  // Branding
   .site-title {
-    font-size: calc(#{$font-size-base} * 1.5);
-    font-weight: 900;
-    text-decoration: none;
-    line-height: 0;
-    padding-top: 10rem;
-    background-image: url("images/logo.png");
-    background-position: top center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
-  }
+    font-weight: bolder;
+    display: block;
+    max-width: 25rem;
+    margin: 0 auto;
+    font-size: $font-size-base * 1.25;
 
-  // Navigation
-  .main-menu {
-    display: flex;
-    flex-flow: row nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-    justify-content: center;
-    font: 700 #{$font-size-small}/#{$font-line-height} $font-family-main;
-    margin-top: $spacing-unit / 2;
-    text-transform: lowercase;
-
-    @include on-palm {
-      padding: $spacing-unit / 2;
-    }
-
-    a {
-      &:not(:first-child) {
-        margin-left: $spacing-unit;
-      }
-    }
-
-    svg {
-      height: calc(#{$font-size-small} * #{$font-line-height});
-      width: calc(#{$font-size-small} * #{$font-line-height});
+    img {
+      display: block;
+      width: 15rem;
+      height: auto;
+      margin: 0 auto;
     }
   }
 }
 
 /*
-    Site Content
+    The Content
 */
-.site-content {
-  @extend %container;
+
+.post-meta {
+  font-size: $font-size-small;
+  color: $color-details;
+
+  a {
+    border-bottom: 0.1rem dotted $color-details;
+    color: darken($color-details, 40%);
+  }
+}
+
+.post-content {
   margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  font-family: $font-family-content;
+}
 
+.post header,
+.older-post {
+  padding-top: $spacing-unit * 2;
+  padding-bottom: $spacing-unit * 2;
+  background-repeat: repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  text-align: center;
 
-  // The Post
-  .post {
-    &:not(:last-of-type) {
-      &:after {
+  h1, p {
+    text-shadow: 0 0 1.5rem $color-text;
+
+    &, a {
+      color: $color-background;
+    }
+  }
+}
+
+.post {
+  nav {
+    margin-top: $spacing-unit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+
+    @include on-laptop {
+      &:before {
+        background: $color-details;
+        content: "";
         display: block;
-        content: ' ';
-        background: $color-brand;
-        height: .3rem;
-        width: 15rem;
-        margin: ($spacing-unit * 2) auto;
+        position: absolute;
+        bottom: 0;
+        left: calc( 50% - .1rem );
+        top: 0;
+        transform: rotate(5deg);
+        width: 0.1rem;
       }
     }
 
-    .post-header {
-      text-align: center;
-      margin-bottom: $spacing-unit;
+    .nav-link {
+      flex: 1 1 40%;
+      max-width: calc( 50% - 10.5rem );
+      padding: $spacing-unit;
 
-      // Cover Image
-      .post-image {
-        height: 20rem;
-        background-position: top center;
-        background-repeat: repeat;
-        background-size: contain;
-
-        img {
-          object-fit: scale-down;
-          max-height: 20rem;
-        }
-      }
-
-      // Post Title
-      .post-title {
+      a {
+        font-size: $font-size-base * 1.25;
         font-weight: 300;
-      }
+        color: $color-text;
 
-      .post-description {
-        color: $color-grey;
-        font-style: italic;
-      }
-    }
-
-    // Post Information
-    .post-header,
-    .post-footer {
-      .post-meta {
-        font: 400 #{$font-size-small}/#{$font-line-height} $font-family-main;
-        color: $color-grey;
-
-        svg {
-          height: $font-size-small;
-          max-width: $font-size-small;
-          fill: $color-grey;
-        }
-      }
-    }
-
-    // Post Content
-    .post-content {
-      text-align: justify;
-
-      blockquote:first-child {
-        font: italic 700 calc(#{$font-size-base} * #{1.25})/#{1.25} $font-family-main;
-        color: $color-brand;
-      }
-
-      @include on-laptop {
-        blockquote:first-child {
-          text-align: left;
-          float: right;
-          margin: 0 (-$spacing-unit * 2) 0 $spacing-unit;
-          width: 25rem;
+        &:hover,
+        &:focus {
+          color: $color-details;
         }
       }
 
       @include on-palm {
-        blockquote:first-child {
-          text-align: center;
-        }
+        border-top: .1rem solid $color-details;
+        padding: 0;
+        display: block;
+        max-width: 100%;
+        padding-top: 1.5rem;
       }
     }
 
-    // Post Footer {
-    .post-footer {
-      text-align: center;
-      margin-top: $spacing-unit;
+    strong {
+      font-size: $font-size-small;
+      color: $color-details;
+      display: block;
+    }
 
-      .post-meta:not(:last-child) {
-        margin-right: $spacing-unit;
-      }
+    .prev {
+      text-align: right;
+      align-self: flex-start;
 
       @include on-palm {
-        .post-meta {
-          margin: $spacing-unit / 2 0;
-          display: block;
-        }
+        text-align: left;
+      }
+    }
+
+    .next {
+      text-align: left;
+
+      &:first-child {
+        align-self: flex-end;
+        margin-left: auto;
       }
     }
   }
@@ -190,77 +158,62 @@ body {
 /*
     Site Footer
 */
-.site-footer {
-  background: $color-brand;
-  border-top: .3rem solid $color-accent;
-  margin-top: $spacing-unit;
+.colophon {
+  background: $color-details;
+  border-top: 0.1rem solid darken($color-details, 20%);
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
-  text-align: center;
-  color: $color-background;
-  font-size: $font-size-small;
+  color: darken($color-details, 40%);
 
-  a {
-    text-decoration: underline dotted $color-background;
-    -webkit-text-decoration-color: $color-background;
-    -webkit-text-decoration-style: dotted;
-    color: $color-background;
+  .wrapper {
 
-    &:hover,
-    &:focus {
-      color: $color-details;
-      -webkit-text-decoration-color: $color-details;
+    .site-info {
+      font-weight: 700;
     }
-  }
 
-  .contact-links {
-    li {
-      display: inline-block;
-
-      &:not(:last-child) {
-        margin-right: $spacing-unit / 2;
+    .contact {
+      a {
+        &:not(:last-child) {
+          margin-right: $spacing-unit / 2;
+        }
       }
 
-      a {
-        svg {
-          height: calc(#{$font-size-small} * #{$font-line-height});
-          max-width: calc(#{$font-size-small} * #{$font-line-height});
-          fill: $color-background;
-          transition: fill .25s ease;
-        }
+      svg {
+        height: $font-size-base * $font-line-height;
+        width: $font-size-base * $font-line-height;
+        fill: $color-text;
+        transition: fill 0.3s ease;
 
         &:hover,
         &:focus {
-          svg {
-            fill: $color-details;
-          }
-        }
-      }
-
-    }
-  }
-
-  .site-credits {
-    a {
-      text-decoration: none;
-
-      svg {
-        height: calc(#{$font-size-small} * #{$font-line-height});
-        max-width: 7rem;
-        fill: $color-background;
-        transition: fill .25s ease;
-      }
-
-      &:hover,
-      &:focus {
-        svg {
-          fill: $color-details;
+          fill: darken($color-details, 40%);
         }
       }
     }
-  }
 
-  .wrapper {
-    @extend %container;
+    @include on-laptop {
+      display: flex;
+      flex-flow: row wrap;
+
+      .site-info {
+        flex: 1 0 30rem;
+        margin-right: auto;
+        align-self: center;
+      }
+
+      .contact {
+        flex: 0 1 20rem;
+        text-align: right;
+      }
+    }
+
+    .credits {
+      font-size: $font-size-small;
+
+      a {
+        color: inherit;
+        border-bottom: 0.1rem dotted darken($color-details, 40%);
+      }
+    }
   }
 }

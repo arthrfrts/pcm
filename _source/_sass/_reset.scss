@@ -57,23 +57,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-/*
-  Default inits.
-*/
-
-* {
-  box-sizing: border-box;
-
-  &:before,
-  &:after {
-    box-sizing: inherit;
-  }
-}
-
-html {
-  font-size: 62.5%;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-}
