@@ -5,8 +5,12 @@
 <meta name="twitter:site" content="{{ site.contact.twitter | prepend: '@' }}" />
 {% if page.layout == 'post' %}
 <meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary_large_image" />
 <meta property="article:tag" content="{{ page.tags | split: ',' }}" />
 <meta property="article:published_date" content="{{ page.date | date_to_xmlschema }}" />
+{% if page.image %}
+<meta property="og:image" content="{{ page.image.path }}" />
+{% endif %}
 {% else %}
 <meta property="og:image" content="{{ '/assets/images/ogp.jpg' | absolute_url }}" />
 <meta name="twitter:card" content="summary" />
