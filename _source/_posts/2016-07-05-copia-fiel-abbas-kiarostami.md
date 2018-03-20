@@ -1,8 +1,11 @@
 ---
-title: Adeus, Kiarostami
+layout: post
+date: 2016-07-05
+author: arthur
+title: "Uma carta de amor a Abbas Kiarostami"
 tags:
   - filmes
-  - Abbas Kiarostami
+  - mistério
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
 ---

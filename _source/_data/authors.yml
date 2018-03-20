@@ -1,21 +1,25 @@
 ---
 arthur:
-  name: Arthur
+  name: Arthur Freitas
   twitter: arthrfrts
 
 thai:
-  name: Thaiane
+  name: Thaiane Kubiaki
   twitter: thaimandua
 
 joao:
-  name: João
+  name: João Sieben
   twitter: joaosieben
 
 fillipe:
-  name: Fillipe
+  name: Fillipe Diniz
   twitter: fillipedin
 
 gui:
-  name: Guilherme
+  name: Guilherme Bragança
   twitter: guilhelbraganca
+
+vanessa:
+  name: Vanessa Oliveira
+  twitter: vaneusinha
 ---

@@ -1,10 +1,13 @@
 ---
+layout: post
+date: 2017-07-26
 title: "James Gray torna A Imigrante em um dos fundamentos da América."
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/immigrant.jpg"
 tags:
   - filmes
-category: pcm
+  - drama
+author: arthur
 ---
 
 James Gray é um diretor fenomenal. É um dos únicos diretores em atividade hoje em dia no cinema americano que consegue criar aquela sensação de estar assistindo o filme de uma vida — um sentimento que parece vindo diretamente da Era de Ouro de Hollywood, com aqueles grandes e intensos dramas que acompanhavam seus personagens de perto enquanto criavam uma parábola sobre a situação americana.

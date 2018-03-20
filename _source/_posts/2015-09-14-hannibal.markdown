@@ -1,9 +1,12 @@
 ---
-title: Hannibal
+layout: post
+title: Hannibal vai te deixar com fome
 date: 2015-09-14
 tags:
 - séries
-category: pcm
+- suspense
+- terror
+author: arthur
 image:
   path: "https://pcmbackup.files.wordpress.com/2015/09/hannibal.jpg"
 ---

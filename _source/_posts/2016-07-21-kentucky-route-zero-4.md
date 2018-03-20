@@ -1,10 +1,13 @@
 ---
+layout: post
+date: 2016-07-21
 title: "Kentucky Route Zero: Ato IV é desesperador"
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/kr04.jpg"
 tags:
   - jogos
-  - Kentucky Route Zero
+  - aventura
+  - mistério
 ---
 
 > Kentucky Route Zero é uma tragédia. E todas as tragédias acabam do mesmo jeito.

@@ -1,8 +1,11 @@
 ---
+layout: post
+date: 2017-01-13
 title: Eu não queria sair da ilha de Dear Esther.
 tags:
   - jogos
-category: pcm
+  - primeira pessoa
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/dear-esther-landmark-edition.jpg"
 ---

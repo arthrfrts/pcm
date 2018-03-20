@@ -1,10 +1,13 @@
 ---
-title: "Her Story é estranho, porém único"
+layout: post
+date: 2016-02-01
+title: "Her Story é estranho, mas único"
 tags:
   - jogos
+  - suspense
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/her-story.jpg"
-category: pcm
+author: arthur
 ---
 
 _Her Story_ é um jogo que valoriza a atenção de seu jogador. Não sua persistência ou insistência, não a habilidade. Não é fácil prosseguir, após um tempo, não porque você não é habilidoso o suficiente, mas porque você _não prestou atenção suficiente_.

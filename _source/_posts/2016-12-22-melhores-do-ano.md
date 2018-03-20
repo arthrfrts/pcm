@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Os 5 melhores de 2016
+date: 2016-12-22
 tags:
   - listas
   - rankings
@@ -8,7 +10,7 @@ tags:
   - séries
   - músicas
   - livros
-category: pcm
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png"
 ---

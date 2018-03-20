@@ -1,11 +1,14 @@
 ---
+layout: post
+date: 2017-07-24
 title: 'Legion é o futuro brilhante dos super-heróis.'
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/legion-s01.jpg"
 tags:
   - séries
-  - X-Men
-category: pcm
+  - ação
+  - super-herói
+author: arthur
 ---
 
 E então, o que tu acha dessa onda de filmes e séries de super-heróis que explodiu nessa última década?

@@ -1,10 +1,13 @@
 ---
+layout: post
+date: 2017-01-30
 title: Cuidado ao entrar em Welcome to Night Vale…
 excerpt: Existem sérias chances de você não querer sair de lá.
 tags:
   - podcasts
   - web
-category: pcm
+  - realismo fantástico
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/welcome-to-night-vale.jpg"
 ---

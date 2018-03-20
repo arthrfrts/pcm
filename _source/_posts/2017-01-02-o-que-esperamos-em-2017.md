@@ -1,6 +1,8 @@
 ---
+layout: post
+date: 2017-01-02
 title: O que mais esperamos em 2017
-category: pcm
+author: arthur
 tags:
   - listas
   - filmes

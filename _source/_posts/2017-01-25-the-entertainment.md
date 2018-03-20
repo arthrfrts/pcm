@@ -1,9 +1,11 @@
 ---
+layout: post
+date: 2017-01-25
 title: Você nunca vai jogar nada como The Entertainment
 tags:
   - jogos
   - Kentucky Route Zero
-category: pcm
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 ---

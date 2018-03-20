@@ -1,8 +1,12 @@
 ---
-title: 'Kentucky Route Zero: Act III'
+layout: post
+date: 2015-01-02
+title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
+author: arthur
 tags:
-- Kentucky Route Zero
-- jogos
+  - jogos
+  - aventura
+  - mistério
 image:
   path: "https://pcmbackup.files.wordpress.com/2014/12/kentucky-route-zero-act-iii.jpg"
 ---

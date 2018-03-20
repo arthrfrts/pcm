@@ -1,8 +1,12 @@
 ---
-title: "A House In California é pequeno e perfeito"
+layout: post
+date: 2016-07-18
+title: "Uma noite de verão em A House in California"
 tags:
   - jogos
-category: pcm
+  - aventura
+  - web
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
 ---

@@ -1,8 +1,12 @@
 ---
+layout: post
+date: 2016-02-10
 title: "Firewatch apresenta a maturidade aos videogames"
-category: pcm
+author: arthur
 tags:
   - jogos
+  - aventura
+  - suspense
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
 ---

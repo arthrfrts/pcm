@@ -1,8 +1,11 @@
 ---
+layout: post
 title: "Leia Brasileiros. É um pedido e uma dica."
 tags:
   - web
-category: pcm
+  - links
+date: 2017-01-12
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/leia-brasileiros.jpg"
 ---

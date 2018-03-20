@@ -1,8 +1,11 @@
 ---
+layout: post
+date: 2017-01-03
 title: "Upstream Color não sai da minha cabeça."
 tags:
   - filmes
-category: pcm
+  - sci-fi
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/upstream-color.jpg"
 ---

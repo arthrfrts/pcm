@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "Serial faz história a cada episódio"
-category: pcm
+date: 2016-02-02
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/serial.jpg"
 tags:
+  - web
+  - links
   - podcasts
 ---
 

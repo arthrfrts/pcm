@@ -1,9 +1,12 @@
 ---
+layout: post
+date: 2017-01-11
 title: "Enclausurado é estranho pra caramba."
 excerpt: Ian McEwan está manipulativo como sempre, mas divertido como nunca.
 tags:
   - livros
-category: pcm
+  - suspense
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/enclausurado-ian-mcewan.jpg"
 ---

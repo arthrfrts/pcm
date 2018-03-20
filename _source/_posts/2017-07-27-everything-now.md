@@ -1,11 +1,13 @@
 ---
+layout: post
+date: 2017-07-27
 title: "Everything Now pede para encararmos o abismo juntos"
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
 tags:
   - músicas
-  - Arcade Fire
-category: pcm
+  - indie
+author: arthur
 ---
 
 Quando eu terminei de ouvir _Everything Now_, eu fiquei desesperado.

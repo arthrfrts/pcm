@@ -1,8 +1,12 @@
 ---
+layout: post
+date: 2017-01-09
 title: "Westworld pergunta muito e raramente responde."
 tags:
   - séries
-category: pcm
+  - faroeste
+  - ação
+author: arthur
 image:
   path: "https://arthrfrts.files.wordpress.com/2018/03/westworld-s01.jpg"
 ---

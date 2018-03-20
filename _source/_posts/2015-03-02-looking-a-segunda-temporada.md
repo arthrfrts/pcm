@@ -1,10 +1,14 @@
 ---
+layout: post
+author: arthur
+date: 2015-03-02
 title: 'Looking: a segunda temporada'
 image:
   path: "https://pcmbackup.files.wordpress.com/2015/03/looking-s02e07.jpg"
 tags:
   - séries
-category: pcm
+  - comédia
+  - lgbtq
 ---
 Desde a primeira temporada eu defendo que _Looking_ é uma grande série que tem como maior defeito buscar um nicho bastante restrito do público. Bem, eu estava errado. Com o episódio dessa semana, _Looking_ se tornou uma das melhores séries na TV atualmente — e se focar em um público específico talvez seja seu maior acerto.
 
