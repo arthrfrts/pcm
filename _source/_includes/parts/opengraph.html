@@ -6,7 +6,7 @@
 {% if page.layout == 'post' %}
 <meta property="og:type" content="article" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="article:tag" content="{{ page.tags | split: ',' }}" />
+<meta property="article:tag" content="{{ page.tags | join: ',' }}" />
 <meta property="article:published_date" content="{{ page.date | date_to_xmlschema }}" />
 {% if page.image %}
 <meta property="og:image" content="{{ page.image.path }}" />
