@@ -9,7 +9,7 @@
     </figure>
     {% endif %}
 
-    <time class="post-meta post-date" itemprop="datePublished" datetime="{{ post.date | date: 'date_to_xmlschema' }}">{{ post.date | date: '%d/%m/%y' }}</time>
+    <time class="post-meta post-date" itemprop="datePublished" datetime="{{ post.date | date: date_to_xmlschema }}">{{ post.date | date: '%d/%m/%y' }}</time>
 
     <h1 class="post-title" itemprop="name headline"><a href="{{ post.url | relative_url }}" rel="bookmark" itemprop="url">{{ post.title }}</a></h1>
 
