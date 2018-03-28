@@ -143,3 +143,8 @@ blockquote {
   font-style: italic;
   font-weight: 900;
 }
+
+// Media
+iframe, object, embed {
+  max-width: 100%;
+}
