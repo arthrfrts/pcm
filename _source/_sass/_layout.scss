@@ -63,6 +63,10 @@ body {
   margin-bottom: $spacing-unit;
   font-family: $font-family-content;
   line-height: 1.7;
+
+  .post-cover {
+    display: none;
+  }
 }
 
 .post header,
@@ -76,12 +80,9 @@ article.older-post {
   img {
     position: absolute;
     z-index: -1;
-    top: -2.5em;
-    bottom: -2.5rem;
-    left: -5rem;
-    right: -5rem;
-    height: 150%;
-    width: 150vw;
+    top: -30rem;
+    left: -25%;
+    min-width: 150vw;
     object-fit: cover;
     object-position: center center;
     filter: blur(1rem);

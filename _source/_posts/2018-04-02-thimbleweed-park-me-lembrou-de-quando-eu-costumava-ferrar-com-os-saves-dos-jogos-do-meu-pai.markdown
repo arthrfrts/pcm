@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thimbleweed Park me lembrou de quando eu costumava ferrar com os jogos do meu pai"
+title: "Thimbleweed Park me lembrou de quando eu costumava estragar os jogos do meu pai"
 author: arthur
 date: "2018-04-02 09:29:54 -0300"
 tags:
