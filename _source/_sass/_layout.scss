@@ -80,12 +80,16 @@ article.older-post {
   img {
     position: absolute;
     z-index: -1;
-    top: -10%;
+    top: -25%;
     left: -25%;
     min-width: 150vw;
     object-fit: cover;
     object-position: center center;
     filter: blur(1rem);
+
+    @include on-palm {
+      top: -2.5%;
+    }
   }
 
   h1, p {
