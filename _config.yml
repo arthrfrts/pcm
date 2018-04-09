@@ -2,7 +2,7 @@
 title: Pão com Mortadela
 description: >
   Sempre algo bacana pra ler na hora do café.
-lang: pt-BR
+lang: pt-br
 timezone: America/Sao_Paulo
 
 logo: "/assets/images/logo.png"
@@ -28,7 +28,6 @@ defaults:
     author: arthur
 
 plugins:
-  - jekyll-feed
   - jekyll-coffeescript
   - jekyll-sitemap
   - jemoji
