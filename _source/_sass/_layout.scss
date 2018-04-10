@@ -77,15 +77,25 @@ article.older-post {
   position: relative;
   overflow: hidden;
 
+  &:after {
+    position: absolute;
+    content:"";
+    height:100%;
+    width:100%;
+    top:0;
+    left:0;
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+    z-index: -1;
+  }
+
   img {
     position: absolute;
     z-index: -1;
-    top: -25%;
-    left: -25%;
-    min-width: 150vw;
+    top: -50%;
+    width: 100vw;
     object-fit: cover;
     object-position: center center;
-    filter: blur(1rem);
 
     @include on-palm {
       top: -2.5%;
