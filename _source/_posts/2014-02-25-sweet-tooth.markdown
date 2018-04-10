@@ -2,8 +2,7 @@
 layout: post
 title: "Sweet Tooth"
 date: "2014-02-25 19:19:00 -0300"
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/sweet.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/sweet.jpg"
 author: fillipe
 tags:
   - gibis

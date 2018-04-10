@@ -3,8 +3,7 @@ layout: post
 author: arthur
 date: 2016-02-23
 title: Karen O finalmente explora seus tons mais delicados em Crush Songs
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/crush-songs.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/crush-songs.jpg"
 tags:
   - músicas
   - folk

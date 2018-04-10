@@ -3,8 +3,7 @@ layout: post
 date: 2017-09-11
 title: Em sua última temporada, The Leftovers não responde nada.
 excerpt: E responde tudo. E então acaba.
-image:
-  path: 'https://arthrfrts.files.wordpress.com/2018/03/leftovers-s03.jpg'
+image: 'https://arthrfrts.files.wordpress.com/2018/03/leftovers-s03.jpg'
 tags:
   - séries
 author: arthur

@@ -6,8 +6,7 @@ tags:
   - músicas
   - wtf
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/acordei-vomitado.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/acordei-vomitado.jpg"
 ---
 
 Terça-feira tive a oportunidade de encontrar um velho amigo e compartilhar com ele, como fazemos há anos, nossas últimas descobertas culturais. Ele me apresentou o livro que estava lendo, uma série da TV francesa que parece gostar bastante (e que fiquei interessado em conferir); enquanto eu apresentei a ele _Esperando Godot_ (de um jeito melhor do que o jeito que [eu apresentei a vocês](http://paomortadela.com.br/esperando-godot.html)), alguns filmes e uma música nova.

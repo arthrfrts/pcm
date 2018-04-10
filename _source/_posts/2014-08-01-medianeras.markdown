@@ -6,8 +6,7 @@ tags:
   - filmes
   - romance
 author: fillipe
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/medianeras-1.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/medianeras-1.jpg"
 ---
 Na cidade de Buenos Aires, a arquitetura irregular dos prédios reflete perfeitamente aqueles que vivem ali. O crescimento acelerado e imperfeito, a falta de comunicação, a distância: novos prédios nascem a cada instante, criando e desenvolvendo uma cultura do inquilino, que nos ajuda a passar pela cidade de maneira insensível.
 

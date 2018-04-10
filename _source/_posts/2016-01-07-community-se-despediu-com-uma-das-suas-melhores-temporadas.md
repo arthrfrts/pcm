@@ -4,8 +4,7 @@ title: "Community se despediu com uma das suas melhores temporadas"
 tags:
   - séries
   - comédia
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/community.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/community.jpg"
 author: arthur
 ---
 

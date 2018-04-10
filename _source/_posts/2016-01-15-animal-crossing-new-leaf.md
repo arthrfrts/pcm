@@ -6,8 +6,7 @@ tags:
   - simulação
 author: arthur
 date: 2016-01-15
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/animal-crossing-new-leaf.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/animal-crossing-new-leaf.jpg"
 ---
 
 Eu comprei meu Nintendo 3DS em junho de 2013 com o único propósito de jogar o remake de _The Legend of Zelda: Ocarina of Time_. É um dos meus jogos favoritos, e poder jogá-lo num console de novo era um sonho. Quando eu comprei o 3DS, porém, tinham acabado de lançar um jogo que estava rasgando elogios. Fui lá e comprei.

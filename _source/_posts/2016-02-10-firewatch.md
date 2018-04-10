@@ -7,8 +7,7 @@ tags:
   - jogos
   - aventura
   - suspense
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
 ---
 
 A gente aqui no PCM defende que os videogames não param de amadurecer. Nosso [jogo do ano](os-melhores-de-2015.html), por exemplo, é uma obra-prima na narrativa e na participação do jogador, colocando ele como espectador e agente da ação ao mesmo tempo. Nós inclusive fizemos uma lista com [dezesseis jogos que amaruderecam os videogames](16-jogos-que-amadureceram-os-videogames-nos-anos-2000.html). E, agora, a gente tem o prazer de dar como dica nessa volta de carnaval um jogo que segue essa linha (e, ao mesmo tempo, se alinha com as outras dicas que teremos essa semana): _Firewatch_, o belíssimo jogo de estréia da Campo Santo.

@@ -2,8 +2,7 @@
 layout: post
 date: 2017-07-27
 title: "Everything Now pede para encararmos o abismo juntos"
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
 tags:
   - músicas
   - indie

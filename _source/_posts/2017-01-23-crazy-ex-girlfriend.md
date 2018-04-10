@@ -8,8 +8,7 @@ tags:
   - comédia
   - musical
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/crazy-ex-girlfriend.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/crazy-ex-girlfriend.jpg"
 ---
 
 <iframe width="1280" height="739" src="https://www.youtube.com/embed/hkfSDSfxE4o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

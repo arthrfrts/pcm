@@ -6,8 +6,7 @@ tags:
   - livros
   - romance
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/orgulho-e-preconceito.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/orgulho-e-preconceito.jpg"
 ---
 
 O livro foi publicado pela primeira vez no início em 1813, mas continua sendo inusitado, divertido e moderno até hoje. _Orgulho e Preconceito_ não precisa de defensores e sim de leitores.

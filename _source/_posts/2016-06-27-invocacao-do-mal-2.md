@@ -5,8 +5,7 @@ author: arthur
 tags:
   - filmes
   - terror
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/conjuring-2.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/conjuring-2.jpg"
 ---
 
 Eu amo o primeiro _Invocação do Mal_. É excelente em vários níveis. Ele é um filme de terror que volta aquele tipo clássico do início dos anos 1970, como _O Bebê de Rosemary_ e _O Exorcista_ e, mesmo não sendo tão bom quanto esses, ele acha um lugar só seu pelos mesmos motivos. O mal ali era outro: o do desconhecido e, por isso, do incontrolável. _Invocação do Mal_ nunca mostrava essa força maligna — ele mostrava como ela destruía a vida de uma família, cabia ao espectador imaginá-la.

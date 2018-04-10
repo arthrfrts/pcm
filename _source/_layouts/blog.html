@@ -18,7 +18,7 @@ layout: default
       </div>
 
       {% if post.image %}
-        <img data-src="{{ post.image.path }}" alt="{{ post.image.alt }}" />
+        <img data-src="{{ post.image }}" alt="{{ post.title | strip }}" />
       {% endif %}
     </header>
 
@@ -44,7 +44,7 @@ layout: default
     </div>
 
     {% if post.image %}
-    <img data-src="{{ post.image.path }}" alt="{{ post.image.alt }}" />
+    <img data-src="{{ post.image }}" alt="{{ post.title | strip }}" />
     {% endif %}
   </article>
   {% endfor %}

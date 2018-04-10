@@ -23,7 +23,7 @@
     <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
     <id>{{ post.id | absolute_url | xml_escape }}</id>
     <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
-      <![CDATA[{% if post.image %}<img src="{{ post.image.path }}" />{% endif %}
+      <![CDATA[{% if post.image %}<img src="{{ post.image }}" />{% endif %}
       {{ post.content }}]]>
     </content>
 
@@ -41,7 +41,7 @@
       <summary type="html">{{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>
     {% endif %}
     {% if post.image %}
-    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post.image.path | xml_escape }}" />
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post.image | xml_escape }}" />
     {% endif %}
   </entry>
   {% endfor %}

@@ -4,9 +4,7 @@ title: "“Rise and shine, Mr. Freeman”"
 date: "2014-05-02 23:52:13 -0300"
 tags:
   - jogos
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/half-life-2-1038x576.jpg"
-  alt: "Gordon Freeman e Alyx Vance em uma cena de Half-Life 2"
+image: "https://arthrfrts.files.wordpress.com/2018/03/half-life-2-1038x576.jpg"
 ---
 > Rise and shine, Mr. Freeman. Your time has come again.
 

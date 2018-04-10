@@ -5,8 +5,7 @@ title: Cinco coisas (que você não conferiu) pra terminar bem 2015
 excerpt: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para
   você terminar bem esse ano.
 author: thai
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/45-anos.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/45-anos.jpg"
 tags:
   - listas
   - filmes

@@ -3,8 +3,7 @@ layout: post
 date: 2016-07-14
 title: "The Night Of é insuportável de linda"
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/night-of.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/night-of.jpg"
 tags:
   - séries
   - suspense

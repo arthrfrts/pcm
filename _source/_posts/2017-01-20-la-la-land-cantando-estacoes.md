@@ -7,8 +7,7 @@ tags:
   - musical
   - romance
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/la-la-land-cantando-estacoes.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/la-la-land-cantando-estacoes.jpg"
 ---
 
 _La La Land – Cantando Estações_ começa já dizendo a que veio: em uma primeira, imensa e muitíssima bem coreografada cena, um engarrafamento se torna palco de um número musical. Ele nem esconde, é um musical e os números pipocam. Cada um mais impressionante que o outro. Fazia tempo que eu não via coisa assim no cinema.

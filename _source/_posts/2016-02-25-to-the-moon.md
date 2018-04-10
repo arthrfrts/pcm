@@ -3,8 +3,7 @@ layout: post
 author: arthur
 title: Em To The Moon você é a história de amor
 date: 2016-02-25
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/to-the-moon.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/to-the-moon.jpg"
 tags:
   - jogos
   - aventura

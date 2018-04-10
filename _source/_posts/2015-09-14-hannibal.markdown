@@ -7,8 +7,7 @@ tags:
 - suspense
 - terror
 author: arthur
-image:
-  path: "https://pcmbackup.files.wordpress.com/2015/09/hannibal.jpg"
+image: "https://pcmbackup.files.wordpress.com/2015/09/hannibal.jpg"
 ---
 Se eu tenho algum arrependimento na minha vida, é a de não ter acompanhado _Família Soprano_ e _The Wire_ quando passaram na TV. Claro, eu era muito novo (naquela época, eu só assistia _E.R._), mas existe algo que a exibição semanal de uma série proporciona que, diferente do “tudo-de-uma-vez” que o Netflix oferece hoje, é mais rico, mais maduro e mais impactante.
 

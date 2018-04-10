@@ -8,8 +8,7 @@ tags:
   - web
   - realismo fantástico
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/welcome-to-night-vale.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/welcome-to-night-vale.jpg"
 ---
 
 Você gosta de podcasts, né? Meus dois favoritos eu já escrevi aqui: [_Serial_]({{ '/serial-faz-historia-a-cada-episodio.html' | absolute_url }}) e [_Next Picture Show_]({{ '/next-picture-show-vai-fazer-voce-querer-voltar-a-escutar-podcasts.html' | absolute_url }}) são minhas melhores companhias no trabalho. Mas a sugestão de hoje não é de se ouvir no trabalho. É pra sentar no meio da madrugada e escutar com cuidado.

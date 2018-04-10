@@ -6,8 +6,7 @@ tags:
   - jogos
   - Kentucky Route Zero
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 ---
 
 > Seja lá o que você acha que é, _The Entertainment_ é fantástico.

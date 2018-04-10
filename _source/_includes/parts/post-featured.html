@@ -3,8 +3,8 @@
 <article class="post">
   <header class="post-header">
     {% if post.image %}
-    <figure class="post-image" style="background-image: url('{{ post.image.path }}');" role="banner">
-      <img itemprop="contentUrl" src="{{ post.image.path }}" alt="{{ post.image.alt }}" />
+    <figure class="post-image" style="background-image: url('{{ post.image }}');" role="banner">
+      <img itemprop="contentUrl" src="{{ post.image }}" alt="{{ post.title | strip }}" />
     </figure>
     {% endif %}
 

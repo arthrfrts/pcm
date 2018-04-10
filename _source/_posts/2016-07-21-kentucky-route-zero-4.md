@@ -2,8 +2,7 @@
 layout: post
 date: 2016-07-21
 title: "Kentucky Route Zero: Ato IV é desesperador"
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/kr04.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/kr04.jpg"
 tags:
   - jogos
   - aventura

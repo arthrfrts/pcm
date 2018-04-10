@@ -6,8 +6,7 @@ tags:
   - links
 date: 2017-01-12
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/leia-brasileiros.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/leia-brasileiros.jpg"
 ---
 
 (Tá aí uma dica que foi difícil de encontrar uma imagem pra ilustrar).

@@ -7,8 +7,7 @@ tags:
   - livros
   - gibis
   - X-Men
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/magneto-no-hero-2_zps8cde934e-672x372.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/magneto-no-hero-2_zps8cde934e-672x372.jpg"
 ---
 No início do ano, aqui no Brasil, foram lançados alguns quadrinhos dedicados aos vilões do universo Marvel – e todos sabemos que histórias sobre vilões são muito melhores do que histórias sobre herois. Em _Atos de Terror_, o mestre do magnetismo luta lado a lado com os _X-men_, deixando seu posto de nêmesis do grupo para trás, criando, junto a Scott, uma nova forma de lutar pela causa mutante.
 

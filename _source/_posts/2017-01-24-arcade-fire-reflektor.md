@@ -7,8 +7,7 @@ tags:
   - indie
   - latina
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/arcade-fire-reflektor.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/arcade-fire-reflektor.jpg"
 ---
 
 O Arcade Fire [lançou uma música nova](https://youtu.be/f6jma9VQEls) semana passada. Considerando que _The Suburbs_ é um dos meus álbuns favoritos — senão **o** meu álbum favorito —, me assustei de nunca ter falado sobre a banda aqui. A nova música me lembrou do porquê de eu amar o conjunto canadense, e voilá.

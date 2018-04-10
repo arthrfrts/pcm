@@ -6,8 +6,7 @@ tags:
   - livros
   - minimalismo
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/a-vida-privada-das-arvores.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/a-vida-privada-das-arvores.jpg"
 ---
 
 “Quando Verónica voltar, o livro acaba”, o narrador nos avisa logo no primeiro capítulo. _A Vida Privada das Árvores_, segundo livro do chileno Alejandro Zambra, não perde tempo com aquilo que não julha necessário. Bastante justo, então, ele já estipular os limites: quando a esposa de Julián, o personagem principal, voltar pra casa, o livro vai acabar.

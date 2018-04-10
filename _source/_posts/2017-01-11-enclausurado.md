@@ -7,8 +7,7 @@ tags:
   - livros
   - suspense
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/enclausurado-ian-mcewan.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/enclausurado-ian-mcewan.jpg"
 ---
 
 Nem sempre é fácil ler os livros de Ian McEwan. Seus primeiros beiravam ao sórdido, como o marcante _O Jardim de Cimento_. Depois, ficaram extremamente introspectivos, como _Amsterdam_ ou, mais furiosamente, _Sábado_. Seu livro anterior, _A Balada de Adam Henry_, flertava com muita coisa, e nem sempre conseguia entregar um bom desenvolvimento pra tudo. E daí agora tem _Enclausurado_, que é uma loucura.

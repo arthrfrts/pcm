@@ -3,8 +3,7 @@ layout: post
 author: arthur
 date: 2015-03-02
 title: 'Looking: a segunda temporada'
-image:
-  path: "https://pcmbackup.files.wordpress.com/2015/03/looking-s02e07.jpg"
+image: "https://pcmbackup.files.wordpress.com/2015/03/looking-s02e07.jpg"
 tags:
   - séries
   - comédia

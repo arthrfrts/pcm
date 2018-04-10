@@ -6,8 +6,7 @@ tags:
   - comédia
   - romance
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls.jpg"
 ---
 
 Na última sexta-feira a Netflix liberou pro resto do mundo as sete temporadas de _Gilmore Girls_, antes disponíveis somente para a América do Norte. Se você, assim como eu, assistia nas terças-feiras de noite na Warner Channel, deve ter vibrado com a notícia. Afinal, _Gilmore Girls_ é a melhor série já feita.

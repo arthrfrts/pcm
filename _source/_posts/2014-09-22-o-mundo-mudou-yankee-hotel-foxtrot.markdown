@@ -3,8 +3,7 @@ layout: post
 author: arthur
 title: "O mundo mudou: Yankee Hotel Foxtrot"
 date: "2014-09-22 01:22:47 -0300"
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/yankee-hotel-foxtrot.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/yankee-hotel-foxtrot.jpg"
 tags:
   - músicas
   - folk

@@ -7,8 +7,7 @@ tags:
   - jogos
   - aventura
   - guerra
-image:
-  path: "https://pcmbackup.files.wordpress.com/2015/02/untitled-1.png"
+image: "https://pcmbackup.files.wordpress.com/2015/02/untitled-1.png"
 ---
 Você esta com frio, fome e vivendo com desconhecidos sob o teto de uma casa abandonada.
 

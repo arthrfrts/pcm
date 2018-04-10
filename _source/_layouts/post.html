@@ -17,13 +17,13 @@ layout: default
     </div>
 
     {% if page.image %}
-    <img class="post-cover" src="{{ page.image.path }}" alt="{{ page.image.alt }}" />
+    <img class="post-cover" src="{{ page.image }}" alt="{{ post.title | strip }}" />
     {% endif %}
   </header>
 
   <div class="post-content wrapper">
     {% if page.image %}
-    <img class="post-cover" src="{{ page.image.path }}" alt="{{ page.image.alt }}" />
+    <img class="post-cover" src="{{ page.image }}" alt="{{ page.title | strip }}" />
     {% endif %}
 
     {{ content }}

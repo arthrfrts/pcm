@@ -6,8 +6,7 @@ author: fillipe
 tags:
   - livros
   - sci-fi
-image:
-  path: "https://pcmbackup.files.wordpress.com/2015/02/captura-de-tela-de-2015-02-15-192138.png"
+image: "https://pcmbackup.files.wordpress.com/2015/02/captura-de-tela-de-2015-02-15-192138.png"
 ---
 Escrito originalmente em 1950, _Eu, Robô_, de Issac Asimov, é uma união de nove contos ligados pela memória da psicóloga roboticista Susan Calvin. Antes de se aposentar, com 75 anos, a Dra. Calvin concede uma entrevista ao Imprensa Interplanetária, onde fala sobre sua carreira na U.S. Robots and Mechanical Men Inc., ilustrando também a história da criação dos robôs e de seu aperfeiçoamento.
 

@@ -6,8 +6,7 @@ author: fillipe
 tags:
   - séries
   - sci-fi
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/black-mirror.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/black-mirror.jpg"
 ---
 
 Provavelmente você estava ocupado demais com Breaking Bad ou Dexter, eu sei. Mas agora que ambas as séries chegaram ao fim, você precisa de outro programa para estourar seus miolos e espalhá-los pelas paredes. Está na hora de assistir Black Mirror.

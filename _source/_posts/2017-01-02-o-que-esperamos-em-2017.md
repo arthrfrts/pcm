@@ -10,8 +10,7 @@ tags:
   - livros
   - séries
   - músicas
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/pcm-expectativa-2017.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-expectativa-2017.jpg"
 ---
 
 Olá, e boas vindas a 2017! Se tá lendo isso, é porque tu provavelmente está no futuro. Como foi a virada de ano? Alguma tragédia nesses quatro dias de diferença? 2017 já é melhor que 2016? Esperamos que sim.

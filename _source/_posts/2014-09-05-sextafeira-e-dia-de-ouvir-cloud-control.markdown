@@ -6,8 +6,7 @@ author: vanessa
 tags:
   - músicas
   - indie
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
 ---
 
 Sexta-feira boa é sexta-feira acompanhada de uma boa música, certo? Pois bem, pra encerrar essa semana muito bem resolvi compartilhar com vocês outra banda que tem um espaço muito especial no meu coração. Hoje é a vez do Indie rock do Cloud Control.

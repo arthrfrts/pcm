@@ -3,8 +3,7 @@ layout: post
 title: Por Uma Vida Melhor
 date: 2015-12-29
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/por-uma-vida-melhor.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/por-uma-vida-melhor.jpg"
 tags:
   - filmes
   - comédia

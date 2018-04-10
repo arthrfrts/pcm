@@ -6,8 +6,7 @@ tags:
   - filmes
   - drama
 author: fillipe
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/el_hombre_de_al_lado_1_2.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/el_hombre_de_al_lado_1_2.jpg"
 
 ---
 O outro é, tem sido e há grande probabilidade de que sempre seja o maior responsável pela nossa tragédia pessoal, da melhor maneira que Sartre pôde colocar e que não me vem outra forma de melhor dizer que não seja a sua. Adoramos encontrar culpados, inventar desculpas, criar barreiras, nos distanciando daquilo que não é correto, do que é injusto ou imoral. O problema, é claro, é que alguém precisa ocupar esse espaço não preenchido por nós.

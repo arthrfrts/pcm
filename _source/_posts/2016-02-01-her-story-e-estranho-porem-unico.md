@@ -5,8 +5,7 @@ title: "Her Story é estranho, mas único"
 tags:
   - jogos
   - suspense
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/her-story.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/her-story.jpg"
 author: arthur
 ---
 

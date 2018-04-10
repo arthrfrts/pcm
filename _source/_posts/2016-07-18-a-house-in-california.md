@@ -7,8 +7,7 @@ tags:
   - aventura
   - web
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
 ---
 
 O som de grilos em uma noite. Parece que vai chover depois. Uma criança fala para a avó que está muito escuro. Ela não consegue dormir.

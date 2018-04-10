@@ -6,8 +6,7 @@ tags:
   - links
 date: "2014-07-29 19:40:11 -0300"
 author: fillipe
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/1030184-beckyjoe-release-don-t-hug-me-i-m-scared-6.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/1030184-beckyjoe-release-don-t-hug-me-i-m-scared-6.jpg"
 ---
 
 Os artistas Rebecca Sloan e Joseph Pelling, apesar de atuarem na área de design gráfico, adoram desenvolver projetos em que possam trabalhar com várias ramificações da prática artística – principalmente se elas puderem amplificar o teor subversivo e perturbador de suas obras. Juntos, Sloan e Pelling formaram o coletivo THISISIT, e são responsáveis por uma série de vídeos no Youtube chamada [_Don’t Hug Me I’m Scared_](https://www.youtube.com/user/thisisitcollective).

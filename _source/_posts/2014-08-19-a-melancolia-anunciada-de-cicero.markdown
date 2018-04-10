@@ -6,8 +6,7 @@ author: vanessa
 tags:
   - músicas
   - mpb
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/cicero.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/cicero.jpg"
 ---
 Uma gaveta esquecida dentro do armário, uma prateleira de bagunças qualquer ou uma caixa velha de sentimentos esquecidos. Um álbum de recordações amargas, uma coleção de saudade. É assim que eu descrevo a música do carioca Cícero. Uma melancolia organizada em versos. E como são lindas essas poesias cheias de vazio alheio.
 

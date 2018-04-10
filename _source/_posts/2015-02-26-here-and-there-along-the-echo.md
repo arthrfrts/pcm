@@ -3,8 +3,7 @@ layout: post
 author: arthur
 date: 2015-02-26
 title: Here And There Along The Echo
-image:
-  path: "https://pcmbackup.files.wordpress.com/2015/02/here-and-there-along-the-echo.jpg"
+image: "https://pcmbackup.files.wordpress.com/2015/02/here-and-there-along-the-echo.jpg"
 tags:
 - jogos
 - mistério

@@ -11,8 +11,7 @@ tags:
   - músicas
   - livros
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png"
+image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png"
 ---
 
 2016 não foi lá um bom ano no geral. Aqui com os padeiros também. Eu e a Thai tivemos um ano puxado e frustrante, e acabamos não conseguindo dar toda a nossa atenção ao nosso querido :bread:. Nós esperamos que 2017 seja melhor, e por isso vamos voltar com as dicas diárias na primeira segunda-feira do ano, dia 2 de janeiro.

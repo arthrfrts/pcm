@@ -6,8 +6,7 @@ tags:
   - livros
   - mistério
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg"
 ---
 
 Qual o mistério de _Amor sem fim_?

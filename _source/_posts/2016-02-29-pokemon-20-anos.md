@@ -3,8 +3,7 @@ layout: post
 date: 2016-02-29
 title: Uma carta de amor a Pokémon
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/pokemon-20.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/pokemon-20.jpg"
 tags:
   - jogos
   - rpg

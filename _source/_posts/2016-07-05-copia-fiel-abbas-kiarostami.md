@@ -6,8 +6,7 @@ title: "Uma carta de amor a Abbas Kiarostami"
 tags:
   - filmes
   - mistério
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
 ---
 
 Filmes nos conectam. Nos conectam com diferentes realidades, com diferentes ideias, com diferentes pessoas. Seja na própria imagem, seja nas conexões que criamos ao ir no cinema com alguém, ao discutir um filme com alguém, mas filmes nos aproximam de relações, não de coisas.

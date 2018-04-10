@@ -5,8 +5,7 @@ tags:
   - músicas
   - indie
 author: arthur
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
 ---
 
 Eu sou apaixonado pelo _Bliss Release_, álbum de estreia dos australianos Cloud Control. “Islands”, “My Fear (1)”, “Gold Canary” e “There's No Smoking In The Water” são divertidíssimas de ouvir, sempre, e embalaram uma boa parte do meu ensino médio. O melhor? Elas envelhecem muitíssimo bem.

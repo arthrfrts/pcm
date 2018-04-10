@@ -9,7 +9,7 @@
 <meta property="article:tag" content="{{ page.tags | join: ',' }}" />
 <meta property="article:published_date" content="{{ page.date | date_to_xmlschema }}" />
 {% if page.image %}
-<meta property="og:image" content="{{ page.image.path }}" />
+<meta property="og:image" content="{{ page.image }}" />
 {% endif %}
 {% else %}
 <meta property="og:image" content="{{ '/assets/images/ogp.jpg' | absolute_url }}" />

@@ -7,8 +7,7 @@ tags:
   - filmes
   - drama
   - documentário experimental
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/viajo-porque-preciso-volto-porque-te-amo.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/viajo-porque-preciso-volto-porque-te-amo.jpg"
 ---
 
 > Todo o casamento é perfeito, até que acaba.

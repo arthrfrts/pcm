@@ -6,8 +6,7 @@ tags:
   - livros
   - drama
 author: fillipe
-image:
-  path: "https://arthrfrts.files.wordpress.com/2018/03/168a2311556945-560f9956043e7.jpg"
+image: "https://arthrfrts.files.wordpress.com/2018/03/168a2311556945-560f9956043e7.jpg"
 ---
 
 > “Demonstrou interesse em ter a minha opinião sobre esse novo livro – tratava-se de O Grande Gatsby – e prometeu que me emprestaria o último e único exemplar que possuía, tão logo fosse devolvido por uma pessoa a quem emprestara. Ouvindo-o falar assim tão displicentemente de O Grande Gatsby, ninguém pensaria que se tratasse de um romance tão bom, a não ser que estivesse familiarizado com essa maneira que os escritores de verdade têm de se referir com certa vergonha aos seus melhores trabalhos.”
