@@ -3,8 +3,13 @@ layout: post
 date: 2017-01-13
 title: Eu não queria sair da ilha de Dear Esther.
 tags:
-  - jogos
-  - primeira pessoa
+  - experimental
+  - drama
+  - PlayStation 4
+  - Steam
+  - GOG
+  - Xbox One
+category: Jogos
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/dear-esther-landmark-edition.jpg"
 ---

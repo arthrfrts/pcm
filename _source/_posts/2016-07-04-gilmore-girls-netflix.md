@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Gilmore Girls não é a melhor série já feita, mas é a melhor série já feita"
+category: Séries
 tags:
-  - séries
   - comédia
   - romance
+  - Netflix
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls.jpg"
 ---

@@ -2,9 +2,10 @@
 layout: post
 title: "Invocação do Mal 2 quase não assusta, mas também não tá aí pra isso"
 author: arthur
+category: Filmes
 tags:
-  - filmes
   - terror
+  - HBO Go
 image: "https://arthrfrts.files.wordpress.com/2018/03/conjuring-2.jpg"
 ---
 

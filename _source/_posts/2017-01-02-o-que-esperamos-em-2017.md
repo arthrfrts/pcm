@@ -3,13 +3,16 @@ layout: post
 date: 2017-01-02
 title: O que mais esperamos em 2017
 author: arthur
+category:
+  - Filmes
+  - Músicas
+  - Séries
+  - Jogos
+  - Leituras
+  - Links
 tags:
   - listas
-  - filmes
-  - jogos
-  - livros
-  - séries
-  - músicas
+  - rankings
 image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-expectativa-2017.jpg"
 ---
 

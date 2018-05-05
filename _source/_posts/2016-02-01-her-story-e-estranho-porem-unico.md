@@ -2,9 +2,11 @@
 layout: post
 date: 2016-02-01
 title: "Her Story é estranho, mas único"
+category: Jogos
 tags:
-  - jogos
   - suspense
+  - Steam
+  - GOG
 image: "https://arthrfrts.files.wordpress.com/2018/03/her-story.jpg"
 author: arthur
 ---

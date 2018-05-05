@@ -2,8 +2,10 @@
 layout: post
 date: 2016-07-18
 title: "Uma noite de verão em A House in California"
+category:
+  - Jogos
+  - Links
 tags:
-  - jogos
   - aventura
   - web
 author: arthur

@@ -4,11 +4,11 @@ date: 2016-02-29
 title: Uma carta de amor a Pokémon
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/pokemon-20.jpg"
+category: Jogos
 tags:
-  - jogos
-  - rpg
-  - Nintendo
-  - Pokémon
+  - RPG
+  - Nintendo 3DS
+  - Nintendo Switch
 ---
 
 _Pokémon_ fez vinte anos nesse último sábado, dia 27. Fazia anos que eu não enxia meus olhos com tantos dos monstrinhos de bolso que eu sempre amei.

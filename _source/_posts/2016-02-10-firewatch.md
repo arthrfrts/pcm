@@ -3,10 +3,15 @@ layout: post
 date: 2016-02-10
 title: "Firewatch apresenta a maturidade aos videogames"
 author: arthur
+category: Jogos
 tags:
-  - jogos
   - aventura
   - suspense
+  - Steam
+  - GOG
+  - Nintendo Switch
+  - PlayStation 4
+  - Xbox One
 image: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
 ---
 

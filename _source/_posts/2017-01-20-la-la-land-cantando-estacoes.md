@@ -2,10 +2,11 @@
 layout: post
 date: 2017-01-20
 title: A mágica do cinema tá todinha em La La Land – Cantando Estações
+category: Filmes
 tags:
-  - filmes
   - musical
   - romance
+  - cinema
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/la-la-land-cantando-estacoes.jpg"
 ---

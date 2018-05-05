@@ -4,9 +4,10 @@ date: 2016-07-19
 title: Não há muito o que dizer sobre Esperando Godot
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/esperando-godot.jpg"
+category: Leituras
 tags:
   - livros
-  - absurdo
+  - wtf
 ---
 
 **Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.**

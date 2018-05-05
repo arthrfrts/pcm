@@ -2,10 +2,12 @@
 layout: post
 date: 2017-01-24
 title: "Reflektor é diferente de tudo o que o Arcade Fire já fez."
+category: Músicas
 tags:
-  - músicas
   - indie
-  - latina
+  - rock
+  - eletrônica
+  - Spotify
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/arcade-fire-reflektor.jpg"
 ---

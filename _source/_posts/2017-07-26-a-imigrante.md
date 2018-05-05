@@ -3,9 +3,10 @@ layout: post
 date: 2017-07-26
 title: "James Gray torna A Imigrante em um dos fundamentos da América."
 image: "https://arthrfrts.files.wordpress.com/2018/03/immigrant.jpg"
+category: Filmes
 tags:
-  - filmes
   - drama
+  - Netflix
 author: arthur
 ---
 

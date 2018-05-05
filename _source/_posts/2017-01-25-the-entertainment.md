@@ -2,9 +2,12 @@
 layout: post
 date: 2017-01-25
 title: Você nunca vai jogar nada como The Entertainment
+category: Jogos
 tags:
-  - jogos
-  - Kentucky Route Zero
+  - experimental
+  - web
+  - VR
+  - wtf
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 ---

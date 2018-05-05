@@ -3,6 +3,7 @@ layout: post
 date: 2017-01-11
 title: "Enclausurado é estranho pra caramba."
 excerpt: Ian McEwan está manipulativo como sempre, mas divertido como nunca.
+category: Leituras
 tags:
   - livros
   - suspense
