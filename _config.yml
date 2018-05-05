@@ -42,4 +42,5 @@ plugins:
   - jekyll-archives
   - jemoji
 
+incremental: true
 source: _source
