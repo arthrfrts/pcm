@@ -2,50 +2,54 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
-
-<article class="post">
-  <header>
-    <div class="wrapper">
-      <h1>
-        <a href="{{ page.url }}" rel="bookmark">{{ page.title }}</a>
-      </h1>
-
-      <p class="post-meta">
-        <time datetime="{{ page.date | date: date_to_xmlschema }}">{{  page.date | date: '%d/%m/%Y' }}</time>
-        &middot; <a rel="author" href="{{ author.twitter | prepend: 'https://twitter.com/' }}">{{ author.name }}</a>
+<article class="content">
+  <header class="content-head wrapper">
+      <p class="content-meta categories">
+        {% if page.category.first %}
+          {% for category in page.category %}
+            <a href="{{ category | first | slugify: 'pretty' | append: '/' | prepend: '/sabores/' | relative_url }}" rel="tag">{{ category | first }}</a> {%- unless forloop.last -%} / {%- endunless -%}</a>
+          {% endfor %}
+        {% else %}
+          <a href="{{ category | first | slugify: 'pretty' | append: '/' | prepend: '/sabores/' | relative_url }}" rel="tag">{{ category | first }}</a>
+        {% endif %}
       </p>
-    </div>
 
-    {% if page.image %}
-    <img class="post-cover" src="{{ page.image }}" alt="{{ post.title | strip }}" />
-    {% endif %}
+      <h1 class="content-title">{{ page.title }}</h1>
+
+      <p class="content-meta">
+        <a href="{{ author.twitter | prepend: 'https://twitter.com/' }}" rel="author">
+          <img src="https://avatars.io/twitter/{{ author.twitter }}" alt="Foto de {{ author.name }}" />
+          {{ author.name }}
+        </a>
+        &middot;
+        <a href="{{ page.url | relative_url }}" rel="bookmark">
+          <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+        </a>
+      </p>
   </header>
 
-  <div class="post-content wrapper">
-    {% if page.image %}
-    <img class="post-cover" src="{{ page.image }}" alt="{{ page.title | strip }}" />
-    {% endif %}
+  {% if page.image %}
+  <figure class="content-image">
+    <img src="{{ page.image }}" alt="{{ page.title | strip_html | normalize_whitespace }}" />
+  </img>
+  {% endif %}
 
+  <div class="content-body wrapper">
     {{ content }}
   </div>
 
-  <footer class="wrapper">
-    <p class="post-meta"><strong>Tags:</strong> {{ page.tags | join: ', ' }}</p>
+  {%- if page.tags -%}
+  <footer class="content-footer wrapper">
+    <p class="content-meta">
+      Publicado em
+      {% for tag in page.tags %}
+        <a href="{{ tag | slugify: 'pretty' | prepend: '/tags/' | append: '/' | relative_url }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}, {%- else -%}.{%- endunless -%}
+      {% endfor %}
+    </p>
   </footer>
+  {% endif %}
 
   {% unless page.comments == 'false' %}
-  {% include comments.html %}
+  {% include parts/comments.html %}
   {% endunless %}
-
-  {% if page.next or page.previous %}
-  <nav>
-    {% if page.previous.path %}
-    <p class="nav-link prev"><strong>Antes disso:</strong>
-    <a href="{{ page.previous.url | relative_url }}" rel="prev">{{ page.previous.title }}</a></p>
-    {% endif %}
-    {% if page.next.path %}
-    <p class="nav-link next"><strong>A seguir:</strong> <a href="{{ page.next.url | relative_url }}" rel="next">{{ page.next.title }}</a></p>
-    {% endif %}
-  </nav>
-  {% endif %}
 </article>

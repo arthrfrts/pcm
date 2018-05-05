@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Don't Hug Me, I'm Scared: O limite das criatividades"
+category: Links
 tags:
   - web
-  - links
+  - YouTube
 date: "2014-07-29 19:40:11 -0300"
 author: fillipe
 image: "https://arthrfrts.files.wordpress.com/2018/03/1030184-beckyjoe-release-don-t-hug-me-i-m-scared-6.jpg"

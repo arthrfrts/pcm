@@ -1,3 +1,6 @@
 ---
 layout: blog
 ---
+{% for post in site.posts %}
+  {% include parts/post.html %}
+{% endfor %}

@@ -4,9 +4,9 @@ title: "Sweet Tooth"
 date: "2014-02-25 19:19:00 -0300"
 image: "https://arthrfrts.files.wordpress.com/2018/03/sweet.jpg"
 author: fillipe
+category: Leituras
 tags:
   - gibis
-  - livros
   - mistério
 ---
 Antes de começar a ler _Sweet Tooth_, a primeira coisa que me passou pela cabeça foi “será que existe lugar para mais historias pós-apocalípticas?“. Confesso que o tema, geralmente acompanhado por amplas doses de mortos-vivos, tem se tornado desgastante. À medida em que íamos nos aproximando, recentemente, do 21/12/12, o tema ficou cada vez mais em evidência, atingindo picos absurdos tanto antes como depois da data, o que nos deixou sequelas como Meu namorado é um zumbi, de 2013.

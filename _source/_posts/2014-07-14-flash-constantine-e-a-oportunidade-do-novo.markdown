@@ -3,10 +3,10 @@ layout: post
 title: "Flash, Constantine e a oportunidade do novo"
 date: "2014-07-14 20:19:22 -0300"
 author: fillipe
+category: Séries
 tags:
-  - séries
-  - filmes
   - super-heróis
+  - Netflix
 image: "https://arthrfrts.files.wordpress.com/2018/03/16-spider-man-672x372.jpg"
 ---
 A busca da diversão pelo entretenimento tem sido uma das maneiras mais confortáveis de mantermos a manutenção de uma estrutura do tédio e, em torno dela, criarmos um elo entre os entediados, tornando o fastio mais divertido ou menos tedioso – ou, pelo menos, criar um sentimento pessoal de não-solidão dentro de outro sentimento que é compartilhado por todos. É como se usássemos a desculpa da diversão para nos distrair do tédio, perdendo a oportunidade – e alijando nossa capacidade – de criar outras formas de satisfazer nossos desejos. Acabamos ignorando-os com estímulos prontos e oferecido-nos com mais facilidade.

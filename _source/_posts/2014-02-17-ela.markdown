@@ -2,10 +2,11 @@
 layout: post
 title: "Ela"
 date: "2014-02-17 18:56:27 -0300"
+category: Filmes
 tags:
-  - filmes
   - romance
   - sci-fi
+  - cinema
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/ela.jpg"
 ---

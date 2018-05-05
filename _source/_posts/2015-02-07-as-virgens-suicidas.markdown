@@ -3,6 +3,7 @@ layout: post
 title: "As Virgens Suicidas"
 date: "2015-02-07 20:29:01 -0300"
 author: fillipe
+category: Leituras
 tags:
   - livros
 image: "https://arthrfrts.files.wordpress.com/2018/03/virgenssuicidas.jpg"

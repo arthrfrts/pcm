@@ -1,0 +1,14 @@
+---
+layout: blog
+---
+<p class="archive-title">
+  {%- if page.type == "tag" -%}
+  Posts marcados com <strong>{{ page.title }}</strong>
+  {%- else -%}
+  <strong>{{ page.title }}</strong> que nós recomendamos
+  {%- endif -%}
+</p>
+
+{% for post in page.posts %}
+  {% include parts/post.html %}
+{% endfor %}

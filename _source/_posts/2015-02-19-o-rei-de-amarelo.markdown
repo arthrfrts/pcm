@@ -3,9 +3,11 @@ layout: post
 title: "O Rei de Amarelo"
 date: "2015-02-19 20:37:39 -0300"
 author: fillipe
+category: Leituras
 tags:
   - livros
   - contos
+  - horror
 image: "https://pcmbackup.files.wordpress.com/2015/02/ra2.png"
 ---
 Se você está procurando apenas uma leitura divertida e sem compromisso, _O Rei de Amarelo_ não é para você. É com uma escrita rebuscada e arrastada que Robert Chambers cria o misterioso universo do Rei de Amarelo: um universo onde um livro de capa amarela levara à loucura qualquer um que atreva-se a lê-lo.

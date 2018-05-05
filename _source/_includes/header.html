@@ -1,5 +1,14 @@
 <header class="masthead">
-  <a class="site-title" href="{{ site.url }}">
-    <img src="{{ site.logo | relative_url }}" alt="Marca do site" />
-    {{ site.title }}</a>
+  <div class="wrapper">
+    <a class="site-title" href="{{ site.url }}">
+      <img src="{{ site.logo | relative_url }}" alt="Marca do site" />
+      {{ site.title }}
+    </a>
+
+    <nav class="main-menu">
+      {%- for category in site.categories -%}
+      <a href="{{ category | first | slugify: 'pretty' | prepend: '/sabores/' | relative_url }}">{{ category | first }}</a>
+      {%- endfor -%}
+    </nav>
+  </div>
 </header>

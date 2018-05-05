@@ -3,9 +3,10 @@ layout: post
 title: "Ernest & Celestine"
 date: "2014-08-26 19:55:27 -0300"
 author: vanessa
+category: Filmes
 tags:
-  - filmes
   - animação
+  - Netflix
 image: "https://arthrfrts.files.wordpress.com/2018/03/hero_ernestand_celestine-2014-1.jpg"
 ---
 Todo mundo tem um gênero de filme preferido, mas uma coisa é fato, não há quem não se renda aos encantos de uma boa animação, acho que é uma espécie de pausa nessa coisa chata de ser gente grande. E para alegrar esta terça-feira de inverno, a dica de hoje é uma das melhores (e com certeza a mais bonita) animações que já vi na vida, _Ernest & Celestine_.
@@ -20,4 +21,4 @@ Apesar de não ter levado a estatueta de melhor animação pra casa (que ficou c
 
 Histórias sobre amizades são feitas aos montes, mas _Ernest & Celestine_ não trata apenas disso, não é uma amizade qualquer, é a quebra de uma enorme barreira social. A luta por essa amizade é construída de uma maneira tão delicada e tão linda estética e emocionalmente, que enquanto olhamos o filme não nos damos conta do quanto aprendemos com ele, independente da nossa idade. Ele exerce de maneira exímia o seu papel como fabula, e nos deixa uma linda lição de moral.
 
-A final de contas quem disse que um rato e um urso não podem ser amigos? E que barreira é grande o suficiente, quando se tem amor, carinho e amizade?
+Afinal de contas quem disse que um rato e um urso não podem ser amigos? E que barreira é grande o suficiente, quando se tem amor, carinho e amizade?

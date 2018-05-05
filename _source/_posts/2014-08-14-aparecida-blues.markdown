@@ -2,8 +2,9 @@
 layout: post
 title: "Aparecida Blues"
 date: "2014-08-14 19:58:33 -0300"
+category: Links
 tags:
-  - livros
+  - web
   - gibis
 author: fillipe
 image: "https://arthrfrts.files.wordpress.com/2018/03/alaor_511_297.jpg"
@@ -19,7 +20,8 @@ Aos poucos, dentro de uma estrutura de repetições, como em um acorde, vamos en
 
 Talvez esse seja o maior trunfo de _Aparecida Blues_: não precisar explicar-se diante do leitor. Assim como Alaor encontra um meio de tocar para um surdo, de se fazer ouvir com seu silêncio, ela simplesmente se apresenta e, junto à introdução, pede que tenham calma ao tentar desvendar sua dinâmica confusa. A pressa e a sensação de ter sacado a história podem fazer com que você perca as partes mais simples e comoventes.
 
-A hq está disponível para ser lida gratuitamente, basta clicar neste link melancólico sentado no canto do bar, logo ali.                                 
+A hq está disponível para ser lida gratuitamente, basta clicar neste link melancólico sentado no canto do bar, logo ali.     
+
 
 
 

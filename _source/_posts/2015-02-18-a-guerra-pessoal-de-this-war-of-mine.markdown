@@ -3,10 +3,13 @@ layout: post
 title: "A guerra pessoal de This War of Mine"
 author: gui
 date: "2015-02-18 20:33:37 -0300"
+category: Jogos
 tags:
-  - jogos
   - aventura
   - guerra
+  - estratégia
+  - Steam
+  - GOG
 image: "https://pcmbackup.files.wordpress.com/2015/02/untitled-1.png"
 ---
 Você esta com frio, fome e vivendo com desconhecidos sob o teto de uma casa abandonada.

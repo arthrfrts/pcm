@@ -2,9 +2,11 @@
 layout: post
 title: "True Detective"
 date: "2014-02-11 19:28:58 -0300"
+category: Séries
 tags:
-  - séries
-  - mistério
+  - suspense
+  - policial
+  - HBO Go
 author: fillipe
 image: "https://arthrfrts.files.wordpress.com/2018/03/td.jpg"
 ---

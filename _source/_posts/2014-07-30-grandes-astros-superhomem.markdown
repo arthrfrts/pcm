@@ -2,9 +2,10 @@
 layout: post
 title: "Grandes Astros: Super-Homem"
 date: "2014-07-30 00:57:13 -0300"
+category: Leituras
 tags:
   - gibis
-  - Super-Homem
+  - super-heróis
 image: "https://arthrfrts.files.wordpress.com/2018/03/all-star-superman-cover-672x372.jpg"
 ---
 Existe um grande problema em O Homem de Aço, o filme de 2013 dirigido por Zack Snyder e produzido por Christopher Nolan. Ele tenta encontrar, na fórmula que tornou O Cavaleiro das Trevas um sucesso, uma revitalização para um herói que viu dias melhores. Mas não funciona. A humanização que Batman recebeu nas mãos de Nolan não cabe ao Super-Homem, ele não é o conflituoso e solitário homem que vive no meio de morcegos, embora David S. Goyer (o roteirista) insistentemente trace paralelos entre o isolamento de um e de outro. Em uma determinada cena do filme, toda essa problemática é exibida: no meio de uma batalha que dura mais de sessenta minutos (o Super-Homem de O Homem de Aço não evita a megadestruição, ele contribui para ela), um dos inimigos lança um caminhão contra o Super. E ele sai voando para escapar da mira. Ele salva a si mesmo. Ele deixa o caminhão destruir um prédio cheio de pessoas para salvar a si mesmo e, depois, salvar apenas aqueles que lhe interessam. Esse não é o Super-Homem que todos conhecemos.

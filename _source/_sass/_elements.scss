@@ -1,150 +1,75 @@
 /*
+    Basic styling.
+*/
+:root {
+  font-size: 100%;
+}
+
+@include on-palm {
+  :root {
+    font-size: 125%;
+  }
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font: 400 #{$font-size-base}/#{$font-line-height} $font-family-main;
+  color: $color-text;
+  background: $color-background;
+}
+
+/*
     Text Elements
 */
 p, ul, ol, dl,
-table, figure,
-audio, video, iframe,
-embed, object,
-address, blockquote {
-  margin-bottom: $spacing-unit;
+table, address,
+figure, audio, video,
+iframe, embed, object,
+blockquote, pre {
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
 
-strong, b, th {
+em, i,
+address {
+  font-style: italic;
+}
+
+strong, b,
+th, dt {
   font-weight: 700;
 }
 
-em, i {
+// Blockquote
+blockquote {
+  border-left: 0.2rem solid $color-accent;
+  padding-left: $spacing-unit / 2;
   font-style: italic;
 }
 
 // Links
-a {
-  text-decoration: none;
+a,
+a:visited {
   color: inherit;
-  transition: color 0.3s ease;
-
-  &:hover,
-  &:focus {
-    color: darken($color-details, 40%);
-  }
-}
-
-.post-content a {
-  box-shadow: inset 0 -0.4em 0 $color-accent;
-}
-
-// Headings
-h1, h2, h3,
-h4, h5, h6 {
-  font-weight: 700;
-  line-height: 1.25;
-  font-family: $font-family-base;
-}
-
-h1 {
-  font-size: $font-size-base * 2;
-}
-
-h2 {
-  font-size: $font-size-base * 1.75;
-}
-
-h3 {
-  font-size: $font-size-base * 1.5;
-}
-
-h4 {
-  font-size: $font-size-base * 1.25;
-}
-
-h5 {
-  font-size: $font-size-base;
-}
-
-h6 {
-  font-size: $font-size-small;
-}
-
-// Lists
-ol, ul, dl {
-  margin-left: $spacing-unit;
-}
-
-ol {
-  list-style: decimal;
-
-  ol {
-    list-style: lower-alpha;
-
-    ol {
-      list-style: lower-roman;
-    }
-  }
-}
-
-ul {
-  list-style: square;
-
-  ul {
-    list-style: disc;
-
-    ul {
-      list-style: circle;
-    }
-  }
-}
-
-// Images
-img:not(.emoji) {
-  max-width: 100%;
-  width: auto;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 0.3rem;
-  filter: drop-shadow(0 0 1rem $color-details);
-}
-
-.emoji {
-  vertical-align: text-bottom;
-}
-
-p {
-  position: relative;
-
-  img+em {
-    display: block;
-    max-width: 75%;
-    padding: 0;
-    margin-top: $spacing-unit / 2;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: $font-size-small;
-    font-style: normal;
-    color: darken($color-details, 20%);
-
-    @include on-laptop {
-      position: absolute;
-      top: 0;
-      right: -16rem;
-      width: 15rem;
-      margin-top: 0;
-    }
-  }
-}
-
-// Quotes
-blockquote {
-  border-left: 0.5rem solid $color-accent;
-  padding-left: $spacing-unit;
-  font-family: $font-family-base;
-  font-size: $font-size-base * 1.25;
-  font-style: italic;
-  font-weight: 900;
+  text-decoration: none;
+  transition: color 0.15s linear;
 }
 
 // Media
+img:not(.emoji) {
+  width: 100%;
+}
+
+figure, audio, video,
 iframe, object, embed {
   max-width: 100%;
 }

@@ -19,6 +19,15 @@ baseurl: ''
 markdown: kramdown
 permalink: /:year/:title/
 
+jekyll-archives:
+  enabled:
+    - tags
+    - categories
+  layout: "archive"
+  permalinks:
+    category: "/sabores/:name/"
+    tag: "/tags/:name/"
+
 defaults:
 - scope:
     path: ''
@@ -30,6 +39,7 @@ defaults:
 plugins:
   - jekyll-coffeescript
   - jekyll-sitemap
+  - jekyll-archives
   - jemoji
 
 source: _source

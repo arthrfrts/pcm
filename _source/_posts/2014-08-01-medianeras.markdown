@@ -2,9 +2,10 @@
 layout: post
 title: "Medianeras"
 date: "2014-08-01 19:15:49 -0300"
+category: Filmes
 tags:
-  - filmes
   - romance
+  - Netflix
 author: fillipe
 image: "https://arthrfrts.files.wordpress.com/2018/03/medianeras-1.jpg"
 ---
