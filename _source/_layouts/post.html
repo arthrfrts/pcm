@@ -7,7 +7,7 @@ layout: default
       <p class="content-meta categories">
         {% if page.category.first %}
           {% for category in page.category %}
-            <a href="{{ category | first | slugify: 'pretty' | append: '/' | prepend: '/sabores/' | relative_url }}" rel="tag">{{ category | first }}</a> {%- unless forloop.last -%} / {%- endunless -%}</a>
+            <a href="{{ category | slugify: 'pretty' | append: '/' | prepend: '/sabores/' | relative_url }}" rel="tag">{{ category }}</a> {% unless forloop.last %} / {% endunless %}</a>
           {% endfor %}
         {% else %}
           <a href="{{ category | first | slugify: 'pretty' | append: '/' | prepend: '/sabores/' | relative_url }}" rel="tag">{{ category | first }}</a>

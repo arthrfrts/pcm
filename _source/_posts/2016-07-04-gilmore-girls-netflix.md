@@ -18,6 +18,7 @@ _Gilmore Girls_ conta a história de três gerações de mulheres da família Gi
 
 O que torna _Gilmore Girls_ realmente especial são seus personagens. Lorelai é uma mãe incrível que, mesmo cometendo erros, busca o melhor para sua filha e, quando essa precisa traçar o seu caminho, busca seguir o seu. Rory é uma querida que precisa tropeçar e não é uma dessas adolecentes da TV que é idiota por ser idiota. Emily é uma matriarca com todos os seus defeitos, mas um grande coração e grande personalidade, mas as garotas Gilmore são apenas a ponta de um iceberg cheio de personagens carismáticos.
 
+{: .full-width}
 ![O elenco de Gilmore Girls](https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls-cast.jpg)
 _Você vai aprender a amar (e odiar) cada um deles._
 
@@ -33,6 +34,7 @@ Assim, _Gilmore Girls_ nunca acabou tratando de temas maiores do que seus própr
 
 Vendo hoje, quase dez anos após a série ter sido cancelada, _Gilmore Girls_ é um alívio. Uma pequena dramédia sobre o cotidiano de uma série de pessoas em uma pequena cidade no interior dos EUA não parece muito interessante, mas é justamente nesses personagens que se esconde a vida da série. São sempre eventos espalhafatosos, encontros da cidade e muito mais para criar a vida da série. Mas aquilo que dá a vida aos episódios é, realmente, Lorelai e Rory.
 
+{: .full-width}
 ![Lorelai e Rory aproveitam o domingo com doritos](https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls-elas.jpg)
 _Eu quero passar o resto dos meus domingos assim._
 

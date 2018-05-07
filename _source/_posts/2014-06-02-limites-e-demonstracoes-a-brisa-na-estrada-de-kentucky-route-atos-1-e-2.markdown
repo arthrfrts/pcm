@@ -13,6 +13,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-1-
 
 Você é Conway, um vivido motorista. Você dirige uma camionete igualmente velha, acompanhado de um cão igualmente velho. Você para em Equus Oils, um posto de gasolina esquecido no tempo, assim como você. Nele, está Joseph, um velho poeta, talvez cego, sentado entre duas bombas de gasolina. Você pergunta como chegar à Zero, uma estrada na qual nunca ouviu falar. Você precisa chegar lá para fazer uma entrega na Dogwood Drive, 5. Ele não sabe, mas conhece alguém que saiba. Você precisa ir até a casa dela. Você precisa fazer essa entrega.
 
+{: .full-width}
 ![Imagem de Kentucky Route Zero: Ato II.](https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-2-1024x576.jpg)
 _Uma águia gigante é o que tem de menos estranho nessa floresta._
 
@@ -24,6 +25,7 @@ Em uma estrutura bastante linear, mesmo para os padrões dos jogos de aventura p
 
 De fato, KR0 parece estar preocupado mais em transmitir a história, a atmosfera e o seu mistério do que permitir a interferência do jogador. Não é crime algum, visto que o gênero de aventura point-and-click não é lá adepto de interferências narrativas. Nesse quesito, o jogo é excelente: há pouca interface, cada ambiente é acompanhado com uma trilha-sonora impressionante e uma qualidade visual de cair o queixo (mesmo não sendo fotorrealista, experimente jogar em uma tela de 1080p para ver os impressionantes cenários), e os personagens, mesmo sem falas, sem rosto e vistos de longe, se ligam ao jogador com força o suficiente para que possamos sentir a dor de Conway ao ter sua perna esmagada.
 
+{: .full-width}
 ![Imagem de Kentucky Route Zero](https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-1-cavalos-1024x576.png)
 
 Talvez o maior problema seja que nesses dois primeiros atos praticamente nada é respondido. O que Conway está entregando, qual sua relação com Lysette e uma penca de outros mistérios sequer são respondidos. Há pistas em cada fala de personagens (e eles falam muito), mas Kentucky Route Zero está guardando o melhor para o final. Por enquanto, eles querem apenas que sintamos a brisa da estrada em nosso cabelo, e que ouçamos as maravilhosas histórias dessas pessoas com as quais cruzamos por aí.

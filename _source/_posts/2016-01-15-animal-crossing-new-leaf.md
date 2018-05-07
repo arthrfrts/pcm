@@ -16,6 +16,7 @@ Eu jogo _Animal Crossing: New Leaf_ todos os dias desde então, sem exceção. T
 
 Esqueça as barras de necessidade, as aspirações e os desafios para conseguir um bom emprego nos outros simuladores de vida por aí. Em _Animal Crossing: New Leaf_, todo o possível estresse que você poderia ter para satisfazer seu avatar no jogo é reduzido para um mínimo de atividades. É um simulador de vida minimalista, mas não pobre. Comprovando que sua fórmula é perfeita para os videogames portáteis, o progresso em New Leaf ocorre dia após dia, com uma série de atividades e eventos para que o jogador sempre sinta-se recompensado com as tarefas que deve cumprir.
 
+{: .full-width}
 ![Imagem de New Leaf](https://arthrfrts.files.wordpress.com/2018/03/animal-crossing-new-leaf-capa.jpg)
 _Olha o charme desses vizinhos._
 

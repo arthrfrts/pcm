@@ -18,6 +18,7 @@ Saindo de um concerto, um grupo de amigos da alta sociedade resolve reunir-se na
 
 Assim, também, procuramos entender a estrutura complicada que Buñuel apresenta, mas que não contém em si os elementos necessários para que possamos chegar a alguma conclusão. Eis uma das belezas do filme: ele é incrivelmente vasto para ser compreendido em toda sua extensão, mas também é incrivelmente raso para que possamos fazer nele algum sentido.
 
+{: .full-width}
 ![Imagem do filme O Anjo Exterminador](https://arthrfrts.files.wordpress.com/2018/03/el-angel-exterminador_escena.jpg)
 _“Me siento confuso. ¿Qué sucede aquí? No sé cómo hemos podido llegar a esto, pero todo tiene sus límites.”_
 

@@ -135,11 +135,13 @@
   .content-body {
     font-family: $font-family-body;
 
-    p, ul, ol, dl,
+    p:not(.full-width),
+    ul, ol, dl,
     blockquote, pre,
-    table {
+    table, address,
+    h1, h2, h3, h4, h5, h6 {
+      @extend %wrapper;
       max-width: $content-width;
-      position: relative;
       margin-left: auto;
       margin-right: auto;
     }

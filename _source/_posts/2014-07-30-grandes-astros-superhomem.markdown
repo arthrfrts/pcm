@@ -20,5 +20,6 @@ Em cerca de 320 páginas, Morrisson e Quitely tratam de exibir o ideal do Super-
 
 Com um trabalho gráfico belíssimo e uma história que, se analisada como uma soma de suas partes possa tender ao exagero, mas analisada com um todo reflete tudo aquilo que o Super-Homem representa para os quadrinhos e para a cultura pop, Grandes Astros: Superman exibe que nem todos os super-heróis precisam dessa tão falada “humanização” que a Marvel e a DC parecem apavoradas para meter goela abaixo. É um suspiro de fantasia e paixão pelo ideal do super-herói de que ele, afinal, é um super. É algo além. É algo melhor que todos nós.
 
+{: .full-width}
 ![Super-Homem sobrevoando a superfície do sol](https://arthrfrts.files.wordpress.com/2018/03/all-star-superman-1024x485.jpg)
 _Esse é o Super-Homem em que todos queremos acreditar._

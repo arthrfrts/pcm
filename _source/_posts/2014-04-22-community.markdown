@@ -22,11 +22,13 @@ Conhecemos Jeff, um advogado que teve seu diploma cassado por ser falso; Britta,
 
 É Greendale a personagem principal de _Community_. Ao decorrer das cinco temporadas (à exceção da quarta, uma desgraça), os roteiristas da série se interessam em desvendar os deliciosos segredos da faculdade comunitária que une esses sete personagens (que, em um episódio em específico, vê como tudo estava entrelaçado para acontecer). São aulas fantásticas (escadas, idioma dos bebês, dá para fritar?), eventos únicos (ocktoberfest em agosto, concurso da  milionésima descarga, festa de halloween com zumbis de verdade) e setores fascinantes (o apêndice do ar-condicionado, o misterioso trampolim) que tornam a Greendale _Community_ College num prato cheio para situações inusitadas, onde brincadeiras de criança são assunto sério, guerras de paintball geralmente levam à morte e, bem, até mesmo portais interdimensionais se abrem.
 
+{: .full-width}
 ![Imagem de Community](https://arthrfrts.files.wordpress.com/2018/03/community304.jpg)
 _Que melhor modo que expandir um universo do que criar seis timelines diferentes?_
 
 Ao todo, _Community_ é o cotidiano de seus sete personagens (e do Dean Pelton e do Sr. Chang) nos corredores da Greendale. Mas a série funciona por seu humor genuinamente inteligente e sua noção de que, bem, eles nunca estão em solo firme. À exceção da segunda temporada, todas as outras estavam com o pé no cancelamento, o que é uma fonte para ótimas piadas (na première da terceira, por exemplo, o reitor vêm e diz que vai ser um ano como todos os outros, só que sem dinheiro), o que transforma a série em um lugar onde o criador, Dan Harmon, não precisa ter senso do perigo. Com o apoio de uma forte fanbase, _Community_ chegou a definir sua longevidade, quando Abed tenta defender uma série que gosta e cria uma campanha no Twitter, #SixSeasonsAndAMovie. Agora, cinco anos depois, o anúncio da sexta temporada está próximo e, dizem os rumores, um filme está sendo discutido.
 
+{: .full-width}
 ![Imagem de Community](https://arthrfrts.files.wordpress.com/2018/03/community-2x18-1024x576.jpg)
 _Metacomentários a torto e a direito? SIM!!!_
 

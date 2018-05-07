@@ -23,6 +23,7 @@ A gente pode divagar muito sobre os temas que _Cópia Fiel_ cobre a partir daí,
 
 Dava pra recomendar outros, talvez melhores, mais premiados filmes de Abbas Kiarostami. O diretor mais importante da história do cinema iraniano possui obras-primas como _Gosto de Cereja_, uma ode à vida em forma de elegia como poucas vezes o cinema nos trouxe; _Dez_, um dos retratos mais únicos das relações sociais no Irã; a inebriante trilogia composta por _Onde Fica a Casa do Meu Amigo?_, _O Vento nos Levará_ e _Através das Oliveiras_; ou a jornada pelo filme, e pelo Irã, com _Close-up_. Kiarostami trabalhava nesse seu cinema de relações com as ligações que conectam seus personagens, seus temas ou seus lugares com o espectador. Todos eles são gratificantes. Poucos deles, porém, são tão claros quanto _Cópia Fiel_ em seu objetivo.
 
+{: .full-width}
 ![Juliette Binoche em Cópia Fiel](https://arthrfrts.files.wordpress.com/2018/03/copia-fiel-ela.jpg)
 _A Mona Lisa de Kiarostami._
 

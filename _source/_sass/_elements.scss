@@ -35,6 +35,7 @@ table, address,
 figure, audio, video,
 iframe, embed, object,
 blockquote, pre {
+  position: relative;
   margin-top: $spacing-unit / 2;
   margin-bottom: $spacing-unit / 2;
 }
@@ -72,4 +73,45 @@ img:not(.emoji) {
 figure, audio, video,
 iframe, object, embed {
   max-width: 100%;
+}
+
+// Headings
+h1, h2, h3,
+h4, h5, h6 {
+  font-family: $font-family-main;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: $font-size-base * 1.75;
+}
+
+h2 {
+  font-size: $font-size-base * 1.5;
+}
+
+h3 {
+  font-size: $font-size-base * 1.25;
+}
+
+h4 {
+  font-size: $font-size-base;
+}
+
+h5 {
+  font-size: $font-size-base * 0.75;
+}
+
+h6 {
+  font-size-base: $font-size-base * 0.75;
+  font-style: italic;
+}
+
+hr {
+  border: none;
+  height: 0.2rem;
+  background-color: $color-accent;
+  max-width: 200px;
+  margin: $spacing-unit auto;
 }

@@ -20,6 +20,7 @@ _The Night Of_ possui oito episódios e se começa na noite em que Naz, um desce
 
 Isso é uma parte do primeiro, e irretocável, episódio de _The Night Of_. Se desenvolvendo de forma devagar, como um bom romance policial, a série não se apressa em revelar detalhes ou em exibir grandes cenas de ação. Pelo contrário. Boa parte de “The Beach”, o piloto, trata da vida de Naz, como ele é tratado nos Estados Unidos que ele nasceu mas que não se sente parte, cheio de disparidades raciais, étnicas e de classes. A Manhattan de _The Night Of_ é hostil e sombria. As vezes até selvagem. Ela lembra um pouco _The Wire_. Parece que você pode respirar o vento da noite.
 
+{: .full-width}
 ![Imagem de The Night Of.](https://arthrfrts.files.wordpress.com/2018/03/nightof.jpg)
 _Essa é uma das séries mais bonitas da TV._
 

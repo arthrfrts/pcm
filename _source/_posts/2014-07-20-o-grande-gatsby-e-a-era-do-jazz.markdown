@@ -14,6 +14,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/168a2311556945-560f9956043
 
 Assim fala Ernest Hemingway sobre um de seus encontros com Francis Scott Fitzgerald em Paris, na década de vinte, no seu livro de memórias parisienses Paris é uma festa. O romance de Fitzgerald, aclamado como o escritor da era do jazz, é uma das obras mais brilhantes da literatura e, até os dias de hoje, está presente em todas as listas de melhores livros de todos os tempos.
 
+{: .full-width}
 ![Retrato de Francis Scott Fitzgerald e Zelda Fitzgerald](https://arthrfrts.files.wordpress.com/2018/03/ows_136804259299619.jpg)
 _Francis e Zelda Fitzgerald no rolezinho._
 

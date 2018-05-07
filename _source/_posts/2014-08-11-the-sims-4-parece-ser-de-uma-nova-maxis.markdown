@@ -15,11 +15,13 @@ Mas essa demo me mostrou algo mais também: a Maxis está mudando, e The Sims 4 
 
 Conhecida por ter criado o gênero de simulação em 1989 com SimCity (e por ter carregado esse gênero nas costas por quase de trinta anos), a Maxis já não é aquele pequeno estúdio que, em 2000, lançou The Sims ao mundo. Naquele tempo, o grupo de nerds que criavam um “simulador de vidas” não tinha ideia de que o jogo venderia milhões, tornaria-se a franquia de jogos mais bem-sucedida para os computadores, e tornaria o estúdio em um dos braços mais fortes de um dos grandes titãs da indústria dos jogos eletrônicos, a Electronic Arts. Hoje, a Maxis já é uma divisão composta por diversos estúdios que cuida de toda a área de jogos casuais da EA, mas o estúdio em si que lhe dá nome continua focado apenas nos jogos de simulação que sempre teve a paixão de desenvolver (e que causou a debandada de seus criadores nos últimos anos).
 
+{: .full-width}
 ![Logo antigo da Maxis](https://arthrfrts.files.wordpress.com/2018/03/old-maxis-logo.png)
 _A antiga Maxis_
 
 Talvez o braço mais lucrativo da EA, a Maxis começaria lá no final da década de ’80, com o gênero de simulação, a possibilidade do jogo sem fim, em que jogadores não enfrentassem um grande vilão final para “virar” a história do jogo. De fato, não havia sequer uma história em SimCity, você só tinha que construir e tentar manter uma cidade. O estúdio reergueu os jogos para computador, que passavam por uma imensa crise criativa na época e nos anos seguintes realizaria uma série de experimentos baseados na mesma mecânica, mas com temas diferentes. Desde um simulador do planeta terra até um simulador de colônia de formigas, a Maxis iria ao declínio e retornaria ao sucesso diversas vezes (principalmente com o lançamento de uma sequência, SimCity 2000, em 1994), até ser comprada pela Electronic Arts em 1997.
 
+{: .full-width}
 ![Imagem do jogo SimCity 2000](https://arthrfrts.files.wordpress.com/2018/03/simcity-2000-1024x663.jpg)
 _SimCity 2000_
 
@@ -29,11 +31,13 @@ Mesmo que The Sims e The Sims 2 fossem um sucesso estrondoso, The Sims 3 mostrou
 
 Há de se concordar, o lançamento de The Sims 3 em 2009 foi fruto de sete anos de um desenvolvimento conturbado na Maxis, com Spore em 2008 provando que grandes nomes não fazem um grande jogo. De fato, o terceiro episódio da franquia Sim saiu das mãos da Maxis, que estava atolada com o simulador definitivo, e ganharia um estúdio só seu. Em 2010 a Maxis fracassaria com Darkspore, um RPG de ação que se baseava no seu jogo anterior, e provaria mais uma vez que sim, algo precisava mudar.
 
+{: .full-width}
 ![Logo novo da Maxis](https://arthrfrts.files.wordpress.com/2018/03/new-maxis-logo-1024x683.png)
 _A nova Maxis_
 
 Contei toda essa historinha para chegarmos em 2013 e 2014, quando finalmente podemos ver essa nova abordagem da Maxis em relação aos seus simuladores. Ano passado, SimCity, um dos meus jogos favoritos do ano foi lançado e, mesmo que tenha sido sobrecarregado com problemas no lançamento (servidores indisponíveis, ausência de um modo offline, etc.), mostrou a Maxis de volta aos trilhos. Uma interface completamente remodelada e limpa, diferente daqueles slides e barras dos jogos anteriores, acompanhada por um motor de simulação inteligente (o Glassbox, que também apresentou problemas no lançamento — corrigidos posteriormente), e um gerenciamento mais preciso do que está acontecendo. Os eventos não simplesmente acontecem no novo SimCity, eles são frutos de suas escolhas.
 
+{: .full-width}
 ![Imagem do novo SimCity](https://arthrfrts.files.wordpress.com/2018/03/simcity-2013-1024x572.jpg)
 _SimCity (2013)_
 

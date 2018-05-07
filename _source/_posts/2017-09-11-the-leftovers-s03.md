@@ -22,6 +22,7 @@ O que aconteceu, então, no dia 14 de outubro de 2011, quando dois porcento da p
 
 Kevin, Nora, Matt, Laurie e John estão todos se preparando para esse caos quando a terceira temporada começa. Às vésperas do sétimo aniversário d'A Partida, o mundo parece ter enlouquecido ainda mais, e agora acredita que estão próximos do fim: ameaças nucleares, o suposto “retorno” dos que partiram, um grande cometa ou — pior de tudo —, nada. Ninguém sabe exatamente o que vai acontecer no sétimo aniversário, mas todos têm a certeza de que vai acontecer algo. Na premiere da temporada, todos estão felizes, juntos. É quase como um final _per se_.
 
+{: .full-width}
 ![Imagem de The Leftovers](https://arthrfrts.files.wordpress.com/2018/03/9rls_fkusg.gif)
 _SOS_
 

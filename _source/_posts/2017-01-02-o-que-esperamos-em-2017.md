@@ -40,6 +40,7 @@ Voltar pro horror talvez seja a melhor coisa que _Alien: Covenant_ poderia fazer
 
 ## 4. Pra ler: _Peanuts Completo, vol. 9_.
 
+{: .full-width}
 ![Capa de Peanuts Completo: Volume 9](https://arthrfrts.files.wordpress.com/2018/03/complete-peanuts-9.jpg)
 
 A L&PM tá lançando os volumes de _Peanuts Completo_ sem pressa nenhuma. Dos vinte e cinco, só oito foram publicados por aqui até hoje (a coleção terminou em 2015 nos EUA). Ou um por ano, ou um a cada dois anos.

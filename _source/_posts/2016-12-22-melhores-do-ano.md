@@ -37,6 +37,7 @@ Beyoncé navega no seu álbum mais coeso nessa sua fase mais madura que começou
 
 ## 4. O melhor jogo: _Firewatch_.
 
+{: .full-width}
 ![Imagem do jogo Firewatch](https://arthrfrts.files.wordpress.com/2018/03/firewatch.jpg)
 
 Poucos jogos conseguem o efeito absorvente e imediato de um conto. Primeiro, porque eles tendem a ser longos; e segundo, porque a narrativa nos jogos ainda cai no sobrenatural, na aventura e na grandiosidade. Poucos jogos buscam pequenas coisas, pequenos confrontos e pequenas jornadas. Os que fazem isso, como _Gone Home_ e _Dear Esther_, são bem específicos: são jornadas de um personagem através de um ambiente, geralmente recompensados pela sua destreza na hora de descobrir objetos escondidos ou de acessar certos lugares.
@@ -49,6 +50,7 @@ _Firewatch_, o jogo de estréia da Campo Santo, é um desses jogos que te prende
 
 ## 3. A melhor série: _Halt & Catch Fire_.
 
+{: .full-width}
 ![Imagem da série Halt & Catch Fire](https://arthrfrts.files.wordpress.com/2018/03/halt-and-catch-fire.jpg)
 
 2016 foi consideravelmente mais fraco na TV do que 2015, mas três séries conseguiram aumentar ainda mais o nível nessa temporada: _The Americans_ e _Veep_ elevam já grandes séries a níveis impecáveis, mas _Halt & Catch Fire_, depois de uma segunda temporada fantástica, encontra em seus terceiro ano a força ideal.
@@ -76,6 +78,7 @@ E, para todos os efeitos, _Aquarius_ é. Eu ainda não vi _Toni Erdmann_, que mu
 
 ## 1. O melhor do ano: _O Coração é Um Caçador Solitário_.
 
+{: .full-width}
 ![Capa do livro O Coração é um Caçador Solitário](https://arthrfrts.files.wordpress.com/2018/03/coracao-cacador-solitario.jpg)
 
 Eu li muito em 2016, pra te falar a verdade. Não foi o meu ano mais produtivo, não foi o ano em que eu me dediquei mais naquilo que eu me interesso, mas eu li. Eu li muito, eu tirei meu atraso de anos, e isso me fez bem. Ler, ainda, é o melhor remédio. E, de todos os livros que eu li, eu tive certeza na primeira página qual foi o melhor livro do ano.
