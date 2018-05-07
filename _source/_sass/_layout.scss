@@ -146,6 +146,11 @@
       margin-right: auto;
     }
 
+    p,
+    .full-width {
+      position: relative;
+    }
+
     img+em {
       position: absolute;
       z-index: 99;

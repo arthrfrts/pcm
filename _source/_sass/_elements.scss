@@ -35,7 +35,6 @@ table, address,
 figure, audio, video,
 iframe, embed, object,
 blockquote, pre {
-  position: relative;
   margin-top: $spacing-unit / 2;
   margin-bottom: $spacing-unit / 2;
 }
