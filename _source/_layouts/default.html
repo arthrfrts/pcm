@@ -14,5 +14,9 @@
 
       {% include footer.html %}
     </div>
+
+    {% if page.layout == "post" %}
+      <script type="text/javascript" src="{{ '/assets/scripts/embeds.js' }}"></script>
+    {% endif %}
   </body>
 </html>
