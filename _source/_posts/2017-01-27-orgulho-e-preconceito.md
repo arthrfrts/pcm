@@ -5,7 +5,7 @@ title: "Orgulho e Preconceito ainda surpreende"
 category: resenhas
 tags:
   - leituras
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/orgulho-e-preconceito.jpg"
 ---
 

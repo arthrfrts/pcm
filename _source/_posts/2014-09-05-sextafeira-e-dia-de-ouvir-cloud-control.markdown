@@ -2,7 +2,7 @@
 layout: post
 title: "Sexta-feira é dia de ouvir Cloud Control"
 date: "2014-09-05 00:43:08 -0300"
-author: vanessa
+author: Vanessa Oliveira
 category: Resenhas
 tags:
   - músicas

@@ -2,7 +2,7 @@
 layout: post
 title: "Magneto: Atos de Terror"
 date: "2014-08-20 20:06:10 -0300"
-author: fillipe
+author: Fillipe Diniz
 category: Resenhas
 tags:
   - leituras

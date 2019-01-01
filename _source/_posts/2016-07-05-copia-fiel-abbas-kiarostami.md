@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-07-05
-author: arthur
+author: Arthur Freitas
 title: "Uma carta de amor a Abbas Kiarostami"
 category: exposições
 tags:

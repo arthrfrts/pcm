@@ -6,7 +6,7 @@ excerpt: Ian McEwan está manipulativo como sempre, mas divertido como nunca.
 category: resenhas
 tags:
   - leituras
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/enclausurado-ian-mcewan.jpg"
 ---
 

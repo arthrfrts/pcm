@@ -1,6 +1,6 @@
 ---
 layout: post
-author: arthur
+author: Arthur Freitas
 date: 2016-02-11
 title: Lugares, pessoas, paisagens e histórias se confundem em Viajo Porque Preciso, Volto Porque Te Amo.
 category: Resenhas

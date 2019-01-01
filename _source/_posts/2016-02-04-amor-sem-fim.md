@@ -5,7 +5,7 @@ title: "Amor sem fim é um mistério sobre as razões do amor"
 category: Resenhas
 tags:
   - leituras
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg"
 ---
 

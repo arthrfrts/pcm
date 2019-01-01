@@ -5,7 +5,7 @@ title: "A Vida Privada das Árvores é rápido e direto ao ponto."
 category: resenhas
 tags:
   - leituras
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/a-vida-privada-das-arvores.jpg"
 ---
 

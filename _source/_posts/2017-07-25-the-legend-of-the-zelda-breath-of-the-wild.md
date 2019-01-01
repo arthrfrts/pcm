@@ -6,7 +6,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/breath-of-the-wild.jpg"
 category: resenhas
 tags:
   - jogos
-author: arthur
+author: Arthur Freitas
 ---
 
 É gigante.

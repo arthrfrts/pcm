@@ -2,7 +2,7 @@
 layout: post
 title: "Vikings e a tentativa do não-falso-real"
 date: "2014-07-24 18:50:40 -0300"
-author: fillipe
+author: Fillipe Diniz
 image: "https://arthrfrts.files.wordpress.com/2018/03/20823568_ragnar_vikings-672x372.jpg"
 category: Resenhas
 tags:

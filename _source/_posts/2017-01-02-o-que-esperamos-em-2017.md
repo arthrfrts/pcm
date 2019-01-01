@@ -2,7 +2,7 @@
 layout: post
 date: 2017-01-02
 title: O que mais esperamos em 2017
-author: arthur
+author: Arthur Freitas
 category: listas
 tags:
   - filmes

@@ -2,7 +2,7 @@
 layout: post
 title: "O Anjo Exterminador"
 date: "2014-01-26 20:02:17 -0300"
-author: fillipe
+author: Fillipe Diniz
 category: Resenhas
 tags:
   - filmes

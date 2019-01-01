@@ -6,7 +6,7 @@ excerpt: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes d
 category: Resenhas
 tags:
   - séries
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/netflix-love.jpg"
 ---
 

@@ -5,7 +5,7 @@ date: "2014-08-01 19:15:49 -0300"
 category: Resenhas
 tags:
   - filmes
-author: fillipe
+author: Fillipe Diniz
 image: "https://arthrfrts.files.wordpress.com/2018/03/medianeras-1.jpg"
 ---
 Na cidade de Buenos Aires, a arquitetura irregular dos prédios reflete perfeitamente aqueles que vivem ali. O crescimento acelerado e imperfeito, a falta de comunicação, a distância: novos prédios nascem a cada instante, criando e desenvolvendo uma cultura do inquilino, que nos ajuda a passar pela cidade de maneira insensível.

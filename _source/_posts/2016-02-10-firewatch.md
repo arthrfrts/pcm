@@ -2,7 +2,7 @@
 layout: post
 date: 2016-02-10
 title: "Firewatch apresenta a maturidade aos videogames"
-author: arthur
+author: Arthur Freitas
 category: Resenhas
 tags:
   - jogos

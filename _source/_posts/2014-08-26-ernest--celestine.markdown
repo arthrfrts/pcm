@@ -2,7 +2,7 @@
 layout: post
 title: "Ernest & Celestine"
 date: "2014-08-26 19:55:27 -0300"
-author: vanessa
+author: Vanessa Oliveira
 category: Resenhas
 tags:
   - filmes

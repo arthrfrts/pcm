@@ -1,6 +1,6 @@
 ---
 layout: post
-author: arthur
+author: Arthur Freitas
 title: Em To The Moon você é a história de amor
 date: 2016-02-25
 image: "https://arthrfrts.files.wordpress.com/2018/03/to-the-moon.jpg"

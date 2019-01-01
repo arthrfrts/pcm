@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Invocação do Mal 2 quase não assusta, mas também não tá aí pra isso"
-author: arthur
+author: Arthur Freitas
 category: Resenhas
 tags:
   - filmes

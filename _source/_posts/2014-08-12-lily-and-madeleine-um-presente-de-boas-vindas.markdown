@@ -5,7 +5,7 @@ date: "2014-08-12 19:44:17 -0300"
 category: Resenhas
 tags:
   - músicas
-author: vanessa
+author: Vanessa Oliveira
 image: "https://arthrfrts.files.wordpress.com/2018/03/2baeb64276ae4bffbf47887a7e75f66f.jpg"
 ---
 _Lily and Madeleine_ até agora era o meu tesouro particular. Daquelas descobertas tão especiais, que compartilha-las é como presentear alguém, e nada melhor para uma primeira postagem, do que um presente.

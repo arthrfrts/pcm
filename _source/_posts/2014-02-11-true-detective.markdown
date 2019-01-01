@@ -5,7 +5,7 @@ date: "2014-02-11 19:28:58 -0300"
 category: Resenhas
 tags:
   - séries
-author: fillipe
+author: Fillipe Diniz
 image: "https://arthrfrts.files.wordpress.com/2018/03/td.jpg"
 ---
 Imagino que, se você gosta de acompanhar séries americanas e assistiu _American Horror Story_, _Fringe_, _FlashForward_, _Supernatural_ e tantas outras, deve se perguntar, por vezes, o que aconteceu com os mistérios nas séries. Como exemplo mais recente, _American Horror Story_ tentou criar uma grande expectativa sobre a identidade da Suprema, a bruxa que tomaria o lugar da antiga líder do clã, tomando para si todos seus poderes e energia vital. Parece bom, mas acontece que, preocupados mais com a quantidade de elementos na série – bruxas, caçadores, fantasmas, criaturas mitológicas, voodoo, subtramas de problemas adolescentes ou casos amorosos para os quais ninguém liga, insira aqui algo que eu tenha esquecido -, a história acaba ficando em segundo plano. Então acontece o que sempre acontece em séries que tentam causar um impacto muito grande: matam e ressuscitam personagens a torto e a direito.

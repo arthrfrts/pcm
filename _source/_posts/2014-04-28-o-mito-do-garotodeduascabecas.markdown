@@ -2,7 +2,7 @@
 layout: post
 title: "O mito do Garoto-de-Duas-Cabeças"
 date: "2014-04-28 19:25:59 -0300"
-author: fillipe
+author: Fillipe Diniz
 category: Resenhas
 tags:
   - músicas

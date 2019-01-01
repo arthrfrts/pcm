@@ -7,7 +7,7 @@ image: "https://i.imgur.com/LCq1cjC.png"
 category: resenhas
 tags:
   - séries
-author: arthur
+author: Arthur Freitas
 ---
 
 > Eu queria que todos estivéssemos prontos.

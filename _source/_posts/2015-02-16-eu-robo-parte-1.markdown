@@ -2,7 +2,7 @@
 layout: post
 title: "Eu Robô — parte 1"
 date: "2015-02-16 20:31:04 -0300"
-author: fillipe
+author: Fillipe Diniz
 category: Resenhas
 tags:
   - leituras

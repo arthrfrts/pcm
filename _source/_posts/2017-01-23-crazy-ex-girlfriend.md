@@ -6,7 +6,7 @@ excerpt: A animada e inteligente série da The CW é a melhor comédia no ar hoj
 tags:
   - séries
 category: resenhas
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/crazy-ex-girlfriend.jpg"
 ---
 

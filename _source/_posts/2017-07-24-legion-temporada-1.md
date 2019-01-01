@@ -6,7 +6,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/legion-s01.jpg"
 category: resenhas
 tags:
   - séries
-author: arthur
+author: Arthur Freitas
 ---
 
 E então, o que tu acha dessa onda de filmes e séries de super-heróis que explodiu nessa última década?

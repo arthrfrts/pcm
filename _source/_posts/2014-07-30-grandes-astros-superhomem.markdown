@@ -3,6 +3,7 @@ layout: post
 title: "Grandes Astros: Super-Homem"
 date: "2014-07-30 00:57:13 -0300"
 category: Resenhas
+author: Arthur Freitas
 tags:
   - leituras
 image: "https://arthrfrts.files.wordpress.com/2018/03/all-star-superman-cover-672x372.jpg"

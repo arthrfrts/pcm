@@ -2,7 +2,7 @@
 layout: post
 title: "As Virgens Suicidas"
 date: "2015-02-07 20:29:01 -0300"
-author: fillipe
+author: Fillipe Diniz
 category: Resenhas
 tags:
   - leituras

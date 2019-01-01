@@ -5,7 +5,7 @@ tags:
   - músicas
 category: resenhas
 date: 2017-01-17
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-xx-i-see-you.jpg"
 ---
 

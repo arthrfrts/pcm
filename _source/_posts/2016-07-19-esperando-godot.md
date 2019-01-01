@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-19
 title: Não há muito o que dizer sobre Esperando Godot
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/esperando-godot.jpg"
 category: exposições
 tags:

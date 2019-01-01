@@ -5,7 +5,7 @@ title: "Upstream Color não sai da minha cabeça."
 category: achados
 tags:
   - filmes
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/upstream-color.jpg"
 ---
 

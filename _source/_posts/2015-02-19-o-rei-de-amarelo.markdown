@@ -2,7 +2,7 @@
 layout: post
 title: "O Rei de Amarelo"
 date: "2015-02-19 20:37:39 -0300"
-author: fillipe
+author: Fillipe Diniz
 category: Resenhas
 tags:
   - leituras

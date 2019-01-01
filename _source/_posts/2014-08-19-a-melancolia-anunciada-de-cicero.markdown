@@ -2,7 +2,7 @@
 layout: post
 title: "A melancolia anunciada de Cicero"
 date: "2014-08-19 20:10:55 -0300"
-author: vanessa
+author: Vanessa Oliveira
 category: Resenhas
 tags:
   - músicas

@@ -6,7 +6,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
 category: resenhas
 tags:
   - músicas
-author: arthur
+author: Arthur Freitas
 ---
 
 Quando eu terminei de ouvir _Everything Now_, eu fiquei desesperado.

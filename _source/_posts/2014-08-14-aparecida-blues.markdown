@@ -5,7 +5,7 @@ date: "2014-08-14 19:58:33 -0300"
 category: Resenhas
 tags:
   - links
-author: fillipe
+author: Fillipe Diniz
 image: "https://arthrfrts.files.wordpress.com/2018/03/alaor_511_297.jpg"
 ---
 _Aparecida Blues_ não tenta, em nenhum momento, esconder o que é e,  ao mesmo tempo, não entrega, logo de primeira, a dedução óbvia de sua natureza confusa:  estamos lendo uma história de amor. Amor, solidão e morte.

@@ -4,7 +4,7 @@ title: "Dream Cave é novo e empolgante."
 category: resenhas
 tags:
   - músicas
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
 ---
 

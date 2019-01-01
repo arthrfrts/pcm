@@ -2,7 +2,7 @@
 layout: post
 title: Por Uma Vida Melhor
 date: 2015-12-29
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/por-uma-vida-melhor.jpg"
 category: Resenhas
 tags:

@@ -40,8 +40,9 @@ body {
 // Site Header
 .site-header {
   font-family: $small-font-size;
+	@extend .wrapper;
 
-  .wrapper {
+  .header-wrap {
     display: flex;
     flex-flow: row nowrap;
     align-items: baseline;
@@ -155,7 +156,7 @@ body {
 
                 a {
                   display: block;
-                  
+
                   &:hover,
                   &:focus {
                     color: $color-background;

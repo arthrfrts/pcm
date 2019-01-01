@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A guerra pessoal de This War of Mine"
-author: gui
+author: Guilherme Bragança
 date: "2015-02-18 20:33:37 -0300"
 category: Resenhas
 tags:

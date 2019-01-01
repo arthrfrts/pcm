@@ -10,7 +10,7 @@ tags:
   - jogos
   - séries
   - leituras
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png"
 ---
 

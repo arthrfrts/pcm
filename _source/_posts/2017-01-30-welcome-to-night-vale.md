@@ -6,7 +6,7 @@ excerpt: Existem sérias chances de você não querer sair de lá.
 category: resenhas
 tags:
   - links
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/welcome-to-night-vale.jpg"
 ---
 

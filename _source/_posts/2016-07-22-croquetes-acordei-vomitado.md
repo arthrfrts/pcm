@@ -6,7 +6,7 @@ category: achados
 tags:
   - links
   - músicas
-author: arthur
+author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/acordei-vomitado.jpg"
 ---
 
