@@ -2,17 +2,14 @@
 layout: post
 title: Os 5 melhores de 2016
 date: 2016-12-22
-category:
-  - Filmes
-  - Músicas
-  - Leituras
-  - Links
-  - Jogos
-  - Séries
+category: listas
 tags:
-  - listas
-  - rankings
-  - retrospectiva
+  - filmes
+  - músicas
+  - links
+  - jogos
+  - séries
+  - leituras
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png"
 ---

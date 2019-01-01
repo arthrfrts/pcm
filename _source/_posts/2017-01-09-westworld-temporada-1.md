@@ -2,12 +2,9 @@
 layout: post
 date: 2017-01-09
 title: "Westworld pergunta muito e raramente responde."
-category: Séries
+category: resenhas
 tags:
-  - faroeste
-  - ação
-  - sci-fi
-  - HBO Go
+  - séries
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/westworld-s01.jpg"
 ---

@@ -4,12 +4,9 @@ author: arthur
 title: Em To The Moon você é a história de amor
 date: 2016-02-25
 image: "https://arthrfrts.files.wordpress.com/2018/03/to-the-moon.jpg"
-category: Jogos
+category: Resenhas
 tags:
-  - aventura
-  - romance
-  - Steam
-  - GOG
+  - jogos
 ---
 
 Se você, assim como eu, é fascinado pelos jogos de RPG, mas tem problemas com toda aquela complexidade desnecessária de classes, grupos, mecânicas de batalha; ou com os clichês traiçoeiros que eles exploram, vai adorar _To The Moon_. Feito sob medida para aqueles que gostam de jogos “narrativos”, como andam chamando por aí, o jogo permite ao jogador ser o sentimento que liga um casal, perdido em memórias.

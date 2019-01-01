@@ -2,10 +2,9 @@
 layout: post
 date: 2016-02-04
 title: "Amor sem fim é um mistério sobre as razões do amor"
-category: Leituras
+category: Resenhas
 tags:
-  - livros
-  - mistério
+  - leituras
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg"
 ---

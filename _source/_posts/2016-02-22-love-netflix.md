@@ -3,11 +3,9 @@ layout: post
 date: 2016-02-22
 title: "Love é a melhor série original do Netflix"
 excerpt: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.
-category: Séries
+category: Resenhas
 tags:
-  - comédia
-  - romance
-  - Netflix
+  - séries
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/netflix-love.jpg"
 ---

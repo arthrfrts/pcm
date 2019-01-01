@@ -3,11 +3,9 @@ layout: post
 date: 2016-07-05
 author: arthur
 title: "Uma carta de amor a Abbas Kiarostami"
-category: Filmes
+category: exposições
 tags:
-  - mistério
-  - wtf
-  - DVD
+  - filmes
 image: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
 ---
 

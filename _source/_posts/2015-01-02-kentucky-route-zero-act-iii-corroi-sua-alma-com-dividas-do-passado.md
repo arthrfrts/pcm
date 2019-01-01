@@ -3,7 +3,7 @@ layout: post
 date: 2015-01-02
 title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
 author: arthur
-category: Observações
+category: exposições
 tags:
   - jogos
 image: "https://pcmbackup.files.wordpress.com/2014/12/kentucky-route-zero-act-iii.jpg"

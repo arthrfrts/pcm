@@ -2,12 +2,9 @@
 layout: post
 date: 2017-01-25
 title: Você nunca vai jogar nada como The Entertainment
-category: Jogos
+category: achados
 tags:
-  - experimental
-  - web
-  - VR
-  - wtf
+  - jogos
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 ---

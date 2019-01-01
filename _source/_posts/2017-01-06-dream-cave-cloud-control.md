@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Dream Cave é novo e empolgante."
-category: Músicas
+category: resenhas
 tags:
-  - indie
-  - Deezer
+  - músicas
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
 ---

@@ -18,5 +18,9 @@
 
   {%- endunless -%}
 
-  {{ site.tags | inspect }}
+  <nav class="site-menu">
+    {% for tag in site.tags %}
+      <a href="{{ tag[0] | prepend: '/tag/' | relative_url }}">{{ tag[0] | capitalize }}</a>
+    {% endfor %}
+  </nav>
 </header>

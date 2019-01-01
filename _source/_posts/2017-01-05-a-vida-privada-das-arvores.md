@@ -2,9 +2,9 @@
 layout: post
 date: 2017-01-05
 title: "A Vida Privada das Árvores é rápido e direto ao ponto."
-category: Leituras
+category: resenhas
 tags:
-  - livros
+  - leituras
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/a-vida-privada-das-arvores.jpg"
 ---

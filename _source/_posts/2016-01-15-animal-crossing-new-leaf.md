@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animal Crossing: New Leaf vai vender sua alma para reformar sua casa"
-category: Observações
+category: exposições
 tags:
   - jogos
 author: arthur

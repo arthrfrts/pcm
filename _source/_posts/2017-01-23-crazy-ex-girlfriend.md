@@ -4,10 +4,8 @@ date: 2017-01-23
 title: "Tá na hora de ver Crazy Ex-Girlfriend."
 excerpt: A animada e inteligente série da The CW é a melhor comédia no ar hoje.
 tags:
-  - comédia
-  - musical
-  - Netflix
-category: Séries
+  - séries
+category: resenhas
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/crazy-ex-girlfriend.jpg"
 ---

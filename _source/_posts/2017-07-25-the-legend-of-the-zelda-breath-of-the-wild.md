@@ -3,10 +3,9 @@ layout: post
 date: 2017-07-25
 title: "The Legend of Zelda: Breath of the Wild é um jogo monumental."
 image: "https://arthrfrts.files.wordpress.com/2018/03/breath-of-the-wild.jpg"
-category: Jogos
+category: resenhas
 tags:
-  - aventura
-  - Nintendo Switch
+  - jogos
 author: arthur
 ---
 

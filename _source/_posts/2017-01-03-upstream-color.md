@@ -2,12 +2,9 @@
 layout: post
 date: 2017-01-03
 title: "Upstream Color não sai da minha cabeça."
-category: Filmes
+category: achados
 tags:
-  - sci-fi
-  - romance
-  - MUBI
-  - wtf
+  - filmes
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/upstream-color.jpg"
 ---

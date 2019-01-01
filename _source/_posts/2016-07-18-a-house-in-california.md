@@ -2,12 +2,10 @@
 layout: post
 date: 2016-07-18
 title: "Uma noite de verão em A House in California"
-category:
-  - Jogos
-  - Links
+category: achados
 tags:
-  - aventura
-  - web
+  - jogos
+  - links
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
 ---

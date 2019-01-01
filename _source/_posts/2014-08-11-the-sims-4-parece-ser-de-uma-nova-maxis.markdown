@@ -2,7 +2,7 @@
 layout: post
 title: "The Sims 4 parece ser de uma nova Maxis"
 date: "2014-08-11 01:16:43 -0300"
-category: Observações
+category: exposições
 tags:
   - jogos
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-sims-4-672x372.png"
