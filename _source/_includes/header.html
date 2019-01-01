@@ -1,26 +1,27 @@
 <header class="site-header">
+  <div class="header-wrapper">
+    {%- unless page.title -%}
 
-  {%- unless page.title -%}
+    <h1 class="site-title">
+      <a href="{{ site.url }}">
+        <img src="{{ site.logo }}" alt="{{ site.title }}" />
+      </a>
+    </h1>
 
-  <h1 class="site-title">
-    <a href="{{ site.url }}">
-      <img src="{{ site.logo }}" alt="{{ site.title }}" />
-    </a>
-  </h1>
+    {%- else -%}
 
-  {%- else -%}
+    <div class="site-title">
+      <a href="{{ site.url }}">
+        <img src="{{ site.logo }}" alt="{{ site.title }}" />
+      </a>
+    </div>
 
-  <div class="site-title">
-    <a href="{{ site.url }}">
-      <img src="{{ site.logo }}" alt="{{ site.title }}" />
-    </a>
+    {%- endunless %}
+
+    <nav class="site-menu">
+      {% for tag in site.tags %}
+        <a href="{{ tag[0] | prepend: '/tag/' | relative_url }}">{{ tag[0] | capitalize }}</a>
+      {% endfor %}
+    </nav>
   </div>
-
-  {%- endunless -%}
-
-  <nav class="site-menu">
-    {% for tag in site.tags %}
-      <a href="{{ tag[0] | prepend: '/tag/' | relative_url }}">{{ tag[0] | capitalize }}</a>
-    {% endfor %}
-  </nav>
 </header>
