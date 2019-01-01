@@ -3,18 +3,14 @@
   {% include head.html %}
 
   <body>
-    {% include header.html %}
+    <div id="site" class="site-wrapper">
+      {% include header.html %}
 
-    <main class="page wrapper">
-      {{ content }}
-    </main>
+      <main class="site-content">
+        {{ content }}
+      </main>
 
-    {% include footer.html %}
-
-    <script type="text/javascript" src="{{ '/assets/scripts/embeds.js' | relative_url }}"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.6.0/lazyload.min.js"></script>
-    <script>
-    var lazyimg = new LazyLoad();
-    </script>
+      {% include footer.html %}
+    </div>
   </body>
 </html>

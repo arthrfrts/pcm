@@ -3,10 +3,9 @@ layout: post
 title: "O mito do Garoto-de-Duas-Cabeças"
 date: "2014-04-28 19:25:59 -0300"
 author: fillipe
-category: Músicas
+category: Resenhas
 tags:
-  - indie
-  - Spotify
+  - músicas
 image: "https://arthrfrts.files.wordpress.com/2018/03/album-covers-in-the-aeroplane-over-the-sea-hd-wallpapers-1038x576-2.jpg"
 ---
 _In the Aeroplane Over the Sea_ é um dos álbuns mais adorados e menos comentados pelo mundo a fora. É estranho imaginar como as coisas podem se dar dessa forma, mas a verdade é que o trabalho da banda Neutral Milk Hotel, gravado em 1998, é um tanto quanto… estranho? Isso divide um pouco o público da banda: de um lado temos os que entram de cabeça no sonho surreal que é desenhado, aos poucos, por combinações estranhas de instrumentos , um vocal pouco convencional e letras capazes de fazer uma trip de LSD parecer brincadeira de criança; do outro lado tem mais gente, mas isso não importa muito.

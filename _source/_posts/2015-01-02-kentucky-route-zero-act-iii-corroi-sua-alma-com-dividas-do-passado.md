@@ -3,12 +3,9 @@ layout: post
 date: 2015-01-02
 title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
 author: arthur
-category: Jogos
+category: Observações
 tags:
-  - aventura
-  - mistério
-  - Steam
-  - GOG
+  - jogos
 image: "https://pcmbackup.files.wordpress.com/2014/12/kentucky-route-zero-act-iii.jpg"
 ---
 O ano não foi muito bom para os grandes jogos. Depois de 2013, formidável com no mínimo três jogos para entrar para a história, 2014 foi um balde de água fria com títulos em lançamentos desastrosos (sim, _Assassin's Creed_, estamos falando de você), com o grande destaque do ano indo para os _remakes_ de _The Last Of Us_, _Grand Theft Auto V_ e o _The Master Chief Collection_. Não é por nada que os títulos de melhores do ano estão indo para todos os lados. Enquanto alguns celebram _Dragon Age: Inquisition_ como o melhor jogo do ano (um título merecido), outros apostam em _Middle-Earth: Shadow of Mordor_, a grande surpresa que 2014 trouxe. Embora excelentes, porém, nenhum dos dois superou o pequeno capítulo do _point-and-click adventure_ que é o terceiro ato de _Kentucky Route Zero_.

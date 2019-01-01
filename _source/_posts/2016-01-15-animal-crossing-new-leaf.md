@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Animal Crossing: New Leaf vai vender sua alma para reformar sua casa"
-category: Jogos
+category: Observações
 tags:
-  - simulação
-  - Nintendo 3DS
+  - jogos
 author: arthur
 date: 2016-01-15
 image: "https://arthrfrts.files.wordpress.com/2018/03/animal-crossing-new-leaf.jpg"

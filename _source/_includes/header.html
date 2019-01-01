@@ -1,14 +1,22 @@
-<header class="masthead">
-  <div class="wrapper">
-    <a class="site-title" href="{{ site.url }}">
-      <img src="{{ site.logo | relative_url }}" alt="Marca do site" />
-      {{ site.title }}
-    </a>
+<header class="site-header">
 
-    <nav class="main-menu">
-      {%- for category in site.categories -%}
-      <a href="{{ category | first | slugify: 'pretty' | prepend: '/sabores/' | relative_url }}">{{ category | first }}</a>
-      {%- endfor -%}
-    </nav>
+  {%- unless page.title -%}
+
+  <h1 class="site-title">
+    <a href="{{ site.url }}">
+      <img src="{{ site.logo }}" alt="{{ site.title }}" />
+    </a>
+  </h1>
+
+  {%- else -%}
+
+  <div class="site-title">
+    <a href="{{ site.url }}">
+      <img src="{{ site.logo }}" alt="{{ site.title }}" />
+    </a>
   </div>
+
+  {%- endunless -%}
+
+  {{ site.tags | inspect }}
 </header>

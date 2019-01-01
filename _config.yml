@@ -1,16 +1,16 @@
 # Site settings
 title: Pão com Mortadela
 description: >
-  Sempre algo bacana pra ler na hora do café.
-lang: pt-br
-timezone: America/Sao_Paulo
+  Sempre uma coisa boa pra ler na hora do café.
 
+lang: pt
+timezone: America/Sao_Paulo
 logo: "/assets/images/logo.png"
 
-contact:
-  email: paomortadela@icloud.com
-  facebook: paomortadela.com.br
-  twitter: paomortadela
+email: padeiros@paomortadela.com.br
+facebook_username: "paomortadela.com.br"
+twitter_username: "paomortadela"
+
 
 # Build settings
 url: 'https://paomortadela.com.br'
@@ -19,14 +19,17 @@ baseurl: ''
 markdown: kramdown
 permalink: /:year/:title/
 
+paginate: 12
+paginate_path: '/pagina/:num/'
+
 jekyll-archives:
   enabled:
     - tags
     - categories
   layout: "archive"
   permalinks:
-    category: "/sabores/:name/"
-    tag: "/tags/:name/"
+    category: "/categoria/:name/"
+    tag: "/tag/:name/"
 
 defaults:
 - scope:
@@ -37,10 +40,12 @@ defaults:
     author: arthur
 
 plugins:
-  - jekyll-coffeescript
-  - jekyll-sitemap
-  - jekyll-archives
   - jemoji
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-coffeescript
 
-incremental: true
 source: _source

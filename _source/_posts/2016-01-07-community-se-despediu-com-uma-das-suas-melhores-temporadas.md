@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Community se despediu com uma das suas melhores temporadas"
-category: Séries
+category: Resenhas
 tags:
-  - comédia
-  - Amazon Prime Video
+  - séries
 image: "https://arthrfrts.files.wordpress.com/2018/03/community.jpg"
 author: arthur
 ---

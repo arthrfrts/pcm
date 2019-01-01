@@ -6,17 +6,14 @@ excerpt: Nós selecionamos um filme, uma série, um jogo, um álbum e um link pa
   você terminar bem esse ano.
 author: thai
 image: "https://arthrfrts.files.wordpress.com/2018/03/45-anos.jpg"
-category:
-  - Filmes
-  - Séries
-  - Links
-  - Músicas
-  - Jogos
-  - Leituras
+category: Listas
 tags:
-  - listas
-  - retrospectivas
-  - rankings
+  - filmes
+  - jogos
+  - séries
+  - leituras
+  - links
+  - músicas
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.

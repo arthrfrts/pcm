@@ -4,10 +4,9 @@ title: "A Cabeça e o Coração"
 date: "2014-09-08 00:54:20 -0300"
 author: vanessa
 image: "https://arthrfrts.files.wordpress.com/2018/03/25a65c1dd531ebd70a74e260e8d25871-1000x1000x1.jpg"
-category: Músicas
+category: Resenhas
 tags:
-  - alternativo
-  - Spotify
+  - músicas
 ---
 
 Pra começar essa ótima semana, a dica é The Head and the Heart.

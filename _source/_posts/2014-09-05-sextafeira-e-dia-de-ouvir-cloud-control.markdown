@@ -3,10 +3,9 @@ layout: post
 title: "Sexta-feira é dia de ouvir Cloud Control"
 date: "2014-09-05 00:43:08 -0300"
 author: vanessa
-category: Músicas
+category: Resenhas
 tags:
-  - indie
-  - Spotify
+  - músicas
 image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
 ---
 

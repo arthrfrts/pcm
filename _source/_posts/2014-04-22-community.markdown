@@ -2,10 +2,9 @@
 layout: post
 title: "Community"
 date: "2014-04-22 19:09:30 -0300"
-category: Séries
+category: Resenhas
 tags:
-  - comédia
-  - Amazon Prime Video
+  - séries
 author: arthur
 image: "https://arthrfrts.files.wordpress.com/2018/03/community_8-bit.jpg"
 ---

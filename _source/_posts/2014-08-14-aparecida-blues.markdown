@@ -2,10 +2,9 @@
 layout: post
 title: "Aparecida Blues"
 date: "2014-08-14 19:58:33 -0300"
-category: Links
+category: Resenhas
 tags:
-  - web
-  - gibis
+  - links
 author: fillipe
 image: "https://arthrfrts.files.wordpress.com/2018/03/alaor_511_297.jpg"
 ---

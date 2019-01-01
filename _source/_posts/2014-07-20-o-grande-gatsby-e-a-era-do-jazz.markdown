@@ -2,10 +2,9 @@
 layout: post
 title: "O Grande Gatsby e a Era do Jazz"
 date: "2014-07-20 20:14:57 -0300"
-category: Leituras
+category: Resenhas
 tags:
-  - livros
-  - clássicos
+  - leituras
 author: fillipe
 image: "https://arthrfrts.files.wordpress.com/2018/03/168a2311556945-560f9956043e7.jpg"
 ---

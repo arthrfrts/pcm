@@ -2,10 +2,9 @@
 layout: post
 title: "As Vantagens de Ser Invisível"
 date: "2014-08-15 20:07:55 -0300"
-category: Leituras
+category: Resenhas
 tags:
-  - romance
-  - juvenil
+  - leituras
 author: vanessa
 image: "https://arthrfrts.files.wordpress.com/2018/03/maxresdefault.jpg"
 ---
