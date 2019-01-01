@@ -1,0 +1,50 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="site-description">
+      <p>{{ site.description }}</p>
+    </div>
+
+    <div class="footer-widgets">
+      <div class="footer-widget site-branding">
+        <h4 class="site-title">
+          Pão <em>com</em><br />
+          Mortadela
+        </h4>
+      </div>
+
+      <div class="footer-widget site-credits">
+        <p><strong>Pão com Mortadela</strong>. Todos os direitos são <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">reservados</a> aos respectivos autores. &middot; <a href="{{ '/humans.txt' | absolute_url }}" rel="author">humans.txt</a>
+      </div>
+
+      <nav class="footer-widget site-social">
+        <a href="{{ site.facebook_username | prepend: 'https://www.facebook.com/' }}" rel="external">
+          <svg class="svg-icon" role="img">
+            <title>Facebook</title>
+            <use xlink:href="#icon-facebook" />
+          </svg>
+        </a>
+
+        <a href="{{ site.twitter_username | prepend: 'https://twitter.com/' }}" rel="external">
+          <svg class="svg-icon" role="img">
+            <title>Twitter</title>
+            <use xlink:href="#icon-twitter" />
+          </svg>
+        </a>
+
+        <a href="{{ site.email | prepend: 'mailto:' }}">
+          <svg class="svg-icon" role="img">
+            <title>Email</title>
+            <use xlink:href="#icon-email" />
+          </svg>
+        </a>
+
+        <a href="{{ '/feed.xml' | absolute_url }}">
+          <svg class="svg-icon" role="img">
+            <title>RSS</title>
+            <use xlink:href="#icon-rss" />
+          </svg>
+        </a>
+      </nav>
+    </div>
+  </div>
+</footer>

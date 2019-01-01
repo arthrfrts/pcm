@@ -40,12 +40,12 @@ defaults:
     seo:
       type: "BlogPosting"
 
-#plugins:
-#  - jemoji
-#  - jekyll-feed
-#  - jekyll-sitemap
-#  - jekyll-seo-tag
-  #- jekyll-paginate
-#  - jekyll-archives
+plugins:
+  - jemoji
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
 
 source: _source
