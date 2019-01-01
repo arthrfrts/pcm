@@ -1,0 +1,78 @@
+// Text Elements
+p, ul, ol, dl,
+table, figure,
+iframe, embed, object,
+audio, video,
+pre, blockquote {
+  &:not(:last-child) {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+  }
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b, th {
+  font-weight: 700;
+}
+
+// Links
+a {
+  transition: color 500ms ease;
+  transition-delay: 150ms;
+}
+
+.site-content {
+  a {
+    color: $color-accent;
+
+    &:hover,
+    &:focus {
+      color: #000;
+    }
+  }
+}
+
+// Forms
+input[type="email"],
+input[type="submit"] {
+  font: inherit;
+  font-family: $head-font-family;
+  padding: $spacing-unit / 4;
+}
+
+input[type="email"] {
+  border: 1px solid $color-details;
+  border-radius: 3px;
+  width: 100%;
+  transition: border-color 500ms ease;
+  transition-delay: 120ms;
+
+  &:hover,
+  &:focus {
+    border-color: $color-text;
+  }
+}
+
+input[type="submit"] {
+  border: 1px solid $color-accent;
+  border-radius: 3px;
+  background-color: $color-accent;
+  color: $color-background;
+  cursor: pointer;
+  font-weight: 600;
+  transition-property: background-color, color, border-color;
+  transition-timing-function: ease;
+  transition-duration: 500ms;
+  transition-delay: 120ms;
+
+
+  &:hover,
+  &:focus {
+    border-color: $color-text;
+    background-color: $color-text;
+    color: $color-background;
+  }
+}

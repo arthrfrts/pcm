@@ -4,8 +4,8 @@
 
   <body>
     {% include sprite.svg %}
-    
-    <div id="site" class="site-wrapper">
+
+    <div id="site" class="site-wrapper {% if page.url == '/' %}home{% else %}{{ page.layout | slugify: 'latin' }}{% endif %}">
       {% include header.html %}
 
       <main class="site-content">

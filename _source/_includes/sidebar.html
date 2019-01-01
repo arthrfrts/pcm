@@ -1,0 +1,49 @@
+<div class="sidebar">
+  <aside class="widget contribute-widget">
+    <header class="widget-header">
+      <h5 class="widget-title">Contribua</h5>
+    </header>
+
+    <div class="widget-content">
+      <p>
+        <a href="{{ '/contribua/' | relative_url }}">Envie seu texto</a>
+      </p>
+    </div>
+  </aside>
+
+  <aside class="widget about-widget">
+    <header class="widget-header">
+      <h5 class="widget-title">Sobre o PCM</h5>
+    </header>
+
+    <div class="widget-content">
+      <p>O Pão com Mortadela é uma <em>webzine</em> de cultura que se transformou num blog colaborativo.</p>
+
+      <p>Nosso objetivo é oferecer um espaço compartilhado para a publicação de artigos e críticas de todo o âmbito cultural. Não há requisitos de entrada, apenas jogue suas idéias para nós e a gente vai ajudar a dar vida à elas.</p>
+
+      <p><a href="{{ '/sobre/' | relative_url }}">Leia mais sobre o PCM</a>.</p>
+    </div>
+  </aside>
+
+  <aside class="widget newsletter-widget">
+    <header class="widget-header">
+      <h5 class="widget-title">Newsletter</h5>
+    </header>
+
+    <div class="widget-content">
+      <form action="https://tinyletter.com/paomortadela" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/paomortadela', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+        <p>
+          <label for="tlemail">Seu endereço de email:</label>
+        </p>
+        <p class="newsletter-fields">
+          <input type="email" name="email" id="tlemail" placeholder="seu@email.com" required />
+          <input type="hidden" value="1" name="embed"/>
+          <input type="submit" value="Assinar" />
+        </p>
+        <p class="newsletter-credits">
+          <a href="https://tinyletter.com">feito com o TinyLetter</a>
+        </p>
+      </form>
+    </div>
+  </aside>
+</div>

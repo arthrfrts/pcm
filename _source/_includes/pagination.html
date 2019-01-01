@@ -1,0 +1,20 @@
+{%- if paginator.total_pages > 1 -%}
+  <nav class="blog-pagination">
+    {%- if paginator.previous_page -%}
+      <a class="nav-link prev-page" href="{{ paginator.previous_page_path | relative_url }}" rel="prev">&laquo; Anterior</a>
+    {%- endif -%}
+
+    <span class="nav-page">
+      Página
+      <em class="current-page">{{ paginator.page }}</em>
+      de
+      <a href="{{ paginator.total_pages | prepend: '/pagina/' | relative_url }}">{{ paginator.total_pages }}</a>
+    </span>
+
+    {% if paginator.next_page %}
+      <a class="nav-link next-page" href="{{ paginator.next_page_path | relative_url }}" rel="next">
+        Próxima &raquo;
+      </a>
+    {% endif %}
+  </nav>
+{%- endif -%}
