@@ -1,0 +1,21 @@
+// Consistência nos tamanhos de fonte.
+// Use como `relative-font-size({proporção em que a fonte deverá aumentar})`.
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+
+// Media Queries
+// Use como `media-query({largura da página})`.
+@mixin media-query($device) {
+  @if($device == "desktop") {
+    @media screen and (min-width: $on-laptop + 1) {
+      @content;
+    }
+  } @else {
+    @media screen and (max-width: $device) {
+      @content;
+    }
+  }
+}
