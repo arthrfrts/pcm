@@ -31,7 +31,13 @@ jekyll-archives:
     category: "/categoria/:name/"
     tag: "/tag/:name/"
 
+google_site_verification: "UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE"
+
 defaults:
+- scope:
+    path: ''
+  values:
+    image: "/assets/images/ogp.jpg"
 - scope:
     path: ''
     type: posts
