@@ -657,6 +657,48 @@ body {
 			}
 		}
 	}
+
+	.posts-navigation {
+		margin-bottom: $spacing-unit * 2;
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: space-between;
+
+		@include media-query($on-palm) {
+			display: block;
+			text-align: center;
+		}
+
+		a {
+			display: inline-block;
+			padding: $spacing-unit / 4;
+			@include relative-font-size(0.75);
+			font-family: $head-font-family;
+			font-weight: 400;
+			text-transform: uppercase;
+			letter-spacing: 0.1em;
+			color: $color-text;
+			max-width: 300px;
+
+			@include media-query($on-palm) {
+				max-width: none;
+				display: block;
+			}
+
+			&.nav-next {
+				text-align: right;
+
+				@include media-query($on-palm) {
+					text-align: center;
+				}
+			}
+
+			&:hover,
+			&:focus {
+				color: $color-accent;
+			}
+		}
+	}
 }
 
 // A Page

@@ -35,6 +35,15 @@ layout: default
 
   <hr />
 
+  <nav class="posts-navigation">
+    {% if page.previous %}
+    <a class="nav-prev" rel="prev" href="{{ page.previous.source.id | default: page.previous.url | relative_url }}">&laquo; {{  page.previous.source.title | default: page.previous.title }}</a>
+    {% endif %}
+    {% if page.next %}
+    <a class="nav-next" rel="next" href="{{ page.next.source.id | default: page.next.url | relative_url }}">{{ page.next.source.title | default: page.next.title }} &raquo;</a>
+    {% endif %}
+  </nav>
+
   {% unless page.comments == false %}
     <footer class="comments">
       <div id="disqus_thread"></div>
