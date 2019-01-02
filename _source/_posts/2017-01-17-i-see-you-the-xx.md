@@ -3,7 +3,6 @@ layout: post
 title: "I See You segue em frente com The xx no seu melhor álbum até aqui."
 tags:
   - músicas
-category: resenhas
 date: 2017-01-17
 author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-xx-i-see-you.jpg"

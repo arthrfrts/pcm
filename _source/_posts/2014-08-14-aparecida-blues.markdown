@@ -2,7 +2,6 @@
 layout: post
 title: "Aparecida Blues"
 date: "2014-08-14 19:58:33 -0300"
-category: Resenhas
 tags:
   - links
 author: Fillipe Diniz

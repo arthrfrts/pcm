@@ -2,7 +2,6 @@
 layout: post
 title: "True Detective"
 date: "2014-02-11 19:28:58 -0300"
-category: Resenhas
 tags:
   - séries
 author: Fillipe Diniz

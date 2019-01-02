@@ -2,7 +2,6 @@
 layout: post
 title: "Community"
 date: "2014-04-22 19:09:30 -0300"
-category: Resenhas
 tags:
   - séries
 author: Arthur Freitas

@@ -2,7 +2,6 @@
 layout: post
 title: "As Vantagens de Ser Invisível"
 date: "2014-08-15 20:07:55 -0300"
-category: Resenhas
 tags:
   - leituras
 author: Vanessa Oliveira

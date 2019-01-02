@@ -2,7 +2,6 @@
 layout: post
 date: 2017-01-20
 title: A mágica do cinema tá todinha em La La Land – Cantando Estações
-category: resenhas
 tags:
   - filmes
 author: Arthur Freitas

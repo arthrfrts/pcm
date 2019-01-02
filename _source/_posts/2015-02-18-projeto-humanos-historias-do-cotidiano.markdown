@@ -4,7 +4,6 @@ title: "Projeto Humanos: histórias do cotidiano"
 date: "2015-02-18 20:35:59 -0300"
 author: Fillipe Diniz
 image: "https://pcmbackup.files.wordpress.com/2015/02/projetohumanos.png"
-category: Resenhas
 tags:
   - links
 ---

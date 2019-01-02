@@ -5,7 +5,6 @@ title: "Tá na hora de ver Crazy Ex-Girlfriend."
 excerpt: A animada e inteligente série da The CW é a melhor comédia no ar hoje.
 tags:
   - séries
-category: resenhas
 author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/crazy-ex-girlfriend.jpg"
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "El Hombre de al Lado"
 date: "2014-08-08 19:21:22 -0300"
-category: Resenhas
 tags:
   - filmes
 author: Fillipe Diniz

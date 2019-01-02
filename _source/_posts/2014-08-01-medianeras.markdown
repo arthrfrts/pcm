@@ -2,7 +2,6 @@
 layout: post
 title: "Medianeras"
 date: "2014-08-01 19:15:49 -0300"
-category: Resenhas
 tags:
   - filmes
 author: Fillipe Diniz

@@ -2,7 +2,6 @@
 layout: post
 date: 2017-01-27
 title: "Orgulho e Preconceito ainda surpreende"
-category: resenhas
 tags:
   - leituras
 author: Arthur Freitas

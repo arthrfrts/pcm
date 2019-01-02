@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Community se despediu com uma das suas melhores temporadas"
-category: Resenhas
 tags:
   - séries
 image: "https://arthrfrts.files.wordpress.com/2018/03/community.jpg"

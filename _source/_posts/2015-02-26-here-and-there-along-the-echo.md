@@ -4,7 +4,6 @@ author: Arthur Freitas
 date: 2015-02-26
 title: Here And There Along The Echo
 image: "https://pcmbackup.files.wordpress.com/2015/02/here-and-there-along-the-echo.jpg"
-category: Resenhas
 tags:
 - jogos
 ---

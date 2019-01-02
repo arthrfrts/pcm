@@ -2,7 +2,6 @@
 layout: post
 title: "Limites e Demonstrações: A brisa na estrada de Kentucky Route Zero, Atos 1 e 2"
 date: "2014-06-02 01:26:40 -0300"
-category: Resenhas
 author: Arthur Freitas
 tags:
   - jogos

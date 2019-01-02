@@ -3,7 +3,6 @@ layout: post
 date: 2016-02-10
 title: "Firewatch apresenta a maturidade aos videogames"
 author: Arthur Freitas
-category: Resenhas
 tags:
   - jogos
 image: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"

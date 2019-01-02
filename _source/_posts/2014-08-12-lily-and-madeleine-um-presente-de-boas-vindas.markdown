@@ -2,7 +2,6 @@
 layout: post
 title: "Lily and Madeleine: um presente de boas vindas"
 date: "2014-08-12 19:44:17 -0300"
-category: Resenhas
 tags:
   - músicas
 author: Vanessa Oliveira

@@ -2,7 +2,6 @@
 layout: post
 date: 2017-01-09
 title: "Westworld pergunta muito e raramente responde."
-category: resenhas
 tags:
   - séries
 author: Arthur Freitas

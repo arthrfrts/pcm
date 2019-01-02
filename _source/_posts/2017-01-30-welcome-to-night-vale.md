@@ -3,7 +3,6 @@ layout: post
 date: 2017-01-30
 title: Cuidado ao entrar em Welcome to Night Vale…
 excerpt: Existem sérias chances de você não querer sair de lá.
-category: resenhas
 tags:
   - links
 author: Arthur Freitas

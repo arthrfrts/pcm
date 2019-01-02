@@ -4,7 +4,6 @@ title: "Sherlock"
 date: "2014-03-14 19:06:00 -0300"
 image: "https://arthrfrts.files.wordpress.com/2018/03/sherlock_iconic.jpg"
 author: Fillipe Diniz
-category: Resenhas
 tags:
   - séries
 ---

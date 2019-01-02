@@ -3,7 +3,6 @@ layout: post
 title: "Você ainda não assistiu Black Mirror?"
 date: "2013-11-12 18:43:53 -0300"
 author: Fillipe Diniz
-category: resenhas
 tags:
   - séries
 image: "https://arthrfrts.files.wordpress.com/2018/03/black-mirror.jpg"

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Dream Cave é novo e empolgante."
-category: resenhas
 tags:
   - músicas
 author: Arthur Freitas

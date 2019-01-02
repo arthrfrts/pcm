@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Don't Hug Me, I'm Scared: O limite das criatividades"
-category: Resenhas
 tags:
   - links
 date: "2014-07-29 19:40:11 -0300"

@@ -4,7 +4,6 @@ date: 2017-09-11
 title: Em sua última temporada, The Leftovers não responde nada.
 excerpt: E responde tudo. E então acaba.
 image: "https://i.imgur.com/LCq1cjC.png"
-category: resenhas
 tags:
   - séries
 author: Arthur Freitas

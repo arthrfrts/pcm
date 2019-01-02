@@ -2,7 +2,6 @@
 layout: post
 date: 2017-01-05
 title: "A Vida Privada das Árvores é rápido e direto ao ponto."
-category: resenhas
 tags:
   - leituras
 author: Arthur Freitas

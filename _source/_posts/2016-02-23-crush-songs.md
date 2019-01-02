@@ -4,7 +4,6 @@ author: Arthur Freitas
 date: 2016-02-23
 title: Karen O finalmente explora seus tons mais delicados em Crush Songs
 image: "https://arthrfrts.files.wordpress.com/2018/03/crush-songs.jpg"
-category: Resenhas
 tags:
   - músicas
 ---

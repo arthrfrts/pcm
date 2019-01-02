@@ -2,7 +2,6 @@
 layout: post
 title: "O Grande Gatsby e a Era do Jazz"
 date: "2014-07-20 20:14:57 -0300"
-category: Resenhas
 tags:
   - leituras
 author: Fillipe Diniz

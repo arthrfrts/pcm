@@ -3,7 +3,6 @@ layout: post
 title: "O mito do Garoto-de-Duas-Cabeças"
 date: "2014-04-28 19:25:59 -0300"
 author: Fillipe Diniz
-category: Resenhas
 tags:
   - músicas
 image: "https://arthrfrts.files.wordpress.com/2018/03/album-covers-in-the-aeroplane-over-the-sea-hd-wallpapers-1038x576-2.jpg"

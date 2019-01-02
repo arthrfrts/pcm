@@ -2,7 +2,6 @@
 layout: post
 title: Hannibal vai te deixar com fome
 date: 2015-09-14
-category: Resenhas
 tags:
   - séries
 author: Arthur Freitas
