@@ -46,6 +46,10 @@ layout: default
 
   {% unless page.comments == false %}
     <footer class="comments">
+      <div id="commento"></div>
+      <script src="https://cdn.commento.io/js/commento.js"></script>
+
+      {% comment %}
       <div id="disqus_thread"></div>
       <script>
         var disqus_config = function () {
@@ -60,6 +64,7 @@ layout: default
         })();
       </script>
       <noscript>A gente usa Disqus nos comentários (ao menos por enquanto). Pra ativá-los tu precisa de um navegador com JavaScript. :)</noscript>
+      {% endcomment %}
     </footer>
   {% endunless %}
 </article>
