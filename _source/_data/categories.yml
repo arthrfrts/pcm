@@ -2,4 +2,20 @@
 listas:
   description: >-
     Nas _Listas_ os padeiros se reúnem para decidir as melhores sugestões em um determinado tema ou categoria.
+
+essenciais:
+  description: >-
+    _Essenciais_ são textos ocasionais que fazem declarações fortes sobre as maiores peças da cultura contemporânea, determinadas pelas opiniões dos editores do PCM.
+
+exposições:
+  description: >-
+    Nossas colunas de _Exposição_ oferecem observações informadas e convincentes sobre temas ao redor dos filmes, livros, séries, jogos e músicas que gostamos, indo desde opiniões de temas que conduzem a cultura contemporânea até revisões daquilo que experimentamos anteriormente.
+
+reconsiderações:
+  description: >-
+    Em _Reconsiderações_, nós olhamos de novo pra algo que nós já discutimos aqui no PCM, consideramos a recepção anterior, e examinamos como se mantém hoje, livre de expectativas.
+
+achados:
+  description: >-
+    _Achados_ são exatamente isso: pequenas descobertas que tivemos nas últimas semanas e que achamos que merecem ser apreciadas por mais pessoas.
 ---

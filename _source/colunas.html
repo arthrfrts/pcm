@@ -1,0 +1,16 @@
+---
+layout: page
+title: Colunas
+---
+
+{% for category in site.data.categories %}
+  <h5 class="category-title">
+    <a href="{{ category[0] | slugify | prepend: '/categoria/' | append: '/' | relative_url }}">{{ category[0] | capitalize }}</a>
+  </h5>
+
+  {{ category[1].description | markdownify }}
+
+  {% unless forloop.last %}
+  <hr />
+  {% endunless %}
+{% endfor %}
