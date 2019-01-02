@@ -21,11 +21,25 @@ body {
 }
 
 .site-wrapper {
+	display: flex;
+	flex-flow: column nowrap;
+	min-height: 100vh;
+
 	&.home,
 	&.page,
 	&.post {
 		background: linear-gradient(-2deg, rgb(255, 255, 255) 82.5%, rgb(254, 191, 1) 82.5%);
 		margin-bottom: 0;
+	}
+
+	.site-header,
+	.site-footer {
+		flex: 0 0 auto;
+		width: 100%;
+	}
+
+	.site-content {
+		flex: 1 0 auto;
 	}
 }
 
