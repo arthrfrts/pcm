@@ -1,22 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
-  {% include head.html %}
+  {%- include head.html -%}
 
   <body>
-    {% include sprite.svg %}
+    {%- include sprite.svg -%}
 
     <div id="site" class="site-wrapper {% if page.url == '/' %}home{% else %}{{ page.layout | slugify: 'latin' }}{% endif %}">
-      {% include header.html %}
+      {%- include header.html -%}
 
       <main class="site-content">
         {{ content }}
       </main>
 
-      {% include footer.html %}
+      {%- include footer.html -%}
     </div>
 
-    {% if page.layout == "post" %}
+    {%- if page.layout == "post" -%}
       <script type="text/javascript" src="{{ '/assets/scripts/embeds.js' }}"></script>
-    {% endif %}
+    {%- endif -%}
+
+    {%- webmentions_js -%}
   </body>
 </html>
