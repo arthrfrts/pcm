@@ -404,9 +404,14 @@ body {
 			.current-page {
 				border-bottom: 1px dotted $color-accent;
 			}
+		}
 
-			&a,
-			a {
+		a.nav-link,
+		.nav-page a {
+			color: $color-text;
+
+			&:hover,
+			&:focus {
 				color: $color-accent;
 			}
 		}
