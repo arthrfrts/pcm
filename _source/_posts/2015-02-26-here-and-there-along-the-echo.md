@@ -2,12 +2,12 @@
 layout: post
 author: Arthur Freitas
 date: 2015-02-26
-title: Here And There Along The Echo
-image: "https://pcmbackup.files.wordpress.com/2015/02/here-and-there-along-the-echo.jpg"
+title: Um guia pelo rio das almas — Here And There Along The Echo
+image: "http://i.imgur.com/i0AU14r.png"
 tags:
 - jogos
 ---
-Não só uma das melhores experiências jogáveis dos últimos anos, _Kentucky Route Zero_ é um incrível criador de lendas. Seu universo calcado no realismo fantástico, com fortes referências à literatura romântica e ao cinema de Tarkovsky (principalmente _Stalker_ e _Solaris_) dão aos ambientes e aos personagens do jogo dividido em cinco atos uma aura emblemática e inquisitiva. Não dá pra não se sentir preso ao universo de _KR0_ para descobrir os mistérios por baixo da encenação teatral.
+Não só uma das melhores experiências jogáveis dos últimos anos, _Kentucky Route Zero_ é um incrível criador de lendas. Seu universo calcado no realismo fantástico, com fortes referências à literatura romântica e ao cinema de Tarkovsky (principalmente _Stalker_ e _Solaris_) dão aos ambientes e aos personagens do jogo dividido em cinco atos uma aura emblemática e inquisitiva. Não dá pra não se sentir preso ao universo de _KR0_ para descobrir os mistérios por baixo da encenação teatral.
 
 Em _Here And There Along The Echo_, a desenvolvedora Cardboard Computer continua com a estratégia de divulgar, entre o lançamento de atos, um “interlúdio” com materiais que darão base para eventos do ato seguinte. Se já se discute o quão “jogo” _Kentucky Route Zero_ é, os interlúdios são ainda mais radicais em jogabilidade. Nos anteriores, visitamos uma exposição artística (_Limits & Demonstrations_) e tomamos o centro do palco em uma peça teatral (_The Entertainment_). Agora, nós precisamos discar um número de telefone para poder experimentar o Serviço de Atendimento do Escritório do Turismo Secreto.
 
