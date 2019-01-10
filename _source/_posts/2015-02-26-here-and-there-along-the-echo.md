@@ -3,7 +3,7 @@ layout: post
 author: Arthur Freitas
 date: 2015-02-26
 title: Um guia pelo rio das almas — Here And There Along The Echo
-image: "http://i.imgur.com/i0AU14r.png"
+image: "https://i.imgur.com/i0AU14r.png"
 tags:
 - jogos
 ---
