@@ -39,6 +39,16 @@ prose:
   siteurl: "https://paomortadela.com.br/"
   relativeLinks: "https://paomortadela.com.br/lists/links.jsonp"
   media: "assets/uploads"
+  ignore:
+    - "/_includes"
+    - "/_layouts"
+    - "/_sass"
+    - "_config.yml"
+    - "LICENSE"
+    - "Gemfile"
+    - "Gemfile.lock"
+    - "index.html"
+    - "readme.md"
   metadata:
     _posts:
       - name: "layout"
@@ -50,9 +60,9 @@ prose:
           element: "text"
           label: "Title"
       - name: "date"
-        label: "Date"
         field:
           element: "hidden"
+          label: "Date"
           value: CURRENT_DATETIME
       - name: "image"
         field:
