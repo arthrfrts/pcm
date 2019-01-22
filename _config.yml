@@ -58,10 +58,10 @@ source: _source
 
 # Prose settings
 prose:
-  rooturl: "_posts"
+  rooturl: "_source/_posts"
   siteurl: "https://paomortadela.com.br/"
   relativeLinks: "https://paomortadela.com.br/links.jsonp"
-  media: "assets/uploads"
+  media: "_source/assets/uploads"
   ignore:
     - "/_source/_includes"
     - "/_source/_layouts"
