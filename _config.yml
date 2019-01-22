@@ -51,23 +51,22 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-compose
   - jekyll-paginate
   - jekyll-archives
 
-source: _source
-
 # Prose settings
 prose:
-  rooturl: "_source/_posts"
+  rooturl: "_posts"
   siteurl: "https://paomortadela.com.br/"
   relativeLinks: "https://paomortadela.com.br/links.jsonp"
-  media: "_source/assets/uploads"
+  media: "assets/uploads"
   ignore:
-    - "/_source/_includes"
-    - "/_source/_layouts"
-    - "/_source/_sass"
-    - "/_source/index.html"
-    - "/_source/favicon.ico"
+    - "/_includes"
+    - "/_layouts"
+    - "/_sass"
+    - "/index.html"
+    - "/favicon.ico"
     - "_config.yml"
     - "LICENSE"
     - "Gemfile"
