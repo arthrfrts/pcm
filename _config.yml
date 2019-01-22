@@ -39,6 +39,42 @@ prose:
   siteurl: "https://paomortadela.com.br/"
   relativeLinks: "https://paomortadela.com.br/lists/links.jsonp"
   media: "assets/uploads"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "date"
+        label: "Date"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          value: "/assets/images/ogp.jpg"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          options: "https://paomortadela.com.br/assets/lists/categories.jsonp"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options: "https://paomortadela.com.br/lists/tags.jsonp"
+          alterable: true
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author(s)"
+          value: ""    
 
 defaults:
 - scope:
