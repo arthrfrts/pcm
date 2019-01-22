@@ -33,33 +33,11 @@ jekyll-archives:
 
 google_site_verification: "UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE"
 
-defaults:
-- scope:
-    path: ''
-  values:
-    image: "/assets/images/ogp.jpg"
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    seo:
-      type: "BlogPosting"
-
-plugins:
-  - jemoji
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-compose
-  - jekyll-paginate
-  - jekyll-archives
-
 # Prose settings
 prose:
   rooturl: "_posts"
   siteurl: "https://paomortadela.com.br/"
-  relativeLinks: "https://paomortadela.com.br/links.jsonp"
+  relativeLinks: "https://paomortadela.com.br/lists/links.jsonp"
   media: "assets/uploads"
   ignore:
     - "/_includes"
@@ -91,22 +69,42 @@ prose:
         field:
           element: "text"
           label: "Image"
-          value: ""
+          value: "/assets/images/ogp.jpg"
       - name: "category"
         field:
           element: "select"
           label: "Category"
-          options: "https://irrelefante.com.br/categories.jsonp"
+          options: "https://irrelefante.com.br/assets/lists/categories.jsonp"
           alterable: true
       - name: "tags"
         field:
           element: "multiselect"
           label: "Tags"
-          options: "https://irrelefante.com.br/tags.jsonp"
+          options: "https://irrelefante.com.br/lists/tags.jsonp"
           alterable: true
       - name: "author"
         field:
           element: "text"
-          label: "Author(s)"
+          label: "Authors"
           value: ""    
 
+defaults:
+- scope:
+    path: ''
+  values:
+    image: "/assets/images/ogp.jpg"
+- scope:
+    path: ''
+    type: posts
+  values:
+    seo:
+      type: "BlogPosting"
+
+plugins:
+  - jemoji
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-compose
+  - jekyll-paginate
+  - jekyll-archives
