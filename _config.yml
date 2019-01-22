@@ -85,4 +85,7 @@ prose:
           element: "hidden"
           label: "Date"
           value: CURRENT_DATETIME
-          
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
