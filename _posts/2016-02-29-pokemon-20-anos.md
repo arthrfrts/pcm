@@ -4,7 +4,7 @@ date: 2016-02-29
 title: Uma carta de amor a Pokémon
 author: Arthur Freitas
 image: "https://arthrfrts.files.wordpress.com/2018/03/pokemon-20.jpg"
-category: Reconsiderações
+category: reconsiderações
 tags:
   - jogos
 ---
