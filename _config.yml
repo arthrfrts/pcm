@@ -33,23 +33,6 @@ jekyll-archives:
 
 google_site_verification: "UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE"
 
-# Prose settings
-prose:
-  rooturl: "_posts"
-  siteurl: "https://paomortadela.com.br/"
-  relativeLinks: "https://paomortadela.com.br/assets/lists/links.jsonp"
-  media: "assets/uploads"
-  ignore:
-    - "/_includes"
-    - "/_layouts"
-    - "/_sass"
-    - "_config.yml"
-    - "LICENSE"
-    - "Gemfile"
-    - "Gemfile.lock"
-    - "index.html"
-    - "readme.md"
-
 defaults:
 - scope:
     path: ''
@@ -70,3 +53,51 @@ plugins:
   - jekyll-compose
   - jekyll-paginate
   - jekyll-archives
+
+# Prose settings
+prose:
+  rooturl: "_posts"
+  siteurl: "https://paomortadela.com.br/"
+  relativeLinks: "https://paomortadela.com.br/assets/lists/links.jsonp"
+  media: "assets/uploads"
+  ignore:
+    - "/_includes"
+    - "/_layouts"
+    - "/_sass"
+    - "_config.yml"
+    - "LICENSE"
+    - "Gemfile"
+    - "Gemfile.lock"
+    - "index.html"
+    - "readme.md"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "date"
+        field:
+          element: "hidden"
+          label: "Date"
+          value: CURRENT_DATETIME
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          options: "https://paomortadela.com.br/assets/lists/categories.jsonp"
+          alterable: true
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options: "https://paomortadela.com.br/assets/lists/tags.jsonp"
+          alterable: true
