@@ -96,7 +96,7 @@ prose:
           options: "https://paomortadela.com.br/assets/lists/categories.jsonp?callback=categoriesCallback"
       - name: "tags"
         field:
-          element: "textarea"
+          element: "multiselect"
           label: "Tags"
           options: "https://paomortadela.com.br/assets/lists/tags.jsonp?callback=tagsCallback"
           alterable: true
