@@ -64,27 +64,6 @@ prose:
           element: "hidden"
           label: "Date"
           value: CURRENT_DATETIME
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          value: "/assets/images/ogp.jpg"
-      - name: "category"
-        field:
-          element: "select"
-          label: "Category"
-          options: "https://paomortadela.com.br/assets/lists/categories.jsonp"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Tags"
-          options: "https://paomortadela.com.br/lists/tags.jsonp"
-          alterable: true
-      - name: "author"
-        field:
-          element: "text"
-          label: "Author(s)"
-          value: ""    
 
 defaults:
 - scope:
