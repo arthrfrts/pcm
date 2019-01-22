@@ -55,3 +55,59 @@ plugins:
   - jekyll-archives
 
 source: _source
+
+# Prose settings
+prose:
+  rooturl: "_posts"
+  siteurl: "https://paomortadela.com.br/"
+  relativeLinks: "https://paomortadela.com.br/links.jsonp"
+  media: "assets/uploads"
+  ignore:
+    - "/_source/_includes"
+    - "/_source/_layouts"
+    - "/_source/_sass"
+    - "/_source/index.html"
+    - "/_source/favicon.ico"
+    - "_config.yml"
+    - "LICENSE"
+    - "Gemfile"
+    - "Gemfile.lock"
+    - "readme.md"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "date"
+        label: "Date"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          value: ""
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          options: "https://irrelefante.com.br/categories.jsonp"
+          alterable: true
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options: "https://irrelefante.com.br/tags.jsonp"
+          alterable: true
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author(s)"
+          value: ""    
+

@@ -1,0 +1,11 @@
+---
+# Hello, Jekyll!
+---
+
+callback([
+{%- for tag in site.tags -%}
+  {
+    "value": {{ tag[0] | jsonify }}
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+])

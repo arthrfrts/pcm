@@ -1,0 +1,14 @@
+---
+# Hello, Jekyll!
+---
+
+{%- assign site_posts = site.posts | sort_natural: title -%}
+
+callback([
+{%- for post in site_posts -%}
+  {
+    "text": {{ post.title | jsonify }},
+    "href": {{ post.url | absolute_url | jsonify }}
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+])

@@ -1,0 +1,11 @@
+---
+# Hello, Jekyll!
+---
+
+callback([
+{%- for category in site.categories -%}
+  {
+    "value": {{ category[0] | jsonify }}
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+])
