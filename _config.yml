@@ -95,3 +95,9 @@ prose:
           label: "Category"
           options: "https://paomortadela.com.br/assets/lists/categories.jsonp"
           alterable: true
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options: "https://paomortadela.com.br/assets/lists/tags.jsonp"
+          alterable: true
