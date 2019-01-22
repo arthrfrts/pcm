@@ -80,12 +80,6 @@ prose:
         field:
           element: "text"
           label: "Title"
-      - name: "category"
-        field:
-          element: "select"
-          label: "Category"
-          options: "https://paomortadela.com.br/assets/lists/categories.jsonp"
-          alterable: true
       - name: "date"
         field:
           element: "hidden"
@@ -95,9 +89,14 @@ prose:
         field:
           element: "text"
           label: "Image"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          options: "https://paomortadela.com.br/assets/lists/categories.jsonp?callback=categoriesCallback"
       - name: "tags"
         field:
-          element: "multiselect"
+          element: "textarea"
           label: "Tags"
-          options: "https://paomortadela.com.br/assets/lists/tags.jsonp"
+          options: "https://paomortadela.com.br/assets/lists/tags.jsonp?callback=tagsCallback"
           alterable: true
