@@ -2,7 +2,7 @@
 # Hello, Jekyll!
 ---
 
-callback([
+categoriesCallback([
 {%- for category in site.categories -%}
   {
     "value": {{ category[0] | jsonify }}

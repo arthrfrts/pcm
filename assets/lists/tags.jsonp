@@ -2,7 +2,7 @@
 # Hello, Jekyll!
 ---
 
-callback([
+tagsCallback([
 {%- for tag in site.tags -%}
   {
     "value": {{ tag[0] | jsonify }}
