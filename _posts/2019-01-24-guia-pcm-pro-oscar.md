@@ -1,12 +1,12 @@
 ---
-date: '2019-01-22 21:36 -0200'
+date: '2019-01-24 09:00 -0200'
 layout: post
 category: listas
-published: false
-title: Guia PCM pro Oscar
+title: Guia ᴩᴄᴍ pro Oscar
 excerpt: Nós te ajudamos a assistir os filmes indicados ao Oscar desse ano.
 tags:
   - filmes
+author: Arthur Freitas
 image: 'https://i.imgur.com/iVjDPWW.jpg'
 ---
 Ontem de manhã a AMPAS, a academia que organiza e celebra o Oscar, anunciou os indicados ao prêmio que define toda a temporada de premiações do ano. Em um ano que a celebração já está repleta de polêmicas, novas e velhas.
@@ -15,14 +15,14 @@ Dos novos problemas: a reação à escolha de Kevin Hart como o apresentador des
 
 Dos velhos? Bem, vendo os indicados ainda dá pra se ter uma ideia. A Academia ainda não consegue acreditar que dois diretores negros podem fazer grandes filmes num mesmo ano, deixando Ryan Coogler fora da corrida de direção, mesmo quando o seu _Pantera Negra_ fez o feito inédito para um filme de super-herói de ser indicado à diversos prêmios, incluindo o Melhor Filme. E parece que nenhuma mulher dirigiu esse ano? O que é considerável quando novos filmes de diretoras como Mimi Leder, Karyn Kusama e Lynne Ramsay foram celebrados durante o ano. Fora algumas escolhas questionáveis em meio a seus próprios indicados, algo que a gente vai ver a seguir.
 
-Mas como todo o ano, o Oscar é uma diversão de acompanhar porque ele traz um punhado de ótimos filmes para o cinema, e nesse pouco mais de um mês antes da cerimônia é um belo incentivo pra ir no cinema o máximo que puder e assistir tudo o que conseguir pra chegar gritando com os amigos na festinha que a gente faz na hora de ver o prêmio. O PCM organizou um guia de como ver os indicados às principais categorias do prêmio, e uma previsão de quando aqueles que não estão disponíveis devem aparecer — se aparecerem de qualquer forma. Vamos ordenar pelo número de indicações, começando com os dois líderes.
+Mas como todo o ano, o Oscar é uma diversão de acompanhar porque ele traz um punhado de ótimos filmes para o cinema, e nesse pouco mais de um mês antes da cerimônia é um belo incentivo pra ir no cinema o máximo que puder e assistir tudo o que conseguir pra chegar gritando com os amigos na festinha que a gente faz na hora de ver o prêmio. O ᴩᴄᴍ organizou um guia de como ver os indicados às principais categorias do prêmio, e uma previsão de quando aqueles que não estão disponíveis devem aparecer — se aparecerem de qualquer forma. Vamos ordenar pelo número de indicações, começando com os dois líderes.
 
 ---
 
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/ICR6YvcyyJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Roma
+## Roma
 
 **Indicações:** 10. Melhor Filme, Diretor (Alfonso Cuarón), Atriz (Yalitza Aparicio), Atriz Coadjuvante (Marina de Tavira), Direção de Fotografia, Filme em Língua Estrangeira, Design de Produção, Design de Som, Mixagem de Som, Roteiro Original.
 
@@ -35,7 +35,7 @@ _Roma_ pode ser visto no [Netflix](https://www.netflix.com/br/title/80240715). S
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/et_9k6BU_is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### A Favorita
+## A Favorita
 
 **Indicações:** 10. Melhor Filme, Diretor (Yorgos Larithimos), Atriz (Olivia Colman), Atriz Coadjuvante (Emma Stone, Rachel Weisz), Direção de Fotografia, Figurino, Montagem, Design de Produção, Roteiro Original.
 
@@ -48,7 +48,7 @@ _A Favorita_ será lançado nos cinemas nessa quinta, 24/01. Com o sucesso nas p
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/WGsA2aXYBGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Nasce uma Estrela
+## Nasce uma Estrela
 
 **Indicações:** 8. Melhor Filme, Melhor Ator (Bradley Cooper), Melhor Atriz (Lady Gaga), Ator Coadjuvante (Sam Elliott), Direção de Fotografia, Canção Original (“Shallow”), Mixagem de Som, Roteiro Adaptado.
 
@@ -61,7 +61,7 @@ _Nasce uma Estrela_ será lançado em blu-ray, DVD, no iTunes e no Google Play e
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/iCdS6yVOA0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Vice
+## Vice
 
 **Indicações:** 8. Melhor Filme, Direção (Adam McKay), Ator (Christian Bale), Atriz Coadjuvante (Amy Adams), Montagem, Maquiagem e Penteado, Roteiro Original.
 
@@ -74,7 +74,7 @@ _Vice_ será lançado nos cinemas dia 31/01.
 {:.full-width}
 <iframe width="806" height="335" src="https://www.youtube.com/embed/wL4a4MafSjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Pantera Negra
+## Pantera Negra
 
 **Indicações:** 7. Melhor Filme, Figurino, Trilha-Sonora Original, Canção Original (“All the Stars”), Design de Produção, Edição de Som, Mixagem de Som.
 
@@ -87,7 +87,7 @@ _Pantera Negra_ pode ser visto no [Telecine Play](https://www.telecineplay.com.b
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/bbOJwWSEUmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Infiltrado na Klan
+## Infiltrado na Klan
 
 **Indicações:** 6. Melhor Filme, Direção (Spike Lee), Ator Coadjuvante (Adam Driver), Montagem, Trilha-Sonora Original, Roteiro Adaptado.
 
@@ -100,7 +100,7 @@ _Infiltrado na Klan_ foi lançado em novembro nos cinemas, e ainda está em cart
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/GryRsVhOvxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Bohemian Rhapsody
+## Bohemian Rhapsody
 
 **Indicações:** 5. Melhor Filme, Ator (Rami Malek), Montagem, Edição de Som, Mixagem de Som.
 
@@ -113,7 +113,7 @@ _Bohemian Rapsody_ está nos cinemas, e vai bem, obrigado. Um sucesso de públic
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/QxXJ7vkFk48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Green Book: O Guia
+## Green Book: O Guia
 
 **Indicações:** 5. Melhor Filme, Ator (Viggo Mortensen), Ator Coadjuvante (Mahershala Ali), Montagem, Roteiro Adaptado.
 
@@ -126,7 +126,7 @@ _Green Book: O Guia_ será lançado na próxima quinta, 24/01.
 {:.full-width}
 <iframe width="806" height="453" src="https://www.youtube.com/embed/hfAB8y5ZBwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### O Primeiro Homem
+## O Primeiro Homem
 
 **Indicações:** 4. Design de Produção, Edição de Som, Mixagem de Som, Efeitos Visuais.
 
@@ -136,7 +136,7 @@ _O Primeiro Homem_ será lançado em blu-ray, DVD e no iTunes e Google Play em 6
 
 ---
 
-### O Retorno de Mary Poppins
+## O Retorno de Mary Poppins
 
 **Indicações:** 4. Design de Produção, Figurino, Trilha-Sonora Original, Canção Original (“The Place Where Lost Things Go”).
 
