@@ -40,9 +40,9 @@ _Roma_ pode ser visto no [Netflix](https://www.netflix.com/br/title/80240715). S
 
 **Indicações:** 10. Melhor Filme, Diretor (Yorgos Larithimos), Atriz (Olivia Colman), Atriz Coadjuvante (Emma Stone, Rachel Weisz), Direção de Fotografia, Figurino, Montagem, Design de Produção, Roteiro Original.
 
-Causando barulho por onde passa, _A Favorita_ é o primeiro filme de seu diretor à agradar a Academia. Depois de conquistar festivais e crítica com _Dente de Cachorro_ e público com _O Lagosta_ e _O Sacrifício do Cervo Sagrado_, Larithimos faz um drama de época com o seu humor afiado e senso estético apurado. Celebrado pela crítica e adorado pelo público, _A Favorita_ tem tudo para ganhar suas indicações técnicas e, quem sabe, surpreender levando os prêmios principais. Já é o favorito para a categoria de melhor atriz e as suas duas indicações para atriz coadjuvante o deixam a frente, mesmo com Regina King sendo a favorita ao prêmio.
+Causando barulho por onde passa, _A Favorita_ é o primeiro filme de seu diretor à agradar a Academia nesse nível. Depois de conquistar festivais e crítica com _Dente de Cachorro_ e público com _O Lagosta_ e _O Sacrifício do Cervo Sagrado_, Larithimos faz um drama de época com o seu humor afiado e senso estético apurado. Celebrado pela crítica e adorado pelo público, _A Favorita_ tem tudo para ganhar suas indicações técnicas e, quem sabe, surpreender levando os prêmios principais. Já é o favorito para a categoria de melhor atriz e as suas duas indicações para atriz coadjuvante o deixam a frente, mesmo com Regina King sendo a favorita ao prêmio.
 
-_A Favorita_ foi lançado nos cinemas hoje, 24/01. Com o sucesso nas premiações, sessões de pré-estreia serão realizadas hoje à noite.
+_A Favorita_ foi lançado nos cinemas hoje, 24/01.
 
 ---
 
