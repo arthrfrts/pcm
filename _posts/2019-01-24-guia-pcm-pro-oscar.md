@@ -219,7 +219,7 @@ Esses são relativamente fáceis de encontrar. _Incríveis 2_ já está disponí
 
 **Filme de Língua Estrangeira:**
 
-Todos os filmes já tem data de lançamento. Além dos que já mencionamos, _Cafarnaum_ e _Assunto de Família_ já estão nos cinemas.
+Todos os filmes já tem data de lançamento. Além dos que já mencionamos, _Cafarnaum_ e _Assunto de Família_ já estão nos cinemas. Essa é uma categoria que gosta de surpreender pela sua especificidade (todos os votos precisam confirmar que viram os filmes), e como _Assunto de Família_ levou a Palma de Ouro no ano passado eu não duvido nada que ele surpreenda aqui também.
 
 **Documentário e Curta-Metragem (Documentário):**
 
