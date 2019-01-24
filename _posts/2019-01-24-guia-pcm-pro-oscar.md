@@ -105,7 +105,7 @@ _Infiltrado na Klan_ foi lançado em novembro nos cinemas, e ainda está em cart
 
 **Indicações:** 5. Melhor Filme, Ator (Rami Malek), Montagem, Edição de Som, Mixagem de Som.
 
-Por alguma coincidência do destino, os dois filmes mais polêmicos indicados esse ano dividem o número de indicações. _Bohemian Rhapsody_, a cinebiografia de Freddy Mercury sobre a tragetória do Queen até a mítica performance no Live Aid, está tomado de polêmica desde o seu anúncio. Originalmente dirigido por Bryan Singer, acusado de abuso sexual a menores, o filme passou por uma produção turbulenta quando o diretor foi demitido por má conduta no set e substituído no meio das filmagens. Alguns problemas do filme vão além disso, porém: o retrato da sexualidade de Mercury é questionável, quando não preconceituosa. Mesmo assim, Malek é o grande favorito ao prêmio de melhor ator, e o filme tem chances saudáveis em suas outras indicações.
+Por alguma coincidência do destino, os dois filmes mais polêmicos indicados esse ano dividem o número de indicações. _Bohemian Rhapsody_, a cinebiografia de Freddy Mercury sobre a tragetória do Queen até a mítica performance no Live Aid, está tomado de polêmica desde o seu anúncio. Originalmente dirigido por Bryan Singer, acusado de abuso sexual a menores, o filme passou por uma produção turbulenta quando o diretor foi demitido por má conduta no set e substituído no meio das filmagens. Alguns problemas do filme vão além disso, porém: o retrato da sexualidade de Mercury é questionável, quando não preconceituosa. Malek continua sendo o grande favorito ao prêmio de melhor ator, e o filme tem chances saudáveis em suas outras indicações.
 
 _Bohemian Rapsody_ está nos cinemas, e vai bem, obrigado. Um sucesso de público que só deve aumentar agora que se confirmou como um dos favoritos do Oscar. Não deve sair tão cedo (tô prevendo que vai ficar até abril no cinema que eu costumo ir).
 
@@ -118,7 +118,7 @@ _Bohemian Rapsody_ está nos cinemas, e vai bem, obrigado. Um sucesso de públic
 
 **Indicações:** 5. Melhor Filme, Ator (Viggo Mortensen), Ator Coadjuvante (Mahershala Ali), Montagem, Roteiro Adaptado.
 
-O _outro_ polêmico da lista, _Green Book: O Guia_ foi rechaçado pela crítica pela sua total insensibilidade e pelo seu racismo velado (além de alguns posicionamentos políticos problemáticos por parte de seus produtores). Mas _Green Book_ é, hoje, o favorito disparado ao prêmio de melhor filme, tendo vencido todos os termômetros até aqui e ganhando cada vez mais fôlego na disputa dos próximos. A menos que alguma coisa surja nessas próximas mês que desbanque _Green Book_ ou que comprove as suspeitas de seus produtores, esse é provavelmente o tiro certeiro pra se apostar no dia 24.
+O _outro_ polêmico da lista, _Green Book: O Guia_ foi rechaçado pela crítica pela sua total insensibilidade e pelo seu racismo velado (além de alguns posicionamentos políticos problemáticos por parte de seus produtores). Mas _Green Book_ é, hoje, o favorito disparado ao prêmio de melhor filme, tendo vencido todos os termômetros até aqui e ganhando cada vez mais fôlego na disputa dos próximos. A menos que alguma coisa surja nessas próximas semanas que desbanque _Green Book_ ou que comprove as suspeitas de seus produtores, esse é provavelmente o tiro certeiro pra se apostar no dia 24.
 
 _Green Book: O Guia_ foi lançado nos cinemas hoje, 24/01.
 
