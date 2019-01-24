@@ -2,7 +2,7 @@
 date: '2019-01-24 09:00 -0200'
 layout: post
 category: listas
-title: Guia ᴩᴄᴍ pro Oscar
+title: Guia PCM pro Oscar
 excerpt: Nós te ajudamos a assistir os filmes indicados ao Oscar desse ano.
 tags:
   - filmes
@@ -16,7 +16,7 @@ Dos novos problemas: a reação à escolha de Kevin Hart como o apresentador des
 
 Dos velhos? Bem, vendo os indicados ainda dá pra se ter uma ideia. A Academia ainda não consegue acreditar que dois diretores negros podem fazer grandes filmes num mesmo ano, deixando Ryan Coogler fora da corrida de direção, mesmo quando o seu _Pantera Negra_ fez o feito inédito para um filme de super-herói de ser indicado à diversos prêmios, incluindo o Melhor Filme. E parece que nenhuma mulher dirigiu esse ano? O que é considerável quando novos filmes de diretoras como Mimi Leder, Karyn Kusama e Lynne Ramsay foram celebrados durante o ano. Fora algumas escolhas questionáveis em meio a seus próprios indicados, algo que a gente vai ver a seguir.
 
-Mas como todo o ano, o Oscar é uma diversão de acompanhar porque ele traz um punhado de ótimos filmes para o cinema, e nesse pouco mais de um mês antes da cerimônia é um belo incentivo pra ir no cinema o máximo que puder e assistir tudo o que conseguir pra chegar gritando com os amigos na festinha que a gente faz na hora de ver o prêmio. O ᴩᴄᴍ organizou um guia de como ver os indicados às principais categorias do prêmio, e uma previsão de quando aqueles que não estão disponíveis devem aparecer — se aparecerem de qualquer forma. Vamos ordenar pelo número de indicações, começando com os dois líderes.
+Como todo o ano, o Oscar é divertido de acompanhar porque ele traz um punhado de ótimos filmes para o cinema, e nesse pouco mais de um mês antes da cerimônia é um belo incentivo pra ir no cinema o máximo que puder e assistir tudo o que conseguir pra chegar gritando com os amigos na festinha que a gente faz na hora de ver o prêmio. O PCM organizou um guia de como ver os indicados as principais categorias, e uma previsão de quando aqueles que não estão disponíveis devem aparecer — se aparecerem de qualquer forma. Vamos ordenar pelo número de indicações, começando com os dois líderes.
 
 ---
 
