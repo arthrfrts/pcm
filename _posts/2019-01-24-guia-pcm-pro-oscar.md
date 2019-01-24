@@ -196,7 +196,7 @@ _Guerra Fria_ será lançado nos cinemas em 7/02.
 
 **Indicações:** Atriz Coadjuvante (Regina King), Trilha-Sonora Original, Roteiro Adaptado.
 
-Deixa eu abrir meu coração aqui. Olhem o trailer de _Se a Rua Beale Falasse_ e me digam que não é a coisa mais linda que vocês já viram. Do mesmo diretor de _Moonlight: Sob a Luz do Luar_ (prêmios de melhor filme, ator coadjuvante e roteiro adaptado em 2017), _Se A Rua Beale Falasse_ é a tão esperada adaptação do essencial romance de James Baldwin, e o novo filme de uma das vozes mais talentosas do cinema americano contemporâneo. Adorado pela crítica, o filme não conseguiu impressionar a academia, que pelo visto ainda se depara com a quota de _filmes negros_ anual, já tendo dado indicações para _Infiltrado na Klan_. É uma pena. É um filme que merecia muito mais, mas ao menos merece ganhar tudo o que foi indicado (é o favorito para atriz coadjuvante, e eu realmente espero que leve trilha-sonora e roteiro).
+Deixa eu abrir meu coração aqui. Olhem o trailer de _Se a Rua Beale Falasse_ e me digam que não é a coisa mais linda que vocês já viram. Do mesmo diretor de _Moonlight: Sob a Luz do Luar_ (prêmios de melhor filme, ator coadjuvante e roteiro adaptado em 2017), _Se A Rua Beale Falasse_ é a tão esperada adaptação do essencial romance de James Baldwin, e o novo filme de uma das vozes mais talentosas do cinema americano contemporâneo. Adorado pela crítica, o filme não conseguiu impressionar a academia, que pelo visto ainda se depara com a quota de minorias anual, já tendo dado indicações para _Infiltrado na Klan_, _Pantera Negra_ e _Roma_. É uma pena. É um filme que merecia muito mais, mas ao menos merece ganhar tudo o que foi indicado (é o favorito para atriz coadjuvante, e eu realmente espero que leve trilha-sonora e roteiro).
 
 _Se A Rua Beale Falasse_ será lançado nos cinemas em 7/02 (era hoje e foi adiado!).
 
@@ -206,7 +206,7 @@ _Se A Rua Beale Falasse_ será lançado nos cinemas em 7/02 (era hoje e foi adia
 
 Os grandes indicados à todas as categorias principais já estão aí em cima, mas não custa dar uma visão geral nos _outros_ filmes indicados e que podem ser mais difíceis de encontrar.
 
-**3 indicações:**
+**Duas indicações:**
 
 - _Ilha de Cachorros_ (animação, trilha-sonora): já disponível em DVD, blu-ray e no iTunes e Google Play.
 - _Duas Rainhas_ (figurino, maquiagem e cabelo): será lançado nos cinemas em 4/04 (?!).
