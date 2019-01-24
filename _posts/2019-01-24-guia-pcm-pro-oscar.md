@@ -8,6 +8,7 @@ tags:
   - filmes
 author: Arthur Freitas
 image: 'https://i.imgur.com/iVjDPWW.jpg'
+published: true
 ---
 Ontem de manhã a AMPAS, a academia que organiza e celebra o Oscar, anunciou os indicados ao prêmio que define toda a temporada de premiações do ano. Em um ano que a celebração já está repleta de polêmicas, novas e velhas.
 
@@ -41,7 +42,7 @@ _Roma_ pode ser visto no [Netflix](https://www.netflix.com/br/title/80240715). S
 
 Causando barulho por onde passa, _A Favorita_ é o primeiro filme de seu diretor à agradar a Academia. Depois de conquistar festivais e crítica com _Dente de Cachorro_ e público com _O Lagosta_ e _O Sacrifício do Cervo Sagrado_, Larithimos faz um drama de época com o seu humor afiado e senso estético apurado. Celebrado pela crítica e adorado pelo público, _A Favorita_ tem tudo para ganhar suas indicações técnicas e, quem sabe, surpreender levando os prêmios principais. Já é o favorito para a categoria de melhor atriz e as suas duas indicações para atriz coadjuvante o deixam a frente, mesmo com Regina King sendo a favorita ao prêmio.
 
-_A Favorita_ será lançado nos cinemas nessa quinta, 24/01. Com o sucesso nas premiações, sessões de pré-estreia serão realizadas hoje à noite.
+_A Favorita_ foi lançado nos cinemas hoje, 24/01. Com o sucesso nas premiações, sessões de pré-estreia serão realizadas hoje à noite.
 
 ---
 
@@ -119,7 +120,7 @@ _Bohemian Rapsody_ está nos cinemas, e vai bem, obrigado. Um sucesso de públic
 
 O _outro_ polêmico da lista, _Green Book: O Guia_ foi rechaçado pela crítica pela sua total insensibilidade e pelo seu racismo velado (além de alguns posicionamentos políticos problemáticos por parte de seus produtores). Mas _Green Book_ é, hoje, o favorito disparado ao prêmio de melhor filme, tendo vencido todos os termômetros até aqui e ganhando cada vez mais fôlego na disputa dos próximos. A menos que alguma coisa surja nessas próximas mês que desbanque _Green Book_ ou que comprove as suspeitas de seus produtores, esse é provavelmente o tiro certeiro pra se apostar no dia 24.
 
-_Green Book: O Guia_ será lançado na próxima quinta, 24/01.
+_Green Book: O Guia_ foi lançado nos cinemas hoje, 24/01.
 
 ---
 
@@ -136,6 +137,9 @@ _O Primeiro Homem_ será lançado em blu-ray, DVD e no iTunes e Google Play em 6
 
 ---
 
+{:.full-width}
+<iframe width="806" height="336" src="https://www.youtube.com/embed/doBT-eeWNHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## O Retorno de Mary Poppins
 
 **Indicações:** 4. Design de Produção, Figurino, Trilha-Sonora Original, Canção Original (“The Place Where Lost Things Go”).
@@ -146,4 +150,93 @@ _O Retorno de Mary Poppins_ está nos cinemas.
 
 ---
 
+{:.full-width}
+<iframe width="806" height="453" src="https://www.youtube.com/embed/rJqOKGLH_mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## A Balada de Buster Scruggs
+
+**Indicações:** 3. Figurino, Canção Original (“When a Cowboy Trades His Spurs for Wings”), Roteiro Adaptado.
+
+Uma das surpresas dos anúncios foi o carinho da Academia pelo novo filme dos Irmãos Coen, vencedores do Oscar por _Onde os Fracos Não Têm Vez_. (prêmios de melhor filme e diretor em 2008). _Buster Scruggs_, a antologia de contos de faroeste que vão desde musical e comédia, passando pelo terror e o experimental, está longe de ser um dos filmes mais premiados da dupla de roteiristas e diretores, mas isso fala mais sobre o quão premiados os Coen são.
+
+_A Balada de Buster Scruggs_ já está disponível no [Netflix](https://www.netflix.com/br/title/80200267).
+
+---
+
+{:.full-width}
+<iframe width="806" height="453" src="https://www.youtube.com/embed/ISR_9pHqASU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Poderia Me Perdoar?
+
+**Indicações:** 3. Atriz (Melissa McCarthy), Ator Coadjuvante (Richard E. Grant), Roteiro Adaptado.
+
+É daquelas decepções ver que Melissa McCarthy precisou de uma atuação dramática pra poder ser indicada a um Oscar de melhor atriz (ela já havia concorrido à atriz coadjuvante pelo excelente _Missão Madrinha de Casamento_). _Poderia Me Perdoar?_, condando a história real da jornalista Lee Israel que forjou cartas de pessoas famosas na década de 1990, era um dos favoritos a ser indicado à categoria de roteiro e atriz desde que lançou nos cinemas dos EUA ano passado. A categoria de melhor atriz esse ano está acirrada, com Glenn Close como grande favorita, mas a estreante Yalitza Aparicio e a veterana Olivia Colman logo atrás, então esse provavelmente não vai ser o ano de McCarthy.
+
+_Poderia Me Perdoar_ será lançado nos cinemas em 7/02.
+
+---
+
+{:.full-width}
+<iframe width="806" height="453" src="https://www.youtube.com/embed/-kOYORgvljA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Guerra Fria
+
+**Indicações:** 3. Diretor, Direção de Fotografia, Filme em Língua Estrangeira.
+
+O lindo, devastador _Guerra Fria_, do mesmo diretor do vencedor do Oscar _Ida_ (prêmio de filme em língua estrangeira, 2015), é a grande pedra no sapato entre _Roma_ e a total dominância nas três categorias que ambos compartilham. A tristíssima história de amor do novo filme de Paweł Pawlikowski também conta com uma fotografia em preto-e-branco maravilhosa, uma direção firme de seu mestre e é um dos filmes mais agraciados do ano por festivais no mundo afora. É merecidíssimo todo esse amor, também.
+
+_Guerra Fria_ será lançado nos cinemas em 7/02.
+
+---
+
+{:.full-width}
+<iframe width="1280" height="568" src="https://www.youtube.com/embed/sIBdHJQWK5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Se A Rua Beale Falasse
+
+**Indicações:** Atriz Coadjuvante (Regina King), Trilha-Sonora Original, Roteiro Adaptado.
+
+Deixa eu abrir meu coração aqui. Olhem o trailer de _Se a Rua Beale Falasse_ e me digam que não é a coisa mais linda que vocês já viram. Do mesmo diretor de _Moonlight: Sob a Luz do Luar_ (prêmios de melhor filme, ator coadjuvante e roteiro adaptado em 2017), _Se A Rua Beale Falasse_ é a tão esperada adaptação do essencial romance de James Baldwin, e o novo filme de uma das vozes mais talentosas do cinema americano contemporâneo. Adorado pela crítica, o filme não conseguiu impressionar a academia, que pelo visto ainda se depara com a quota de _filmes negros_ anual, já tendo dado indicações para _Infiltrado na Klan_. É uma pena. É um filme que merecia muito mais, mas ao menos merece ganhar tudo o que foi indicado (é o favorito para atriz coadjuvante, e eu realmente espero que leve trilha-sonora e roteiro).
+
+_Se A Rua Beale Falasse_ será lançado nos cinemas em 7/02 (era hoje e foi adiado!).
+
+---
+
+## Outros indicados
+
+Os grandes indicados à todas as categorias principais já estão aí em cima, mas não custa dar uma visão geral nos _outros_ filmes indicados e que podem ser mais difíceis de encontrar.
+
+**3 indicações:**
+
+- _Ilha de Cachorros_ (animação, trilha-sonora): já disponível em DVD, blu-ray e no iTunes e Google Play.
+- _Duas Rainhas_ (figurino, maquiagem e cabelo): será lançado nos cinemas em 4/04 (?!).
+- _Nunca Deixe de Lembrar_ (direção de fotografia, filme estrangeiro): ainda sem previsão de lançamento.
+- _RGB_ (documentário, canção original): ainda sem previsão de lançamento.
+
+**Animação:**
+
+Esses são relativamente fáceis de encontrar. _Incríveis 2_ já está disponível em blu-ray e DVD e no NET NOW. _WiFi Ralph_ e _Homem-Aranha no Aranhaverso_ estão nos cinemas, e _Mirai_ ainda não tem previsão de lançamento por aqui.
+
+**Filme de Língua Estrangeira:**
+
+Todos os filmes já tem data de lançamento. Além dos que já mencionamos, _Cafarnaum_ e _Assunto de Família_ já estão nos cinemas.
+
+**Documentário e Curta-Metragem (Documentário):**
+
+Essas duas categorias são difíceis. Nenhum dos documentários indicados possuem previsão de lançamento no Brasil, mas o fato de serem indicados ao Oscar significa que eles tem chances de serem comprados por canais de TV ou pelo Netflix, como aconteceu nos anos anteriores. Quero manter esse espaço atualizado conforme for recebendo mais informações.
+
+Já os curtas de documentário são mais fáceis de encontrar. _A Partida Final_ está disponível no [Netflix](https://www.netflix.com/br/title/80210691); _A Night at the Garden_ pode ser visto no [Vimeo](https://anightatthegarden.com), e _Black Sheep_ está no [YouTube](https://youtu.be/A-Y5zvnDxsI). _Lifeboat_ e _Period. End of Sentence._ ainda não estão disponíveis online.
+
+**Curtas-Metragem (Ficção e Animação):**
+
+Eu não consegui encontrar nenhum dos curtas de ficção online, mas vou atualizar o post quando eles começarem a ser disponibilizados (alguns ganham uma carreira em festivais que só acabam alguns meses depois do Oscar, o que os deixam indisponíveis online). O único disponível online, _[Marguerite](https://ici.tou.tv/marguerite/S01E01)_ está com trava de região.
+
+Dois curtas de animação estão disponíveis pra público: _Bao_ foi lançado junto a _Incríveis 2_, e pode ser conferito no blu-ray e DVD como um extra. O bonitinho _One Small Step_ está disponível no [Vimeo](https://vimeo.com/255698341).
+
+**Extras!**
+
+Filmes com uma indicação, rapidão:
+
+_A Esposa_, o favorito na categoria de Atriz (para Glenn Close), já está nos cinemas.
+
+Na categoria de efeitos visuais: _Os Vingadores: Guerra Infinita_, _Jogador Nº 1_, _Christopher Robin: Um Reencontro Inesquecível_ e _Han Solo: Uma História Star Wars_ já estão todos disponíveis em DVD, blu-ray e no Telecine Play.
