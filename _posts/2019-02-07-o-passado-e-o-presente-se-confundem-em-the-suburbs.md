@@ -8,6 +8,7 @@ tags:
   - músicas
 excerpt: 'A obra-prima do Arcade Fire vai fazer dez anos, e é cada vez mais essencial.'
 image: 'https://i.imgur.com/GvF7Bdg.jpg'
+author: Arthur Freitas
 ---
 Eu escuto _The Suburbs_ todo o verão desde seu lançamento, em 2010. Quando eu descobri o Arcade Fire, um pouco antes do lançamento do álbum, eu escutava _Funeral_ e _Neon Bible_ direto, no repeat, quase todos os dias. Foi a trilha-sonora do último ano do ensino fundamental e do meu primeiro ano do ensino médio. _The Suburbs_ mudou tudo. Ele entendia a minha vontade de sair de casa e nunca mais voltar. Ele me acompanhou no meu primeiro emprego arrumando computadores de uma lan-house (!!). Ele soava como os meus dias de verão — gigantes, ensolarados, onde o dia durava uma eternidade de tédio, do bom e do ruim.
 
