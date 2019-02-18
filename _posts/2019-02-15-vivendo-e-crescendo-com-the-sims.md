@@ -40,6 +40,7 @@ Ano passado a Maxis lançou _The Sims 4: Estações_, e eu preciso dizer logo de
 
 _The Sims 4: Estações_ foi o pacote de expansão mais esperado do jogo, talvez perca apenas para _Gatos & Cães_, o equivalente ao _Bichos de Estimação_ das gerações passadas. _Estações_ traz pro jogo… bem, estações. O verão californiano eterno que o jogo base oferecia dá espaço para outono, inverno e primavera poderem diversificar o cenário da vizinhança de formas mais profundas. Chuvas e tempestades agora dificultam seu Sim de _querer_ ir trabalhar. Ondas de calor em Oasis Springs, a vizinhança no meio do deserto, fazem o Sim procurar um jeito de se divertir dentro de casa (ou pensar em se mudar). Mais que estações, porém, o pacote de expansão apresenta o Calendário e as Comemorações: equivalentes do Natal, dia das bruxas, Páscoa e qualquer outro evento que você pode imaginar. O Calendário também permite criar seus próprios eventos (o meu primeiro evento era o dia de todo mundo correr pelado, foi obviamente um sucesso) e se preparar para o próximo.
 
+{:.full-width}
 ![Captura de tela de The Sims 4](https://i.imgur.com/uwPfRqL.png)
 _É óbvio que dá pra morrer de insolação em Estações._
 
