@@ -2,7 +2,7 @@
 date: '2019-02-21 07:56 -0300'
 layout: post
 category: essenciais
-published: false
+published: true
 title: Onde Vivem os Monstros é uma obra-prima sobre a infância
 image: 'https://i.imgur.com/3sXyDeb.jpg'
 tags:
