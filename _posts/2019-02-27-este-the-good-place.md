@@ -26,6 +26,7 @@ Agora ela está presa num lugar onde xingamentos não são permitidos (e nem pro
 
 Entre uma catástrofe e outra, Eleanor percebe que sua ida para o “Good Place” alterou alguma coisa e começa a se questionar se talvez não há outros como ela.
 
+{:.full-width}
 ![Cena de The Good Place](https://i.imgur.com/ypQJsOX.jpg)
 
 Mas sem querer dar spoilers demais e estragar a série pra você, eu vou falar de algo tão bom quanto _The Good Place_: o podcast sobre a série. O podcast, de mesmo nome, é produzido pela NBC, mesma emissora da série, e tem como host o ator Marc Evan Jackson que faz o personagem Shawn.
@@ -39,5 +40,9 @@ Com bom humor e informação esse podcast é um complemento perfeito para essa s
 ---
 
 **Você pode assistir _The Good Place_, a série, [no Netflix](https://www.netflix.com/title/80113701); e ouvir _The Good Place_, o podcast, [no seu player favorito](https://pca.st/vpoC).**
+
+---
+
+Emanuele Spies é queer, fã incondicional de _Carol_, (2015 dir. Todd Haynes), e Cate Blanchett. Ouvinte assídua de Podcasts e apaixonada por tecnologia.
 
 
