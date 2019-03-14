@@ -2,7 +2,7 @@
 date: '2019-03-13 20:33 -0300'
 layout: post
 category: episódios
-published: false
+published: true
 title: “Remedial Chaos Theory” é o episódio mais importante de Community
 tags:
   - séries
