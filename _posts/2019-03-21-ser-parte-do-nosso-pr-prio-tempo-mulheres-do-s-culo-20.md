@@ -23,9 +23,9 @@ Esse é um filme que está preocupado em ver Dorothea, e Jamie, e Abbie e Julie 
 
 _Mulheres do Século 20_ olha para essas mulheres que tentam criar Jamie, olha para quem elas foram e quem elas querem ser. Vê o tempo em que Dorothea cresceu. Vê como Dorothea vai ser vista pelo seu filho no futuro, e como vai ser impossível para ele contar para seus próprios filhos quem sua mãe foi. É um filme que vive nessa delicada ode à vida sem romantizá-la demais, porque ao romantizar alguém você simplifica sua existência. E nada em Dorothea é simples — uma mulher que vive em conflitos, mas que se mostra forte para seu filho; uma mulher ansiosa para entender quem Jamie vai se tornar, mas que tem luta para entender que mundo é esse que o molda. É um filme que observa como essas pessoas, Dorothea e Abbie e Julie e Jamie, são muito o produto do tempo deles, mas também aquilo que tornou o tempo deles tão único. Como eles formaram, entre si, uma comunidade que significava algo enquanto eles estavam juntos, e como ela significou outra coisa completamente diferente anos depois. _Mulheres do Século 20_ folheia os livros e revistas, escuta as músicas e vê os filmes que formaram Jamie e Julie, que faziam Abbie pular e que mostravam para Dorothea que seu tempo havia passado. Mas é um filme muito mais preocupado com essas pessoas do que com essas influências. Ao folhear a enciclopédia da vida de Dorothea, talvez Jamie perceba que mais do que ler tudo o que tornou ela a mulher que ele tanto quer entender, ele entenda que o impulso de entendê-la é justamente aquilo que nos impede de realmente compreender que ela foi, mas que é tudo o que vamos ter dela.
 
+---
+
 {:.full-width}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVL3AYkDqQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
-
-**Você pode assistir _Mulheres do Século 20_ no Telecine Play.**
+**Você pode assistir _Mulheres do Século 20_ no [Telecine Play](https://www.telecineplay.com.br/filme/Mulheres_Do_Século_20_11145).**
