@@ -2,7 +2,7 @@
 date: '2019-03-22 09:00 -0300'
 layout: post
 category: achados
-published: false
+published: true
 title: 'Ser parte do nosso próprio tempo: Mulheres do Século 20'
 tags:
   - filmes
