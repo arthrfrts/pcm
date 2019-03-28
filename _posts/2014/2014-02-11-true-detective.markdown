@@ -17,4 +17,4 @@ Nada em _True Detective_ é entregue facilmente, mas tudo é muitíssimo bem exp
 
 Não é errado dizer que estamos enfrentando uma maré de histórias mal contadas. Não porque não existam histórias bem contadas, mas aquelas parecem estar mais em evidência. Mas será que, em uma era de _The BigBang Theory_, _Awkward_ e _Game of Thrones_, temos lugar para uma boa história?
 
-_True Detective_ promete trazer de volta o bom e velho mistério de deixar de queixo caído. Com uma ótima estética e uma história bem dosada, usando seus elementos sem se tornar refém deles, a série acaba de entrar para os meus favoritos, ao lado de _[Black Mirror]({% post_url 2013-11-12-voce-ainda-nao-assistiu-black-mirror %})_.
+_True Detective_ promete trazer de volta o bom e velho mistério de deixar de queixo caído. Com uma ótima estética e uma história bem dosada, usando seus elementos sem se tornar refém deles, a série acaba de entrar para os meus favoritos, ao lado de _[Black Mirror]({% post_url 2013/2013-11-12-voce-ainda-nao-assistiu-black-mirror %})_.

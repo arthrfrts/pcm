@@ -5,7 +5,7 @@ date: "2014-08-07 01:10:27 -0300"
 category: resenhas
 author: Arthur Freitas
 tags:
-  - livros
+  - leituras
 image: "https://arthrfrts.files.wordpress.com/2018/03/serena-capa-672x372.jpg"
 ---
 

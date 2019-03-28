@@ -10,7 +10,7 @@ author: Arthur Freitas
 
 Quando eu terminei de ouvir _Everything Now_, eu fiquei desesperado.
 
-O Arcade Fire sempre foi adepto de grandes declarações. Desde _Funeral_, uma ode à morte e ao luto, até _[Reflektor](https://paomortadela.com.br/2017/arcade-fire-reflektor.html)_, sua elegia ao amor, eles estão acostumados em usarem suas músicas para tocar em temas maiores do que seus braços podem abraçar. Com _Everything Now_ eles fazem justamente isso, e _somente_ isso. Mas nunca antes na carreira da banda as coisas estiveram tanto em jogo quanto agora.
+O Arcade Fire sempre foi adepto de grandes declarações. Desde _Funeral_, uma ode à morte e ao luto, até _[Reflektor]({%- post_url 2017/2017-01-24-arcade-fire-reflektor -%})_, sua elegia ao amor, eles estão acostumados em usarem suas músicas para tocar em temas maiores do que seus braços podem abraçar. Com _Everything Now_ eles fazem justamente isso, e _somente_ isso. Mas nunca antes na carreira da banda as coisas estiveram tanto em jogo quanto agora.
 
 <iframe width="1280" height="739" src="https://www.youtube.com/embed/zC30BYR3CUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
