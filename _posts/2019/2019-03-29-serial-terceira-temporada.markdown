@@ -1,13 +1,14 @@
 ---
-layout: post
-title: 'A justiça que nos cerca'
 date: '2019-03-29 09:00'
+layout: post
+title: A justiça que nos cerca
 author: Arthur Freitas
 image: 'https://i.imgur.com/YieSypth.jpg'
-category: exposição
+category: essenciais
 tags:
   - links
   - podcasts
+published: true
 ---
 
 A terceira temporada de _Serial_ começa com a história de Anna, uma mulher que se meteu em um briga de bar depois de vários homens agarrarem ela. Anna acabou sendo a única presa e acusada (de agredir um policial) no incidente. Durante o episódio, Anna vai precisar visitar o tribunal várias vezes para as várias etapas do seu julgamento; vai ser enterrada em taxas administrativas pra pagar; e vai aprender sobre “inocência como uma contravenção” — a ideia de que o sistema de justiça dá mais incentivos para encorajar pessoas marginalizadas para declarar-se como culpadas em crimes que elas não cometeram.
