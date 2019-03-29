@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Justiça que nos cerca: Serial, terceira temporada'
+title: 'A justiça que nos cerca'
 date: '2019-03-29 09:00'
 author: Arthur Freitas
 image: 'https://i.imgur.com/YieSypth.jpg'
