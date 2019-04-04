@@ -2,7 +2,7 @@
 date: '2019-04-04 09:00:00 -0300'
 layout: post
 category: resenhas
-published: false
+published: true
 title: Onde estão Os Ratos?
 tags:
   - leituras
