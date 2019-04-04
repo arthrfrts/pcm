@@ -75,4 +75,4 @@ Naziazeno não pediu pra nascer, e um dia morrerá sem aviso prévio.
 
 Enquanto esse dia não chega, ele tem de sentir-se indigno sempre que se vê incapaz de cumprir qualquer espectativa social que recaia sobre ele.
 
-Um ano após o lançamento do romance, Dyonélio Machado recebe o prêmio Machado de Assis de dentro de uma penitenciária, como preso político. Os militares entendiam como subversiva essa revelação trazida pelo romance, de que um dos grandes problema do Brasil é que nos ensinaram a enxergar ratos nos rostos errados. 
+Um ano após o lançamento do romance, Dyonélio Machado recebe o prêmio Machado de Assis de dentro de uma penitenciária, como preso político. Os militares da ditadura Vargas entendiam como subversiva essa revelação trazida pelo romance, de que um dos grandes problema do Brasil é que nos ensinaram a enxergar ratos nos rostos errados. 
