@@ -6,7 +6,7 @@ permalink: "/sobre/privacidade/"
 
 Você usa este site, e tudo hospedado aqui, por sua conta e risco. Qualquer coisa que você baixar para o seu computador também é feito por sua conta e risco.
 
-Os sites que linkados aqui estão sujeitos a um alto nível de escrutínio. No entanto, se você visitar um site externo (qualquer coisa que não esteja em paomortadela.com.br), a responsabilidade muda de acordo com a política de privacidade e os termos desse site. Em suma, o conteúdo em sites externos estão fora do nosso controle, obviamente.
+Os sites que linkados aqui estão sujeitos a um alto nível de escrutínio. No entanto, se você visitar um site externo (qualquer coisa que não esteja em paomortadela.com.br), a responsabilidade muda de acordo com a política de privacidade e os termos desse site. Em suma, o conteúdo em sites externos está fora do nosso controle.
 
 ---
 
