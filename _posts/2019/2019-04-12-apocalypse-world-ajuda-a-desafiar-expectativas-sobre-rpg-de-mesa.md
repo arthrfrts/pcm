@@ -32,7 +32,7 @@ Apocalypse World é um jogo de [D. Vincent Baker](https://twitter.com/lumpleygam
 
 > “Ninguém lembra como ou porque. Talvez ninguém nunca tenha sabido. As sobreviventes mais velhas têm memórias de infância daquilo: cidades queimando, sociedade em caos e então colapso, famílias em modo de pânico, as noites estranhas em que o céu ardente transformava a meia-noite em um meio-dia cor de sangue. Agora o mundo não é mais como foi uma vez. Olhe à sua volta: evidentemente, certamente, não mais como era. Mas também feche seus olhos, abra seu cérebro: algo está errado. Nos limites da sua percepção, algo uivando, sempre presente, cheio de ódio e terror. Dessa coisa, do turbilhão psíquico do mundo, nenhum de nós tem abrigo.”
 > 
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 8</cite>
+> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 8</cite>
 
 O surgimento de _Apocalypse World_ entre os círculos de jogos indie provocou uma reação, guardadas as devidas proporções, tão importante quanto a da licença d20, e vários jogos surgiram a partir das ideias que ele ajudou a popularizar. Vou tentar explicar como esses jogos, _Powered by The Apocalypse_, podem desafiar algumas expectativas comuns sobre RPGs. Eles não são os únicos nem os primeiros a fazer isso, mas para mim eles explicam certas coisas de forma a abrir caminho para visões mais amplas sobre jogos narrativos.
 
@@ -55,7 +55,7 @@ Além desses aspectos de pontapé inicial, o jogo apresenta todas as suas mecân
 
 > “A regra para os movimentos **é para fazer, faça**. Para que seja um movimento e a jogadora role dados, a personagem tem que fazer alguma coisa que conta como aquele movimento; e a qualquer momento que a personagem fizer algo que conta como um movimento, é o movimento e a jogadora deve rolar os dados.”
 > 
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 10</cite>
+> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 10</cite>
 
 É uma pequena instrução a ser seguida, que inicia de dentro do jogo em determinadas circunstâncias. Dessa forma, todas as mecânicas são apresentadas de forma simples, coesa e eficaz. Você rola os dados e segue as instruções.
 
@@ -65,11 +65,12 @@ Através de um de seus conceitos centrais, “A Conversa”, _Apocalypse World_ 
 
 > “Você provavelmente já sabe disso: jogos narrativos são uma conversa. Você e as outras jogadoras vão e vem, falando sobre essas personagens fictícias nas circunstâncias fictícias delas, fazendo o que quer que façam. Como em qualquer conversa, cada um tem a sua vez, mas não é como se vocês ficassem esperando sua vez, certo? Às vezes vocês falam umas por cima das outras, interrompem, constroem sobre as ideias umas das outras, monopolizam e ficam na espera. Tudo bem.”
 >
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 9</cite>
+> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 9</cite>
 
 A Conversa simplifica o que nós imaginamos como RPG, como jogo narrativo. Algo que parecia muito difícil e floreado soa estranhamente familiar. Combinado com as escolhas de design anteriores, _Apocalypse World_ se torna um tipo de “molde” de conversação, em que um grupo de pessoas imagina uma situação, e então recorre às regras rapidamente quando algo incerto ou desafiador surge para suas protagonistas.
 
 > “Essas regras servem como mediador da conversa. Elas entram quando alguém diz algumas coisas específicas, e elas impõem restrições nas coisas que todas devem dizer depois. Faz sentido, certo?”
+>
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 9</cite>
 
 {:.full-width}
@@ -83,20 +84,23 @@ Diretamente ligada à ideia anterior, está a de que Mestrar (o ato de narrar o 
 A segunda coisa que se lê na primeira página sobre como narrar Apocalypse World é:
 
 > “Há um milhão de maneiras de Mestrar jogos; Apocalypse World pede por uma em particular. Este capítulo é ela. Siga o que vem a seguir como regras. Todo o resto do jogo é construído sobre essa base.”
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 80</cite>
+>
+> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 80</cite>
 
 Há uma tentativa clara de vincular a imagem do narrador ao restante do grupo, e um enfoque no fato de ele, como qualquer outro jogador, deve seguir determinadas regras durante a partida. É uma coisa simples, mas que acaba respingando em [outras discussões regulares da comunidade de RPG](https://player.fm/series/cafe-com-dungeon-2441228/ep-221-a-regra-de-ouro).
 
 Partindo do pressuposto d’A Conversa, o papel de Mestre de Cerimônias (MC) é explicado com “a Agenda” e “os Princípios”. A Agenda determina os seus objetivos mais básicos na conversa, o que você deve tentar dizer para que o jogo aconteça. Os dois primeiros itens dela dizem coisas como:
 
-> - Faça Apocalypse World parecer real.
+> “- Faça Apocalypse World parecer real.
 > - Faça com que as vidas das personagens das jogadoras não sejam monótonas.”
+>
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág.80</cite>
 
 A partir dessa base simples, os Princípios delineiam como você faz para dizer facilmente algo que leve a Agenda adiante. Os nomes dos Princípios são simples de lembrar, como as frases curtas da Agenda, mas são esmiuçados em páginas seguintes para explicar exatamente qual é a ideia por trás daquilo.
 
 > “**Vomite apocalíptica.** Cultive uma imaginação cheia de paisagens desagradáveis, imagens ensanguentadas berrantes, e justaposições grotescas. Em Apocalypse World, quando a chuva cai ela é cheia de grãos pretos e finos como toner, e todas as folhas das plantas ficam cinza por absorverem isso. Do lado de fora com os carros destroçados, cachorros selvagens brigam por território, entre si e com os ratos, e uma das ninhadas tá desenvolvendo uma pálpebra interna protetora, de osso branco. Se chegar perto demais você consegue ouvir o clique claque quando eles piscam.”
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 80</cite>
+>
+> <cite>– Traduzido livremente de Apocalypse World, segunda edição, pág. 80</cite>
 
 O texto das instruções é ao mesmo tempo evocativo do tipo de experiência de jogo que se pretende, e elucidativo de como você faz para que ela se torne realidade.
 
@@ -107,6 +111,7 @@ Sintetizando o tipo de planejamento não-oficial que já era feito por muitos na
 > “As oponentes das personagens são as mais óbvias e imediatas ameaças delas, mas também suas aliadas, suas equipes, gangues, o povo delas, também são ameaças. Pertencem a elas agora, mas podem se virar contra elas, e vão, tão rápido quanto sua fome e desespero superarem sua lealdade. E enquanto isso, ainda são ameaças a todas as outras pessoas. [...]
 >
 > [...] Criar as ameaças significa tomar decisões sobre sua história de vida e motivações. Decisões reais, pesadas, que exigem criatividade, atenção e cuidado. Você faz isso fora de jogo, entre as sessões, para que possa ter tempo e espaço para pensar.”
+>
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 106</cite>
 
 As Ameaças definem tudo, dos temas que virão à tona no jogo ao tipo de consequência que aquele problema pode trazer se as protagonistas não lidarem com ele. Uma lista de tipos de Ameaça dá um apoio extra, restringindo quais são as coisas que aquela ficção apocalíptica pode tratar. Elas podem variar de oponentes óbvias como Warlords e Brutes, até coisas menos tangíveis como Landscapes e Afflictions.
@@ -119,6 +124,7 @@ As Ameaças definem tudo, dos temas que virão à tona no jogo ao tipo de conseq
 > - Desilusão (impulso: dominar as escolhas e ações de pessoas)
 > - Sacrifício (impulso: deixar pessoas sem chão)
 > - Barreira (impulso: empobrecer pessoas)”
+>
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 110</cite>
 
 Essas Ameaças acompanham instruções específicas de sua construção, dada que ela vem diretamente dos acontecimentos dentro da história. Você termina com um número de elementos simples, com poucos itens a lembrar, que você tem instruções para usar diretamente em suas falas graças às regras apresentadas anteriormente.
@@ -143,8 +149,7 @@ Eu evitei falar sobre isso até agora, mas a quebra desse paradigma em específi
 >
 > Tudo que você disser, deve dizer para cumprir [sua Agenda], e nada mais. Não é parte da sua Agenda, por exemplo, fazer as jogadoras perderem, ou negar o que elas querem, ou punir elas, ou controlar elas, ou fazer com que elas atravessem sua história pré planejada (NÃO planeje uma história de antemão, e eu não tô brincando, porra). Não é o seu trabalho colocar elas em situações incorrigíveis ou becos sem saída, nem puxar o tapete debaixo dos pés delas. Vá atrás de qualquer uma dessas coisas, e você vai terminar em um jogo chato que faz Apocalypse World parecer forçado, e você vai estar decidindo previamente o que acontece sozinha, não jogando para descobrir.
 > 
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 110
-</cite>
+> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 110</cite>
 
 Esse parágrafo, e todos os seus desdobramentos através do jogo, foram a força mais poderosa no meu processo de desconstrução das expectativas anteriores sobre RPG. Não só o jogo pede ativamente para que não preparemos narrativas de antemão (com ênfase especial), ele também explicitamente pede um posicionamento diretamente colaborativo com os outros participantes. O jogo pede para que você siga as regras e confie que, fazendo isso, não haverá qualquer necessidade de ficar na defensiva.
 
@@ -152,7 +157,7 @@ Esse parágrafo, e todos os seus desdobramentos através do jogo, foram a força
 >
 > Se estiver jogando o jogo como uma adversária das jogadoras, suas responsabilidades sobre decisões e sua vigilância das regras constituem um conflito de interesses. Jogue o jogo com as jogadoras, não contra elas.
 >
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, págs. 81-82</cite>
+> <cite>— Traduzido livremente de Apocalypse World, segunda edição, págs. 81-82</cite>
 
 {:.full-width}
 ![Tabelas de um RPG indie](https://i.imgur.com/Aed6NGD.png)
@@ -171,7 +176,7 @@ _Apocalypse World_ contém, em si, discussões extensas sobre como suas regras f
 
 > Então, tá, baseado em Apocalypse World, mas não é mais Apocalypse World? Foda pra caralho.
 >
-> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 278</cite>
+> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 278</cite>
 
 Os jogos _Powered by The Apocalypse_ são hoje uma família vasta de experiências, de narrativas sobre romances adolescentes sobrenaturais em _Monsterhearts_, até astros dos filmes de ação e porradaria em _Action Movie World_ ou novelas mexicanas em _Passion de las Pasiones_. Nós temos até mesmo jogos originais brasileiros, como _[Goddess Save The Queen](https://www.dungeonist.com/marketplace/product/goddess-save-the-queen/)_ e _[Deloyal](http://www.pensamentocoletivo.com.br/loja/r-p-g/deloyal-versao-digital/)_.
 
