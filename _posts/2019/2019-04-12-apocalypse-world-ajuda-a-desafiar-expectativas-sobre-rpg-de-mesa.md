@@ -2,11 +2,12 @@
 date: '2019-04-12 09:00:00 -0300'
 layout: post
 category: exposições
-title: "Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa"
+title: Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa
 image: 'https://i.imgur.com/JoGNqv9.jpg'
 tags:
   - jogos
 author: Raul Fontoura
+published: true
 ---
 Talvez você já tenha jogado RPG no passado. Normalmente RPG surge como aquela brincadeira meio diferente que o seu primo ou amigo da escola trás para um dia de chuva, ou quando cai a luz, ou só como um jeito de quebrar a monotonia mesmo. Talvez você só se lembre que existe porque ele apareceu em um episódio de _Bob Esponja_ ou _Stranger Things_. Talvez só tenha jogado uma versão eletrônica. Independente disso, e até mesmo entre veteranos dos jogos, existe uma idéia cultural um pouco difusa sobre o que é um RPG de mesa, e como ele funciona.
 
@@ -71,7 +72,7 @@ A Conversa simplifica o que nós imaginamos como RPG, como jogo narrativo. Algo 
 > “Essas regras servem como mediador da conversa. Elas entram quando alguém diz algumas coisas específicas, e elas impõem restrições nas coisas que todas devem dizer depois. Faz sentido, certo?”
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 9</cite>
 
-
+{:.full-width}
 ![Tabelas ilustrativa de relação de danos e ações de um manual de Dungeons & Dragons](https://i.imgur.com/8qmz9Ab.jpg)
 
 ## “Mestrar é só pra quem pode”
@@ -124,7 +125,7 @@ Essas Ameaças acompanham instruções específicas de sua construção, dada qu
 
 Você pode estar se perguntando: “Mas e da primeira vez que forem jogar? Não tem nada pra se basear ainda. Tem uma história pronta? Não precisa planejar?” Isso nos leva a…
 
-
+{:.full-width}
 ![Desenho de um mestre — o jogador que guia a trajetória de uma história em um RPG](https://i.imgur.com/cqrBhOe.jpg)
 
 ## “O Mestre faz uma história e os jogadores escolhem o final”
@@ -153,6 +154,7 @@ Esse parágrafo, e todos os seus desdobramentos através do jogo, foram a força
 >
 > <cite>Traduzido livremente de Apocalypse World, segunda edição, págs. 81-82</cite>
 
+{:.full-width}
 ![Tabelas de um RPG indie](https://i.imgur.com/Aed6NGD.png)
 
 Eu poderia ir além, falar sobre vários outros aspectos de _Apocalypse World_ e dos jogos _Powered by The Apocalypse_: como alguns deles fazem com que “PVP” não seja um problema, mas algo divertido ou até desejado; como eles impedem que campanhas “durem para sempre” e acabem sem conclusão; ou como perguntas e respostas são usadas dentro dessa vertente de jogos para estabelecer os assuntos d’A Conversa de forma orgânica. Talvez no futuro.
