@@ -2,8 +2,7 @@
 date: '2019-04-12 09:00:00 -0300'
 layout: post
 category: exposições
-published: false
-title: "Apocalypse World ajuda a desafiar\Lexpectativas sobre RPG de mesa"
+title: "Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa"
 image: 'https://i.imgur.com/JoGNqv9.jpg'
 tags:
   - jogos
@@ -31,7 +30,8 @@ Pessoalmente, eu passei anos igualando _D&D_, e as expectativas estabelecidas po
 Apocalypse World é um jogo de [D. Vincent Baker](https://twitter.com/lumpleygames) e [Meguey Baker](https://twitter.com/NightSkyGames), sobre a vida depois de um apocalipse terrível que ninguém sabe dizer ao certo como aconteceu.
 
 > “Ninguém lembra como ou porque. Talvez ninguém nunca tenha sabido. As sobreviventes mais velhas têm memórias de infância daquilo: cidades queimando, sociedade em caos e então colapso, famílias em modo de pânico, as noites estranhas em que o céu ardente transformava a meia-noite em um meio-dia cor de sangue. Agora o mundo não é mais como foi uma vez. Olhe à sua volta: evidentemente, certamente, não mais como era. Mas também feche seus olhos, abra seu cérebro: algo está errado. Nos limites da sua percepção, algo uivando, sempre presente, cheio de ódio e terror. Dessa coisa, do turbilhão psíquico do mundo, nenhum de nós tem abrigo.”
-> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 8</cite>
+> 
+> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 8</cite>
 
 O surgimento de _Apocalypse World_ entre os círculos de jogos indie provocou uma reação, guardadas as devidas proporções, tão importante quanto a da licença d20, e vários jogos surgiram a partir das ideias que ele ajudou a popularizar. Vou tentar explicar como esses jogos, _Powered by The Apocalypse_, podem desafiar algumas expectativas comuns sobre RPGs. Eles não são os únicos nem os primeiros a fazer isso, mas para mim eles explicam certas coisas de forma a abrir caminho para visões mais amplas sobre jogos narrativos.
 
@@ -53,7 +53,8 @@ _Apocalypse World_, como todos os jogos, ainda necessita que você aprenda as re
 Além desses aspectos de pontapé inicial, o jogo apresenta todas as suas mecânicas como “movimentos”. Um movimento é como um algoritmo de jogo: _**se** uma determinada coisa acontecer na história, **então** as seguintes consequências podem surgir_.
 
 > “A regra para os movimentos **é para fazer, faça**. Para que seja um movimento e a jogadora role dados, a personagem tem que fazer alguma coisa que conta como aquele movimento; e a qualquer momento que a personagem fizer algo que conta como um movimento, é o movimento e a jogadora deve rolar os dados.”
-> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 10</cite>
+> 
+> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 10</cite>
 
 É uma pequena instrução a ser seguida, que inicia de dentro do jogo em determinadas circunstâncias. Dessa forma, todas as mecânicas são apresentadas de forma simples, coesa e eficaz. Você rola os dados e segue as instruções.
 
@@ -62,7 +63,8 @@ Mesmo passando essa primeira barreira, algumas pessoas costumam estranhar a idei
 Através de um de seus conceitos centrais, “A Conversa”, _Apocalypse World_ tenta visualizar todo esse panorama de um outro ângulo.
 
 > “Você provavelmente já sabe disso: jogos narrativos são uma conversa. Você e as outras jogadoras vão e vem, falando sobre essas personagens fictícias nas circunstâncias fictícias delas, fazendo o que quer que façam. Como em qualquer conversa, cada um tem a sua vez, mas não é como se vocês ficassem esperando sua vez, certo? Às vezes vocês falam umas por cima das outras, interrompem, constroem sobre as ideias umas das outras, monopolizam e ficam na espera. Tudo bem.”
-> <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 9</cite>
+>
+> <cite>Traduzido livremente de Apocalypse World, segunda edição, pág. 9</cite>
 
 A Conversa simplifica o que nós imaginamos como RPG, como jogo narrativo. Algo que parecia muito difícil e floreado soa estranhamente familiar. Combinado com as escolhas de design anteriores, _Apocalypse World_ se torna um tipo de “molde” de conversação, em que um grupo de pessoas imagina uma situação, e então recorre às regras rapidamente quando algo incerto ou desafiador surge para suas protagonistas.
 
