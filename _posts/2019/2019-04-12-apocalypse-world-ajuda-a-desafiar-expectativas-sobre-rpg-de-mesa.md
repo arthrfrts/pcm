@@ -145,17 +145,17 @@ Somada com as ideias anteriores, surge uma certa animosidade entre o papel dos j
 Eu evitei falar sobre isso até agora, mas a quebra desse paradigma em específico é a coisa mais revolucionária que eu encontrei quando conheci _Apocalypse World_. Como narrador, o jogo nos pede para “Jogar para descobrir o que acontece”. O terceiro e último item da Agenda é esse, e é seguido de um parágrafo fantástico.
 
 
-> - Jogue para descobrir o que acontece.
+> “- Jogue para descobrir o que acontece.
 >
-> Tudo que você disser, deve dizer para cumprir [sua Agenda], e nada mais. Não é parte da sua Agenda, por exemplo, fazer as jogadoras perderem, ou negar o que elas querem, ou punir elas, ou controlar elas, ou fazer com que elas atravessem sua história pré planejada (NÃO planeje uma história de antemão, e eu não tô brincando, porra). Não é o seu trabalho colocar elas em situações incorrigíveis ou becos sem saída, nem puxar o tapete debaixo dos pés delas. Vá atrás de qualquer uma dessas coisas, e você vai terminar em um jogo chato que faz Apocalypse World parecer forçado, e você vai estar decidindo previamente o que acontece sozinha, não jogando para descobrir.
+> Tudo que você disser, deve dizer para cumprir [sua Agenda], e nada mais. Não é parte da sua Agenda, por exemplo, fazer as jogadoras perderem, ou negar o que elas querem, ou punir elas, ou controlar elas, ou fazer com que elas atravessem sua história pré planejada (NÃO planeje uma história de antemão, e eu não tô brincando, porra). Não é o seu trabalho colocar elas em situações incorrigíveis ou becos sem saída, nem puxar o tapete debaixo dos pés delas. Vá atrás de qualquer uma dessas coisas, e você vai terminar em um jogo chato que faz Apocalypse World parecer forçado, e você vai estar decidindo previamente o que acontece sozinha, não jogando para descobrir.”
 > 
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 110</cite>
 
 Esse parágrafo, e todos os seus desdobramentos através do jogo, foram a força mais poderosa no meu processo de desconstrução das expectativas anteriores sobre RPG. Não só o jogo pede ativamente para que não preparemos narrativas de antemão (com ênfase especial), ele também explicitamente pede um posicionamento diretamente colaborativo com os outros participantes. O jogo pede para que você siga as regras e confie que, fazendo isso, não haverá qualquer necessidade de ficar na defensiva.
 
-> Seja sempre minuciosa, até mesmo generosa, com a verdade. As jogadoras dependem de você para dar a elas informações reais que elas podem realmente usar, sobre os arredores de suas personagens, sobre o que está acontecendo quando e onde. O mesmo com as regras do jogo: jogue com integridade e mão aberta. As jogadoras têm direito a todos os benefícios de seus movimentos, suas rolagens, as forças e recursos de suas personagens. Não engane elas, não banque a sabichona, não faça pegadinhas.
+> “Seja sempre minuciosa, até mesmo generosa, com a verdade. As jogadoras dependem de você para dar a elas informações reais que elas podem realmente usar, sobre os arredores de suas personagens, sobre o que está acontecendo quando e onde. O mesmo com as regras do jogo: jogue com integridade e mão aberta. As jogadoras têm direito a todos os benefícios de seus movimentos, suas rolagens, as forças e recursos de suas personagens. Não engane elas, não banque a sabichona, não faça pegadinhas.
 >
-> Se estiver jogando o jogo como uma adversária das jogadoras, suas responsabilidades sobre decisões e sua vigilância das regras constituem um conflito de interesses. Jogue o jogo com as jogadoras, não contra elas.
+> Se estiver jogando o jogo como uma adversária das jogadoras, suas responsabilidades sobre decisões e sua vigilância das regras constituem um conflito de interesses. Jogue o jogo com as jogadoras, não contra elas.”
 >
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, págs. 81-82</cite>
 
@@ -174,7 +174,7 @@ Lembra quando eu disse, lá no início, que nossas tentativas de adaptar _D&D_ a
 
 _Apocalypse World_ contém, em si, discussões extensas sobre como suas regras foram criadas, e como elas podem ser desconstruídas e retrabalhadas. De certa forma, a Conversa pretendida pelos Baker na mesa de jogo se torna, quase dez anos depois da publicação original, uma conversa da comunidade, e gera uma miríade de outras conversas que seguem esse fluxo.
 
-> Então, tá, baseado em Apocalypse World, mas não é mais Apocalypse World? Foda pra caralho.
+> “Então, tá, baseado em Apocalypse World, mas não é mais Apocalypse World? Foda pra caralho.”
 >
 > <cite>— Traduzido livremente de Apocalypse World, segunda edição, pág. 278</cite>
 
