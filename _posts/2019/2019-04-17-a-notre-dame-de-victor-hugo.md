@@ -2,7 +2,6 @@
 date: '2019-04-17 09:00:00 -0300'
 layout: post
 category: resenhas
-published: false
 title: A Notre Dame de Victor Hugo
 image: 'https://i.imgur.com/mgAX8vK.jpg'
 tags:
