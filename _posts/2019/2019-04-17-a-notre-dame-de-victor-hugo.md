@@ -7,6 +7,7 @@ image: 'https://i.imgur.com/mgAX8vK.jpg'
 tags:
   - leituras
 author: Arthur Freitas
+published: true
 ---
 “Paris foi decapitada”, [disse um homem ao New York Times](https://www.nytimes.com/2019/04/15/world/europe/notre-dame-fire.html) quando o pináculo da Catedral de Notre Dame caiu, consumida pelas chamas.
 
@@ -30,7 +31,7 @@ Victor Hugo escreveu _O Corcunda de Notre Dame_ como uma ode à catedral, que na
 
 Mas é também uma lembrança que Notre Dame já esteve à beira de ser perdida, e foi reencontrada novamente (em grande parte, por causa da _O Corcunda…_) e hoje, tanto a catedral quanto o livro são exemplos daquilo que podemos criar, e testemunhas da passagem do tempo. Hugo descreve como as paredes de Notre Dame, tendo demorado séculos para ficarem prontas, carregam dentro delas a minúscia e o legado de diferentes artistas, de diferentes movimentos artísticos. A ideia de perder nem que seja parte de uma construção dessas é destruir parte desse legado, que tanto significa nosso passado e nos ensina um futuro.
 
-Somados cada um desses artistas, cada um de seus restauradores, cada uma das pessoas que a visitou e criou memórias lá, está a perpétua construção da humanidade em si. Se transforma, se fortalece e eventualmente cai — para então, nas ruínas do que se restou, se une para poder levantar de novo.
+Somados cada um desses artistas, cada um de seus restauradores, cada uma das pessoas que a visitou e criou memórias lá, está a perpétua construção da humanidade em si. Se transforma, se fortalece e eventualmente cai — para então, nas ruínas do que se restou, se unir e levantar de novo.
 
 ---
 
