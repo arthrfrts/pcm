@@ -1,14 +1,15 @@
 ---
-date: '2019-04-24 22:16 -0300'
+date: "2019-04-24 09:00 -0300"
 layout: post
 category: resenhas
 published: false
 title: Au revoir Agnès Varda
-image: 'https://i.imgur.com/JcezTrS.jpg'
+image: https://i.imgur.com/JcezTrS.jpg
 author: Arthur Freitas
 tags:
-  - filmes
+- filmes
 ---
+
 Eu não lembro qual foi o primeiro filme que eu assisti de Agnès Varda, mas eu lembro como eu cheguei nele. Como todo o jovem que aprende sobre “cinema estrangeiro” no ensino médio, eu e o cineclube assistíamos a _O Cão Andaluz_ porque, secretamente, a gente queria impressionar os mais jovens com o nosso gosto requintado de cinema — olha um olho estourando! A gente conversava sobre coisas como “surrealismo” e “nouvelle vague francesa”. A gente sabia que era cult, a gente não tinha ideia do porquê.
 
 Foi quando eu resolvi me deparar com os filmes da nouvelle vague. Foi quando eu assisti _O Acossado_ e fiquei impressionado como era diferente e, ao mesmo tempo, era uma versão primordial de coisas que eu gostava de assistir, como _Pulp Fiction_ ou _Seven_. Depois eu assisti _Os Incompreendidos_, o dramalhão do Truffaut, e me senti ~profundo. Eu lembro de ter me perguntado o que assistir depois desses dois, e algumas pesquisas da internet depois eu estava baixando um filme de Agnès Varda.
