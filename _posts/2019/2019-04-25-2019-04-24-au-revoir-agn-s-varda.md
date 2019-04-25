@@ -2,7 +2,6 @@
 date: "2019-04-24 09:00 -0300"
 layout: post
 category: resenhas
-published: false
 title: Au revoir Agnès Varda
 image: https://i.imgur.com/JcezTrS.jpg
 author: Arthur Freitas
