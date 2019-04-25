@@ -1,5 +1,5 @@
 ---
-date: "2019-04-24 09:00 -0300"
+date: "2019-04-25 09:00 -0300"
 layout: post
 category: resenhas
 title: Au revoir Agnès Varda

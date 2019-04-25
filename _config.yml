@@ -45,6 +45,9 @@ defaults:
     seo:
       type: "BlogPosting"
 
+include:
+  - _redirects
+
 plugins:
   - jemoji
   - jekyll-feed
