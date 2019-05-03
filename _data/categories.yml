@@ -20,6 +20,10 @@ achados:
     _Achados_ são exatamente isso: pequenas descobertas que tivemos nas últimas semanas e que achamos que merecem ser apreciadas por mais pessoas.
 
 episódios:
-  description:
+  description: >-
     _Episódios_ põe na mesa um episódio específico de um seriado, observando como ele usa, modifica ou fortalece a premissa de sua série.
+
+dicas do fim de semana:
+  description: >-
+    O que ver no sábado? Qual a série pra maratonar no domingo? _Dicas do fim de semana_ responde essas (e outras) perguntas com uma boa pedida pra dar aquela descansada.
 ---
