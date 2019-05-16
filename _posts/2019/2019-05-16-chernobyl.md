@@ -1,6 +1,6 @@
 ---
-date: '2019-03-16 09:00:00 -0300'
 layout: post
+date: '2019-05-16 09:00:00 -0300'
 image: 'https://i.imgur.com/xEqGdWC.jpg'
 title: Chernobyl traduz o peso de uma catástrofe
 category: essenciais
@@ -10,7 +10,6 @@ description: >-
   desinformação.
 tags:
   - séries
-published: true
 ---
 
 _Chernobyl_, a nova minissérie da HBO sobre a catástrofe nuclear de 1986 na Ucrânia, não é fácil de assistir. É uma triste e implacável série sobre um desastre feito pelo homem com efeitos que persistem até hoje (e, provavelmente, pelos próximos milhares de anos); que retrata uma disseminação sistemática de desinformação que acaba custando milhares de vidas civis; e que não foge de deixar claro o quão doloroso é o efeito da radiação sobre o corpo humano.
