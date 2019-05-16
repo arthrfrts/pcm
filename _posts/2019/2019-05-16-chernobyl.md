@@ -1,6 +1,6 @@
 ---
-layout: post
 date: '2019-05-16 09:00:00 -0300'
+layout: post
 image: 'https://i.imgur.com/xEqGdWC.jpg'
 title: Chernobyl traduz o peso de uma catástrofe
 category: essenciais
@@ -10,13 +10,14 @@ description: >-
   desinformação.
 tags:
   - séries
+published: true
 ---
 
 _Chernobyl_, a nova minissérie da HBO sobre a catástrofe nuclear de 1986 na Ucrânia, não é fácil de assistir. É uma triste e implacável série sobre um desastre feito pelo homem com efeitos que persistem até hoje (e, provavelmente, pelos próximos milhares de anos); que retrata uma disseminação sistemática de desinformação que acaba custando milhares de vidas civis; e que não foge de deixar claro o quão doloroso é o efeito da radiação sobre o corpo humano.
 
 E, no entanto, é uma bela e esperançosa homenagem às pessoas corajosas que se sacrificaram para evitar que o desastre fosse maior. 
 
-Filmado em um tom trise mas evocativo, o primeiro episódio de _Chernobyl_ vai direto ao ponto. A explosão do reator nuclear na usina de Chernobil acontece em seus primeiros minutos, e o que se segue é uma noite de pesadelo, onde a morte está em toda parte, lentamente levando os que estão em seu caminho. Pior é a oclusão de informação que acontece quase que instantaneamente. O engenheiro responsável pelo teste de segurança que causou o acidente é o primeiro a negar a evidência de uma catástrofe quando ela é oferecida em frente de seus próprios olhos. “Você não viu grafite no chão, porque ele não está lá”, ele grita, pouco antes de pedir a dois de seus subordinados para irem às câmaras do reator para literalmente encararem a morte.
+Filmado em um tom triste mas evocativo, o primeiro episódio de _Chernobyl_ vai direto ao ponto. A explosão do reator nuclear na usina de Chernobil acontece em seus primeiros minutos, e o que se segue é uma noite de pesadelo, onde a morte está em toda parte, lentamente levando os que estão em seu caminho. Pior é a oclusão de informação que acontece quase que instantaneamente. O engenheiro responsável pelo teste de segurança que causou o acidente é o primeiro a negar a evidência de uma catástrofe quando ela é oferecida em frente de seus próprios olhos. “Você não viu grafite no chão, porque ele não está lá”, ele grita, pouco antes de pedir a dois de seus subordinados para irem às câmaras do reator para literalmente encararem a morte.
 
 {:.full-width}
 ![Um “limpador” exterminando animais atingidos pela radiação em cena de Chernobyl](https://i.imgur.com/E82VTDw.jpg)
