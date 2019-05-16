@@ -1,14 +1,16 @@
 ---
-layout: post
 date: '2019-03-16 09:00:00 -0300'
-image: https://i.imgur.com/xEqGdWC.jpg
+layout: post
+image: 'https://i.imgur.com/xEqGdWC.jpg'
 title: Chernobyl traduz o peso de uma catástrofe
 category: essenciais
 author: Arthur Freitas
-description: O terror da nova minissérie é ainda maior ao exprimir o custo humano
-  da desinformação.
+description: >-
+  O terror da nova minissérie é ainda maior ao exprimir o custo humano da
+  desinformação.
 tags:
-- séries
+  - séries
+published: true
 ---
 _Chernobyl_, a nova minissérie da HBO sobre a catástrofe nuclear de 1986 na Ucrânia, não é fácil de assistir. É uma triste e implacável série sobre um desastre feito pelo homem com efeitos que persistem até hoje (e, provavelmente, pelos próximos milhares de anos); que retrata uma disseminação sistemática de desinformação que acaba custando milhares de vidas civis; e que não foge de deixar claro o quão doloroso é o efeito da radiação sobre o corpo humano.
 
@@ -23,7 +25,7 @@ _Chernobyl_ define seu desastre central e o descuido institucional logo no iníc
 
 O que acontece então é _Chernobyl_ entregando seu momento mais poderoso: quando o personagem, Sitinsky, vai para o telhado, nós só vemos seu rosto — uma expressão assustada percorrendo ele. Então ele sai do prédio para confirmar o que já sabia, em um plano que expõe o tamanho da explosão. Quando o vemos novamente, seu rosto está vermelho e começa a sangrar. É quando _Chernobyl_ dá seu soco. Aí está o custo das mentiras. Ao dar a cada personagem o seu devido momento, a série consegue exprimir o peso dessas perdas, o custo de um sacrifício desse tamanho.
 
-Em um episódio seguinte da série, um personagem argumentará que “o poder da União Soviética reside na percepção de seu poder”. É comum dizer que um desastre como Chernobil só poderia acontecer na União Soviética, mas a minissérie oferece um complemento, ou até mesmo um contra-argumento, à essa informação: um esforço como o que essas pessoas fizeram para conter e impedir que a catástrofe fosse ainda mais mortal para ainda mais pessoas dsó poderia acontecer na União Soviética — ou melhor, com um povo que se protegia de conhecia e se comportava de uma maneira tào comunal quanto aquele.
+Em um episódio seguinte da série, um personagem argumentará que “o poder da União Soviética reside na percepção de seu poder”. É comum dizer que um desastre como Chernobil só poderia acontecer na União Soviética. Assistir o descaso institucional com a verdade, e uma preocupação doentia com a aparência do governo como expõe _Chernobyl_ dá um leve sentimento de déjà vu — não estamos vendo isso todos os dias na internet? —, mas a minissérie oferece um complemento, ou até mesmo um contra-argumento, à essa noção: um esforço como o que essas pessoas fizeram para conter e impedir que a catástrofe fosse ainda mais mortal para ainda mais pessoas só poderia acontecer na União Soviética — ou melhor, com um povo que acreditava em uma união que, no futuro, honraria todo o sofrimento que eles sofreram ao não repetir seus próprios erros.
 
 Para um show tão difícil de assistir como este, é notável como _Chernobyl_ nos oferece uma mão esperançosa e segura para nos acompanhar. Os bombeiros, os engenheiros, os civis que morreriam para evitar que um acidente como esse voltasse a acontecer são aqueles que merecem suas histórias contadas, com o respeito e a beleza como a qual _Chernobyl_ entrega. Uma hora a verdade chegará à tona, só resta decidirmos se ela vai custar centenas de vidas de novo, ou se nos inspiraremos no sacrifício de um povo que lutou para que isso não aconteça de novo.
 
