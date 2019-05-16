@@ -12,9 +12,10 @@ tags:
   - séries
 published: true
 ---
+
 _Chernobyl_, a nova minissérie da HBO sobre a catástrofe nuclear de 1986 na Ucrânia, não é fácil de assistir. É uma triste e implacável série sobre um desastre feito pelo homem com efeitos que persistem até hoje (e, provavelmente, pelos próximos milhares de anos); que retrata uma disseminação sistemática de desinformação que acaba custando milhares de vidas civis; e que não foge de deixar claro o quão doloroso é o efeito da radiação sobre o corpo humano.
 
-E, no entanto, é uma bela e esperançosa homenagem às pessoas corajosas que se sacrificaram para evitar que o desastre fosse maior.
+E, no entanto, é uma bela e esperançosa homenagem às pessoas corajosas que se sacrificaram para evitar que o desastre fosse maior. 
 
 Filmado em um tom trise mas evocativo, o primeiro episódio de _Chernobyl_ vai direto ao ponto. A explosão do reator nuclear na usina de Chernobil acontece em seus primeiros minutos, e o que se segue é uma noite de pesadelo, onde a morte está em toda parte, lentamente levando os que estão em seu caminho. Pior é a oclusão de informação que acontece quase que instantaneamente. O engenheiro responsável pelo teste de segurança que causou o acidente é o primeiro a negar a evidência de uma catástrofe quando ela é oferecida em frente de seus próprios olhos. “Você não viu grafite no chão, porque ele não está lá”, ele grita, pouco antes de pedir a dois de seus subordinados para irem às câmaras do reator para literalmente encararem a morte.
 
@@ -27,7 +28,7 @@ O que acontece então é _Chernobyl_ entregando seu momento mais poderoso: quand
 
 Em um episódio seguinte da série, um personagem argumentará que “o poder da União Soviética reside na percepção de seu poder”. É comum dizer que um desastre como Chernobil só poderia acontecer na União Soviética. Assistir o descaso institucional com a verdade, e uma preocupação doentia com a aparência do governo como expõe _Chernobyl_ dá um leve sentimento de déjà vu — não estamos vendo isso todos os dias na internet? —, mas a minissérie oferece um complemento, ou até mesmo um contra-argumento, à essa noção: um esforço como o que essas pessoas fizeram para conter e impedir que a catástrofe fosse ainda mais mortal para ainda mais pessoas só poderia acontecer na União Soviética — ou melhor, com um povo que acreditava em uma união que, no futuro, honraria todo o sofrimento que eles sofreram ao não repetir seus próprios erros.
 
-Para um show tão difícil de assistir como este, é notável como _Chernobyl_ nos oferece uma mão esperançosa e segura para nos acompanhar. Os bombeiros, os engenheiros, os civis que morreriam para evitar que um acidente como esse voltasse a acontecer são aqueles que merecem suas histórias contadas, com o respeito e a beleza como a qual _Chernobyl_ entrega. Uma hora a verdade chegará à tona, só resta decidirmos se ela vai custar centenas de vidas de novo, ou se nos inspiraremos no sacrifício de um povo que lutou para que isso não aconteça de novo.
+Para um show tão difícil de assistir, é notável como _Chernobyl_ nos oferece uma mão esperançosa e segura para nos acompanhar. Os bombeiros, os engenheiros, os civis que morreriam para evitar que um acidente como esse voltasse a acontecer são aqueles que merecem suas histórias contadas, com o respeito e a beleza como a qual _Chernobyl_ entrega. Uma hora a verdade chegará à tona, só resta decidirmos se ela vai custar centenas de vidas de novo, ou se nos inspiraremos no sacrifício de um povo que lutou para que isso não aconteça de novo.
 
 <iframe width="1280" height="568" src="https://www.youtube.com/embed/74D6dZ8-uRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
