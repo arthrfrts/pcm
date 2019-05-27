@@ -93,7 +93,7 @@ Há uma tentativa clara de vincular a imagem do narrador ao restante do grupo, e
 
 Partindo do pressuposto d’A Conversa, o papel de Mestre de Cerimônias (MC) é explicado com “os Objetivos” e “os Princípios”. Os Objetivos determinam seu direcionamento mais básicos na conversa, o que você deve tentar dizer para que o jogo aconteça. Os dois primeiros dizem coisas como:
 
-> “- Fazer Apocalypse World parecer real.
+> “- Fazer Apocalypse World parecer real.  
 > \- Fazer com que a vida dos personagens não seja tediosa.”
 >
 > <cite>— Trecho de Apocalypse World, edição brasileira</cite>
