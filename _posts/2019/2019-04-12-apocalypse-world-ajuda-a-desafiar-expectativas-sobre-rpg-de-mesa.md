@@ -33,7 +33,6 @@ Apocalypse World é um jogo de [D. Vincent Baker](https://twitter.com/lumpleygam
 > “Ninguém se lembra de como foi ou por quê. Talvez ninguém realmente tenha entendido o que ocorreu. Os sobreviventes mais velhos que ainda estão entre nós têm, no máximo, algumas memórias de infância: cidades em chamas, a sociedade em caos e depois em colapso, famílias fugindo em pânico, as noites estranhas durante as quais o céu incandescente transformava a meia-noite em um meio-dia com a cor de sangue.
 >
 > O mundo não é mais o mesmo, e você não precisa ser muito esperto para perceber isso. Feche seus olhos e abra sua mente: algo está errado. Bem no limite de nossas percepções, tem alguma coisa uivando, sempre presente, cheia de ódio e terror, formando uma tempestade psíquica que assola o mundo, e da qual nenhum de nós é capaz de se proteger.”
-
 > 
 > <cite>— Trecho de Apocalypse World, edição brasileira.</cite>
 
@@ -94,8 +93,8 @@ Há uma tentativa clara de vincular a imagem do narrador ao restante do grupo, e
 
 Partindo do pressuposto d’A Conversa, o papel de Mestre de Cerimônias (MC) é explicado com “os Objetivos” e “os Princípios”. Os Objetivos determinam seu direcionamento mais básicos na conversa, o que você deve tentar dizer para que o jogo aconteça. Os dois primeiros dizem coisas como:
 
-> “- Fazer Apocalypse World parecer real.  
-- Fazer com que a vida dos personagens não seja tediosa.”
+> “- Fazer Apocalypse World parecer real.
+> \- Fazer com que a vida dos personagens não seja tediosa.”
 >
 > <cite>— Trecho de Apocalypse World, edição brasileira</cite>
 
