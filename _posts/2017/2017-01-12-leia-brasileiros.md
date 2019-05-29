@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leia Brasileiros. É um pedido e uma dica."
-category: achados
+category: Achados
 tags:
   - leituras
   - links

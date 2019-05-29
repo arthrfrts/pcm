@@ -4,7 +4,7 @@ layout: post
 title: A justiça que nos cerca
 author: Arthur Freitas
 image: 'https://i.imgur.com/YieSypth.jpg'
-category: essenciais
+category: Essenciais
 tags:
   - links
   - podcasts

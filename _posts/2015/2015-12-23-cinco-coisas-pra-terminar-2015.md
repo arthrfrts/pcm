@@ -6,7 +6,7 @@ excerpt: Nós selecionamos um filme, uma série, um jogo, um álbum e um link pa
   você terminar bem esse ano.
 author: Thaiane Kubiaki
 image: "https://arthrfrts.files.wordpress.com/2018/03/45-anos.jpg"
-category: listas
+category: Listas
 tags:
   - filmes
   - jogos

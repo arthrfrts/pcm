@@ -1,7 +1,7 @@
 ---
 date: '2019-02-15 09:00 -0200'
 layout: post
-category: exposições
+category: Exposições
 published: true
 title: Vivendo e crescendo com The Sims
 excerpt: >-

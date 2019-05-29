@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animal Crossing: New Leaf vai vender sua alma para reformar sua casa"
-category: exposições
+category: Exposições
 tags:
   - jogos
 author: Arthur Freitas

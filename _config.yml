@@ -7,20 +7,59 @@ lang: pt
 timezone: America/Sao_Paulo
 logo: "/assets/images/logo.png"
 
+url: 'https://paomortadela.com.br'
+baseurl: ''
+
 email: padeiros@paomortadela.com.br
 facebook_username: "paomortadela.com.br"
 twitter_username: "paomortadela"
 
-
 # Build settings
-url: 'https://paomortadela.com.br'
-baseurl: ''
-
 markdown: kramdown
 permalink: /:year/:title/
 
-paginate: 8
-paginate_path: '/pagina/:num/'
+google_site_verification: "UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE"
+
+include:
+  - _redirects
+
+plugins:
+  - jemoji
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  collection: "posts"
+  per_page: 8
+  permalink: "/pagina/:num/"
+  title: ":title (:num de :max)"
+  sort_field: "date"
+  sort_reverse: true
+
+autopages:
+  enabled: true
+  collections:
+    enabled: false
+  categories:
+    layouts:
+      - "archive.html"
+    title: ":title"
+    permalink: "/categoria/:cat/"
+    slugify:
+      mode: raw
+      cased: true
+  tags:
+    enabled: true
+    layouts:
+      - "archive.html"
+    title: ":title"
+    permalink: "/tag/:tag/"
+    slugify:
+      mode: raw
+      cased: true
 
 jekyll-archives:
   enabled:
@@ -28,10 +67,8 @@ jekyll-archives:
     - categories
   layout: "archive"
   permalinks:
-    category: "/categoria/:name/"
-    tag: "/tag/:name/"
-
-google_site_verification: "UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE"
+    category: "/colunas/:name/"
+    tag: "/tags/:name/"
 
 defaults:
 - scope:
@@ -44,18 +81,6 @@ defaults:
   values:
     seo:
       type: "BlogPosting"
-
-include:
-  - _redirects
-
-plugins:
-  - jemoji
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-compose
-  - jekyll-paginate
-  - jekyll-archives
 
 # Prose settings
 prose:

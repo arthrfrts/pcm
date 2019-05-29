@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-22
 title: "Acordei Vomitado é, antes de qualquer coisa, sincero demais"
-category: achados
+category: Achados
 tags:
   - links
   - músicas

@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="wrapper">
   <header class="archive-header">
-    <h1 class="page-title">{{ page.title | capitalize }}</h1>
+    <h1 class="page-title">{{ page.autopages.display_name -}}</h1>
 
     {%- if page.type == "category" -%}
       {% assign category = site.data.categories[page.title] %}
@@ -18,9 +18,11 @@ layout: default
 
   <div class="blog">
     <div class="posts-list">
-      {%- for post in page.posts -%}
+      {%- for post in paginator.posts -%}
         {%- include loop.html -%}
       {%- endfor -%}
+
+      {% include pagination.html %}
     </div>
 
     {%- include sidebar.html -%}

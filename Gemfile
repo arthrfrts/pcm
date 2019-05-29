@@ -7,7 +7,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
-  gem "jekyll-compose"
-  gem "jekyll-paginate"
-  gem "jekyll-archives"
+  gem "jekyll-paginate-v2", "~> 2.0.0"
 end

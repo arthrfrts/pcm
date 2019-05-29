@@ -1,9 +1,11 @@
 ---
 layout: default
+pagination:
+  enabled: true
 ---
 <div class="wrapper">
   {%- if paginator.page == 1 -%}
-    {%- for post in site.posts limit: 1 -%}
+    {%- for post in paginator.posts limit: 1 -%}
       {%- include loop.html class="featured-post" -%}
     {%- endfor -%}
   {%- endif -%}

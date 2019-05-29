@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre
+permalink: "/sobre/"
 ---
 
 O Pão com Mortadela é uma webzine de cultura que se transformou num blog colaborativo.

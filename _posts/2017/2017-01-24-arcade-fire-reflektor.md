@@ -2,7 +2,7 @@
 layout: post
 date: 2017-01-24
 title: "Reflektor é diferente de tudo o que o Arcade Fire já fez."
-category: reconsiderações
+category: Reconsiderações
 tags:
   - músicas
 author: Arthur Freitas

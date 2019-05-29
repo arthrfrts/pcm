@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-18
 title: "Uma noite de verão em A House in California"
-category: achados
+category: Achados
 tags:
   - jogos
   - links

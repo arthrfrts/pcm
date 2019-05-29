@@ -2,7 +2,7 @@
 layout: post
 date: 2017-01-25
 title: Você nunca vai jogar nada como The Entertainment
-category: achados
+category: Achados
 tags:
   - jogos
 author: Arthur Freitas

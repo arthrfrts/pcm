@@ -2,7 +2,7 @@
 layout: post
 date: 2017-01-03
 title: "Upstream Color não sai da minha cabeça."
-category: achados
+category: Achados
 tags:
   - filmes
 author: Arthur Freitas

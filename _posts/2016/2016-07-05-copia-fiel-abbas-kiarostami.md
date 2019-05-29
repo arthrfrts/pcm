@@ -3,7 +3,7 @@ layout: post
 date: 2016-07-05
 author: Arthur Freitas
 title: "Uma carta de amor a Abbas Kiarostami"
-category: exposições
+category: Exposições
 tags:
   - filmes
 image: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"

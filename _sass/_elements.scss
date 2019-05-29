@@ -37,13 +37,15 @@ a {
 
 // Forms
 input[type="email"],
+input[type="search"],
 input[type="submit"] {
   font: inherit;
   font-family: $head-font-family;
   padding: $spacing-unit / 4;
 }
 
-input[type="email"] {
+input[type="email"],
+input[type="search"] {
   border: 1px solid $color-details;
   border-radius: 3px;
   width: 100%;
@@ -155,7 +157,7 @@ input[type="submit"] {
     margin-left: auto;
     margin-right: auto;
     padding: $spacing-unit;
-    
+
     cite {
       display: block;
       @include relative-font-size(0.75);
@@ -166,7 +168,7 @@ input[type="submit"] {
       text-align: right;
       text-transform: uppercase;
     }
-    
+
   }
 
   p {

@@ -1,4 +1,19 @@
 <div class="sidebar">
+  <aside class="widget search-widget">
+    <div class="widget-content">
+      <form action="https://duckduckgo.com" method="get">
+        <p>
+          <label for="search-terms">Procure nos arquivos do blog</label>
+        </p>
+        <p class="search-fields">
+          <input type="search" name="q" id="search-terms" placeholder="filmes, Netflix, etc…" required />
+          <input type="hidden" name="sites" value="{{ site.url | remove: 'https://' }}"/>
+          <input type="submit" value="Procurar" />
+        </p>
+      </form>
+    </div>
+  </aside>
+
   <aside class="widget contribute-widget">
     <header class="widget-header">
       <h5 class="widget-title">Contribua</h5>

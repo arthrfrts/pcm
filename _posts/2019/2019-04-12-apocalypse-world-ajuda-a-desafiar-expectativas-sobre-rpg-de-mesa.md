@@ -1,7 +1,7 @@
 ---
 date: '2019-04-12 09:00:00 -0300'
 layout: post
-category: exposições
+category: Exposições
 title: Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa
 image: 'https://i.imgur.com/JoGNqv9.jpg'
 tags:
@@ -33,7 +33,7 @@ Apocalypse World é um jogo de [D. Vincent Baker](https://twitter.com/lumpleygam
 > “Ninguém se lembra de como foi ou por quê. Talvez ninguém realmente tenha entendido o que ocorreu. Os sobreviventes mais velhos que ainda estão entre nós têm, no máximo, algumas memórias de infância: cidades em chamas, a sociedade em caos e depois em colapso, famílias fugindo em pânico, as noites estranhas durante as quais o céu incandescente transformava a meia-noite em um meio-dia com a cor de sangue.
 >
 > O mundo não é mais o mesmo, e você não precisa ser muito esperto para perceber isso. Feche seus olhos e abra sua mente: algo está errado. Bem no limite de nossas percepções, tem alguma coisa uivando, sempre presente, cheia de ódio e terror, formando uma tempestade psíquica que assola o mundo, e da qual nenhum de nós é capaz de se proteger.”
-> 
+>
 > <cite>— Trecho de Apocalypse World, edição brasileira.</cite>
 
 O surgimento de _Apocalypse World_ entre os círculos de jogos indie provocou uma reação, guardadas as devidas proporções, tão importante quanto a da licença d20, e vários jogos surgiram a partir das ideias que ele ajudou a popularizar. Vou tentar explicar como esses jogos, _Powered by The Apocalypse_, podem desafiar algumas expectativas comuns sobre RPGs. Eles não são os únicos nem os primeiros a fazer isso, mas para mim eles explicam certas coisas de forma a abrir caminho para visões mais amplas sobre jogos narrativos.
@@ -56,7 +56,7 @@ _Apocalypse World_, como todos os jogos, ainda necessita que você aprenda as re
 Além desses aspectos de pontapé inicial, o jogo apresenta todas as suas mecânicas como “movimentos”. Um movimento é como um algoritmo de jogo: _**se** uma determinada coisa acontecer na história, **então** as seguintes consequências podem surgir_.
 
 > “A regra para os movimentos é **se você fez isso, faça aquilo**. Para que uma ação seja considerada um movimento que fará o jogador rolar os dados, seu personagem tem que estar fazendo alguma coisa que conte como aquele movimento; e sempre que um personagem fizer algo que possa ser considerado como um movimento, então aquilo é o movimento e seu jogador deve rolar os dados.”
-> 
+>
 > <cite>— Trecho de Apocalypse World, edição brasileira</cite>
 
 É uma pequena instrução a ser seguida, que inicia de dentro do jogo em determinadas circunstâncias. Dessa forma, todas as mecânicas são apresentadas de forma simples, coesa e eficaz. Você rola os dados e segue as instruções.
@@ -148,7 +148,7 @@ Eu evitei falar sobre isso até agora, mas a quebra desse paradigma em específi
 > “- Jogar para descobrir o que acontece.
 >
 > Tudo o que você disser durante uma partida deve estar de alguma forma ligado a esses três objetivos. Seus objetivos não incluem, por exemplo, fazer com que os jogadores percam ou negar a eles o que desejam, nem puni-los por alguma coisa e muito menos conduzi-los por uma história planejada previamente (NÃO PLANEJE UMA HISTÓRIA PREVIAMENTE, não estou de zoeira). Não é seu trabalho colocar os personagens em situações difíceis ou becos sem saída, ou puxar o tapete debaixo de seus pés. Perseguir qualquer dessas coisas deixará o jogo meio chato e travado, e você estará declarando antes de todo mundo o que deve acontecer, ao invés de jogar para descobrir o que acontece.”
-> 
+>
 > <cite>— Trecho de Apocalypse World, edição brasileira</cite>
 
 Esse parágrafo, e todos os seus desdobramentos através do jogo, foram a força mais poderosa no meu processo de desconstrução das expectativas anteriores sobre RPG. Não só o jogo pede ativamente para que não preparemos narrativas de antemão (com ênfase especial), ele também explicitamente pede um posicionamento diretamente colaborativo com os outros participantes. O jogo pede para que você siga as regras e confie que, fazendo isso, não haverá qualquer necessidade de ficar na defensiva.

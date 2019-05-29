@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Envie sua ideia
+permalink: "/contribua/"
 ---
 
 Nós sempre estamos abertos para novos conteúdos e novos autores, não importando sua experiência prévia. Envie sua ideia, ou seu texto finalizado, para os editores através do email [padeiros@paomortadela.com.br](mailto:padeiros@paomortadela.com.br).

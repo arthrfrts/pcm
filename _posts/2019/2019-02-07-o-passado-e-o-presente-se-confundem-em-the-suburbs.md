@@ -1,7 +1,7 @@
 ---
 date: '2019-02-07 08:20 -0200'
 layout: post
-category: reconsiderações
+category: Reconsiderações
 published: true
 title: O passado e o presente se confundem em The Suburbs
 tags:
