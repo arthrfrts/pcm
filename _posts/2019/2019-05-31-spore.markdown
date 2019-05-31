@@ -1,10 +1,9 @@
 ---
-layout: "post"
-title: "Existe um grande jogo dentro de Spore"
-description: >-
-  Mas outros não muito bons também.
-image: "https://i.imgur.com/w1tGW25.jpg"
-date: "2019-05-31 09:00"
+layout: post
+title: Existe um grande jogo dentro de Spore
+description: Mas outros não muito bons também.
+image: 'https://i.imgur.com/w1tGW25.jpg'
+date: '2019-05-31 10:00'
 author: Arthur Freitas
 category: Exposições
 tags: jogos
