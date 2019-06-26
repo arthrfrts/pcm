@@ -57,7 +57,7 @@ E ei, pra um filme feito sob medida pra fazer um bocado de dinheiro na bilheteri
 
 Coitado do _Bom Dinossauro_, ele era um bom dinossauro mesmo. Lançado alguns meses depois de um (enorme) acerto do estúdio, _O Bom Dinossauro_ é hoje o “aquele outro filme da Pixar de 2015”, e o segundo filme da década que amargou uma produção conturbada, com o seu diretor sendo afastado no último ano de produção e uma força-tarefa reescrevendo uma boa parte do filme a partir daí.
 
-E… não funciona muito bem. _O Bom Dinossauro_ acabou sendo um “_Toy Story_ mas com Dinos”, já que segue pontoa-ponto a estrutura do primeiro longa da Pixar. Não ajuda também que as batidas emocionais venham direto de _O Rei Leão_… e _EM Busca do Vale Encantado_… e _Bambi_, se você parar pra pensar. Mas _O Bom Dinossauro_ talvez seja o maior feito técnico do estúdio: seus cenários usam um nível de fotorrealismo nunca antes visto, e a escolha de usar personagens cartunescos no meio de uma natureza assustadoramente real é louvável. Mas quando o Arlo, o nosso querido bom dinossauro, está chorando nas margens do rio depois de um evento traumático e você não consegue parar de pensar no quão lindo é o movimento da água é porque tem algo fundamentalmente errado com o filme.
+E… não funciona muito bem. _O Bom Dinossauro_ acabou sendo um “_Toy Story_ mas com Dinos”, já que segue ponto-a-ponto a estrutura do primeiro longa da Pixar. Não ajuda também que as batidas emocionais venham direto de _O Rei Leão_… e _Em Busca do Vale Encantado_… e _Bambi_, se você parar pra pensar. Mas _O Bom Dinossauro_ talvez seja o maior feito técnico do estúdio: seus cenários usam um nível de fotorrealismo nunca antes visto, e a escolha de usar personagens cartunescos no meio de uma natureza assustadoramente real é louvável. Mas quando o Arlo, o nosso querido bom dinossauro, está chorando nas margens do rio depois de um evento traumático e você não consegue parar de pensar no quão lindo é o movimento da água é porque tem algo fundamentalmente errado com o filme.
 
 ---
 
@@ -114,7 +114,7 @@ E _Valente_ leva nas costas essa produção conturbada, porque é essencialmente
 
 ## 13: _Vida de Inseto_ (_A Bug’s Life_, 1998)
 
-Eu amo que _Vida de Inseto_ exista. É um filme estranho, bem típico de um segundo filme, onde seus criadores ainda estão tentando entender o que eles acertaram e o que precisam melhorar. Ele tem uma estranheza visual que só existe nesse filme, e soe transforma em um verdadeiro filme de terror quando quer.
+Eu amo que _Vida de Inseto_ exista. É um filme estranho, bem típico de um segundo filme, onde seus criadores ainda estão tentando entender o que eles acertaram e o que precisam melhorar. Ele tem uma estranheza visual que só existe nesse filme, e se transforma em um verdadeiro filme de terror quando quer.
 
 Tem seus problemas de ritmo, mas _Vida de Inseto_ é divertidíssimo, e uma das sábias decisões da Pixar foi não querer explorar demais esse universo: é um filme pequeno que entende muito bem o que faz, mas também vê o limite conceitual da sua narrativa. Eles podiam ter matado essa charada com _Carros_ também. Mas, eu não gosto de pegar no pé daquele filme.
 
@@ -162,7 +162,7 @@ Era verdade em 1999, quando _Toy Story 2_ foi lançado, e é verdade agora, vint
 
 De um lindo recife de corais ao interior de uma baleia e a um navio afundado habitado por tubarões, Marlin atravessa os mares com Dory para encontrar Nemo, seu filho que foi levado por um mergulhador para um aquário em Sidney. _Procurando Nemo_ é uma verdadeira odisséia, com personagens conhecendo lugares e culturas diferentes enquanto precisam aceitar algo bastante íntimo — um pai que precisa entender que seu filho está crescendo, e um filho que quer dar a certeza para o seu pai que ele sabe se cuidar.
 
-E, em tudo o o que _Procurando Nemo_ se propõe a fazer, ele acerta: da tragédia nos seus segundos iniciais ao drama familiar no prólogo à grande aventura à _Pernalonga e Patolino_ no meio ao filme de terror no final. _Procurando Nemo_ acerta na modulação de seus temas e dos vários gêneros que explora para criar um filme divertido, as vezes aterrorizante, mas sempre emocionante. Entulhado de personagens fascinantes, cenários lindos e cenas que são de uma profundidade emocional única, é difícil ficar melhor que esse filme — e ele tá em décimo na lista.
+E, em tudo o o que _Procurando Nemo_ se propõe a fazer, ele acerta: da tragédia nos seus segundos iniciais ao drama familiar no prólogo à grande aventura à _Pernalonga e Patolino_ no meio ao filme de terror no final. _Procurando Nemo_ acerta na modulação de seus temas e dos vários gêneros que explora para criar um filme divertido, as vezes aterrorizante, mas sempre emocionante. Entulhado de personagens fascinantes, cenários lindos e cenas que são de uma profundidade emocional única, é difícil ficar melhor que esse filme — e ele tá em nono na lista.
 
 ---
 
