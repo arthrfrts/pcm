@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2019-07-16 09:00:00 -0300"
+date: "2019-07-17 09:00:00 -0300"
 title: 'Explorando lugares mágicos em Sky: Children of Light'
 author: Arthur Freitas
 image: /images/2019/07/sky.jpg
