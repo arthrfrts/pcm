@@ -61,6 +61,10 @@ autopages:
       mode: raw
       cased: true
 
+twitter:
+  username: paomortadela
+  card: summary_large_image
+
 jekyll-archives:
   enabled:
     - tags
