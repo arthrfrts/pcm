@@ -115,6 +115,12 @@ input[type="submit"] {
     margin-right: auto;
   }
 
+  p.full-width {
+    img {
+      width: 100%;
+    }
+  }
+
   // Headings
   h2 {
     @include relative-font-size(2);
