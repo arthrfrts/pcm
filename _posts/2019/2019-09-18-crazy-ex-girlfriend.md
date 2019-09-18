@@ -1,11 +1,13 @@
 ---
+date: '2019-09-18 09:00:00'
 layout: post
-date: "2019-09-18 09:00:00"
 title: Crazy Ex-Girlfriend terminou na sua melhor forma
-image: "/images/2019/09/cxgf.jpg"
+image: /images/2019/09/cxgf.jpg
 author: Arthur Freitas
 category: Exposições
-tags: séries
+tags:
+  - séries
+published: true
 ---
 
 Uma das forças fundamentais da “[nova era do ouro da TV](https://en.wikipedia.org/wiki/Golden_Age_of_Television_(2000s–present))” é a ideia do anti-herói, como o Tony Soprano (_Família Soprano_), Don Draper (_Mad Men_) ou o Walter White (_Breaking Bad_): homens que têm o mundo nas mãos (ou, no caso do Walter, conquistam ele) mas que se deparam que o temo faz o mundo mudar, e o tempo é indiferente à eles. A jornada desses personagens geralmente é trágica: diferente dos heróis televisivos, que aprendem, mudam ou crescem, os anti-heróis preferem fazer o mundo ao redor deles mudar a serviço deles, e a indiferença do mundo quanto ao que eles querem (ou o poder deles de fazer o mundo deixar de ser indiferente) causa destruição — seja da alma do personagem ou daqueles ao redor dele.
@@ -19,7 +21,7 @@ Com _Crazy Ex-Girlfriend_ (na [Netflix](https://www.netflix.com/title/80066227))
 {:.full-width}
 <iframe width="640" height="360" src="https://www.youtube.com/embed/RUYhukcMgEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Eu já comentei ([brevemente](%- post_url 2017/2017-01-23-crazy-ex-girlfriend.md -%)) sobre a primeira temporada de _CXGF_ aqui. Naquela época, a série ainda parecia “apenas” uma comédia sobre comédias românticas, que tentava pegar os clichês do gênero e desconstruí-los para mostrar como elas podiam nos dar ilusões sobre o amor. A primeira temporada de CXGF é divertidíssima, mas o que a série começou a fazer depois dela é genial.
+Eu já comentei ([brevemente]({%- post_url 2017/2017-01-23-crazy-ex-girlfriend -%})) sobre a primeira temporada de _CXGF_ aqui. Naquela época, a série ainda parecia “apenas” uma comédia sobre comédias românticas, que tentava pegar os clichês do gênero e desconstruí-los para mostrar como elas podiam nos dar ilusões sobre o amor. A primeira temporada de CXGF é divertidíssima, mas o que a série começou a fazer depois dela é genial.
 
 _Crazy Ex-Girlfriend_ conta a história da Rebecca Bunch, uma advogada de um poderosíssimo escritório de Novas York que decide se mudar para West Covina, na Califórnia, depois de ter visto uma propaganda de manteiga na TV (e de ter reencontrado o seu ex-namorado da época do ensino médio, Josh Chan). Lá, ela faz um bando de coisas questionáveis (a série demora para chamar essas ações de _loucuras_) para tentar atrair seu ex de volta.
 
