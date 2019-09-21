@@ -3,7 +3,7 @@ date: '2019-09-21 12:22 -0300'
 layout: post
 category: Reconsiderações
 published: false
-title: Aprendendo a perder com Pokemon Lets Go
+title: Aprendendo a perder com Pokémon Let's Go! Eevee
 author: Arthur Freitas
 tags:
   - jogos
