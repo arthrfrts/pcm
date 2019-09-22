@@ -22,7 +22,7 @@ Esse tempo livre se tornou um peso nesse último mês. Um que eu não sabia como
 Eu não sei qual foi o meu raciocínio pra dar mais uma chance pra _Pokémon Let’s Go_ nesse último mês, mas ainda bem que eu tive ele, porque _Let’s Go Eevee_ ([o melhor Pokémon](https://pokemondb.net/pokedex/eevee)) está me ajudando a transformar essa falta da Vivi em saudade.
 
 {: .full-width }
-![vivi.jpeg]({{site.baseurl}}/assets/uploads/vivi.jpeg)
+![vivi.jpeg](/assets/uploads/vivi.jpeg)
 _A Vivi_
 
 Se você já jogou qualquer jogo RPG de Pokémon, principalmente os da primeira geração, então _Let’s Go_ não vai ser tão diferente assim. Você ainda é uma criança que ganha um Pokémon inicial do professor que mora na mesma pequena cidade que você, e você vai de cidade em cidade derrotando os líderes de ginásio Pokémon para ganhar insígnias e poder enfrentar a Liga Pokémon, onde os melhores treinadores de Pokémon se enfrentam para saber quem é o novo campeão.
@@ -58,5 +58,5 @@ Eu tinha medo de ter perdido algo pra sempre quando eu enterrei a Vivi. Eu perdi
 É um processo, eu acho, e eu acho engraçado como um jogo de batalha como _Pokémon_, que aprecia e celebra a vitória, me ajuda a aceitar algo imbatível. A nossa existência tem um fim, mas o nosso amor transcende. Ele vive na arte que fazemos, nos lugares que habitamos e naqueles que amamos e que deixamos para trás. Eu nunca mais vou sentir o pelo da Vivi entre os meus dedos, mas eu tenho a lembrança de que, um dia, eu amei fazer um cafuné em alguém; que eu senti algo tão bom, tão grande, sobre algo tão pequeno e tão breve quanto um carinho, e que alguém sentiu algo assim também — porque está eternizado nesse jogo que eu aprendi a gostar.
 
 {: .full-width }
-![Arthur à frente, caminhando com Vivi]({{site.baseurl}}/assets/uploads/vivi-e-arthur.jpg)
+![Arthur à frente, caminhando com Vivi](/assets/uploads/vivi-e-arthur.jpg)
 _Nossa última foto juntos, aproveitando o sol do inverno._
