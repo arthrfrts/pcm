@@ -2,7 +2,7 @@
 date: '2019-10-01 21:54 -0300'
 layout: post
 category: resenhas
-published: false
+published: true
 title: 'Miojo Indie: É bom ler sobre o que a gente ama ouvir'
 tags:
   - links
