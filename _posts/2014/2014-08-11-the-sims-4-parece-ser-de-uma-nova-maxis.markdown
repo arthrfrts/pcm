@@ -6,7 +6,7 @@ category: Exposições
 author: Arthur Freitas
 tags:
   - jogos
-image: "https://arthrfrts.files.wordpress.com/2018/03/the-sims-4-672x372.png"
+image: "/images/2014/the-sims-4.jpg"
 ---
 
 Essa sexta-feira eu ganhei a versão de demonstração da ferramenta Criar Um Sim do The Sims 4 e estou empolgado utilizando (quase) todas as possibilidades do novo criador de pessoas virtuais durante o final de semana. Como a cada mudança de geração, fiquei impressionado pelas possibilidades quase sem limites da nova tecnologia de “maleabilidade” corporal e da tão falada expressividade dos Sims. Sim, eles parecem estar vivos, finalmente.
