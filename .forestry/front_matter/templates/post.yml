@@ -35,7 +35,7 @@ fields:
     date_format: DD/MM/YYYY
     time_format: HH:MM
     display_utc: false
-    export_format: YYYY-MM-DD h:mm:ss A ZZ
+    export_format: '"YYYY-MM-DD h:mm:ss A ZZ"'
 - name: tags
   type: tag_list
   default: []
