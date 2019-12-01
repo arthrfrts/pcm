@@ -52,7 +52,7 @@ fields:
     required: true
     options: []
     source:
-      type: pages
+      type: documents
       section: categories
       file: _data/categories.yml
       path: 
