@@ -11,6 +11,10 @@ sections:
   label: Pages
   create: all
 - type: document
+  path: _data/categories.yml
+  label: Categories
+  match: "**/*"
+- type: document
   path: _data/authors.yml
   label: Authors
 upload_dir: uploads
