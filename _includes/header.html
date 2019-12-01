@@ -1,47 +1,22 @@
-<header class="site-header">
-  <div class="header-wrap">
-    {%- unless page.title -%}
-
-    <h1 class="site-title">
-      <a href="{{ site.url }}">
-        <img src="{{ site.logo }}" alt="{{ site.title }}" />
-      </a>
-    </h1>
-
+<header class="masthead">
+  <div class="wrapper">
+    {%- if page.title -%}
+      <div class="site_title">
+        <a href="{{- site.url -}}" rel="index">
+          <img src="{%- link assets/img/logo.png -%}" alt="{{- site.title -}}" role="presentation" />
+          {{ site.title }}
+        </a>
+      </div>
     {%- else -%}
-
-    <div class="site-title">
-      <a href="{{ site.url }}">
-        <img src="{{ site.logo }}" alt="{{ site.title }}" />
-      </a>
-    </div>
-
-    {%- endunless %}
-
-    <nav class="site-menu">
-      <ul class="menu">
-        <li class="menu-item has-submenu">
-          <span class="menu-text">Seções</span>
-          <ul class="submenu">
-            {%- assign site_tags = site.tags | sort: tag[0] -%}
-
-            {%- for tag in site_tags -%}
-              <li class="menu-item">
-                <a href="{{ tag[0] | prepend: '/tag/' | relative_url }}">{{ tag[0] | capitalize }}</a>
-              </li>
-            {%- endfor -%}
-          </ul>
-        </li>
-        <li class="menu-item">
-          <a href="{{ '/colunas/' | relative_url  }}">Colunas</a>
-        </li>
-        <li class="menu-item">
-          <a href="{{ '/sobre/' | relative_url }}">Sobre</a>
-        </li>
-        <li class="menu-item">
-          <a href="{{ '/contribua/' | relative_url }}">Contribua</a>
-        </li>
-      </ul>
-    </nav>
+      <h1 class="site_title">
+        <a href="{{- site.url -}}" rel="index">
+          <img src="{%- link assets/img/logo.png -%}" alt="{{- site.title -}}" role="presentation" />
+          {{ site.title }}
+        </a>
+      </h1>
+    {%- endif -%}
+    
+    {%- include menu.html -%}
   </div>
+  {%- include wave.svg -%}
 </header>

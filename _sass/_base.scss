@@ -1,0 +1,153 @@
+/*
+  Basics
+*/
+
+html {
+  font-size: 62.5%; // 10px = 1rem;
+  font-family: $font-headings;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: $color-background;
+  color: $color-text;
+  font: normal #{1.6rem}/#{1.65} $font-headings;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+
+// Resets some basic styling
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+  Text Elements
+*/
+
+.post_content {
+  p, ul, ol, dl,
+  blockquote, pre,
+  figure, iframe {
+    margin-bottom: $spacing-unit;
+  }
+  
+  p, ul, ol, dl,
+  blockquote {
+    font-family: $font-content;
+  }
+}
+
+// Headings
+
+h1, h2, h3 {
+  font-weight: 400;
+}
+
+h4, h5, h6 {
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 2.7rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2.2rem;
+}
+
+h4 {
+  font-size: 1.8rem;
+}
+
+h5 {
+  font-size: 1.4rem;
+}
+
+h6 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+// Lists
+
+ul, ol, dl {
+  padding-left: $spacing-unit;
+}
+
+ul,
+ol {
+  ul, ol {
+    margin-bottom: 0;
+  }
+}
+
+ul {
+  list-style: square;
+  
+  ul {
+    list-style: disc;
+  }
+}
+
+ol {
+  list-style: decimal;
+  
+  ol {
+    list-style: lower-alpha;
+  }
+}
+
+// Links
+a {
+  color: currentColor;
+  text-decoration: none;
+  transition: color 250ms ease;
+  
+  &:hover,
+  &:focus {
+    color: $color-accent;
+  }
+}
+
+.post_content a {
+  text-decoration: underline;
+  text-decoration-color: $color-accent;
+  text-decoration-style: wavy;
+}
+
+// Multimedia
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.video_wrapper {
+  position: relative;
+  padding-top: 56.25%;
+  margin-bottom: $spacing-unit;
+  
+  iframe, video, object {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

@@ -1,29 +1,8 @@
----
-Listas:
-  description: >-
-    Nas _Listas_ os padeiros se reúnem para decidir as melhores sugestões em um determinado tema ou categoria.
-
-Essenciais:
-  description: >-
-    _Essenciais_ são textos ocasionais que fazem declarações fortes sobre as maiores peças da cultura contemporânea, determinadas pelas opiniões dos editores do PCM.
-
-Exposições:
-  description: >-
-    Nossas colunas de _Exposição_ oferecem observações informadas e convincentes sobre temas ao redor dos filmes, livros, séries, jogos e músicas que gostamos, indo desde opiniões de temas que conduzem a cultura contemporânea até revisões daquilo que experimentamos anteriormente.
-
-Reconsiderações:
-  description: >-
-    Em _Reconsiderações_, nós olhamos de novo pra algo que nós já discutimos aqui no PCM, consideramos a recepção anterior, e examinamos como se mantém hoje, livre de expectativas.
-
-Achados:
-  description: >-
-    Em _Achados_ os padeiros recomendam pequenas descobertas (ou redescobertas) de algo menor que pode estar perdido no meio dos catálogos gigantes do Netflix, do Kindle ou do Spotify.
-
-Episódios:
-  description: >-
-    _Episódios_ põe na mesa um episódio específico de um seriado, observando como ele usa, modifica ou fortalece a premissa de sua série.
-
-Dicas do fim de semana:
-  description: >-
-    O que ver no sábado? Qual a série pra maratonar no domingo? _Dicas do fim de semana_ responde essas (e outras) perguntas com uma boa pedida pra dar aquela descansada.
----
+- title: Listas
+- title: Essenciais
+- title: Esquinas
+- title: Requentando
+- title: Achados
+- title: Episódios
+- title: Dicas do fim de semana
+    

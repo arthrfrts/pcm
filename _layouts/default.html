@@ -1,26 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
+<html lang="{{- site.lang | replace: "_","-" -}}">
   {%- include head.html -%}
-
   <body>
-    {%- include sprite.svg -%}
-
-    <div id="site" class="site-wrapper {% if page.url == '/' %}home{% else %}{{ page.layout | slugify: 'latin' }}{% endif %}">
+    <div id="site">
       {%- include header.html -%}
-
-      <main class="site-content">
-        {{ content }}
+      
+      <main class="content">
+        <div class="wrapper">
+          <div class="blog">
+            {{ content }}
+          </div>
+        </div>
       </main>
-
+      
+      
       {%- include footer.html -%}
     </div>
-
-    {%- if page.layout == "post" -%}
-      <script type="text/javascript" src="{{ '/assets/scripts/embeds.js' }}"></script>
-    {%- endif -%}
-
-    {%- if jekyll.environment == "production" -%}
-      {%- include analytics.html -%}
-    {%- endif -%}
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="   crossorigin="anonymous"></script>
+    <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_path }}"></script>
   </body>
 </html>

@@ -1,25 +1,34 @@
----
-arthur:
+arthurf:
   name: Arthur Freitas
   twitter: arthrfrts
+  url: https://irrelefante.com.br/
 
-thai:
-  name: Thaiane Kubiaki
-  twitter: thaimandua
-
-joao:
-  name: João Sieben
-  twitter: joaosieben
-
-fillipe:
+filliped:
   name: Fillipe Diniz
   twitter: fillipedin
 
-gui:
-  name: Guilherme Bragança
-  twitter: guilhelbraganca
+guilhermen:
+  name: Guilherme Novello
+  twitter: novellogg
 
-vanessa:
+raulf:
+  name: Raul Fontoura
+  twitter: raulranma
+  url: https://rauranma.tumblr.com
+
+emanueles:
+  name: Emanuele Spies
+  twitter: emanuelespies
+  url: https://www.emanuelespies.es/
+
+thaianek:
+  name: Thaiane Kubiaki
+  twitter: thaimandua
+
+guilhermeb:
+  name: Guilherme Bragança
+  twitter: guilhelblima
+
+vanessao:
   name: Vanessa Oliveira
-  twitter: vaneusinha
----
+  twitter: vnsslvr

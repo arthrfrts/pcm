@@ -1,1 +1,7 @@
-/2019/2019-04-24-au-revoir-agn-s-varda/     /2019/au-revoir-agnes-varda/      301
+---
+---
+
+/2019/2019-04-24-au-revoir-agn-s-varda/     /2019/04/au-revoir-agnes-varda/      301
+{%- for post in site.posts %}
+/{{- post.date | date: "%Y" -}}/{{- post.slug -}}/    {{ post.url | relative_path }}    301
+{%- endfor -%}

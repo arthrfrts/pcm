@@ -1,51 +1,27 @@
-
-<footer class="site-footer">
+<footer class="colophon">
   <div class="wrapper">
-    <div class="site-description">
-      <p>{{ site.description }}</p>
-    </div>
-
-    <div class="footer-widgets">
-      <div class="footer-widget site-branding">
-        <h4 class="site-title">
-          Pão <em>com</em><br />
-          Mortadela
-        </h4>
+    <div class="footer_widgets">
+      <div class="site_description">
+        {{ site.description | markdownify }}
       </div>
-
-      <div class="footer-widget site-credits">
-        <p><strong>Pão com Mortadela</strong>. Todos os direitos são <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">reservados</a> aos respectivos autores. &middot; <a href="https://arthr.me/" rel="author">arthr.me</a>
-      </div>
-
-      <nav class="footer-widget site-social">
-        <a href="{{ site.facebook_username | prepend: 'https://www.facebook.com/' }}" rel="external">
-          <svg class="svg-icon" role="img">
-            <title>Facebook</title>
-            <use xlink:href="#icon-facebook" />
-          </svg>
-        </a>
-
-        <a href="{{ site.twitter_username | prepend: 'https://twitter.com/' }}" rel="me">
-          <svg class="svg-icon" role="img">
-            <title>Twitter</title>
-            <use xlink:href="#icon-twitter" />
-          </svg>
-        </a>
-
-        <a href="{{ site.email | prepend: 'mailto:' }}" rel="me">
-          <svg class="svg-icon" role="img">
-            <title>Email</title>
-            <use xlink:href="#icon-email" />
-          </svg>
-        </a>
-
-        <a href="{{ '/feed.xml' | absolute_url }}">
-          <svg class="svg-icon" role="img">
-            <title>RSS</title>
-            <use xlink:href="#icon-rss" />
-          </svg>
-        </a>
-      </nav>
+    
+      <form action="https://tinyletter.com/paomortadela" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/!paomortadela', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+        <p>
+          <label for="tlemail">Nos sábados a gente envia uma newsletter</label>
+        </p>
+        <p class="newsletter_fields">
+          <input type="email" name="email" id="tlemail" placeholder="seu@email.com" required />
+          <input type="hidden" value="1" name="embed">
+          <input type="submit" value="Assinar">
+        </p>
+        <p class="newsletter_credits">
+          <a href="https://tinyletter.com/!(text:TinyLetter Username)" rel="external">TinyLetter</a>
+        </p>
+      </form>
     </div>
+    
+    <p class="site_credits">
+      &copy; 2013—{{ "now" | date: "%Y" }} <a href="{{ site.url }}" rel="index">{{ site.title }}</a> ~ Os direitos dos textos são reservados aos respectivos autores.
+    </p>
   </div>
 </footer>

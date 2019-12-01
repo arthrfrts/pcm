@@ -1,134 +1,74 @@
 # Site settings
 title: Pão com Mortadela
-description: >
-  Sempre uma coisa boa pra ler na hora do café.
+tagline: >-
+  Uma dica bacana para acompanhar seu café.
+description: |+
+  Tem tanta coisa por aí.  
+  A gente te ajuda a encontrar aquilo que você vai gostar.  
+  Algo bom pra ler, ver, ouvir ou jogar.
 
-lang: pt
-timezone: America/Sao_Paulo
+lang: pt_BR
 logo: "/assets/images/logo.png"
+timezone: America/Sao_Paulo
 
-url: 'https://paomortadela.com.br'
-baseurl: ''
-
-email: padeiros@paomortadela.com.br
-facebook_username: "paomortadela.com.br"
-twitter_username: "paomortadela"
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:title/
-
-google_site_verification: "UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE"
+url: 'https://paomortadela.com.br'
+baseurl: ''
+permalink: /:year/:month/:title/
 
 include:
   - _redirects
+  
+keep_files:
+  - assets/img
+  - assets/js
+  - uploads
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      image: "/assets/images/default.jpg"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 plugins:
-  - jemoji
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate-v2
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-coffeescript
+  
 
-pagination:
-  enabled: true
-  collection: "posts"
-  per_page: 8
-  permalink: "/pagina/:num/"
-  title: ":title (:num de :max)"
-  sort_field: "date"
-  sort_reverse: true
-
-autopages:
-  enabled: true
-  collections:
-    enabled: false
-  categories:
-    layouts:
-      - "archive.html"
-    title: ":title"
-    permalink: "/categoria/:cat/"
-    slugify:
-      mode: raw
-      cased: true
-  tags:
-    enabled: true
-    layouts:
-      - "archive.html"
-    title: ":title"
-    permalink: "/tag/:tag/"
-    slugify:
-      mode: raw
-      cased: true
+# SEO
+social:
+  name: Pão com Mortadela
+  links:
+    - https://twitter.com/paomortadela
+    - https://www.facebook.com/paomortadela.com.br
+    - https://tinyletter.com/paomortadela
 
 twitter:
   username: paomortadela
   card: summary_large_image
 
+
+# Archives
 jekyll-archives:
   enabled:
     - tags
     - categories
+    - year
+    - month
   layout: "archive"
   permalinks:
-    category: "/colunas/:name/"
-    tag: "/tags/:name/"
-
-defaults:
-- scope:
-    path: ''
-  values:
-    image: "/assets/images/ogp.jpg"
-- scope:
-    path: ''
-    type: posts
-  values:
-    seo:
-      type: "BlogPosting"
-
-# Prose settings
-prose:
-  rooturl: "_posts"
-  siteurl: "https://paomortadela.com.br/"
-  relativeLinks: "https://paomortadela.com.br/assets/lists/links.jsonp"
-  media: "assets/uploads"
-  ignore:
-    - "/_includes"
-    - "/_layouts"
-    - "/_sass"
-    - "_config.yml"
-    - "LICENSE"
-    - "Gemfile"
-    - "Gemfile.lock"
-    - "index.html"
-    - "readme.md"
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "date"
-        field:
-          element: "hidden"
-          label: "Date"
-          value: CURRENT_DATETIME
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-      - name: "category"
-        field:
-          element: "select"
-          label: "Category"
-          options: "https://paomortadela.com.br/assets/lists/categories.jsonp?callback=categoriesCallback"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Tags"
-          options: "https://paomortadela.com.br/assets/lists/tags.jsonp?callback=tagsCallback"
-          alterable: true
+    year: "/:year/"
+    month: "/:year/:month/"
+    category: "/:name/"
+    tag: "/tag/:name/"

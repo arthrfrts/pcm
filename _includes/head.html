@@ -1,23 +1,9 @@
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-  {%- if page.title -%}
-    {%- if page.autopages -%}
-      <title>{{ page.autopages.display_name }} – {{ site.title }}</title>
-    {%- else -%}
-      <title>{{ page.title }}</title>
-    {%- endif -%}
-  {%- else -%}
-    <title>{{ site.title }}</title>
-  {%- endif -%}
-
-  {%- seo title=false -%}
-
-  <link rel="preload" type="text/css" href="{{ '/assets/main.css' | relative_url }}" as="style" />
-  <link rel="stylesheet" type="text/css" href="{{ '/assets/main.css' | relative_url }}" />
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}" />
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}" />
-
+  {%- seo -%}
+  
+  <link rel="shortcut icon" type="image/png" href="{%- link assets/img/favicon.png -%}" />
+  <link rel="apple-touch-icon" type="image/png" href="{%- link assets/img/apple-touch-icon.png -%}">
+  <link rel="stylesheet" type="text/css" href="{{- "/assets/css/main.css" | relative_url -}}" />
   {% feed_meta %}
 </head>
