@@ -6,7 +6,7 @@ excerpt: E responde tudo. E então acaba.
 image: "https://i.imgur.com/LCq1cjC.png"
 tags:
   - séries
-author: Arthur Freitas
+author: arthurf
 ---
 
 > Eu queria que todos estivéssemos prontos.

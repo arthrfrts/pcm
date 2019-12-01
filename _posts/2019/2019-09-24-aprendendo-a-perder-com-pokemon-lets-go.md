@@ -4,7 +4,7 @@ category: Reconsiderações
 date: "2019-09-25 09:00:00 -0300"
 title: Aprendendo a perder com Pokémon Let's Go! Eevee
 image: /assets/uploads/pokemon-lets-go-cover.jpg
-author: Arthur Freitas
+author: arthurf
 tags:
   - jogos
 ---

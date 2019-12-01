@@ -6,7 +6,7 @@ published: true
 title: Onde estão Os Ratos?
 tags:
   - leituras
-author: Guilherme Novello
+author: guilhermen
 image: 'https://i.imgur.com/ghVqKF3h.jpg'
 ---
 Dentre todas as linhas de pesquisa exploradas para dar conta das técnicas e exercícios lúdicos utilizados na construção (e na leitura) de personagens, seja na literatura, ou no audiovisual, uma sempre me despertou particular interesse: o estudo do consumo como agente dos conflitos internos.

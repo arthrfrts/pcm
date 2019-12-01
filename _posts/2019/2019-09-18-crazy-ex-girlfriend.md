@@ -3,7 +3,7 @@ date: '2019-09-18 09:00:00'
 layout: post
 title: Crazy Ex-Girlfriend terminou na sua melhor forma
 image: /images/2019/09/cxgf.jpg
-author: Arthur Freitas
+author: arthurf
 category: Exposições
 tags:
   - séries

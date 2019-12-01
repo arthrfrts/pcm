@@ -2,7 +2,7 @@
 layout: post
 title: r.izze.nhas é uma boa leitura sobre boas leituras
 date: '2019-07-03 09:00'
-author: Arthur Freitas
+author: arthurf
 tags: links
 image: /images/2019/07/rizzenhas.png
 ---

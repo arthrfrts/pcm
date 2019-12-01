@@ -4,7 +4,7 @@ title: "Gilmore Girls não é a melhor série já feita, mas é a melhor série 
 category: Exposições
 tags:
   - séries
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls.jpg"
 ---
 

@@ -1,2 +1,80 @@
 ---
+layout: default
 ---
+<article class="post single">
+  <header class="post_header">
+    {%- unless page.title == blank -%}
+      <h1 class="post_title">
+        {{- page.title -}}
+      </h1>
+    {%- endunless -%}
+  
+    {%- assign author = site.data.authors[page.author] -%}
+    {%- unless author.url -%}
+      {%- assign author_url = author.twitter | prepend: "https://twitter.com/" -%}
+    {%- else -%}
+      {%- assign author_url = author.url -%}
+    {%- endunless -%}
+  
+    <div class="post_meta">
+      <p class="post_info">
+        <a class="info post_author {{ page.author -}}" href="{{- author_url -}}" rel="author">{{ author.name }}</a>
+        <a class="info post_date" href="{{ page.url | absolute_url }}" rel="permalink">
+          <time datetime="{{- page.date | date_to_xmlschema -}}">{{- page.date | date: "%d/%m/%Y" -}}</time>
+        </a>
+      </p>
+    </div>
+  </header>
+  
+  <div class="post_content">
+    {{ page.content }}
+  </div>
+  
+  <footer class="post_footer">
+    {%- if page.tags -%}
+      <div class="post_tags">
+        <p>Mais posts sobre…</p>
+        <ul class="tags">
+          {%- for tag in page.tags -%}
+            <li>
+              <a class="tag_link" href="{{ tag | slugify | prepend: '/tag/' | relative_url }}" rel="tag">
+                {{ tag }}
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    {%- endif -%}
+  </footer>
+  
+  {%- unless page.comments == false -%}
+    <div class="post_comments">
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_config = function () {
+          this.page.url = '{{- page.url | absolute_url -}}';
+          this.page.identifier = '{{ page.id }}';
+        };
+  
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://paomortadela.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+      </script>
+      <noscript>Comentários do site oferecidos por Disqus.</noscript>
+    </div>
+  {%- endunless -%}
+</article>
+
+{%- if page.previous or page.next -%}
+<nav class="pagination">
+  {%- if page.previous -%}
+    <a href="{{- page.previous.url | relative_url -}}" rel="prev">&larr; Post anterior</a>
+  {%- endif -%}
+  {%- if page.next -%}
+    <a href="{{- page.next.url | relative_url -}}" rel="next">Próximo post &rarr;</a>
+  {%- endif -%}
+  </nav>
+{%- endif -%}

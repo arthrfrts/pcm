@@ -2,7 +2,7 @@
 layout: post
 title: "Serial faz história a cada episódio"
 date: 2016-02-02
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/serial.jpg"
 tags:
   - links

@@ -4,7 +4,7 @@ layout: post
 image: 'https://i.imgur.com/xEqGdWC.jpg'
 title: Chernobyl traduz o peso de uma catástrofe
 category: Essenciais
-author: Arthur Freitas
+author: arthurf
 description: >-
   O terror da nova minissérie é ainda maior ao exprimir o custo humano da
   desinformação.

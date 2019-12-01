@@ -4,7 +4,7 @@ date: 2017-01-27
 title: "Orgulho e Preconceito ainda surpreende"
 tags:
   - leituras
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/orgulho-e-preconceito.jpg"
 ---
 

@@ -3,7 +3,7 @@ date: '2019-10-23 10:30 -0300'
 layout: post
 title: 'Socorro, eu não consigo sair de Pocket City'
 image: /images/2019/10/pocket-city.jpg
-author: Arthur Freitas
+author: arthurf
 tags:
   - jogos
 published: true

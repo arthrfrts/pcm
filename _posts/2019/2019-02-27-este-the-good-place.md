@@ -9,7 +9,7 @@ image: 'https://i.imgur.com/BnJQihT.jpg'
 tags:
   - séries
   - podcasts
-author: Emanuele Spies
+author: emanueles
 ---
 > Bem-vindo!  
 > Está tudo bem.

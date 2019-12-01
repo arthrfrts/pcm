@@ -4,7 +4,7 @@ title: "Community se despediu com uma das suas melhores temporadas"
 tags:
   - séries
 image: "https://arthrfrts.files.wordpress.com/2018/03/community.jpg"
-author: Arthur Freitas
+author: arthurf
 ---
 
 Vamos a algumas verdades absolutas da TV: a última temporada de _The Wire_ é uma decepção; _Seinfield_ é uma das melhores comédias da TV, mas a idade pesa; _Community_ era uma das melhores coisas que vimos na televisão em suas três primeiras temporadas, mas nunca conseguiu retomar sua glória depois.

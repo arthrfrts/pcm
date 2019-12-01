@@ -5,7 +5,7 @@ title: "Enclausurado é estranho pra caramba."
 excerpt: Ian McEwan está manipulativo como sempre, mas divertido como nunca.
 tags:
   - leituras
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/enclausurado-ian-mcewan.jpg"
 ---
 

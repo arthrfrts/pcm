@@ -2,7 +2,7 @@
 layout: post
 title: "Flash, Constantine e a oportunidade do novo"
 date: "2014-07-14 20:19:22 -0300"
-author: Fillipe Diniz
+author: filliped
 category: Exposições
 tags:
   - séries

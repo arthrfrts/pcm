@@ -2,7 +2,7 @@
 layout: post
 date: "2019-11-27 10:30:00 -0300"
 title: "As séries de meia-hora são as minhas favoritas nessa década"
-author: Arthur Freitas
+author: arthurf
 image: "/images/2019/11/fleabag.jpg"
 category: Exposição
 tags:

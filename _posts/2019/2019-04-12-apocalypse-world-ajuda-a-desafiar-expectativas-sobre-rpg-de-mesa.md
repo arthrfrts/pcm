@@ -6,7 +6,7 @@ title: Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa
 image: 'https://i.imgur.com/JoGNqv9.jpg'
 tags:
   - jogos
-author: Raul Fontoura
+author: raulf
 published: true
 ---
 Talvez você já tenha jogado RPG no passado. Normalmente RPG surge como aquela brincadeira meio diferente que o seu primo ou amigo da escola trás para um dia de chuva, ou quando cai a luz, ou só como um jeito de quebrar a monotonia mesmo. Talvez você só se lembre que existe porque ele apareceu em um episódio de _Bob Esponja_ ou _Stranger Things_. Talvez só tenha jogado uma versão eletrônica. Independente disso, e até mesmo entre veteranos dos jogos, existe uma idéia cultural um pouco difusa sobre o que é um RPG de mesa, e como ele funciona.

@@ -2,7 +2,7 @@
 layout: post
 title: "Magneto: Atos de Terror"
 date: "2014-08-20 20:06:10 -0300"
-author: Fillipe Diniz
+author: filliped
 tags:
   - leituras
 image: "https://arthrfrts.files.wordpress.com/2018/03/magneto-no-hero-2_zps8cde934e-672x372.jpg"

@@ -2,7 +2,7 @@
 layout: post
 date: "2019-01-14 09:00:00 -0200"
 title: Mamilos, um exercício contínuo de empatia
-author: Emanuele Spies
+author: emanueles
 excerpt: >-
   Porque é mais importante construir pontes do que provar pontos
 image: "https://i.imgur.com/AUly4WT.jpg"

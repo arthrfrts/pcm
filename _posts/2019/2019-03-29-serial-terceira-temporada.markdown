@@ -2,7 +2,7 @@
 date: '2019-03-29 09:00'
 layout: post
 title: A justiça que nos cerca
-author: Arthur Freitas
+author: arthurf
 image: 'https://i.imgur.com/YieSypth.jpg'
 category: Essenciais
 tags:

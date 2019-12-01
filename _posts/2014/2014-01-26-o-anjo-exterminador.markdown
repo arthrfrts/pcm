@@ -2,7 +2,7 @@
 layout: post
 title: "O Anjo Exterminador"
 date: "2014-01-26 20:02:17 -0300"
-author: Fillipe Diniz
+author: filliped
 tags:
   - filmes
 image: "https://arthrfrts.files.wordpress.com/2018/03/the_exterminating_angel_1.jpg"

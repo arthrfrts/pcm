@@ -3,7 +3,7 @@ layout: post
 title: "Voltando pro paraíso de Burnout Paradise"
 date: "2014-08-06 01:07:41 -0300"
 image: "https://arthrfrts.files.wordpress.com/2018/03/burnout-paradise-takedown-1024x576.jpg"
-author: Arthur Freitas
+author: arthurf
 category: resenhas
 tags:
   - jogos

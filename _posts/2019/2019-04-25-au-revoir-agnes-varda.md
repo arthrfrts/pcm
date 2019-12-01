@@ -4,7 +4,7 @@ layout: post
 category: resenhas
 title: Au revoir Agnès Varda
 image: https://i.imgur.com/JcezTrS.jpg
-author: Arthur Freitas
+author: arthurf
 tags:
 - filmes
 ---

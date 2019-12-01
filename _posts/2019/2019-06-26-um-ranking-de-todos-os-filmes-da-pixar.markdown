@@ -5,7 +5,7 @@ date: "2019-06-26 09:00"
 image: /images/2019/06/pixar-ranking.jpg
 category: Listas
 tags: filmes
-author: Arthur Freitas
+author: arthurf
 description: Aproveitamos o lançamento de Toy Story 4 para dar uma olhada na carreira do estúdio.
 ---
 

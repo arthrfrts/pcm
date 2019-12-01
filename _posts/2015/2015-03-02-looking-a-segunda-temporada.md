@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Arthur Freitas
+author: arthurf
 date: 2015-03-02
 title: 'Looking: a segunda temporada'
 image: "https://pcmbackup.files.wordpress.com/2015/03/looking-s02e07.jpg"

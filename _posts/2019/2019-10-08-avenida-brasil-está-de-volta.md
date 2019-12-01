@@ -4,7 +4,7 @@ layout: post
 title: Avenida Brasil está de volta
 image: /assets/uploads/avenida-brasil.jpg
 category: Essenciais
-author: Arthur Freitas
+author: arthurf
 excerpt: Oi oi oi!
 tags:
   - séries

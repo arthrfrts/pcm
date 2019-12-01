@@ -7,7 +7,7 @@ title: Onde Vivem os Monstros é uma obra-prima sobre a infância
 image: 'https://i.imgur.com/3sXyDeb.jpg'
 tags:
   - filmes
-author: Arthur Freitas
+author: arthurf
 ---
 Carol é grande e tem a voz esganiçada, Alexander tem um nariz ranhoso, Ira e Judith estão apaixonados um pelo outro, o Touro é quieto e assustador, e KW tem um olhar doce e cabelos ondulados. Todos eles são peludos, só alguns tem chifres, outros tem rabos longos e dentes pontudos. Mas tem um que é pequeno e não tem pelos. Ele veste uma roupa de lobo e apareceu no meio desses monstros depois de brigar com sua mãe e fugir de casa. Esse é Max, e os outros monstros o chamam de rei.
 

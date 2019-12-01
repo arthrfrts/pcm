@@ -3,7 +3,7 @@ layout: post
 date: "2019-05-03 09:00:00 -0300"
 title: "Dica do fim de semana: Shirkers — O Filme Roubado"
 image: "https://i.imgur.com/61gidQV.jpg"
-author: Arthur Freitas
+author: arthurf
 category: "Dicas do fim de semana"
 tags:
   - filmes

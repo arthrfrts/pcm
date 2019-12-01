@@ -6,7 +6,7 @@ published: true
 title: 'Miojo Indie: É bom ler sobre o que a gente ama ouvir'
 tags:
   - links
-author: Arthur Freitas
+author: arthurf
 image: /assets/uploads/miojoindie.jpg
 ---
 Quando eu e o Fillipe decidimos criar o Pão com Mortadela, lá em 2012, a gente ficou matutando por um bom tempo sobre que nome dar. No fim das contas a gente buscou inspiração nos nossos blogs favoritos da época, e um deles era um blog de resenhas de discos chamado [Miojo Indie](http://miojoindie.com.br/). A gente seguiu o tema de comidas e escolheu um lanche que por sinal era o que a gente fazia quando se reunia na minha casa de tarde pra discutir nossos planos mirabolantes pro que seria o PCM.

@@ -5,7 +5,7 @@ title: "Everything Now pede para encararmos o abismo juntos"
 image: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
 tags:
   - músicas
-author: Arthur Freitas
+author: arthurf
 ---
 
 Quando eu terminei de ouvir _Everything Now_, eu fiquei desesperado.

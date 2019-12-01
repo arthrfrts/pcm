@@ -2,7 +2,7 @@
 layout: post
 date: 2016-03-03
 title: "Wolfgang Amadeus Phoenix diverte pra sempre"
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/wolfgang-amadeus-phoenix.jpg"
 tags:
   - músicas

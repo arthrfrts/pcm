@@ -4,7 +4,7 @@ title: "El Hombre de al Lado"
 date: "2014-08-08 19:21:22 -0300"
 tags:
   - filmes
-author: Fillipe Diniz
+author: filliped
 image: "https://arthrfrts.files.wordpress.com/2018/03/el_hombre_de_al_lado_1_2.jpg"
 
 ---

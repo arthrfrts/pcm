@@ -3,7 +3,7 @@ layout: post
 title: "The Sims 4 parece ser de uma nova Maxis"
 date: "2014-08-11 01:16:43 -0300"
 category: Exposições
-author: Arthur Freitas
+author: arthurf
 tags:
   - jogos
 image: "/images/2014/the-sims-4.jpg"

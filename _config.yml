@@ -7,7 +7,7 @@ description: |+
   A gente te ajuda a encontrar aquilo que você vai gostar.  
   Algo bom pra ler, ver, ouvir ou jogar.
 
-lang: pt_BR
+lang: pt-BR
 logo: "/assets/images/logo.png"
 timezone: America/Sao_Paulo
 
@@ -16,7 +16,10 @@ timezone: America/Sao_Paulo
 markdown: kramdown
 url: 'https://paomortadela.com.br'
 baseurl: ''
+
 permalink: /:year/:month/:title/
+paginate: 12
+paginate_path: "/p:num/"
 
 include:
   - _redirects
@@ -44,6 +47,7 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-coffeescript
+  - jekyll-include-cache
   
 
 # SEO

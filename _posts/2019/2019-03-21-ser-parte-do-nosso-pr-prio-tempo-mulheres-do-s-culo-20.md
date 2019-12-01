@@ -6,7 +6,7 @@ published: true
 title: 'Ser parte do nosso próprio tempo: Mulheres do Século 20'
 tags:
   - filmes
-author: Arthur Freitas
+author: arthurf
 image: 'https://i.imgur.com/UcrQPBT.jpg'
 ---
 _Mulheres do Século 20_ é um filme feito de memória. Uma carta de um filho para a sua mãe que, ao mesmo tempo que quer parecer que ele entende o que ela tentou fazer para criar ele, é incapaz de entender a mulher que o criou. _Mulheres do Século 20_ folheia livros, escuta músicas e vê fotos. É uma busca frenética para entender quem foi Dorothea Fields, a mãe do narrador, Jamie. Dorothea nasceu nos anos 1920 (Jamie diz que ela nasceu “na Depressão”, como se “A Depressão” fosse um outro planeta), em meio a casas e carros tristes, em um tempo onde as pessoas não aceitavam que as coisas davam errado.

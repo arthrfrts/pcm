@@ -10,7 +10,7 @@ excerpt: >-
   Estreamos uma coluna nova observando como o melhor episódio de uma das
   melhores séries.
 image: 'https://i.imgur.com/NuXNnXl.jpg'
-author: Arthur Freitas
+author: arthurf
 ---
 Alguns episódios de nossas séries favoritas revelam tudo: sabe o que essa série faz de bom, e qual a fórmula pra fazer ainda melhor; entende o _espaço_ que essa série ocupa no panorama da televisão; e oferecem algo novo, complamente novo — nos fazem ver aquilo que a gente ama com novos olhos, ao mesmo tempo que extrapola uma premissa à ponto de ressignificá-la. É uma tarefa gigante, mas alguns episódios conseguem. Na terceira temporada de _Twin Peaks_, uma temporada em si difícil de se classificar, a “[Parte 8](https://twinpeaks.fandom.com/wiki/Part_8)” talvez seja a melhor forma de resumir o que foi esse verdadeiro evento em forma de seriado. No clássico absoluto que é _Família Soprano_, “[Long Term Parking](https://sopranos.fandom.com/wiki/Long_Term_Parking)”, examina a tragédia irreversível de seus personagens em um dos arcos mais brutais. Já na sua primeira temporada de _Plantão Médico_, “[Love's Labor Lost](https://er.fandom.com/wiki/Love%27s_Labor_Lost)” vai definir o tom e o ritmo das quinze temporadas e mais de 300 episódios, bem como reestabelece toda a dinâmica de um hospital inteiro e nossa confiança nesses personagens em pouco mais de quarenta minutos.
 

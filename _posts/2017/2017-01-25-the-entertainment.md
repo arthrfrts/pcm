@@ -5,7 +5,7 @@ title: Você nunca vai jogar nada como The Entertainment
 category: Achados
 tags:
   - jogos
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 ---
 

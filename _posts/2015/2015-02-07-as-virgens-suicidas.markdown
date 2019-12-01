@@ -2,7 +2,7 @@
 layout: post
 title: "As Virgens Suicidas"
 date: "2015-02-07 20:29:01 -0300"
-author: Fillipe Diniz
+author: filliped
 tags:
   - leituras
 image: "https://arthrfrts.files.wordpress.com/2018/03/virgenssuicidas.jpg"

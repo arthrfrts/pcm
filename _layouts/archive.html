@@ -1,2 +1,27 @@
 ---
+layout: default
 ---
+
+<header class="archive_header">
+  <h2 class="archive_title">
+    {%- if page.date -%}
+      Posts publicados em
+      
+      {%- if page.type == "month" %}
+        {{ page.date | date: "%m/%Y" }}
+      {%- else %}
+        {{ page.date | date: "%Y" }}
+      {%- endif -%}
+    {%- else -%}
+      {%- if page.type == "tag" -%}
+        Posts marcados com {{ page.title }}
+      {%- else -%}
+        {{ page.title }}
+      {%- endif -%}
+    {%- endif -%}
+  </h2>
+</header>
+
+{%- for post in page.posts -%}
+  {%- include post.html hide_content="true" -%}
+{%- endfor -%}

@@ -10,7 +10,7 @@ excerpt: >-
 tags:
   - jogos
 image: 'https://i.imgur.com/CwM5w0l.jpg'
-author: Arthur Freitas
+author: arthurf
 ---
 Minha vizinha, a amiga que tinha um computador que rodava os jogos que a gente gostava de jogar (_Harry Potter e a Pedra Filosofal_, _Croc 2_), me mostrou um jogo onde a gente podia criar uma casa, colocar gente lá dentro e fazer eles negligenciarem o banheiro. Eu tinha sete anos, era férias de verão e eu ia começar a primeira série quando eu conheci _The Sims_.
 

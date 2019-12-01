@@ -2,7 +2,7 @@
 layout: "post"
 title: "Succession é uma nova Game of Thrones (só que muito, muito melhor)"
 date: "2019-08-07 09:00"
-author: Arthur Freitas
+author: arthurf
 image: "/images/2019/08/succession.jpeg"
 tags:
   - séries

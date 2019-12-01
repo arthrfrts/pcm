@@ -6,7 +6,7 @@ category: Achados
 tags:
   - jogos
   - links
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
 ---
 

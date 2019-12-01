@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{- site.lang | replace: "_","-" -}}">
+<html lang="{{- site.lang -}}">
   {%- include head.html -%}
   <body>
     <div id="site">
-      {%- include header.html -%}
+      {%- include_cached header.html -%}
       
       <main class="content">
         <div class="wrapper">
@@ -14,9 +14,9 @@
       </main>
       
       
-      {%- include footer.html -%}
+      {%- include_cached footer.html -%}
     </div>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="   crossorigin="anonymous"></script>
-    <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_path }}"></script>
+    <script type="text/javascript" src="{%- link assets/js/jquery.js -%}"></script>
+    <script type="text/javascript" src="{%- link assets/js/scripts.js -%}"></script>
   </body>
 </html>

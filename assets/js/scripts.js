@@ -1,3 +1,11 @@
+$(document).ready(function() {
+  var footer_height;
+  footer_height = $('.colophon').outerHeight();
+  $('.content').css({
+    'margin-bottom': footer_height
+  });
+});
+
 (function() {
   var _debounce, _each, _filter, _resize, iframes, isVideo, resizeVideos, videos;
 

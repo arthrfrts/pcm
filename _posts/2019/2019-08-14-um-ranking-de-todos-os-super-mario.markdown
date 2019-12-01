@@ -3,7 +3,7 @@ layout: "post"
 title: "Um ranking de todos os Super Mario"
 image: "/images/2019/08/ranking-supermario.jpg"
 date: "2019-08-14 09:00"
-author: Arthur Freitas
+author: arthurf
 category: Listas
 tags: jogos
 ---

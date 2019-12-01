@@ -2,7 +2,7 @@
 layout: post
 title: "Limites e Demonstrações: A brisa na estrada de Kentucky Route Zero, Atos 1 e 2"
 date: "2014-06-02 01:26:40 -0300"
-author: Arthur Freitas
+author: arthurf
 tags:
   - jogos
 image: "https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-1-672x372.jpg"

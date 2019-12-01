@@ -6,7 +6,7 @@ title: Guia PCM pro Oscar
 excerpt: Nós te ajudamos a assistir os filmes indicados ao Oscar desse ano.
 tags:
   - filmes
-author: Arthur Freitas
+author: arthurf
 image: 'https://i.imgur.com/iVjDPWW.jpg'
 published: true
 ---

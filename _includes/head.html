@@ -1,6 +1,12 @@
 <head>
   <meta charset="utf-8" />
-  {%- seo -%}
+  
+  {%- if page.title -%}
+    <title>{{ page.title }} ({{ site.title }})</title>
+  {%- else -%}
+    <title>{{ site.title }} ~ {{ site.tagline }}</title>
+  {%- endif -%}
+  {%- seo title=false -%}
   
   <link rel="shortcut icon" type="image/png" href="{%- link assets/img/favicon.png -%}" />
   <link rel="apple-touch-icon" type="image/png" href="{%- link assets/img/apple-touch-icon.png -%}">

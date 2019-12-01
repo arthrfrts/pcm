@@ -2,7 +2,7 @@
 layout: "post"
 title: "Estou Me Guardando Para Quando o Carnaval Chegar"
 date: "2019-07-24 09:00"
-author: Guilherme Novello
+author: guilhermen
 image: "/images/2019/07/carnaval.jpg"
 category: resenhas
 tags: filmes

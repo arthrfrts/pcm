@@ -5,7 +5,7 @@ title: "Reflektor é diferente de tudo o que o Arcade Fire já fez."
 category: Reconsiderações
 tags:
   - músicas
-author: Arthur Freitas
+author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/arcade-fire-reflektor.jpg"
 ---
 

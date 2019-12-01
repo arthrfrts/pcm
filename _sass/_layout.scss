@@ -114,10 +114,14 @@
   padding-top: $spacing-unit * 2;
   padding-bottom: $spacing-unit * 2;
   
+  .archive_header {
+    margin-bottom: $spacing-unit * 3;
+  }
+  
   .post {
     &:not(:last-child) {
-      margin-bottom: $spacing-unit * 2;
-      padding-bottom: $spacing-unit * 2;
+      margin-bottom: $spacing-unit * 4;
+      padding-bottom: $spacing-unit * 4;
       border-bottom: 1px dashed rgba($color-text, 0.2);
     }
     
@@ -153,12 +157,17 @@
     }
     
     .post_content {
-      max-width: 700px;
+      h1, h2, h3, h4, h5, h6 {
+        margin-top: $spacing-unit / 2;
+        margin-bottom: $spacing-unit / 2;
+      }
       
-      
-      .chat {
-        padding-left: 0;
-        list-style: none;
+      p,
+      ul, ol, dl,
+      pre, table {
+        &:not(.full-width) {
+          max-width: 700px;
+        }
       }
     }
     
@@ -196,6 +205,10 @@
           }
         }
       }
+    }
+    
+    .post_comments {
+      margin-top: $spacing-unit * 3;
     }
     
     .post_info {
@@ -256,7 +269,8 @@
 .pagination {
   @include media-query($on-palm) {
     display: flex;
-    justify-content: center;
+    flex-flow: column nowrap;
+    align-items: center;
   }
   
   a {
@@ -265,8 +279,8 @@
     font-size: 1.4rem;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    font-weight: bold;
-    background: rgba($color-text, 0.4);
+    font-weight: 900;
+    background: rgba($color-text, 0.05);
     transition-property: background-color, color;
     transition-duration: 250ms;
     transition-timing-function: ease;
@@ -274,6 +288,15 @@
     
     &:not(:last-child) {
       margin-right: $spacing-unit / 2;
+      
+      @include media-query($on-palm) {
+        margin-right: 0;
+        margin-bottom: $spacing-unit / 2;
+      }
+    }
+    
+    @include media-query($on-palm) {
+      text-align: center;
     }
   }
   
@@ -284,6 +307,7 @@
     letter-spacing: normal;
     font-weight: normal;
     text-decoration: none;
+    text-transform: lowercase;
     
     @include media-query($on-palm) {
       display: none;

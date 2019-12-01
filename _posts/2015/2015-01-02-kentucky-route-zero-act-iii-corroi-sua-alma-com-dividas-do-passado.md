@@ -2,7 +2,7 @@
 layout: post
 date: 2015-01-02
 title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
-author: Arthur Freitas
+author: arthurf
 category: Essenciais
 tags:
   - jogos

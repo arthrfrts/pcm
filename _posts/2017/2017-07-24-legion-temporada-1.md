@@ -5,7 +5,7 @@ title: 'Legion é o futuro brilhante dos super-heróis.'
 image: "https://arthrfrts.files.wordpress.com/2018/03/legion-s01.jpg"
 tags:
   - séries
-author: Arthur Freitas
+author: arthurf
 ---
 
 E então, o que tu acha dessa onda de filmes e séries de super-heróis que explodiu nessa última década?

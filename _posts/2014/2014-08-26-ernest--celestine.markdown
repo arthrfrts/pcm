@@ -2,7 +2,7 @@
 layout: post
 title: "Ernest & Celestine"
 date: "2014-08-26 19:55:27 -0300"
-author: Vanessa Oliveira
+author: vanessao
 tags:
   - filmes
 image: "https://arthrfrts.files.wordpress.com/2018/03/hero_ernestand_celestine-2014-1.jpg"
