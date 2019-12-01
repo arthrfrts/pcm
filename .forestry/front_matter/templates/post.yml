@@ -26,3 +26,17 @@ fields:
       file: _data/authors.yml
       path: 
   label: Author
+- name: date
+  type: datetime
+  label: Publish Date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: HH:MM
+    display_utc: false
+    export_format: YYYY-MM-DD h:mm:ss A ZZ
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
