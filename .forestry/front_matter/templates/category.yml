@@ -1,0 +1,11 @@
+---
+label: Category
+hide_body: true
+fields:
+- type: field_group_list
+  name: Categories
+  label: Categories
+  fields:
+  - type: text
+    name: title
+    label: title
