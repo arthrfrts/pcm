@@ -1,0 +1,93 @@
+---
+label: Author
+hide_body: true
+fields:
+- type: field_group
+  name: arthurf
+  label: arthurf
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
+  - type: text
+    name: url
+    label: url
+- type: field_group
+  name: filliped
+  label: filliped
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
+- type: field_group
+  name: guilhermen
+  label: guilhermen
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
+- type: field_group
+  name: raulf
+  label: raulf
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
+  - type: text
+    name: url
+    label: url
+- type: field_group
+  name: emanueles
+  label: emanueles
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
+  - type: text
+    name: url
+    label: url
+- type: field_group
+  name: thaianek
+  label: thaianek
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
+- type: field_group
+  name: guilhermeb
+  label: guilhermeb
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
+- type: field_group
+  name: vanessao
+  label: vanessao
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: twitter
+    label: twitter
