@@ -13,10 +13,10 @@ sections:
 - type: document
   path: _data/categories.yml
   label: Categories
-  match: "**/*"
 - type: document
   path: _data/authors.yml
   label: Authors
+  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
