@@ -45,5 +45,17 @@ fields:
   config:
     maxSize: 250
   label: Image
+- name: category
+  type: select
+  default: _data/categories.yml
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: categories
+      file: _data/categories.yml
+      path: 
+  label: Category
 pages:
 - _posts/teste-de-post.md
