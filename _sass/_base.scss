@@ -74,7 +74,7 @@ blockquote {
   text-align: right;
   color: $color-accent;
   
-  @include media-queery($on-palm) {
+  @include media-query($on-palm) {
     padding-left: $spacing-unit;
     padding-right: $spacing-unit;
   }
