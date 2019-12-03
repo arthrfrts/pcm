@@ -61,7 +61,7 @@ Acho que o lance do "amor de verdade" pode levar a uma interpretação que não 
 
 ---
 
-**Onde posso assistir _Viajo Porque Preciso, Volto Porque Te Amo_?** O filme possui uma linda edição que acompanha um livro com a transcrição dos relatos de José — ela [está disponível na Amazon](https://www.amazon.com.br/Viajo-porque-preciso-volto-amo/dp/8569298129). Você também pode assistir o filme no [YouTube](https://www.youtube.com/watch?v=gperj-foF_0).
+**Onde posso assistir _Viajo Porque Preciso, Volto Porque Te Amo_?** O filme possui uma linda edição que acompanha um livro com a transcrição dos relatos de José — ela [está disponível na Amazon](https://www.amazon.com.br/Viajo-porque-preciso-volto-amo/dp/8569298129). Você também pode assistir o filme no [YouTube](https://www.youtube-nocookie.com/watch?v=gperj-foF_0).
 
 ---
 
@@ -69,6 +69,6 @@ Já que falamos em Guimarães Rosa, talvez seja interessante aproveitar a carona
 
 _A João Guimarães Rosa_ (Marcelo Tassara, 1968):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/150x97qZQvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/150x97qZQvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Você pode ler [_A Terceira Margem do Rio_](https://www.aedi.ufpa.br/parfor/letras/images/documentos/ativ-a-dist-jan-fev2014/CASTANHAL/castanhal-2010-010/guimaraes%20rosa%20-%20a_terceira_margem_do_rio-3.pdf).

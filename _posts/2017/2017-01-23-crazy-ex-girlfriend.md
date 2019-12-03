@@ -9,7 +9,7 @@ author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/crazy-ex-girlfriend.jpg"
 ---
 
-<iframe width="1280" height="739" src="https://www.youtube.com/embed/hkfSDSfxE4o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/hkfSDSfxE4o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 O vídeo acima é, basicamente, o motivo que deveria fazer qualquer um assistir _Crazy Ex-Girlfriend_, a melhor comédia no ar hoje.
 

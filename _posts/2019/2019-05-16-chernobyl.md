@@ -32,6 +32,6 @@ Em um episódio seguinte da série, um personagem argumentará que “o poder da
 
 Para um show tão difícil de assistir, é notável como _Chernobyl_ nos oferece uma mão esperançosa e segura para nos acompanhar. Os bombeiros, os engenheiros, os civis que morreriam para evitar que um acidente como esse voltasse a acontecer são aqueles que merecem suas histórias contadas, com o respeito e a beleza como a qual _Chernobyl_ entrega. Uma hora a verdade chegará à tona, só resta decidirmos se ela vai custar centenas de vidas de novo, ou se nos inspiraremos no sacrifício de um povo que lutou para que isso não aconteça de novo.
 
-<iframe width="1280" height="568" src="https://www.youtube.com/embed/74D6dZ8-uRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="568" src="https://www.youtube-nocookie.com/embed/74D6dZ8-uRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Onde posso assistir _Chernobyl_?** O segundo dos cinco episódios vai ao ar nessa sexta-feira, às 21h, na HBO. Você pode conferir os episódios na [HBO Go](https://www.hbogo.com.br/seriesOverview/e88aa1da-707a-11e9-810e-0050569a010f/2).

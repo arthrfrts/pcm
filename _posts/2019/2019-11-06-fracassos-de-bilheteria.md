@@ -27,7 +27,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ## A Grande Muralha (_The Great Wall_, 2016)
 
 {:.full-width}
-<iframe width="806" height="453" src="https://www.youtube.com/embed/gd2n92fKtvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/gd2n92fKtvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 75 milhões de dólares
 
@@ -42,7 +42,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ## _Blade Runner 2049_ (2017)
 
 {: .full-width }
-<iframe width="806" height="453" src="https://www.youtube.com/embed/gCcx85zbxz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/gCcx85zbxz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 82 milhões de dólares
 
@@ -57,7 +57,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ## _Speed Racer_ (2008)
 
 {: .full-width }
-<iframe width="806" height="453" src="https://www.youtube.com/embed/8V8sLlqJB2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/8V8sLlqJB2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 93 milhões de dólares
 
@@ -70,7 +70,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ***
 
 {:.full-width}
-<iframe width="806" height="453" src="https://www.youtube.com/embed/1k59gXTWf-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/1k59gXTWf-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tomorrowland: Um Lugar Onde Nada É Impossível (_Tomorrowland_, 2015)
 
@@ -87,7 +87,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ## A Invenção de Hugo Cabret (_Hugo_, 2011)
 
 {: .full-width }
-<iframe width="806" height="436" src="https://www.youtube.com/embed/Hv3obL9HqyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="436" src="https://www.youtube-nocookie.com/embed/Hv3obL9HqyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 101 milhões de dólares
 
@@ -102,7 +102,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ## Uma Dobra no Tempo (_A Whinkle In Time_, 2018)
 
 {: .full-width }
-<iframe width="806" height="335" src="https://www.youtube.com/embed/GDP3GO1lILI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="335" src="https://www.youtube-nocookie.com/embed/GDP3GO1lILI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 131 milhões 
 
@@ -117,7 +117,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ## _Final Fantasy_ (_Final Fantasy: The Spirits Within_, 2001).
 
 {: .full-width }
-<iframe width="1280" height="557" src="https://www.youtube.com/embed/GnE64DbnUzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="557" src="https://www.youtube-nocookie.com/embed/GnE64DbnUzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 133 milhões de dólares
 
@@ -132,7 +132,7 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 ## John Carter: Entre Dois Mundos (_John Carter_, 2012)
 
 {:.full-width}
-<iframe width="1280" height="557" src="https://www.youtube.com/embed/nlvYKl1fjBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="557" src="https://www.youtube-nocookie.com/embed/nlvYKl1fjBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** entre 138 milhões e 213 milhões de dólares.
 

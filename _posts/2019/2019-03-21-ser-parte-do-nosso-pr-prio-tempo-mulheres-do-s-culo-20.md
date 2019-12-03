@@ -26,6 +26,6 @@ _Mulheres do Século 20_ olha para essas mulheres que tentam criar Jamie, olha p
 ---
 
 {:.full-width}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EVL3AYkDqQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EVL3AYkDqQg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Você pode assistir _Mulheres do Século 20_ no [Telecine Play](https://www.telecineplay.com.br/filme/Mulheres_Do_Século_20_11145).**

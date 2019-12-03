@@ -19,7 +19,7 @@ Nos últimos anos, então, começou a aparecer uma variação do anti-herói: a 
 Com _Crazy Ex-Girlfriend_ (na [Netflix](https://www.netflix.com/title/80066227)), esse tipo de personagem dá mais um passo e cria uma das melhores séries da década.
 
 {:.full-width}
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RUYhukcMgEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/RUYhukcMgEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu já comentei ([brevemente]({%- post_url 2017/2017-01-23-crazy-ex-girlfriend -%})) sobre a primeira temporada de _CXGF_ aqui. Naquela época, a série ainda parecia “apenas” uma comédia sobre comédias românticas, que tentava pegar os clichês do gênero e desconstruí-los para mostrar como elas podiam nos dar ilusões sobre o amor. A primeira temporada de CXGF é divertidíssima, mas o que a série começou a fazer depois dela é genial.
 
@@ -27,14 +27,14 @@ _Crazy Ex-Girlfriend_ conta a história da Rebecca Bunch, uma advogada de um pod
 
 É uma comédia romântica, em um primeiro momento, e _Crazy Ex-Girlfriend_ sabe o que a gente espera desse tipo de história. E sabe também quando a gente espera uma reviravolta desse gênero. Essa é a série que homenageia _Harry & Sally_ e _(500) Dias com Ela_ no mesmo episódio, afinal de contas.
 
-Mas _CXGF_ também é um musical que se passa dentro da mente de Rebecca. Ela é uma mulher com emoções muito fortes, e a série revela essas emoções em números musicais que vão desde [como ela se arruma para sair com um cara](https://www.youtube.com/watch?v=ky-BYK-f154) até [como é horrível ser advogado](https://youtu.be/Xs-UEqJ85KE).
+Mas _CXGF_ também é um musical que se passa dentro da mente de Rebecca. Ela é uma mulher com emoções muito fortes, e a série revela essas emoções em números musicais que vão desde [como ela se arruma para sair com um cara](https://www.youtube-nocookie.com/watch?v=ky-BYK-f154) até [como é horrível ser advogado](https://youtu.be/Xs-UEqJ85KE).
 
 Na primeira temporada, Rebecca vai até West Covina guiada por essas emoções fortes e números musicais imaginários. Ela quer reviver seu amor com Josh e, com sua nova melhor amiga Paula (a incrível Donna Lynne Champlin) ela não mede esforços para isso acontecer: desde influenciar o casamento da irmã do Josh até criar um namorado falso que se torna mais real do que deveria para causar ciúmes nele.
 
 Se na primeira temporada da série nós somos apresentados à esse grupo de personagens e como eles agem entre si — como Paula ajuda Rebecca porque ela mesma queria viver uma “grande história de amor”; como Josh é o manda chuva dos seus amigos e está trancado nas memórias da adolescência; como Valencia prefere que Josh não tenha personalidade; ou como Greg, o melhor amigo de Josh, se apaixona por Rebecca **porque** ela não tá afim dele — a partir da segunda ela transforma em uma observação como nós procuramos em nossos amigos e amores alguém que valide também nossos vícios, não só nossas virtudes, e como elas podem ser prejudiciais quando juntamos esses piores lados.
 
 {:.full-width}
-<iframe width="640" height="360" src="https://www.youtube.com/embed/bkAjUBtn_TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/bkAjUBtn_TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 É aí que _Crazy Ex-Girlfriend_ não tenta só desconstruir a comédia romântica, mas também a comédia de amigos. Por mais bela que seja a amizade entre Rebecca e Paula, as duas acabam criando ilusões uma para a outra sobre suas ações. Paula acha que a busca de Rebecca pelo amor é um romance de vampiros ao vivo; Rebecca acha que o suporte de Paula é o que uma verdadeira mãe devia fazer. Greg vê no seu amor destrutivo com Rebecca a chance de validar seu pior lado; e Josh insiste em viver com Valencia porque ele não consegue acreditar que seus dias de glória já passaram.
 
@@ -44,7 +44,7 @@ Mas _Crazy Ex-Girlfriend_ também valoriza que, mesmo se estamos perdidos, vai s
 
 
 {:.full-width}
-<iframe width="640" height="360" src="https://www.youtube.com/embed/OG6HZMMDEYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/OG6HZMMDEYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Não é novidade o que _CXGF_ faz. _Community_ sempre foi fascinada pela ideia de que, por mais que o grupo de estudos seja algo necessário para a vida das pessoas, eles nem sempre fazem bem uns aos outros. Em _Crazy Ex-Girlfriend_, essa jornada é interna: a compreensão de que você faz parte de um todo e esse todo talvez não tenha mais tanta certeza quando você imaginava, e como isso pode desestabilizar ainda mais você. Rebecca não vê um futuro porque é infeliz, e _CXGF_ não quer que ela descubra a felicidade em outra pessoa. A jornada de Rebecca é em descobrir o que a faz infeliz e insuficiente para si mesma, e como ela pode melhorar.
 

@@ -151,7 +151,7 @@ Em _Viva_, que conta a história de um menino que atravessa para o mundo dos mor
 
 Por muito tempo a única sequência da Pixar (ê o tempo voa), _Toy Story 2_ faz seus personagens questionarem a própria existência de um modo que nenhum outro estúdio de animação ousa fazer. Acho que é isso que eu gosto tanto nos filmes do estúdio. Eles entendem que crianças não são idiotas, e entregam pra elas temas grandes demais pra elas ficarem anos pensando.
 
-Era verdade em 1999, quando _Toy Story 2_ foi lançado, e é verdade agora, vinte anos depois, quando as perguntas que o filme lançou são “respondidas” por _Toy Story 4_. A incerteza de Woody como sua vida de boneco de uma criança que claramente vai partir seu coração é profunda e emocionante, e _Toy Story 2_ não foge delas mesmo quando [as respostas que ele sugere](https://www.youtube.com/watch?v=Km4WiqKtZ-E) não sejam exatamente fáceis.
+Era verdade em 1999, quando _Toy Story 2_ foi lançado, e é verdade agora, vinte anos depois, quando as perguntas que o filme lançou são “respondidas” por _Toy Story 4_. A incerteza de Woody como sua vida de boneco de uma criança que claramente vai partir seu coração é profunda e emocionante, e _Toy Story 2_ não foge delas mesmo quando [as respostas que ele sugere](https://www.youtube-nocookie.com/watch?v=Km4WiqKtZ-E) não sejam exatamente fáceis.
 
 ---
 

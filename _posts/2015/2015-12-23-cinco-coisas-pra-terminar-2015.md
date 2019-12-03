@@ -26,7 +26,7 @@ Já que o ano tá acabando e tá na hora de ver o que fazer nesse recesso, aí v
 
 ## Um filme: _45 Anos_
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Nck9thDEfK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Nck9thDEfK0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 O que me deixa triste com _45 Anos_ não foi que ele foi pouco visto. É normal, pra um filme que vai ser lembrado só nas premiações, lá por fevereiro e março do ano que vem, que seu lançamento em outubro leve pouca gente pra ver. O que me deixa realmente triste é que ele foi lançado na pior semana do ano. Seus concorrentes, _Os 33_ e _O Último Caçador de Bruxas_, foram dois fracassos de bilheteria, que não encheram salas e que quem viu não gostou. Daí _45 Anos_, que quem viu amou, ficou lá, com duas salinhas aqui em POA, enquanto as outras pros “grandes lançamentos” estavam vazias.
 
@@ -40,7 +40,7 @@ O mais impressionante de _45 Anos_ é a simplicidade com que tudo é exibido, ma
 
 ## Uma série: _Hannibal_
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/4NuAnUmKn4w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/4NuAnUmKn4w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Essa foi difícil. 2015 foi um ano incrível para a televisão. _Transparent_ é uma das coisas mais sensacionais já feitas, _Mad Men_ se encerrou em uma belíssima temporada, _Community_ deu adeus (mas ainda espera um filme), _The Leftovers_ foi a melhor série dramática do ano e _Looking_ teve o mais incrível finale que eu poderia imaginar.
 
@@ -80,10 +80,10 @@ E _Currents_ não é todo excelente, pra falar a verdade. Tem umas três ou quat
 
 ## Um link: _Jout Jout Prazer_
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/OADVVyy_MKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/OADVVyy_MKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 A melhor dica que eu recebi esse ano não foi de livro, não foi de filme, não foi de série e nem de jogo. Quando me recomendaram ver a Jout Jout lá por julho, eu não dei muita bola. Vi um vídeo. Daí fui ver outro. E agora eu fico vendo todos eles repetindo várias vezes.
 
 As vezes eu sinto saudades de podcasts. Aqueles programas de áudio que parecem rádio, mas na Internet. Podcasts eram bons pra trabalhar. Era só dar o play e ficar ouvindo enquanto trabalha. Mas eu não sei mais de nenhum podcast que seja bom e que o pessoal não fiquei gritando que nem um desesperado, então tem isso. Mas agora tem a Julia e o Caio, que fazem meus dias melhores, com um monte de opiniões geniais, insights inesperados e funks maneiros. Jout Jout Prazer é uma das melhores coisas que a internet brasileira nos fez nos últimos anos.
 
-**Onde assistir?** Sai correndo _agora_ e [se inscreve no canal dela](https://www.youtube.com/channel/UCbE7YGLZ-VY0oCgIsCSJ5Sg).
+**Onde assistir?** Sai correndo _agora_ e [se inscreve no canal dela](https://www.youtube-nocookie.com/channel/UCbE7YGLZ-VY0oCgIsCSJ5Sg).

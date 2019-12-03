@@ -114,6 +114,25 @@
   padding-top: $spacing-unit * 2;
   padding-bottom: $spacing-unit * 2;
   
+  & > .wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-start;
+    
+    @include media-query($on-laptop) {
+      display: block;
+    }
+    
+    .blog {
+      width: 100%;
+      max-width: 700px;
+      
+      @include media-query($on-laptop) {
+        max-width: 100%;
+      }
+    }
+  }
+  
   .archive_header {
     margin-bottom: $spacing-unit * 3;
   }
@@ -152,21 +171,6 @@
             margin-bottom: $spacing-unit / 4;
             margin-top: $spacing-unit / 4;
           }
-        }
-      }
-    }
-    
-    .post_content {
-      h1, h2, h3, h4, h5, h6 {
-        margin-top: $spacing-unit / 2;
-        margin-bottom: $spacing-unit / 2;
-      }
-      
-      p,
-      ul, ol, dl,
-      pre, table {
-        &:not(.full-width) {
-          max-width: 700px;
         }
       }
     }
@@ -219,49 +223,6 @@
       .info:not(:last-child) {
         margin-right: $spacing-unit / 2;
       }
-    }
-  }
-}
-
-.reblog_info,
-.question_info {
-  font-size: 1.4rem;
-  font-weight: normal;
-  
-  *,
-  p {
-    font-family: $font-headings;
-  }
-  
-  .portrait {
-    margin-right: $spacing-unit / 2;
-    border-radius: 50%;
-  }
-  
-  a {
-    font-weight: bolder;
-  }
-}
-
-.post_contents {
-  margin-top: $spacing-unit * 2;
-}
-
-.audio_info {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  margin-bottom: $spacing-unit;
-  
-  .album_art {
-    width: 100px;
-    height: 100px;
-    margin-right: $spacing-unit;
-    
-    @include media-query($on-palm) {
-      width: 75px;
-      height: 75px;
-      margin-right: $spacing-unit / 2;
     }
   }
 }
@@ -321,6 +282,10 @@
 
 .content > .wrapper {
   position: relative;
+  
+  .sidebar {
+    flex: 0 0 300px;
+  }
 }
 
 /*

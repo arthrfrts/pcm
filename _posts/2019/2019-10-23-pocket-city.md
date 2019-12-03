@@ -17,7 +17,7 @@ Simulação é um gênero gigante nos jogos. No final da década de 1980, em mei
 Não ajuda que o gênero sofreu bastante na última década: o último _SimCity_ foi um fracasso; _Cities: Skylines_ é ótimo… como um construtor de cidades, mas não um simulador; e as centenas de joguinhos de celular que imitam os líderes do gênero são atulhados de temporizadores e microtransações, quebrando completamente o fluxo da jogatina. E é por isso que _Pocket City_ me impressionou ainda mais.
 
 {: .full-width }
-<iframe width="427" height="240" src="https://www.youtube.com/embed/fEwT-u1qvzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="427" height="240" src="https://www.youtube-nocookie.com/embed/fEwT-u1qvzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [_Pocket City_](https://pocketcitygame.com) custa R$ 11,90 no Google Play e R$ 10,90 no na App Store, e é isso. Sem microtransações, sem “tempos de construção” que duram duas horas (ou 1 minuto se você pagar R$1,99!). Comprando o jogo você tem uma experiência completa que vale muito a pena.
 

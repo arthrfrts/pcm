@@ -14,7 +14,7 @@ _Dear Esther_ é um jogo em primeira-pessoa que se inspira nas cartas e na liter
 
 O selvagem inóspito das Ilhas Hébridas, que formam um espírito de melancolia e vastidão, não são algo novo. A literatura gaélica, focada na exploração de algumas das ilhas do arquipélago e a criação de mitos preenchem a história das Hébridas. _Dear Esther_ não tem medo de começar por aí: em formato de cartas lembrando e recontando acontecimentos antes e depois de uma viagem definitiva, o autor desconhecido fala de sua amada, da saudade que sente por ela e dos pensamentos conflitantes que têm enquanto vaga as trilhas.
 
-<iframe width="1280" height="739" src="https://www.youtube.com/embed/_pWBV6UTEyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/_pWBV6UTEyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Enquanto isso, o jogador anda pela Ilha, um ambiente lindo e desolado. Há ruínas de casas, de um farol e de algumas construções. Há uma linda caverna, há um prado belíssimo. É tudo absurdamente lindo, mas _Dear Esther_ fica na memória, depois das poucas horas de jogo, porque seja lá quem escreveu aquelas cartas estava desesperado.
 

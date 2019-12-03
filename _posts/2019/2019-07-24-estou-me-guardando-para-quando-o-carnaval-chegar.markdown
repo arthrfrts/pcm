@@ -38,7 +38,7 @@ E é através dessa espécie de paradoxo que envolve trabalhar filmando um docum
 No jogo de egos que pode envolver o fazer cinema, feliz é aquele que permite fragilizar-se, colocar a si mesmo em local de vulnerabilidade.
 
 {:.full-width}
-<iframe width="640" height="360" src="https://www.youtube.com/embed/zNAmtxJNe6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zNAmtxJNe6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O filme tem a pertinência de falar desse complexo Brasil atual, de sonhos autônomos de precarização do trabalho, e o cuidado com que consegue chegar nas pessoas é bastante notório. Reconhece ser um filme sobre um lugar, e sabe dar voz àqueles que dedicaram sua vida a ele - fala sobre o tempo deixado nesse lugar, o tempo gasto, vivido, trabalhado. Traz essa questão da temporalidade para um campo mais intelectual, mas faz isso sem perder o carinho e a aproximação que conquistou pelas personagens.
 

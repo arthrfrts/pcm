@@ -13,6 +13,7 @@ timezone: America/Sao_Paulo
 
 
 # Build settings
+incremental: true
 markdown: kramdown
 url: 'https://paomortadela.com.br'
 baseurl: ''
@@ -67,12 +68,10 @@ twitter:
 jekyll-archives:
   enabled:
     - tags
-    - categories
     - year
     - month
   layout: "archive"
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-    category: "/:name/"
     tag: "/tag/:name/"

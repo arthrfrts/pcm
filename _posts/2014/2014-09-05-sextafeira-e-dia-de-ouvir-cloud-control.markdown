@@ -17,9 +17,9 @@ A banda se formou em 2007 e lançaram dois álbuns até então, Bliss Release, d
 
 Cloud Control não é uma banda que se explica, então pra conhecer (e se apaixonar) de verdade, só escutando.
 
-<iframe src="https://www.youtube.com/embed/sZEqqgcK3-g?list=PLEC56982BC9B2F625" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/sZEqqgcK3-g?list=PLEC56982BC9B2F625" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/nSO1kYPGFro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/nSO1kYPGFro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 As músicas têm uma pegada leve, pra cima, alto astral, perfeito pra curtir no final de semana.
 

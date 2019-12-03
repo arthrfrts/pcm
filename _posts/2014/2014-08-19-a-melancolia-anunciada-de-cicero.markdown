@@ -12,7 +12,7 @@ Uma gaveta esquecida dentro do armário, uma prateleira de bagunças qualquer ou
 
 Cícero lançou o seu primeiro álbum, _Canções de apartamento_, em 2011, as canções, como sugere o título do trabalho, foram todas gravadas no apartamento do cantor. O disco que foi posto pelo cantor para download gratuito na sua página no Facebook teve uma repercussão imensa.
 
-<iframe width="474" height="297" src="https://www.youtube.com/embed/5O0hJRfXMvw" frameborder="0" allowfullscreen></iframe>
+<iframe width="474" height="297" src="https://www.youtube-nocookie.com/embed/5O0hJRfXMvw" frameborder="0" allowfullscreen></iframe>
 
 
 A construção do álbum é impecável, escutar _Canções de apartamento_ é como estar lá, em total isolamento dentro de um apartamento cheio de saudade. As referências musicais e literárias do cantor são apresentadas o tempo todo na construção no trabalho (ate mesmo na capa do disco).
@@ -24,7 +24,7 @@ A última música do álbum, _Ponto cego_, anuncia com alegria a chegada da sext
 
 Os tantos fãs conquistados com o primeiro trabalho, que aguardaram com uma ansiedade imensa o segundo álbum, provaram de uma certa dose de decepção, não o suficiente pra deixar de gostar, mas como a maioria diz o álbum Sábado tá mais pra um domingo, daqueles bem chatos. Talvez sim, talvez não. O disco apresenta canções mais abstratas e uma grande diferença em termos estéticos, mas em nenhum momento deixa de ser bom.
 
-<iframe width="474" height="297" src="https://www.youtube.com/embed/5O0hJRfXMvw" frameborder="0" allowfullscreen></iframe>
+<iframe width="474" height="297" src="https://www.youtube-nocookie.com/embed/5O0hJRfXMvw" frameborder="0" allowfullscreen></iframe>
 
 O fato é que, ao contrário do _Canções de apartamento_, _Sábado_ não tem nenhum breve momento de felicidade. Talvez esse tenha sido o maior incomodo das pessoas, mas quem disse que sábado precisa ser um dia feliz pra todo mundo? O que pra uns é um domingo, pras outros pode ser uma segunda, uma quarta, ou qualquer outro dia, porque afinal de contas todo mundo tem um dia meio “Sábado”.
 

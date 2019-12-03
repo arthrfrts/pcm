@@ -13,7 +13,7 @@ A “busca pelo _pop perfeito_” é incessante. Mesmo pra Michael Jackson, que 
 
 Em termos muito extremos, é isso que _Wolfgang Amadeus Phoenix_ faz. O quarto álbum de estúdio da banda indie francesa Phoenix homenageia Mozart no seu título não por acaso. Mozart aqui não é só inspiração pro método de fazer música (_WAP_ usa composições milimetricamente pensadas, as vezes com grandiosidade, as vezes com esperteza), mas também na recepção. Com _Wolfgang Amadeus Phoenix_, a banda deixou de ser “aquela banda legal que pouca gente ouve” pro “consenso universal de música boa”. O motivo? Eles encontraram o pop perfeito.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gvss3uhSKjw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/gvss3uhSKjw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ao usar como referência um dos maiores compositores da história da música, usar fórmulas matemáticas para compôr versos e melodias e entender onde estavam, e pra onde precisavam seguir, o Phoenix entrega desde a primeira música, “Lisztomania”, uma resposta ao que se ouvia (e o que se ouve, até hoje) de forma bastante casual. Em um mundo pós-_Discovery_, em que a pista de dança foi redefinida, o Phoenix sai do “dance music” francês típico, que brinca de ser Daft Punk, e entrega filhos de “One More Time”. Com “1901” e “Rome”, os versos parecem aleatórios enquanto as melodias se encontram perfeitas. Como se fossem músicas do Daft Punk, existe um perfeccionismo técnico nos sons que os tornam ao mesmo tempo inovadores e reconhecidos.
 

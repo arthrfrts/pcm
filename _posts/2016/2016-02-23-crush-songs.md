@@ -12,7 +12,7 @@ Em _It's Blitz!_ é [“Skeletons”](https://youtu.be/6ZnIDwnWJtA). Em _Fever t
 
 O fato é que Karen O é melhor fazendo canções de amor do que gritando descontrolada no Yeah Yeah Yeahs (e eu gosto bastante da banda). Se no seu trabalho com o conjunto ela divide espaço com muitos instrumentos, dando a impressão de músicas “estufadas” e sem muito respiro, em _Crush Songs_, seu “debut” em carreira solo é justamente essa pausa. “Quando eu tinha 27 eu me apaixonava bastante”, diz ela no encarte do disco,“Eu não sabia se eu iria amar de novo, um dia” . Mais que o amor ou uma obsessão,  a paixão é um sentimento fugaz, uma afeição intensa que, sem os altos e baixos que constroem um relacionamento com amor.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/DtVk9otjN24" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/DtVk9otjN24" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Esse sentimento rápido e intenso explica a qualidade, e o motivo de existir, de _Crush Songs_. Karen O gravou as músicas entre 2006 e 2010, poucas tem mais de dois minutos (o álbum tem 25 minutos no total); e a “textura” das canções, repletas de ruídos (algumas músicas são escritas enquanto ela as toca) e com pouquíssimos instrumentos dão uma característica dura e direta, como uma mensagem apaixonada sem rodeios
 
