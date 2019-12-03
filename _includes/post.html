@@ -32,7 +32,7 @@
   <footer class="post_footer">
     {%- unless post.comments == false -%}
       <p class="post_info">
-        <a class="info comment_count" href="{{ post.url | append: '#disqus_thread' }}">Comentários</a>
+        <a class="info comment_count" href="{{ post.url | append: '#disqus_thread' | absolute_url }}">Comentários</a>
       </p>
     {%- endunless -%}
     

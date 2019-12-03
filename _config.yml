@@ -18,7 +18,7 @@ collections:
 
 # Build settings
 markdown: kramdown
-url: 'https://paomortadela.com.br'
+url: 'https://manteiga.paomortadela.com.br' # mudar no merge
 baseurl: ''
 
 permalink: /:year/:month/:title/
