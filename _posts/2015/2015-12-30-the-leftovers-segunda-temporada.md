@@ -4,7 +4,10 @@ title: "A segunda temporada de The Leftovers é a melhor série do ano"
 date: 2015-12-30
 author: arthurf
 tags:
+  - resenhas
   - séries
+  - drama
+  - HBO
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-leftovers-2.jpg"
 ---
 

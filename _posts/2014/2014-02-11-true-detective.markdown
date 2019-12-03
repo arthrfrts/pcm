@@ -3,7 +3,10 @@ layout: post
 title: "True Detective"
 date: "2014-02-11 19:28:58 -0300"
 tags:
+  - resenhas
   - séries
+  - suspense
+  - HBO
 author: filliped
 image: "https://arthrfrts.files.wordpress.com/2018/03/td.jpg"
 ---

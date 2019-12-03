@@ -2,10 +2,12 @@
 layout: post
 title: "Ele fez de novo: Serena, de Ian McEwan"
 date: "2014-08-07 01:10:27 -0300"
-category: resenhas
 author: arthurf
 tags:
+  - resenhas
   - leituras
+  - livros
+  - Ian McEwan
 image: "https://arthrfrts.files.wordpress.com/2018/03/serena-capa-672x372.jpg"
 ---
 

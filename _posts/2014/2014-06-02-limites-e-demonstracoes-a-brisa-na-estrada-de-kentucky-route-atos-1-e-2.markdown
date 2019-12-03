@@ -4,7 +4,10 @@ title: "Limites e Demonstrações: A brisa na estrada de Kentucky Route Zero, At
 date: "2014-06-02 01:26:40 -0300"
 author: arthurf
 tags:
+  - descobertas
   - jogos
+  - aventura
+  - Kentucky Route Zero
 image: "https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-1-672x372.jpg"
 ---
 

@@ -4,17 +4,20 @@ title: "O mito do Garoto-de-Duas-Cabeças"
 date: "2014-04-28 19:25:59 -0300"
 author: filliped
 tags:
+  - resenhas
   - músicas
+  - Neutral Milk Hotel
+  - Spotify
 image: "https://arthrfrts.files.wordpress.com/2018/03/album-covers-in-the-aeroplane-over-the-sea-hd-wallpapers-1038x576-2.jpg"
 ---
 _In the Aeroplane Over the Sea_ é um dos álbuns mais adorados e menos comentados pelo mundo a fora. É estranho imaginar como as coisas podem se dar dessa forma, mas a verdade é que o trabalho da banda Neutral Milk Hotel, gravado em 1998, é um tanto quanto… estranho? Isso divide um pouco o público da banda: de um lado temos os que entram de cabeça no sonho surreal que é desenhado, aos poucos, por combinações estranhas de instrumentos , um vocal pouco convencional e letras capazes de fazer uma trip de LSD parecer brincadeira de criança; do outro lado tem mais gente, mas isso não importa muito.
 
 > 2 headed boy  
-All floating in glass  
-The sun, it has passed, now it’s blacker than black  
-I can hear as you tap on your jar  
-and I am listening to hear where you are  
-I am listening to hear where you are
+> All floating in glass  
+> The sun, it has passed, now it’s blacker than black  
+> I can hear as you tap on your jar  
+> and I am listening to hear where you are  
+> I am listening to hear where you are
 
 É difícil estabelecer uma linha exata, uma ideia próxima, de como, ou sobre o que, algumas músicas que estão em alta hoje se tratam. Apesar disso, fica evidente que quando ouvimos uma música, somos capazes de entender sua mensagem – seja ela passada intencionalmente ou não. Existe sempre uma narrativa. Seja a da diversão pela diversão, a da concientização ou crítica, a do amor não correspondido, e por aí se vão muitas outras. O que acontece com _IAOS_, entretanto, é que a linguagem usada é outra, o que muda a narrativa e a maneira como devemos encará-la.
 

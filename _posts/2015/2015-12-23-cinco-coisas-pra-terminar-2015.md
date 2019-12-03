@@ -8,11 +8,13 @@ author: thaianek
 image: "https://arthrfrts.files.wordpress.com/2018/03/45-anos.jpg"
 category: Listas
 tags:
+  - listas
+  - melhores do ano
   - filmes
   - jogos
   - séries
   - leituras
-  - links
+  - vídeos
   - músicas
 ---
 

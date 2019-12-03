@@ -3,7 +3,10 @@ layout: post
 title: "Community"
 date: "2014-04-22 19:09:30 -0300"
 tags:
+  - resenhas
   - séries
+  - comédia
+  - Community
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/community_8-bit.jpg"
 ---

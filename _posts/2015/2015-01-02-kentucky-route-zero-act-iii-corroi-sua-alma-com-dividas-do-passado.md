@@ -3,9 +3,11 @@ layout: post
 date: 2015-01-02
 title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
 author: arthurf
-category: Essenciais
 tags:
+  - resenhas
   - jogos
+  - aventura
+  - Kentucky Route Zero
 image: "https://i.imgur.com/t2P3RIO.jpg"
 ---
 

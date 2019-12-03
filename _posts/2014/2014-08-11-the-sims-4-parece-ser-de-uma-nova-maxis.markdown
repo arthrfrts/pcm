@@ -5,7 +5,10 @@ date: "2014-08-11 01:16:43 -0300"
 category: Exposições
 author: arthurf
 tags:
+  - esquinas
   - jogos
+  - simulação
+  - The Sims
 image: "/images/2014/the-sims-4.jpg"
 ---
 

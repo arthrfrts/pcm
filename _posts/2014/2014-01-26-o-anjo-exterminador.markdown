@@ -4,7 +4,10 @@ title: "O Anjo Exterminador"
 date: "2014-01-26 20:02:17 -0300"
 author: filliped
 tags:
+  - descobertas
   - filmes
+  - Luis Buñuel
+  - surrealismo
 image: "https://arthrfrts.files.wordpress.com/2018/03/the_exterminating_angel_1.jpg"
 ---
 Existem poucos filmes como _O Anjo Exterminador_ (_El ángel exterminador_, 1962), de Luis Buñuel. Os motivos para tal, entretanto, divergem-se pela crítica: de um lado, os que pensam não haver obra mais magnífica em sua crítica à burguesia enquanto tensiona as características do racional e as relações humanas (se também não é característica da racionalidade), montando uma pequena sociedade “selvagem”, descaracterizando os personagens de sua consciência humana com um surrealismo impecável; do outro, os que admitem não entender grande parte do filme e, assim como eu, não se importariam com algumas explicações (o equivalente ao dicionário de nadsat ao final de Laranja Mecânica). Porém, independente de qual seja sua opinião sobre o filme, este é imprescindível na sua “Wants to watch” list no MUBI.

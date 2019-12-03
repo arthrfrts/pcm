@@ -5,7 +5,11 @@ date: "2014-05-02 23:52:13 -0300"
 category: Essenciais
 author: arthurf
 tags:
+  - essenciais
   - jogos
+  - ação
+  - Half-Life
+  - Valve Software
 image: "https://arthrfrts.files.wordpress.com/2018/03/half-life-2-1038x576.jpg"
 ---
 > Rise and shine, Mr. Freeman. Your time has come again.

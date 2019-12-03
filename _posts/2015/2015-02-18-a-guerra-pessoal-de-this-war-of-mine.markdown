@@ -4,6 +4,7 @@ title: "A guerra pessoal de This War of Mine"
 author: guilhermeb
 date: "2015-02-18 20:33:37 -0300"
 tags:
+  - resenhas
   - jogos
 image: "https://pcmbackup.files.wordpress.com/2015/02/untitled-1.png"
 ---

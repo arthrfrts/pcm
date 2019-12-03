@@ -3,7 +3,9 @@ layout: post
 title: "As Vantagens de Ser Invisível"
 date: "2014-08-15 20:07:55 -0300"
 tags:
+  - resenhas
   - leituras
+  - livros
 author: vanessao
 image: "https://arthrfrts.files.wordpress.com/2018/03/maxresdefault.jpg"
 ---

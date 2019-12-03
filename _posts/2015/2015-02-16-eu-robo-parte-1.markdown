@@ -4,6 +4,9 @@ title: "Eu Robô — parte 1"
 date: "2015-02-16 20:31:04 -0300"
 author: filliped
 tags:
+  - resenhas
+  - livros
+  - ficção científica
   - leituras
 image: "https://pcmbackup.files.wordpress.com/2015/02/captura-de-tela-de-2015-02-15-192138.png"
 ---

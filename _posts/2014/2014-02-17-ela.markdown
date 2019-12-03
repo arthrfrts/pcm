@@ -3,7 +3,10 @@ layout: post
 title: "Ela"
 date: "2014-02-17 18:56:27 -0300"
 tags:
+  - resenhas
   - filmes
+  - romance
+  - ficção científica
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/ela.jpg"
 ---

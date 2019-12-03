@@ -5,7 +5,10 @@ title: "Tudo é completamente, incrivelmente, especialmente incrível em Uma Ave
 categories: resenhas
 author: arthurf
 tags:
+  - resenhas
   - filmes
+  - animação
+  - brinquedos
 image: "https://i.imgur.com/JY96DhZ.jpg"
 ---
 
