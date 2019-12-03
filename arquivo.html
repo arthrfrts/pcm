@@ -1,0 +1,45 @@
+---
+layout: page
+title: Arquivos e tags
+---
+
+<p>Desde 2013, já foram publicados {{ site.posts | size }} posts no Pão com Mortadela. Se você estiver procurando algo em específico, talvez a busca te ajude:</p>
+
+
+<form action="https://duckduckgo.com" method="get">
+  <p>
+    <input type="hidden" name="sites" value="{{- site.url | remove: 'https://' -}}" />
+    <input type="search" name="q" />
+    <button type="submit">Procurar</button>
+  </p>
+</form>
+
+<p>Se você quiser explorar o arquivo de posts e descobrir algo novo, a gente recomenda um dos links abaixo:</p>
+
+
+<hr />
+
+<h2>Seções</h2>
+
+<p>O PCM possui algumas seções temáticas especiais. Nossos melhores textos se encontram em uma dessas seções:</p>
+
+<dl>
+  {%- for column in site.data.columns -%}
+  <dt>
+    <a href="{{ column.title | slugify | prepend: '/tag/' }}" rel="tag">{{ column.title }}</a>
+  </dt>
+  <dd>{{ column.description | markdownify }}</dd>
+  {%- endfor -%}
+</dl>
+
+<hr />
+
+<h2>Tags</h2>
+
+<p>Você também pode explorar o arquivo de posts por assuntos frequentes.</p>
+
+{% assign columns = site.data.columns | map: 'title' | downcase %}
+
+<p>{%- for tag in site.tags -%}
+  {% unless columns contains tag[0] %}<a href="{{ tag[0] | slugify | prepend: '/tag/' }}" rel="tag">{{ tag[0] }}</a> {% unless forloop.last %} / {% endunless %}{% endunless %}
+{%- endfor -%}</p>

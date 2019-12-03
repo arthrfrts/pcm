@@ -21,6 +21,7 @@
         <a class="info post_date" href="{{ post.url | absolute_url }}" rel="permalink">
           <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%d/%m/%Y" -}}</time>
         </a>
+        <a class="info comment_count" href="{{ post.url | append: '#disqus_thread' | absolute_url }}">Comentários</a>
       </p>
     </div>
   </header>
@@ -30,12 +31,6 @@
   </div>
   
   <footer class="post_footer">
-    {%- unless post.comments == false -%}
-      <p class="post_info">
-        <a class="info comment_count" href="{{ post.url | append: '#disqus_thread' | absolute_url }}">Comentários</a>
-      </p>
-    {%- endunless -%}
-    
     {%- if post.tags -%}
       <div class="post_tags">
         <p>Mais posts sobre…</p>
