@@ -17,7 +17,7 @@ html {
 body {
   background-color: $color-background;
   color: $color-text;
-  font: normal #{1.6rem}/#{1.65} $font-headings;
+  font: normal #{1.6rem}/#{1.5} $font-headings;
   width: 100vw;
   overflow-x: hidden;
 }
@@ -54,9 +54,7 @@ dl, dd, ol, ul, figure {
       }
     }
   }
-}
-
-.post_content {
+  
   p, ul, ol, dl,
   blockquote, pre,
   figure, iframe {
@@ -69,6 +67,7 @@ dl, dd, ol, ul, figure {
   }
 }
 
+// Blockquotes
 blockquote {
   font-weight: 700;
   font-style: italic;
@@ -109,6 +108,9 @@ blockquote {
 }
 
 // Headings
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.45;
+}
 
 h1, h2, h3 {
   font-weight: 400;

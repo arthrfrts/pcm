@@ -11,9 +11,12 @@ lang: pt-BR
 logo: "/assets/images/logo.png"
 timezone: America/Sao_Paulo
 
+collections:
+  links:
+    output: false
+
 
 # Build settings
-incremental: true
 markdown: kramdown
 url: 'https://paomortadela.com.br'
 baseurl: ''
