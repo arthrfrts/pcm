@@ -33,6 +33,11 @@ keep_files:
   - assets/js
   - uploads
 
+collections:
+  authors:
+    output: true
+    permalink: "/autor/:title/"
+
 defaults:
   - scope:
       path: ''
@@ -43,6 +48,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
 
 plugins:
   - jekyll-feed

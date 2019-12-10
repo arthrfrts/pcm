@@ -10,15 +10,10 @@ layout: default
     {%- endunless -%}
   
     {%- assign author = site.data.authors[page.author] -%}
-    {%- unless author.url -%}
-      {%- assign author_url = author.twitter | prepend: "https://twitter.com/" -%}
-    {%- else -%}
-      {%- assign author_url = author.url -%}
-    {%- endunless -%}
   
     <div class="post_meta">
       <p class="post_info">
-        <a class="info post_author {{ page.author -}}" href="{{- author_url -}}" rel="author">{{ author.name }}</a>
+        <a class="info post_author {{ page.author -}}" href="{{- page.author | prepend: '/autor/' -}}" rel="author">{{ author.name }}</a>
         <a class="info post_date" href="{{ page.url | absolute_url }}" rel="permalink">
           <time datetime="{{- page.date | date_to_xmlschema -}}">{{- page.date | date: "%d/%m/%Y" -}}</time>
         </a>

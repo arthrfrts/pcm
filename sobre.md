@@ -11,4 +11,4 @@ Saiba como colaborar com o PCM, enviando seu texto ou ajudando no site, [clicand
 
 ### Publicidade e patrocínio
 
-O PCM ainda não está trabalhando com publicidade e patrocínio. É algo que estamos estudando para implementar! Se você quiser ajudar ou propor algo, sinta-se livre de falar conosco em **publi (arroba) paomortadela.com.br**.
+O PCM ainda não está trabalhando com publicidade e patrocínio. É algo que estamos estudando para implementar! Se você quiser ajudar ou propor algo, sinta-se livre de falar conosco em **mesa (arroba) paomortadela.com.br**.

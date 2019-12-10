@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{%- assign author = site.data.authors[page.slug] -%}
+
+<header class="archive_header">
+  <h2 class="archive_title">
+    {{ author.name }}
+  </h2>
+  
+  {%- if author.twitter -%}
+    <p>
+      <strong><a href="{{ author.twitter | prepend: 'https://twitter.com/' }}" rel="external">{{ author.twitter | prepend: "@" }}</a></strong>
+    </p>
+  {%- endif -%}
+  
+  {{ page.content }}
+</header>
+
+{% assign author_posts = site.posts | where: "author", page.slug %}
+
+{%- for post in author_posts -%}
+  {%- include post.html hide_content="true" -%}
+{%- endfor -%}
