@@ -26,6 +26,12 @@ layout: default
     </div>
   </header>
   
+  {%- if page.image -%}
+    <figure class="post_image">
+      <img src="{{ page.image.path | default: page.image }}" alt="{{ page.image.alt }}" role="presentation" />
+    </figure>
+  {%- endif -%}
+  
   <div class="post_content">
     {{ page.content }}
   </div>

@@ -26,6 +26,12 @@
     </div>
   </header>
   
+  {%- if post.image -%}
+    <figure class="post_image">
+      <img src="{{ post.image.path | default: post.image }}" alt="{{ post.image.alt }}" role="presentation" />
+    </figure>
+  {%- endif -%}
+  
   <div class="post_content">
     {{ post.content }}
   </div>
