@@ -3,7 +3,7 @@ layout: "post"
 title: "Estou Me Guardando Para Quando o Carnaval Chegar"
 date: "2019-07-24 09:00"
 author: guilhermen
-image: "/images/2019/07/carnaval.jpg"
+image: "/uploads/2019/07/carnaval.jpg"
 category: resenhas
 tags: filmes
 ---
@@ -19,7 +19,7 @@ Existe uma temática e uma conduta recorrentes que podem ser percebidas na obra 
 Poderíamos afirmar que é uma guinada a alguma espécie de autocrítica, operada através da aproximação do diretor com as personagens, o grande mérito no sentido de dar ao filme esse tom tão sincero. Marcelo Gomes não só se expõe ao seu espectador, como se expõe aos personagens, ele se coloca diante deles como o corpo estranho que de fato é, e não poupa o espectador dos ruídos de comunicação que muitas vezes surgem, por ser ele alguém que ali realiza um trabalho que, de início, julga ser de uma natureza um tanto diversa daqueles outros a quem documenta. Sabe evitar cair na nostalgia que aquele lugar inevitavelmente lhe desperta, e coloca-se como que quer apreender aquele novo lugar, entender a vida que acontece ali.
 
 {:.full-width}
-![Cena do filme Estou Me Guardando Para Quando o Carnaval Chegar](/images/2019/07/carnaval2.jpg)
+![Cena do filme Estou Me Guardando Para Quando o Carnaval Chegar](/uploads/2019/07/carnaval2.jpg)
 
 Parece se mostrar de um cinema que já esgotou-se um tanto em sua vontade de falar e dizer coisas, gritá-las aos quatro cantos. O que parece importante em "Estou me guardando para quando o carnaval chegar" é o saber querer ouvir. Uma escolha que se coloca acima de todas as outras, que permite ao filme ir além dos simples motivos apresentados, ou de qualquer leitura que se possa provocar - mas que nos indicia toda uma conduta que se modifica e permite questionar-se na medida em que se desenvolve.
 

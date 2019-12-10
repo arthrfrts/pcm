@@ -2,7 +2,7 @@
 layout: post
 date: 2019-10-30
 title: Minha dieta cultural nas últimas semanas
-image: "/images/2019/10/forever.jpg"
+image: "/uploads/2019/10/forever.jpg"
 excerpt: "Sem tempo irmão."
 author: arthurf
 category: Listas

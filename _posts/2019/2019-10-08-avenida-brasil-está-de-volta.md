@@ -2,7 +2,7 @@
 date: '2019-10-09 10:30:00 -0300'
 layout: post
 title: Avenida Brasil está de volta
-image: /assets/uploads/avenida-brasil.jpg
+image: /uploads/2019/avenida-brasil.jpg
 category: Essenciais
 author: arthurf
 excerpt: Oi oi oi!

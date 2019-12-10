@@ -2,7 +2,7 @@
 date: '2019-10-23 10:30 -0300'
 layout: post
 title: 'Socorro, eu não consigo sair de Pocket City'
-image: /images/2019/10/pocket-city.jpg
+image: /uploads/2019/10/pocket-city.jpg
 author: arthurf
 tags:
   - jogos
@@ -28,7 +28,7 @@ _Pocket City_ usa essa familiaridade ao seu favor, porque é a primeira grande r
 Isso é puro design, e o que eu mais amei em _Pocket City_. Muitas das dores de crescimento que o gênero vem sofrendo nessa última década é pela dificuldade de incorporar os avanços tecnológicos da indústria, o que acaba afetando o balanceamento da jogabilidade (de retribuir a dedicação do jogador no mesmo nível), que era justamente o aspecto mais bacana desse tipo de jogo. _Pocket City_ precisou remover muitos desses sistemas mais complexos do holofote porque sua interface não permite, já que o jogo precisa apresentar todas as informações que o jogador quer em poucos toques na tela.
 
 {:.full-width}
-![Um tornado destroi uma cidade]({%- link images/2019/10/pocket-city-desastres.jpg -%})
+![Um tornado destroi uma cidade]({%- link uploads/2019/10/pocket-city-desastres.jpg -%})
 _Eba, mais lugar pra construir!_
 
 E essa informação ainda está lá, só muito bem distribuída. Gráficos populacionais ainda existem, e você pode controlar impostos e importações e exportações como qualquer outro simulador de cidades. Mas _Pocket City_ não faz isso ser uma rotina obrigatória do jogo, e volta àquela beleza que _SimCity 4_ acertou em cheio — e que faz dele o simulador de cidades definitivo até hoje — de que o jogador pode jogar com as ferramentas que quiser. É um jogo confiante o suficiente nos seus acertos que entende que o jogador vai querer se dedicar mais com o tempo, conforme se sente confortável com as ferramentas que já dominou.

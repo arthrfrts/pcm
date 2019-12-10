@@ -2,7 +2,7 @@
 layout: post
 title: O desorientante mito americano de Jackie
 date: '2019-07-10 09:00'
-image: /images/2019/07/jackie-2016.jpg
+image: /uploads/2019/07/jackie-2016.jpg
 author: arthurf
 tags: filmes
 category: Achados

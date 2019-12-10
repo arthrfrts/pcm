@@ -3,7 +3,7 @@ layout: post
 date: "2019-09-04 09:00:00 -0300"
 title: "Eu estou apaixonado por Stop Making Sense"
 author: arthurf
-image: "/images/2019/09/stop-making-sense.jpg"
+image: "/uploads/2019/09/stop-making-sense.jpg"
 tags:
   - músicas
   - filmes

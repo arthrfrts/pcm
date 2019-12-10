@@ -3,7 +3,7 @@ layout: post
 date: 2019-11-06
 title: "“Fracasso de bilheteria” talvez seja o meu tipo de filme favorito"
 excerpt: Todo mundo erra, até mesmo produtores de cinema com 300 milhões pra gastar.
-image: "/images/2019/11/br2049.jpg"
+image: "/uploads/2019/11/br2049.jpg"
 author: arthurf
 tags: filmes
 category: Listas

@@ -3,7 +3,7 @@ layout: post
 date: "2019-09-11 09:00:00 -0300"
 title: É hora de pegarmos a internet de volta
 author: arthurf
-image: "/images/2019/09/web.jpg"
+image: "/uploads/2019/09/web.jpg"
 category: Exposições
 tags:
   - links

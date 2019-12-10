@@ -3,7 +3,7 @@ layout: post
 category: Reconsiderações
 date: "2019-09-25 09:00:00 -0300"
 title: Aprendendo a perder com Pokémon Let's Go! Eevee
-image: /assets/uploads/pokemon-lets-go-cover.jpg
+image: /uploads/2019/pokemon-lets-go-cover.jpg
 author: arthurf
 tags:
   - jogos
@@ -22,7 +22,7 @@ Esse tempo livre se tornou um peso nesse último mês. Um que eu não sabia como
 Eu não sei qual foi o meu raciocínio pra dar mais uma chance pra _Pokémon Let’s Go!_ nesse último mês, mas ainda bem que eu tive ele, porque _Let’s Go! Eevee_ ([o melhor Pokémon](https://pokemondb.net/pokedex/eevee)) está me ajudando a transformar essa falta da Vivi em saudade.
 
 {: .full-width }
-![vivi.jpeg](/assets/uploads/vivi.jpeg)
+![vivi.jpeg](/uploads/2019/vivi.jpeg)
 _A Vivi_
 
 Se você já jogou qualquer jogo RPG de Pokémon, principalmente os da primeira geração, então _Let’s Go!_ não vai ser tão diferente assim. Você ainda é uma criança que ganha um Pokémon inicial do professor que mora na mesma pequena cidade que você, e você vai de cidade em cidade derrotando os líderes de ginásio Pokémon para ganhar insígnias e poder enfrentar a Liga Pokémon, onde os melhores treinadores de Pokémon se enfrentam para saber quem é o novo campeão.
@@ -32,7 +32,7 @@ Muito da jogatina dos jogos Pokémon têm a ver com as batalhas, com o treinamen
 O que muda em _Let’s Go!_, e que pra mim é o grande acerto do jogo, é a forma como você se relaciona com os pokémons. Desde o modo como você captura até o modo em que você “cuida” deles, _Let’s Go!_ faz o treinador ser o cuidador dos monstrinhos que estão com ele. Não é mais necessário batalhar com as criaturas selvagens que te atacam do nada. Graças ao poder de processamento do Switch, você finalmente pode ver o Pokémon no seu habitat natural. Se você quiser capturar aquele Ratatá brincando no meio do arbusto, você só precisa ir até ele. Para capturá-lo você não precisa mais batalhar com ele até enfraquecê-lo, e sim mirar bem e esperar o momento certo para mandar a pokébola. O Pokémon pode se recusar a entrar ou dar um golpe que manda a pokébola para longe, e você pode tentar acalmá-lo com diferentes tipos de fruta.
 
 {: .full-width }
-![Eevee e seu treinador brincando](/assets/uploads/eevee.jpg)
+![Eevee e seu treinador brincando](/uploads/2019/eevee.jpg)
 
 
 A Vivi veio da rua. A minha vizinhança tem isso como característica: como moramos afastados da cidade, as pessoas da cidade vêm e largam seus cachorros que elas não querem mais aqui. Alguns cachorros sortudos sobrevivem seus dias na rua até que algum vizinho de coração mole decida deixar ele entrar (os menos sortudos morrem de frio ou atropelados, ou sufocados porque as pessoas mais cruéis jogam eles fora enrolados em um saco de lixo). Para atrair um cachorrinho que teve sua confiança abalada, que está sentindo dor e frio é um processo difícil, de criar confiança nele que você vai ser um dono melhor, que você não vai desapontá-lo.
@@ -48,7 +48,7 @@ Em _Let’s Go_, o seu Pokémon inicial (Eevee ou Pikachu, dependendo da versão
 Ajuda muito que _Let’s Go_ é lindo de ver, e remete à uma geração que eu particularmente gosto muito. Ver a floresta de Floresta de Viridian com os feixes de luz do sol no meio das árvores e os Pidgeys voando é um deleite (é um dos poucos lugares que o framerate se engasga, também), e reencontrar personagens conhecidos como o Brock e a Misty sempre vai ser especial. Mas esse não é mais o maior atrativo do jogo para mim, é em acompanhar minha Eevee na jornada da vida dela, e agradecer por ela ter me escolhido para acompanhá-la.
 
 {: .full-width }
-![Treinador Pokémon e Eevee observam um Slowpoke](/assets/uploads/eevee-slowpoke.jpg)
+![Treinador Pokémon e Eevee observam um Slowpoke](/uploads/2019/eevee-slowpoke.jpg)
 _“Olha esse cuzão!”, disse Eevee._
 
 Eu posso dizer com certeza que esse último mês sem a Vivi está sendo bem mais difícil do que os cinco anos que eu passei junto com ela. A ausência dela é muito mais complicada de lidar do que os curativos que eu aprendi a trocar, dos banheiros que eu aprendi a limpar depois de uma noite em que ela comeu a comida dos outros cachorros ou das brigas em que ela se meteu e eu tive que apartar (acredite ou não mas aquela noite em que os cachorros do vizinho pegaram ela _não foi_ a última batalha que ela travou com eles). Eu sinto falta dela todos os dias, e qualquer coisa me lembra ela. Algumas semanas atrás isso me dava raiva, de mim por ter cometido o erro que eu cometi, dela por não estar perto de mim. Hoje eu tô aprendendo a sentir saudade. Ver o treinador conhecendo Kanto com a Eevee ao seu lado me ajuda a lembrar de como foi bom ter Vivi ao meu lado nas minhas próprias descobertas, como foi bom ter compartilhado elas com a Vivi, e como elas, de certa forma, a partir de agora vão ser parte da minha memória dela.
@@ -60,5 +60,5 @@ Eu tinha medo de ter perdido algo pra sempre quando eu enterrei a Vivi. Eu perdi
 Para lembrar da Vivi eu tenho fotos e vídeos que enchem o meu celular, mas lembrar do que eu senti pela Vivi é algo mais difícil, e é algo que eu seguro com força porque é o que eu tenho no lugar dela agora. Não é tão bom quanto, nem nunca vai ser. Mas vai ter que ser o suficiente. Eu quero olhar para o canto do sofá que ela gostava de deitar e não lembrar da falta que ela me faz, e sim de como era bom ficar sentado com ela comendo pipoca no meio da madrugada. Eu não quero pensar que, por causa da Vivi, eu nunca mais vou amar um cachorro tanto quanto eu amei ela. Ao contrário, eu quero pensar que, por causa da Vivi, eu aprendi a amar mais.
 
 {: .full-width }
-![Arthur à frente, caminhando com Vivi](/assets/uploads/vivi-e-arthur.jpg)
+![Arthur à frente, caminhando com Vivi](/uploads/2019/vivi-e-arthur.jpg)
 _Nossa última foto juntos, aproveitando o sol do inverno._

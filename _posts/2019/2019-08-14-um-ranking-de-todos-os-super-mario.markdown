@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Um ranking de todos os Super Mario"
-image: "/images/2019/08/ranking-supermario.jpg"
+image: "/uploads/2019/08/ranking-supermario.jpg"
 date: "2019-08-14 09:00"
 author: arthurf
 category: Listas
@@ -19,7 +19,7 @@ Então me acompanhe na minha jornada de três meses em que eu joguei todos os jo
 ---
 
 {:.full-width}
-![Captura de tela do jogo](/images/2019/08/20-nsmb2.gif)
+![Captura de tela do jogo](/uploads/2019/08/20-nsmb2.gif)
 
 ## 20. _New Super Mario Bros. 2_ (3DS, 2012)
 
@@ -30,7 +30,7 @@ Coletar moedas é um aspecto essencial dos jogos de plataforma do Mario, e em mu
 ---
 
 {:.full-width}
-![Captura de tela do jogo](/images/2019/08/19-sml.gif)
+![Captura de tela do jogo](/uploads/2019/08/19-sml.gif)
 
 ## 19. _Super Mario Land_ (Game Boy, 1989)
 
@@ -41,7 +41,7 @@ _Super Mario Land_ só não é um jogo melhor porque é curto demais, mas ele ta
 ---
 
 {:.full-width}
-![Mario correndo no Mundo 1-1](/images/2019/08/18-smr.gif)
+![Mario correndo no Mundo 1-1](/uploads/2019/08/18-smr.gif)
 
 ## 18. _Super Mario Run_ (iOS/Android, 2016)
 
@@ -52,7 +52,7 @@ No primeiro jogo de plataforma fora de um console da Nintendo, _Super Mario Run_
 ---
 
 {:.full-width}
-![Mario morre com um cogumelo envenenado](/images/2019/08/17-smbtll.gif)
+![Mario morre com um cogumelo envenenado](/uploads/2019/08/17-smbtll.gif)
 
 ## 17. _Super Mario Bros.: The Lost Levels_ (Famicom, 1996)
 
@@ -64,7 +64,7 @@ Não é o que _The Lost Levels_ faz. Lançado originalmente como a continuação
 ---
 
 {:.full-width}
-![Mario usa o FLOOD para atravessar o mar](/images/2019/08/16-sms.gif)
+![Mario usa o FLOOD para atravessar o mar](/uploads/2019/08/16-sms.gif)
 
 ## 16. _Super Mario Sunshine_ (GameCube, 2002)
 
@@ -75,7 +75,7 @@ _Sunshine_ é perfeito também por dificultar a comparação com _Super Mario 64
 ---
 
 {:.full-width}
-![Mario sobe uma escada de Legos](/images/2019/08/15-sml2.gif)
+![Mario sobe uma escada de Legos](/uploads/2019/08/15-sml2.gif)
 
 ## 15. _Super Mario Land 2: 6 Golden Coins_ (Game Boy, 1992)
 
@@ -86,7 +86,7 @@ Essa experimentação se estica até o ponto que _Land_ apresenta um vilão novo
 ---
 
 {:.full-width}
-![Mario fica gigante e destroi tudo](/images/2019/08/14-nsmb.gif)
+![Mario fica gigante e destroi tudo](/uploads/2019/08/14-nsmb.gif)
 
 ## 14. _New Super Mario Bros._ (DS, 2006)
 
@@ -97,7 +97,7 @@ _NSMB_ segue à risca a fórmula de plataforma que os clássicos _Super Mario Br
 ---
 
 {:.full-width}
-![Mario, Luigi, Toad e Peach com o placar final](/images/2019/08/13-smb2.gif)
+![Mario, Luigi, Toad e Peach com o placar final](/uploads/2019/08/13-smb2.gif)
 
 ## 13. _Super Mario Bros. 2_ (NES, 1992)
 
@@ -108,7 +108,7 @@ _Super Mario Bros. 2_ ainda é uma continuação de um jogo muito maior, mas as 
 ---
 
 {:.full-width}
-![Mario cantando a Macarena](/images/2019/08/12-smo.gif)
+![Mario cantando a Macarena](/uploads/2019/08/12-smo.gif)
 
 ## 12. _Super Mario Odyssey_ (Switch, 2017)
 
@@ -122,7 +122,7 @@ Mas também, embora apresente tantas mecânicas novas e satisfaça até mesmo o 
 ---
 
 {:.full-width}
-![Luigi destroi uma fileira de Goombas](/images/2019/08/11-nsmbu.gif)
+![Luigi destroi uma fileira de Goombas](/uploads/2019/08/11-nsmbu.gif)
 
 ## 11. _New Super Mario Bros. U_ (Wii U, 2012)
 
@@ -133,7 +133,7 @@ Muitas vezes é difícil de ver porque um jogo do Mario é bom, como eu falhei c
 ---
 
 {:.full-width}
-![Yoshi atira um ovo-bomba](/images/2019/08/10-smw2.gif)
+![Yoshi atira um ovo-bomba](/uploads/2019/08/10-smw2.gif)
 
 ## 10. _Super Mario World 2: Yoshi's Island_ (SNES, 1995)
 
@@ -144,7 +144,7 @@ Em _World_, Yoshi possui duas características principais: sua língua comprida 
 ---
 
 {:.full-width}
-![Mario morre por causa de um Goomba](/images/2019/08/9-smb.gif)
+![Mario morre por causa de um Goomba](/uploads/2019/08/9-smb.gif)
 
 ## 9. _Super Mario Bros._ (NES, 1985)
 
@@ -155,7 +155,7 @@ Por trás da aparente simplicidade de um jogo como _Super Mario Bros._ vive a ex
 ---
 
 {:.full-width}
-![Um poste foge do Cat Mario](/images/2019/08/8-sm3dw.gif)
+![Um poste foge do Cat Mario](/uploads/2019/08/8-sm3dw.gif)
 
 ## 8. _Super Mario 3D World_ (Wii U, 2013)
 
@@ -166,7 +166,7 @@ _3D World_ expande e preenche os mundos de _3D Land_ para dar mais espaço para 
 ---
 
 {:.full-width}
-![Mario, Luigi e dois Toads se enfrentam em vários estágios do Reino](/images/2019/08/7-nsmbw.gif)
+![Mario, Luigi e dois Toads se enfrentam em vários estágios do Reino](/uploads/2019/08/7-nsmbw.gif)
 
 ## 7. _New Super Mario Bros. Wii_ (Wii, 2010)
 
@@ -179,7 +179,7 @@ Sério, é perfeito.
 ---
 
 {:.full-width}
-![Mario pega o Bowser pelo rabo](/images/2019/08/6-sm64.gif)
+![Mario pega o Bowser pelo rabo](/uploads/2019/08/6-sm64.gif)
 
 ## 6. _Super Mario 64_ (N64, 1996)
 
@@ -192,7 +192,7 @@ Ajuda muito que _Mario 64_ ainda é muito divertido de jogar: há um apreço pel
 ---
 
 {:.full-width}
-![Mario e Peach saem voando do Reator Estelar de Bowser](/images/2019/08/5-smg.gif)
+![Mario e Peach saem voando do Reator Estelar de Bowser](/uploads/2019/08/5-smg.gif)
 
 ## 5. _Super Mario Galaxy_ (Wii, 2007)
 
@@ -205,7 +205,7 @@ Poucos jogos são tão perfeitos como _Super Mario Galaxy_, que tem o uso mais i
 ---
 
 {:.full-width}
-![Tanooki Mario corre de um Bowser gigante](/images/2019/08/4-sm3dl.gif)
+![Tanooki Mario corre de um Bowser gigante](/uploads/2019/08/4-sm3dl.gif)
 
 ## 4. _Super Mario 3D Land_ (3DS, 2011)
 
@@ -218,7 +218,7 @@ _3D Land_ também é lindo. Herdando a beleza visual de _Galaxy_, o jogo usa o p
 ---
 
 {:.full-width}
-![Mario arrasa com um monte de blocos](/images/2019/08/3-smb3.gif)
+![Mario arrasa com um monte de blocos](/uploads/2019/08/3-smb3.gif)
 
 ## 3. _Super Mario Bros. 3_ (NES, 1990)
 
@@ -231,7 +231,7 @@ Coloque um controle na mão de uma pessoa ela aprenderá os conceitos mais bási
 ---
 
 {:.full-width}
-![Yoshi engole um balão e sai voando](/images/2019/08/2-smg2.gif)
+![Yoshi engole um balão e sai voando](/uploads/2019/08/2-smg2.gif)
 
 ## 2. _Super Mario Galaxy 2_ (Wii, 2009)
 
@@ -244,7 +244,7 @@ No fim das contas, _Super Mario_ são jogos de confiança. Você sobe aquela col
 ---
 
 {:.full-width}
-![Tela de título do Super Mario World](/images/2019/08/1-smw.gif)
+![Tela de título do Super Mario World](/uploads/2019/08/1-smw.gif)
 
 ## 1. _Super Mario World_ (SNES, 1991)
 

@@ -3,7 +3,7 @@ layout: post
 date: "2019-12-04 10:30:00 -0300"
 title: Os dez melhores jogos no Apple Arcade
 author: Arthur Freitas
-image: "/images/2019/12/apple-arcade.jpg"
+image: "/uploads/2019/12/apple-arcade.jpg"
 category: Listas
 tags:
   - jogos

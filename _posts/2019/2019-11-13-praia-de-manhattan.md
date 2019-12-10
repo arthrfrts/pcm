@@ -2,7 +2,7 @@
 layout: post
 date: "2019-11-13 10:30:00 -0300"
 title: "Praia de Manhattan é excelente (e sem muitas surpresas)"
-image: "/images/2019/11/praia-de-manhattan.jpg"
+image: "/uploads/2019/11/praia-de-manhattan.jpg"
 author: arthurf
 tags: leituras
 ---

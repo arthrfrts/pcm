@@ -2,7 +2,7 @@
 layout: post
 title: Um ranking de todos os filmes da Pixar
 date: "2019-06-26 09:00"
-image: /images/2019/06/pixar-ranking.jpg
+image: /uploads/2019/06/pixar-ranking.jpg
 category: Listas
 tags: filmes
 author: arthurf
@@ -20,7 +20,7 @@ Uma coisa fica clara: dos vinte e um filmes, mais da metade são fantásticos, e
 ---
 
 {:.full-width}
-![Os reflexos de uma cidade com sinais de neon vistas pela lataria de um carro](/images/2019/06/carros-2.jpg)
+![Os reflexos de uma cidade com sinais de neon vistas pela lataria de um carro](/uploads/2019/06/carros-2.jpg)
 
 ## 21: _Carros 2_ (_Cars 2_, 2011)
 
@@ -29,7 +29,7 @@ Se os anos 2010 começaram com a Pixar lançando _Toy Story 3_, no ano seguinte 
 ---
 
 {:.full-width}
-![Um caminhão atravessa uma planície.](/images/2019/06/carros-3.jpg)
+![Um caminhão atravessa uma planície.](/uploads/2019/06/carros-3.jpg)
 
 ## 20: _Carros 3_ (_Cars 3_, 2017)
 
@@ -40,7 +40,7 @@ Mas ei, a Pixar lidando com o fim da existência é sempre bom. _Carros 3_ passa
 ---
 
 {:.full-width}
-![Dory sai de sua casa dentro de um coral em formato de cérebro.](/images/2019/06/procurando-dory.jpg)
+![Dory sai de sua casa dentro de um coral em formato de cérebro.](/uploads/2019/06/procurando-dory.jpg)
 
 ## 19: _Procurando Dory_ (_Finding Dory_, 2016)
 
@@ -51,7 +51,7 @@ E ei, pra um filme feito sob medida pra fazer um bocado de dinheiro na bilheteri
 ---
 
 {:.full-width}
-![Uma criança abraça a cabeça de um dinossauro.](/images/2019/06/bom-dinossauro.jpg)
+![Uma criança abraça a cabeça de um dinossauro.](/uploads/2019/06/bom-dinossauro.jpg)
 
 ## 18: _O Bom Dinossauro_ (_The Good Dinosaur_, 2015)
 
@@ -62,7 +62,7 @@ E… não funciona muito bem. _O Bom Dinossauro_ acabou sendo um “_Toy Story_ 
 ---
 
 {:.full-width}
-![Max chega na universidade com suas malas](/images/2019/06/universidade-monstros.jpg)
+![Max chega na universidade com suas malas](/uploads/2019/06/universidade-monstros.jpg)
 
 ## 17: _Universidade Monstros_ (_Monsters University_, 2013)
 
@@ -73,7 +73,7 @@ _Universidade Monstros_ nunca é ruim, porém, mas só demora um bocado para enc
 ---
 
 {:.full-width}
-![Relâmpago McQueen faz pose para suas fãs em uma corrida](/images/2019/06/carros.jpg)
+![Relâmpago McQueen faz pose para suas fãs em uma corrida](/uploads/2019/06/carros.jpg)
 
 ## 16: _Carros_ (_Cars_, 2006)
 
@@ -86,7 +86,7 @@ E _Carros_ meio que sofre das mesmas coisas. Ninguém é tão bonito quanto o Pa
 ---
 
 {:.full-width}
-![A família Pêra brinca dentro de um campo de força.](/images/2019/06/incriveis-2.jpg)
+![A família Pêra brinca dentro de um campo de força.](/uploads/2019/06/incriveis-2.jpg)
 
 ## 15: _Os Incríveis 2_ (_Incredibles 2_, 2018)
 
@@ -97,7 +97,7 @@ E puxa, se esse filme não tem Brad Bird mostrando pro mundo que ele entende com
 ---
 
 {:.full-width}
-![Merida se prepara para lançar uma flecha.](/images/2019/06/valente.jpg)
+![Merida se prepara para lançar uma flecha.](/uploads/2019/06/valente.jpg)
 
 ## 14: _Valente_ (_Brave_, 2012)
 
@@ -110,7 +110,7 @@ E _Valente_ leva nas costas essa produção conturbada, porque é essencialmente
 ---
 
 {:.full-width}
-![Três insetos se penduram em uma grama](/images/2019/06/vida-de-inseto.jpg)
+![Três insetos se penduram em uma grama](/uploads/2019/06/vida-de-inseto.jpg)
 
 ## 13: _Vida de Inseto_ (_A Bug’s Life_, 1998)
 
@@ -121,7 +121,7 @@ Tem seus problemas de ritmo, mas _Vida de Inseto_ é divertidíssimo, e uma das 
 ---
 
 {:.full-width}
-![Woody e Garfinho](/images/2019/06/toy-story-4.jpg)
+![Woody e Garfinho](/uploads/2019/06/toy-story-4.jpg)
 
 ## 12: _Toy Story 4_ (2019)
 
@@ -134,7 +134,7 @@ Não é o que eles fazem aqui, mas o que _Toy Story 4_ faz é bastante interessa
 ---
 
 {:.full-width}
-![Miguel encontra seus antepassados na Terra dos Mortos](/images/2019/06/viva.jpg)
+![Miguel encontra seus antepassados na Terra dos Mortos](/uploads/2019/06/viva.jpg)
 
 ## 11: _Viva: A Vida é uma Festa!_ (_Coco_, 2017)
 
@@ -145,7 +145,7 @@ Em _Viva_, que conta a história de um menino que atravessa para o mundo dos mor
 ---
 
 {:.full-width}
-![Jessie observa uma janela](/images/2019/06/toy-story-2.jpg)
+![Jessie observa uma janela](/uploads/2019/06/toy-story-2.jpg)
 
 ## 10: _Toy Story 2_ (1999)
 
@@ -156,7 +156,7 @@ Era verdade em 1999, quando _Toy Story 2_ foi lançado, e é verdade agora, vint
 ---
 
 {:.full-width}
-![Marlin e Dory se veem cercados de águas vivas](/images/2019/06/procurando-nemo.jpg)
+![Marlin e Dory se veem cercados de águas vivas](/uploads/2019/06/procurando-nemo.jpg)
 
 ## 9: _Procurando Nemo_ (_Finding Nemo_, 2003)
 
@@ -167,7 +167,7 @@ E, em tudo o o que _Procurando Nemo_ se propõe a fazer, ele acerta: da tragédi
 ---
 
 {:.full-width}
-![Bonnie acena para Andy, que deixa seus brinquedos para trás](/images/2019/06/toy-story-3.jpg)
+![Bonnie acena para Andy, que deixa seus brinquedos para trás](/uploads/2019/06/toy-story-3.jpg)
 
 ## 8: _Toy Story 3_ (2010)
 
@@ -178,7 +178,7 @@ _Toy Story 2_ acaba com Woody, Buzz e a turma voltando para o quarto do seu dono
 ---
 
 {:.full-width}
-![Mike e Sulley conversam de noite](/images/2019/06/monstros-sa.jpg)
+![Mike e Sulley conversam de noite](/uploads/2019/06/monstros-sa.jpg)
 
 ## 7: _Monstros S.A._ (_Monsters Inc._, 2001)
 
@@ -189,7 +189,7 @@ E, no seu mais íntimo, tem aquela fórmula da Pixar de usar várias tramas para
 ---
 
 {:.full-width}
-![Buzz e Woody caem com estilo no carro do Andy](/images/2019/06/toy-story.jpg)
+![Buzz e Woody caem com estilo no carro do Andy](/uploads/2019/06/toy-story.jpg)
 
 ## 6: _Toy Story_ (1995)
 
@@ -200,7 +200,7 @@ Mas é só _ver_ o filme que você é imediatamente absorvido por ele. _Toy Stor
 ---
 
 {:.full-width}
-![Uma casa flutua no ar com balões](/images/2019/06/up.jpg)
+![Uma casa flutua no ar com balões](/uploads/2019/06/up.jpg)
 
 ## 5: _Up – Altas Aventuras_ (_Up_, 2009)
 
@@ -211,7 +211,7 @@ _Up_ está há milhares de quilômetros de distância de _Toy Story_ em tecnolog
 ---
 
 {:.full-width}
-![Remy, o rato, prepara um omelete](/images/2019/06/ratatouille.jpg)
+![Remy, o rato, prepara um omelete](/uploads/2019/06/ratatouille.jpg)
 
 ## 4: _Ratatouille_ (2007)
 
@@ -222,7 +222,7 @@ Em _Ratatouille_, é a história de Remy, um ratinho sonhador que deseja ser um 
 ---
 
 {:.full-width}
-![WALL-E, se segurando em uma espaçonave, observa as estrelas](/images/2019/06/wall-e.jpg)
+![WALL-E, se segurando em uma espaçonave, observa as estrelas](/uploads/2019/06/wall-e.jpg)
 
 ## 3: _WALL-E_ (2008)
 
@@ -235,7 +235,7 @@ _WALL-E_ é uma história de amor daquelas clássicas de Hollywood. É também u
 ---
 
 {:.full-width}
-![A família Pêra se prapara para lutar no meio de uma floresta.](/images/2019/06/os-incriveis.jpg)
+![A família Pêra se prapara para lutar no meio de uma floresta.](/uploads/2019/06/os-incriveis.jpg)
 
 ## 2: _Os Incríveis_ (_The Incredibles_, 2004)
 
@@ -248,7 +248,7 @@ _Os Incríveis_ é um filme de ação como nenhum outro. É também um drama fam
 ---
 
 {:.full-width}
-![As Emoções assistem uma Memória de Riley esquiando quando mais jovem](/images/2019/06/divertida-mente.jpg)
+![As Emoções assistem uma Memória de Riley esquiando quando mais jovem](/uploads/2019/06/divertida-mente.jpg)
 
 ## 1: _Divertida Mente_ (_Inside Out_, 2015)
 
