@@ -5,7 +5,7 @@ title: "Colabore"
 
 Nós estamos sempre aceitando novos textos ou sugestões. Por favor, envie suas sugestões diretamente para o nosso editor através do email **mesa (arroba) paomortadela.com.br**.
 
-Nós tentamos responder a todos os emails então, se você não receber uma resposta nossa, talvez seu email tenha sido varrido por um filtro de spam muito coruja. Tente reenviar seu ou nos avisar sobre a falta de resposta no [nosso Twitter](https://twitter.com/paomortadela).
+Nós tentamos responder a todos os emails. Se você não receber uma resposta nossa, talvez ele tenha sido varrido por um filtro de spam muito coruja. Tente reenviar o email ou nos avisar sobre a falta de resposta no [nosso Twitter](https://twitter.com/paomortadela). Nós estamos trabalhando num jeito mais legal e fácil de enviar suas dicas direto pelo site.
 
 O PCM ainda é um blog colaborativo sem patrocínio, então não podemos pagar por todas as colaborações de nossos autores. Nós estamos sempre dispostos a conversar sobre isso antes de publicarmos seu texto. Dê uma conferida nos [nossos princípios editoriais]({% link colabore/principios.md %}).
 
