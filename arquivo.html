@@ -40,6 +40,14 @@ title: Arquivos e tags
 
 {% assign columns = site.data.columns | map: 'title' | downcase %}
 
-<p>{%- for tag in site.tags -%}
-  {% unless columns contains tag[0] %}<a href="{{ tag[0] | slugify | prepend: '/tag/' }}" rel="tag">{{ tag[0] }}</a> {% unless forloop.last %} / {% endunless %}{% endunless %}
-{%- endfor -%}</p>
+{% capture tags %}
+  {%- for tag in site.tags limit: 20 -%}
+    {% unless columns contains tag[0] %}
+      <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}" href="{{ tag[0] | slugify | prepend: '/tag/' }}" rel="tag">
+        {{ tag[0] }}
+      </a><sup>({{ tag[1].size }})</sup> {% unless forloop.last %} sep {% endunless %}
+    {% endunless %}
+  {% endfor %}
+{% endcapture %}
+
+<p>{{ tags | split: "sep" | sort | join: "/" }}</p>
