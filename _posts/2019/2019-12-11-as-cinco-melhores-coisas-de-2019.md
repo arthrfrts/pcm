@@ -71,11 +71,11 @@ O melhor filme que eu vi esse ano, porém, foi uma aposta. Eu amo _O Abraço da 
 
 **Aproveite e veja também:**
 
-- _Parasita_ (Bong Joon-ho, 2019) — nos cinemas!
+- _Ad Astra_ (James Gray, 2019) — indo pra Blu-ray e DVD.
+- _Atlantique_ (Mati Diop, 2019) — na [Netflix](https://www.netflix.com/title/81082007).
 - _A Vida Invisível_ (Karim Aïnouz, 2019) — nos cinemas!
 - _Em Trânsito_ (Christian Petzold, 2018) — no [Looke](https://www.looke.com.br/filmes/em-transito), [iTunes](https://itunes.apple.com/br/movie/em-trânsito/id1467362388) e [Google Play](https://play.google.com/store/movies/details/Em_Trânsito?id=1xfL6H4WECo.P).
-- _Atlantique_ (Mati Diop, 2019) — na [Netflix](https://www.netflix.com/title/81082007).
-- _Ad Astra_ (James Gray, 2019) — indo pra Blu-ray e DVD.
+- _Parasita_ (Bong Joon-ho, 2019) — nos cinemas!
 
 ***
 
