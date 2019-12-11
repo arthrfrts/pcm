@@ -18,11 +18,11 @@ collections:
 
 # Build settings
 markdown: kramdown
-url: 'https://manteiga.paomortadela.com.br' # mudar no merge
+url: 'https://paomortadela.com.br' # mudar no merge
 baseurl: ''
 
 permalink: /:year/:month/:title/
-paginate: 12
+paginate: 8
 paginate_path: "/p:num/"
 
 include:
