@@ -25,5 +25,9 @@
     {%- if content contains "#disqus_thread" -%}
     <script id="dsq-count-scr" src="//paomortadela.disqus.com/count.js" async></script>
     {%- endif -%}
+    
+    {%- if jekyll.environment == "production" -%}
+      {%- include analytics.html -%}
+    {%- endif -%}
   </body>
 </html>
