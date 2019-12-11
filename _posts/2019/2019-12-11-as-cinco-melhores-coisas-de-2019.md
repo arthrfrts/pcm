@@ -35,11 +35,11 @@ A gente se vê na próxima quarta, com uma lista muito especial pra fechar o ano
 
 **Aproveite e clique também:**
 
-- [1619](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html) (podcast, The New York Times)
-- [Model Metropolis](https://logicmag.io/play/model-metropolis/) (Kevin T. Baker, Logic Magazine)
-- [I Am Easy To Find](https://www.youtube.com/watch?v=ifElv18k2O8) (curta, Mike Mills e The National)
-- [The Night The Lights Went Out](https://theconcourse.deadspin.com/the-night-the-lights-went-out-1834298070) (Drew Magary, Deadspin)
-- [Chernobyl](https://podcasts.apple.com/us/podcast/the-chernobyl-podcast/id1459712981) (podcast, HBO)
+- [_1619_](https://www.nytimes.com/2019/08/23/podcasts/1619-slavery-anniversary.html) (podcast, The New York Times)
+- [_Model Metropolis_](https://logicmag.io/play/model-metropolis/) (Kevin T. Baker, Logic Magazine)
+- [_I Am Easy To Find_](https://www.youtube.com/watch?v=ifElv18k2O8) (curta, Mike Mills e The National)
+- [_The Night The Lights Went Out_](https://theconcourse.deadspin.com/the-night-the-lights-went-out-1834298070) (Drew Magary, Deadspin)
+- [_Chernobyl_](https://podcasts.apple.com/us/podcast/the-chernobyl-podcast/id1459712981) (podcast, HBO)
 
 ***
 
@@ -71,11 +71,11 @@ O melhor filme que eu vi esse ano, porém, foi uma aposta. Eu amo _O Abraço da 
 
 **Aproveite e veja também:**
 
-- _Parasita_ (Bong Joon-ho, 2019)
-- _A Vida Invisível_ (Karim Aïnouz, 2019)
-- _Em Trânsito_ (Christian Petzold, 2018)
-- _O Irlandês_ (Martin Scorsese, 2019)
-- _Ad Astra_ (James Gray, 2019)
+- _Parasita_ (Bong Joon-ho, 2019) — nos cinemas!
+- _A Vida Invisível_ (Karim Aïnouz, 2019) — nos cinemas!
+- _Em Trânsito_ (Christian Petzold, 2018) — no [Looke](https://www.looke.com.br/filmes/em-transito), [iTunes](https://itunes.apple.com/br/movie/em-trânsito/id1467362388) e [Google Play](https://play.google.com/store/movies/details/Em_Trânsito?id=1xfL6H4WECo.P).
+- _Atlantique_ (Mati Diop, 2019) — na [Netflix](https://www.netflix.com/title/81082007).
+- _Ad Astra_ (James Gray, 2019) — indo pra Blu-ray e DVD.
 
 ***
 
@@ -89,11 +89,11 @@ Mesmo assim, nenhum outro jogo me ofereceu algo tão bacana como _The Touryst_. 
 
 **Aproveite e jogue também:**
 
-- [_Outer Wilds_](http://www.outerwilds.com) (Mobius — PC, Xbox One)
-- [_WHAT THE GOLF?_](http://www.whatthegolf.com) (Triband, Apple Arcade, PC)
 - [_Death Stranding_](http://www.kojimaproductions.jp/en/) (Kojima Productions, PlayStation 4)
-- [_Untitled Goose Game_](http://goose.game) (House House, Nintendo Switch, PC)
+- [_Outer Wilds_](http://www.outerwilds.com) (Mobius — PC, Xbox One)
 - [_Super Mario Maker 2_](https://supermariomaker.nintendo.com) (Nintendo, Nintendo Switch)
+- [_Untitled Goose Game_](http://goose.game) (House House, Nintendo Switch, PC)
+- [_WHAT THE GOLF?_](http://www.whatthegolf.com) (Triband, Apple Arcade, PC)
 
 ***
 
