@@ -1,11 +1,13 @@
 ---
 date: '2019-03-22 09:00 -0300'
 layout: post
-category: Achados
-published: true
 title: 'Ser parte do nosso próprio tempo: Mulheres do Século 20'
 tags:
+  - achados
   - filmes
+  - drama
+  - Mike Mills
+  - caixinha de lembranças
 author: arthurf
 image: 'https://i.imgur.com/UcrQPBT.jpg'
 ---

@@ -4,10 +4,11 @@ layout: post
 title: A justiça que nos cerca
 author: arthurf
 image: 'https://i.imgur.com/YieSypth.jpg'
-category: Essenciais
 tags:
+  - essenciais
   - links
   - podcasts
+  - Serial
 published: true
 ---
 

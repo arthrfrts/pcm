@@ -5,7 +5,12 @@ image: "/uploads/2019/08/ranking-supermario.jpg"
 date: "2019-08-14 09:00"
 author: arthurf
 category: Listas
-tags: jogos
+tags:
+  - listas
+  - jogos
+  - Super Mario
+  - Nintendo
+  - rankings
 ---
 
 Durante a maior parte de 2017, ninguém suspeitava que algum outro jogo ia conseguir destronar [_Breath of the Wild_]({%- post_url 2017/2017-07-25-the-legend-of-the-zelda-breath-of-the-wild -%}) dos prêmios de melhor jogo do ano. Foi o GOTY mais rápido e mais unânime que eu já vi: logo na semana do lançamento, no início de março, parecia que não importava o que fosse lançado, nada seria do tamanho do último Zelda. Até que outubro chegou e com ele veio o **outro** jogo que a Nintendo tinha preparado para o primeiro ano do seu novo videogame, _Super Mario Odyssey_ chegou e as listas de final de ano indicavam que a Nintendo não tinha só um GOTY na manga. Se algum jogo fosse destronar um clássico instantâneo da Nintendo, só mesmo o próprio Mario.

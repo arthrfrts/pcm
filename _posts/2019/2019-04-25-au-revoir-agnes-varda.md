@@ -6,7 +6,10 @@ title: Au revoir Agnès Varda
 image: https://i.imgur.com/JcezTrS.jpg
 author: arthurf
 tags:
-- filmes
+  - esquinas
+  - filmes
+  - cinema francês
+  - Agnès Varda
 ---
 
 Eu não lembro qual foi o primeiro filme que eu assisti de Agnès Varda, mas eu lembro como eu cheguei nele. Como todo o jovem que aprende sobre “cinema estrangeiro” no ensino médio, eu e o cineclube assistíamos a _O Cão Andaluz_ porque, secretamente, a gente queria impressionar os mais jovens com o nosso gosto requintado de cinema — olha um olho estourando! A gente conversava sobre coisas como “surrealismo” e “nouvelle vague francesa”. A gente sabia que era cult, a gente não tinha ideia do porquê.

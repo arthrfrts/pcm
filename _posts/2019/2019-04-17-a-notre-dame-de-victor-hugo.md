@@ -1,13 +1,15 @@
 ---
 date: '2019-04-17 09:00:00 -0300'
 layout: post
-category: resenhas
 title: A Notre Dame de Victor Hugo
 image: 'https://i.imgur.com/mgAX8vK.jpg'
 tags:
+  - requentando
   - leituras
+  - livros
+  - Victor Hugo
+  - momentos
 author: arthurf
-published: true
 ---
 “Paris foi decapitada”, [disse um homem ao New York Times](https://www.nytimes.com/2019/04/15/world/europe/notre-dame-fire.html) quando o pináculo da Catedral de Notre Dame caiu, consumida pelas chamas.
 

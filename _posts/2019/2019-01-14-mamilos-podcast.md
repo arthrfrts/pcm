@@ -8,8 +8,9 @@ excerpt: >-
 image: "https://i.imgur.com/AUly4WT.jpg"
 category: resenhas
 tags:
- - links
- - podcasts
+  - resenhas
+  - links
+  - podcasts
 ---
 
 Eu não consigo precisar exatamente o dia que o Mamilos entrou na minha vida, mas eu com certeza consigo dizer que eu não lembro como era ouvir podcasts antes disso. Mamilos veio na minha segunda tentativa de ouvir podcasts, porque a primeira falhou miseravelmente. Veio quando eu estava a procura de conteúdo de qualidade e feito por mulheres. Conteúdo que fugisse do mundo da TI, que fosse sobre o mundo, o universo e tudo mais. Que fosse com profundidade, que fosse educativo e que me deixasse com uma sensação de “hoje eu aprendi algo novo”.

@@ -1,11 +1,14 @@
 ---
 date: '2019-02-07 08:20 -0200'
 layout: post
-category: Reconsiderações
 published: true
 title: O passado e o presente se confundem em The Suburbs
 tags:
+  - essenciais
+  - requentando
   - músicas
+  - indie
+  - Arcade Fire
 excerpt: 'A obra-prima do Arcade Fire vai fazer dez anos, e é cada vez mais essencial.'
 image: 'https://i.imgur.com/GvF7Bdg.jpg'
 author: arthurf

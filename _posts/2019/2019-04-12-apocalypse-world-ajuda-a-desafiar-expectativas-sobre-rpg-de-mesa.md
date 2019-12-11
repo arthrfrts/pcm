@@ -1,11 +1,12 @@
 ---
 date: '2019-04-12 09:00:00 -0300'
 layout: post
-category: Exposições
 title: Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa
 image: 'https://i.imgur.com/JoGNqv9.jpg'
 tags:
+  - esquinas
   - jogos
+  - RPG
 author: raulf
 published: true
 ---

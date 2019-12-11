@@ -1,12 +1,17 @@
 ---
 layout: post
-category: Achados
 date: '2019-05-24 09:00:00 -0300'
 title: Viajo Porque Preciso, Volto Porque Te Amo
 image: https://i.imgur.com/OiChy7F.jpg
 author: guilhermen
 tags:
-- filmes
+  - achados
+  - filmes
+  - cinema nacional
+  - documentários
+  - romance
+  - Karim Aïnouz
+  - Marcelo Gomes
 ---
 Eu nunca tinha assistido ao filme do Marcelo Gomes e do Karin Ainoz, e ainda tento digerir algumas das sensações que ele me causou. Fazia muito tempo que eu não tinha uma experiência tão complexa assim com o cinema. O filme meio que falou comigo em um nível que me fez, de certa forma, desarmado para uma visão mais analítica. Existe um tanto que não tá ali, que tá dentro da gente, que é pra gente preencher para que aquilo que de fato está ali se mostrar de um jeito único pra cada um. Isso tem sido bastante discutido e comentado no estudo do cinema contemporâneo - a gente pode citar, por exemplo, o trabalho de Umberto Eco, que identificou essa tendência da arte mais contemporânea e nos trouxe o conceito de "obra aberta", que diz respeito, justamente, a essa abertura, essa abordagem diversa da temporalidade, essa indefinição poética; entretanto, o cuidado ao configurar a forma com que aquilo que o filme dá de objetivo, influencia nesse tanto de energia (e de  interpretação, em um sentido mais qualitativo) que a gente usa pra preencher as lacunas é o que torna a experiência com esse filme tão particular.
 

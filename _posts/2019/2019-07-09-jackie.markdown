@@ -4,8 +4,11 @@ title: O desorientante mito americano de Jackie
 date: '2019-07-10 09:00'
 image: /uploads/2019/07/jackie-2016.jpg
 author: arthurf
-tags: filmes
-category: Achados
+tags:
+  - achados
+  - filmes
+  - drama
+  - biografias
 ---
 
 Eu não sei porque eu gostei de _Jackie_ (na [Netflix](https://www.netflix.com/title/80141892)). Não é um filme que teria me chamado a atenção. É uma cinebiografia da Jackie Kennedy, a primeira dama do presidente John F. Kennedy, que foi assassinado numa passeata. Eu não me interesso muito por cinebiografias, nem por presidentes americanos. Mas _Jackie_ não sai da minha cabeça (e não só porque eu tô sempre escutando [a excelente trilha-sonora](https://open.spotify.com/album/26oV0D5W0BYifdA6twoivA), composta por Mica Levi), e eu não sei muito bem o porquê.

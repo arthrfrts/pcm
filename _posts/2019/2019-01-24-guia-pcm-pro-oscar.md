@@ -1,11 +1,14 @@
 ---
 date: '2019-01-24 09:00 -0200'
 layout: post
-category: Listas
 title: Guia PCM pro Oscar
 excerpt: Nós te ajudamos a assistir os filmes indicados ao Oscar desse ano.
 tags:
+  - listas
   - filmes
+  - Guia PCM
+  - Oscar
+  - Não é Mad Max
 author: arthurf
 image: 'https://i.imgur.com/iVjDPWW.jpg'
 published: true

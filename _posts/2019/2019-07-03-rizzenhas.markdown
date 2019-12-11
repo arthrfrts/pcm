@@ -3,7 +3,11 @@ layout: post
 title: r.izze.nhas é uma boa leitura sobre boas leituras
 date: '2019-07-03 09:00'
 author: arthurf
-tags: links
+tags:
+  - esquinas
+  - leituras
+  - blogs
+  - livros
 image: /uploads/2019/07/rizzenhas.png
 ---
 

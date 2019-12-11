@@ -5,7 +5,9 @@ category: resenhas
 published: true
 title: 'Miojo Indie: É bom ler sobre o que a gente ama ouvir'
 tags:
+  - resenhas
   - links
+  - blogs
 author: arthurf
 image: /uploads/2019/miojoindie.jpg
 ---

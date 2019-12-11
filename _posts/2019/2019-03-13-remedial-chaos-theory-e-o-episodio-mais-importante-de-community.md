@@ -5,7 +5,11 @@ category: Episódios
 published: true
 title: “Remedial Chaos Theory” é o episódio mais importante de Community
 tags:
+  - episódios
   - séries
+  - comédias
+  - Community
+  - Prime Video
 excerpt: >-
   Estreamos uma coluna nova observando como o melhor episódio de uma das
   melhores séries.

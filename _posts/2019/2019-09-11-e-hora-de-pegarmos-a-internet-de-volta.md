@@ -4,9 +4,10 @@ date: "2019-09-11 09:00:00 -0300"
 title: É hora de pegarmos a internet de volta
 author: arthurf
 image: "/uploads/2019/09/web.jpg"
-category: Exposições
 tags:
   - links
+  - esquinas
+  - web
 ---
 
 Se a internet fosse uma biblioteca ela seria gigante, repleta com todo o tipo de livro, revista, jornal, diários, trabalhos acadêmicos e o que mais fosse possível enfiar dentro dela. Mas ela também não teria nenhum sistema de organização (nada de plaquinhas de “Estudos Sociais” e “Convergências entre Hipertexto e Política”), e você só teria uma lanterna para ajudar a encontrar aquilo que precisa.

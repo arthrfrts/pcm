@@ -3,8 +3,13 @@ layout: post
 title: Um ranking de todos os filmes da Pixar
 date: "2019-06-26 09:00"
 image: /uploads/2019/06/pixar-ranking.jpg
-category: Listas
-tags: filmes
+tags:
+  - listas
+  - rankings
+  - filmes
+  - animação
+  - Pixar
+  - Toy Story
 author: arthurf
 description: Aproveitamos o lançamento de Toy Story 4 para dar uma olhada na carreira do estúdio.
 ---

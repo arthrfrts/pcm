@@ -5,8 +5,9 @@ title: Minha dieta cultural nas últimas semanas
 image: "/uploads/2019/10/forever.jpg"
 excerpt: "Sem tempo irmão."
 author: arthurf
-category: Listas
 tags:
+  - listas
+  - leituras
   - links
   - séries
   - filmes

@@ -3,13 +3,16 @@ date: '2019-05-16 09:00:00 -0300'
 layout: post
 image: 'https://i.imgur.com/xEqGdWC.jpg'
 title: Chernobyl traduz o peso de uma catástrofe
-category: Essenciais
 author: arthurf
-description: >-
+excerpt: >-
   O terror da nova minissérie é ainda maior ao exprimir o custo humano da
   desinformação.
 tags:
+  - essenciais
   - séries
+  - minisséries
+  - drama
+  - HBO
 published: true
 ---
 

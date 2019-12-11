@@ -1,14 +1,17 @@
 ---
 date: '2019-02-15 09:00 -0200'
 layout: post
-category: Exposições
-published: true
 title: Vivendo e crescendo com The Sims
 excerpt: >-
   O simulador de vida faz 19 anos esse mês, mas quem tira a porta do quarto da
   Solange é você.
 tags:
+  - esquinas
   - jogos
+  - simulação
+  - The Sims
+  - Maxis
+  - Will Wright
 image: 'https://i.imgur.com/CwM5w0l.jpg'
 author: arthurf
 ---

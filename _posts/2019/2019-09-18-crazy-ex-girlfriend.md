@@ -4,9 +4,12 @@ layout: post
 title: Crazy Ex-Girlfriend terminou na sua melhor forma
 image: /uploads/2019/09/cxgf.jpg
 author: arthurf
-category: Exposições
 tags:
+  - resenhas
   - séries
+  - comédia
+  - musical
+  - Netflix
 published: true
 ---
 

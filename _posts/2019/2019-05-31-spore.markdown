@@ -6,7 +6,13 @@ image: 'https://i.imgur.com/w1tGW25.jpg'
 date: '2019-05-31 10:00'
 author: arthurf
 category: Exposições
-tags: jogos
+tags:
+  - requentando
+  - esquinas
+  - jogos
+  - simulação
+  - Maxis
+  - Will Wright
 ---
 
 É difícil pra mim escrever sobre _Spore_, o jogo de simulação do mesmo criador de _The Sims_ e _SimCity_ que, antes do seu lançamento, parecia ser o jogo que mudaria tudo. Lançado em 2008, depois de atrasos consecutivos e hype acumulado, a revolução que _Spore_ parecia trazer era assunto nas revistas New York Times Magazine e New Yorker. Cada demonstração do jogo era notícia nos sites especializados, e cada atraso criava especulações crescentes da comunidade.

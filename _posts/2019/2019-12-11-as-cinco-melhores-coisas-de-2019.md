@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-11
+date: "2019-12-11 10:30:00 -0300"
 title: As cinco melhores coisas de 2019
 image: /uploads/2019/12/top-5-2019.jpg
 author: arthurf
