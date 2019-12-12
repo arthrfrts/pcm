@@ -29,6 +29,7 @@ include:
   - _redirects
   
 keep_files:
+  - ads.txt
   - assets/img
   - assets/js
   - uploads
