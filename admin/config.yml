@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: arthrfrts/paomortadela
   branch: master
 
 publish_mode: editorial_workflow
