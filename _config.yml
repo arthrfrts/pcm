@@ -14,6 +14,9 @@ timezone: America/Sao_Paulo
 collections:
   links:
     output: false
+  authors:
+    output: true
+    permalink: "/autor/:title/"
 
 
 # Build settings
@@ -33,11 +36,7 @@ keep_files:
   - assets/img
   - assets/js
   - uploads
-
-collections:
-  authors:
-    output: true
-    permalink: "/autor/:title/"
+  
 
 defaults:
   - scope:
