@@ -27,7 +27,6 @@ paginate_path: "/p:num/"
 
 include:
   - _redirects
-  - _prose.yml
   
 keep_files:
   - ads.txt
@@ -45,16 +44,6 @@ defaults:
       path: ''
     values:
       image: "/assets/images/default.jpg"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
 
 plugins:
   - jekyll-feed
@@ -64,34 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-coffeescript
   - jekyll-include-cache
-  
 
-# SEO
-social:
-  name: Pão com Mortadela
-  links:
-    - https://twitter.com/paomortadela
-    - https://www.facebook.com/paomortadela.com.br
-    - https://tinyletter.com/paomortadela
-
-twitter:
-  username: paomortadela
-  card: summary_large_image
-
-
-# Archives
-jekyll-archives:
-  enabled:
-    - tags
-    - year
-    - month
-  layout: "archive"
-  permalinks:
-    year: "/:year/"
-    month: "/:year/:month/"
-    tag: "/tag/:name/"
-
-# CMS
 prose:
   rooturl: ""
   siteurl: "https://paomortadela.com.br"
@@ -150,20 +112,27 @@ prose:
           element: checkbox
           label: Publish?
           value: true
-    _links:
-      - name: title
-        field:
-          element: text
-          label: Title
-      - name: date
-        field:
-          element: hidden
-          value: CURRENT_DATETIME
-      - name: published
-        field:
-          element: hidden
-          value: true
-      - name: permalink
-        field:
-          element: text
-          label: Link URL
+
+social:
+  name: Pão com Mortadela
+  links:
+    - https://twitter.com/paomortadela
+    - https://www.facebook.com/paomortadela.com.br
+    - https://tinyletter.com/paomortadela
+
+twitter:
+  username: paomortadela
+  card: summary_large_image
+
+
+# Archives
+jekyll-archives:
+  enabled:
+    - tags
+    - year
+    - month
+  layout: "archive"
+  permalinks:
+    year: "/:year/"
+    month: "/:year/:month/"
+    tag: "/tag/:name/"
