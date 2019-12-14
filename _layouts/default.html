@@ -30,18 +30,5 @@
       {%- include analytics.html -%}
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {%- endif -%}
-    {%- if page.url == "/" -%}
-      <script>
-        if (window.netlifyIdentity) {
-          window.netlifyIdentity.on("init", user => {
-            if (!user) {
-              window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
-              });
-            }
-          });
-        }
-      </script>
-    {%- endif -%}
   </body>
 </html>

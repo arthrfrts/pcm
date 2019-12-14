@@ -1,57 +1,21 @@
 backend:
   name: github
   repo: arthrfrts/paomortadela
-  branch: master
+  branch: master # Branch to update (master by default)
 
-publish_mode: editorial_workflow
-media_folder: "uploads"
+media_folder: "uploads" # Folder where user uploaded files should go
 
-collections:
-  - name: "posts"
-    label: "Posts"
-    folder: "_posts"
-    create: true
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "_posts" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - label: Layout
-        name: layout
-        widget: hidden
-        default: post
-      - label: Title
-        name: title
-        widget: string
-      - label: Date
-        name: date
-        widget: datetime
-      - label: Image
-        name: image
-        widget: image
-      - label: Author
-        name: author
-        widget: relation
-        collection: authors
-        searchFields: ["name", "path"]
-        valueField: path
-        displayField: name
-      - label: Tags
-        name: tags
-        widget: string
-      - label: Content
-        name: body
-        widget: markdown
-  - name: "links"
-    label: "Links"
-    folder: "_links"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - label: Link Title
-        name: title
-        widget: string
-      - label: Link URL
-        name: permalink
-        widget: string
-      - label: Comment
-        name: body
-        widget: text
-    
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tag", widget: "string", required: false}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
