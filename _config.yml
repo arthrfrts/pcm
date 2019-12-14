@@ -27,6 +27,7 @@ paginate_path: "/p:num/"
 
 include:
   - _redirects
+  - _prose.yml
   
 keep_files:
   - ads.txt
@@ -89,81 +90,3 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
     tag: "/tag/:name/"
-
-# CMS
-prose:
-  rooturl: "_posts"
-  siteurl: "https://paomortadela.com.br"
-  media: "/uploads"
-  relativeLinks: "https://paomortadela.com.br/assets/lists/links.jsonp"
-  metadata:
-    _posts:
-      - name: layout
-        field:
-          element: hidden
-          value: post
-      - name: title
-        field:
-          element: text
-          label: Title
-      - name: date
-        field:
-          element: text
-          label: Date
-          value: CURRENT_DATETIME
-      - name: image
-        field:
-          element: text
-          label: Image
-      - name: author
-        field:
-          element: select
-          label: Author
-          value: arthurf
-          options: "https://paomortadela.com.br/assets/lists/authors.jsonp?callback=authorsCallback"
-      - name: tags
-        field:
-          element: multiselect
-          label: Tags
-          value: resenhas
-          options: "https://paomortadela.com.br/assets/lists/tags.jsonp?callback=tagCallback"
-          alterable: true
-      - name: published
-        field:
-          element: checkbox
-          label: Publish?
-          value: true
-    _links:
-      - name: title
-        field:
-          element: text
-          label: Title
-      - name: date
-        field:
-          element: hidden
-          value: CURRENT_DATETIME
-      - name: published
-        field:
-          element: hidden
-          value: true
-      - name: permalink
-        field:
-          element: text
-          label: Link URL
-  ignore:
-    - _includes/
-    - _layouts/
-    - _sass/
-    - assets/
-    - .editorconfig
-    - .gitattributes
-    - .gitignore
-    - .lfsconfig
-    - 404.md
-    - Gemfile
-    - LICENSE
-    - _config.yml
-    - _redirects
-    - ads.txt
-    - favicon.ico
-    - readme.md
