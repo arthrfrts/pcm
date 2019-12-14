@@ -92,6 +92,7 @@ jekyll-archives:
 
 # CMS
 prose:
+  rooturl: ""
   siteurl: "https://paomortadela.com.br"
   media: "/uploads"
   relativeLinks: "https://paomortadela.com.br/assets/lists/links.jsonp"
