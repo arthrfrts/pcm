@@ -1,5 +1,0 @@
----
----
-{%- for post in site.posts %}
-https://paomortadela.com.br/{{- post.date | date: "%Y" -}}/{{- post.slug -}}/,https://paomortadela.com.br{{ post.url | relative_path }}
-{%- endfor -%}

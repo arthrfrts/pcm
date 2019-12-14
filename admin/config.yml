@@ -1,0 +1,56 @@
+backend:
+  name: git-gateway
+  branch: master
+
+publish-mode: editorial-workflow
+media-folder: "uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Image
+        name: image
+        widget: image
+      - label: Author
+        name: author
+        widget: relation
+        collection: authors
+        searchFields: ["name", "path"]
+        valueField: path
+        displayField: name
+      - label: Tags
+        name: tags
+        widget: string
+      - label: Content
+        name: body
+        widget: markdown
+  - name: "links",
+    label: "Links"
+    folder: "_links"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: Link Title
+        name: title
+        widget: string
+      - label: Link URL
+        name: permalink
+        widget: string
+      - label: Comment
+        name: body
+        widget: text
+    
