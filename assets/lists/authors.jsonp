@@ -1,0 +1,11 @@
+---
+# Hello, Jekyll!
+---
+
+authorsCallback([
+{%- for author in site.data[authors] -%}
+  {
+    "value": {{ author | first | jsonify }}
+  }{%- unless forloop.last -%},{%- endunless -%}
+{%- endfor -%}
+])
