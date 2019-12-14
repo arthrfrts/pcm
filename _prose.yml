@@ -56,16 +56,16 @@ prose:
           element: checkbox
           label: Publish?
           value: true
-    _links:
-      - name: date
-        field:
-          element: hidden
-          value: CURRENT_DATETIME
-      - name: title
-        field:
-          element: text
-          value: Title
-      - name: permalink
-        field:
-          element: text
-          label: Link URL
+    # _links:
+    #   - name: date
+    #     field:
+    #       element: hidden
+    #       value: CURRENT_DATETIME
+    #   - name: title
+    #     field:
+    #       element: text
+    #       value: Title
+    #   - name: permalink
+    #     field:
+    #       element: text
+    #       label: Link URL
