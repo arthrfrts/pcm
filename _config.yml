@@ -85,10 +85,10 @@ prose:
   media: "/uploads"
   relativeLinks: "https://paomortadela.com.br/assets/lists/links.jsonp"
   ignore:
-    - _includes/
-    - _layouts/
-    - _sass/
-    - assets/
+    - _includes
+    - _layouts
+    - _sass
+    - assets
     - uploads
     - _redirects
     - .editorconfig
@@ -100,6 +100,8 @@ prose:
     - Gemfile
     - LICENSE
     - readme.md
+    - index.html
+    - arquivo.html
   metadata:
     _posts:
       - name: layout
@@ -137,16 +139,16 @@ prose:
           element: checkbox
           label: Publish?
           value: true
-    # _links:
-    #   - name: date
-    #     field:
-    #       element: hidden
-    #       value: CURRENT_DATETIME
-    #   - name: title
-    #     field:
-    #       element: text
-    #       value: Title
-    #   - name: permalink
-    #     field:
-    #       element: text
-    #       label: Link URL
+    _links:
+      - name: date
+        field:
+          element: hidden
+          value: CURRENT_DATETIME
+      - name: title
+        field:
+          element: text
+          value: Title
+      - name: permalink
+        field:
+          element: text
+          label: Link URL

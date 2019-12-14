@@ -3,9 +3,10 @@
 ---
 
 authorsCallback([
-{%- for author in site.data[authors] -%}
+{%- for author in site.data.authors -%}
   {
-    "value": {{ author | first | jsonify }}
+    "value": {{ author | first | jsonify }},
+    "name": {{ author[1].name | jsonify }}
   }{%- unless forloop.last -%},{%- endunless -%}
 {%- endfor -%}
 ])
