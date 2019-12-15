@@ -21,6 +21,8 @@ collections:
 
 # Build settings
 markdown: kramdown
+incremental: true
+
 url: 'https://paomortadela.com.br' # mudar no merge
 baseurl: ''
 
@@ -76,79 +78,3 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
     tag: "/tag/:name/"
-
-
-# CMS
-prose:
-  rooturl: ""
-  siteurl: "https://paomortadela.com.br"
-  media: "/uploads"
-  relativeLinks: "https://paomortadela.com.br/assets/lists/links.jsonp"
-  ignore:
-    - _includes
-    - _layouts
-    - _sass
-    - assets
-    - uploads
-    - _redirects
-    - .editorconfig
-    - .gitignore
-    - .gitattributes
-    - .lfsconfig
-    - ads.txt
-    - favicon.ico
-    - Gemfile
-    - LICENSE
-    - readme.md
-    - index.html
-    - arquivo.html
-  metadata:
-    _posts:
-      - name: layout
-        field:
-          element: hidden
-          value: post
-      - name: title
-        field:
-          element: text
-          label: Title
-      - name: date
-        field:
-          element: text
-          label: Date
-          value: CURRENT_DATETIME
-      - name: image
-        field:
-          element: text
-          label: Image
-      - name: author
-        field:
-          element: select
-          label: Author
-          value: arthurf
-          options: "https://paomortadela.com.br/assets/lists/authors.jsonp?callback=authorsCallback"
-      - name: tags
-        field:
-          element: multiselect
-          label: Tags
-          value: resenhas
-          options: "https://paomortadela.com.br/assets/lists/tags.jsonp?callback=tagsCallback"
-          alterable: true
-      - name: published
-        field:
-          element: checkbox
-          label: Publish?
-          value: true
-    _links:
-      - name: date
-        field:
-          element: hidden
-          value: CURRENT_DATETIME
-      - name: title
-        field:
-          element: text
-          value: Title
-      - name: permalink
-        field:
-          element: text
-          label: Link URL

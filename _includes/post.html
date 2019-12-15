@@ -29,7 +29,7 @@
   
   {%- unless include.hide_content -%}
     <div class="post_content">
-      {{ post.content }}
+      {{ post.content | markdownify }}
     </div>
   {%- endunless -%}
   
