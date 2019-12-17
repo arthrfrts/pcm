@@ -74,6 +74,6 @@ Já que falamos em Guimarães Rosa, talvez seja interessante aproveitar a carona
 
 _A João Guimarães Rosa_ (Marcelo Tassara, 1968):
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/150x97qZQvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/150x97qZQvI"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Você pode ler [_A Terceira Margem do Rio_](https://www.aedi.ufpa.br/parfor/letras/uploads/documentos/ativ-a-dist-jan-fev2014/CASTANHAL/castanhal-2010-010/guimaraes%20rosa%20-%20a_terceira_margem_do_rio-3.pdf).

@@ -19,7 +19,7 @@ Não me entenda mal: eu sou um dos grandes defensores da primeira temporada de _
 
 _The Leftovers_ manteve suas qualidades nesse ano, e foi além. Mudando de tom completamente, simplificando sua estrutura e escolhendo melhor os dramas no qual se focar, a série de Lindelof encontrou o ritmo certo, e quase perfeito. Observe, por exemplo, como acerta muito mais com uma nova vinheta (e compare-a com [a da primeira temporada](https://youtu.be/3PTNHQND6MA)):
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rLSH-81yT7s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rLSH-81yT7s"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 É uma mudança drástica no tom da série de modo geral, mas não muda o comportamento de seus personagens — isso é deixado para a narrativa. _The Leftovers_ se passa alguns meses após os eventos do último episódio da primeira temporada, quatro anos após a “Súbita Partida”. Kevin, Nora e Jill se mudam para uma nova cidade, no interior do Texas. _The Leftovers_ ainda se preocupa com os questionamentos existenciais de antes, mas agora dá espaço não só para o drama e a agonia dos seus personagens. Há também um pouco de esperança, e até mesmo alegria.
 
@@ -27,4 +27,4 @@ Por mais estranho que possa parecer, _The Leftovers_ é um show sobre o pós-pó
 
 _The Leftovers_ entra para um panteão de séries como _Six Feet Under_, _Enlightened_, _United States of Tara_ e _The Wire_, séries que usavam anedotas para tratar de dramas humanos de maneira indireta — e alcançar, assim, uma jornada quase espiritual, emblemática, sobre o que somos. _The Leftovers_ deixou de ser um drama com um mistério a ser desvendado e amadurecer para um drama em que o mistério pouco importa. Ele provavelmente continuará sendo a incógnita que sempre será, já que é justamente a busca pelas respostas que faz a vida daqueles personagens girar.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/GEeO11H9fmU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/GEeO11H9fmU"  allow="autoplay; encrypted-media" allowfullscreen></iframe>

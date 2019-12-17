@@ -14,12 +14,12 @@ Eis que em uma tarde tediosa de exploração pelo incrível mundo da internet,
 
 A primeira música que eu ouvi foi “Come to me”, que talvez não seja a melhor de todas, mas pra mim vai sempre ter aquele sentimento nostálgico de primeira vez. Espero que seja uma descoberta tão incrível pra vocês, quanto foi pra mim.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/q3Wm5pV30tc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/q3Wm5pV30tc"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 As músicas do primeiro álbum, intitulado “Lily and Madeleine” são de uma beleza muito singular. Não é um tipo de música pra sair dançando por aí (não esperam ouvi-las em uma festa), todas as 12 músicas que compõe o primeiro trabalho da dupla têm um tom melancólico, e são de uma delicadeza pura e cheia de ingenuidade. Daquelas músicas que mais parecem um carinho, sabe? E não poderia existir definição melhor para este álbum.
 
 O segundo álbum “Fumes” tem o lançamento previsto para o dia 28 de outubro (e eu já não aguento mais de tanta ansiedade), e até agora foi revelado apenas uma música, que exerce muito bem o seu papel na função ‘gostinho de quero mais’. “The wolf is free”, segue a mesma linha do primeiro trabalho, porém, sem nem um pouco de ingenuidade, arrisco ate a dizer que a música beira o sensual, uma sensualidade sutil que acompanha muito bem a evolução das irmãs como artistas.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/iStHZStfWqM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/iStHZStfWqM"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Eu ainda não achei um adjetivo que traduza o quanto eu admiro o trabalho delas, mas se tivesse que descrevê-las em uma frase, diria que _Lily and Madeleine_ é como uma xícara de chá quente em uma tarde fria de inverno.

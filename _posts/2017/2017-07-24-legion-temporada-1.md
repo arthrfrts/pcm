@@ -18,7 +18,7 @@ Os X-Men sempre foram plurais. [Existem muitos](https://en.wikipedia.org/wiki/Li
 
 Centrada em David Haller, o Legião, interpretado aqui pelo Dan Stevens (que está em aproximadamente 170% dos filmes esse ano), a série é tão única quanto seu personagem. Criada pelo mesmo showrunner da antologia _Fargo_, Noah Hawley, _Legion_ usa das especificades de um dos X-Men mais legais pra fazer uma série igualmente cheia de especificidades.
 
-<iframe src="https://player.vimeo.com/video/208238174" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/208238174" width="640" height="360"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Essa primeira temporada de _Legion_, pra ter uma ideia, se passa quase toda dentro da cabeça de David Haller. E a gente precisa ficar desvendando o que é realidade e o que é invenção das múltiplas mentes que habitam o cérebro do Legião. Acredite: a série é divertidíssima, e tem algumas das cenas mais legais do ano (em um ano com _Twin Peaks_ cada vez mais… únicos… é algo a se considerar).
 

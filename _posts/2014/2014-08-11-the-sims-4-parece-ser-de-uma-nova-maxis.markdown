@@ -48,7 +48,7 @@ Pois agora estou eu aqui experimentando o novo Criar um Sim (chamado amigavelmen
 
 Essas novas importâncias são elementos que priorizam algo que a Maxis parece estar ensaiando há algum tempo. Criar um ambiente híbrido para jogadores aficionados por estatísticas e números e no gerenciamento destes; mas também criar uma nova experiência rica em momentos e sentimentos para se contar uma nova história, e é nessa última que The Sims 4 está sendo construído. Ao Criar Um Sim, você não precisa mais ficar horas rolando barras para escolher traços de sua personalidade, você seleciona um desejo e três aspirações que o ajudarão a traçar um caminho para atingí-lo. É uma maneira mais direta de lidar com a vida, mas também é uma maneira mais divertida e também respeitosa.
 
-<iframe src="https://www.youtube-nocookie.com/embed/pZmtGfTj-to" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/pZmtGfTj-to"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The Sims, por mais que sempre tenha sido um jogo polêmico por permitir relacionamentos homoafetivos, crises de depressão e poligamia desde antes de até mesmo os filmes se sentirem confortáveis em exibí-los (“nossa comunidade é ampla e precisamos tratá-la com respeito”, diz um dos produtores), é antes de tudo uma ferramenta para simular vidas e vê-las em situações improváveis e ver não só o comportamento dos seres virtuais, mas de seus criadores em relação a tudo aquilo. É a questão da ficção científica: criamos seres para que eles possam questionar o deus deles, bem como fazemos com os nossos.
 

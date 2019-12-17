@@ -14,7 +14,7 @@ _Westworld_, baseada no filme de 1973 escrito e dirigido por Michael Crichton, n
 
 Nisso, somos apresentados a Dolores, Maeve e Teddy, os três proeminentes androides do parque; e Ford, Therese e Bernard, que estão no outro lado do espelho, construindo e operando o parque. Com o decorrer da temporada, vamos ver a linha que separa os humanos dos robôs ficar cada vez mais tênue e difusa (durante o arco da série, teorias sobre quem realmente era humano ou robô atiravam pra todo o lado — uma delas acertou).
 
-<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/z7_CW4Rjt-0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/z7_CW4Rjt-0"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Westworld_, não se engane, é um blockbuster da HBO com tudo o que tem direito: muita nudez, algum sexo, bastante sangue e esquartejamento pra lá e pra cá. Porém a série parece determinada em usar esses elementos (que parecem até assinatura do canal) de alguma forma para enriquecer a própria discussão. “Esses prazeres violentos têm fins violentos”, os robôs citam uns para os outros. Retirado de _Romeu & Julieta_, a frase resume a ordem que rege o parque de Westworld. Aquelas criaturas, criadas pelo humano a sua imagem e semelhança, há muito já superaram seus criadores — mas continuam sendo usados por eles para satisfazer os mais cruéis dos desejos. Falta a eles, _Westworld_ sugere, a consciência.
 

@@ -31,4 +31,4 @@ Mas, olhando para a sexta temporada agora, com certa distância, é certeiro fal
 
 Porque _Community_ quer que você siga em frente, assim como ela percebeu que precisava mudar pra continuar. Ela estará lá quando você sentir falta. Mudar é inevitável, seja para nós ou para séries. Nós podemos ter tudo, só não podemos ter tudo para sempre.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/STYxQ7s0lZg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/STYxQ7s0lZg"  allow="autoplay; encrypted-media" allowfullscreen></iframe>

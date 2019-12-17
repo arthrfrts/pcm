@@ -26,7 +26,7 @@ Então, pra começar o ano, vamos ver o que a gente tá mais empolgado pra ver, 
 
 ## 5. Pra ver nos cinemas: _Alien: Covenant_.
 
-<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/5incfB5jHWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/5incfB5jHWU"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Alien, O Oitavo passageiro_, o de 1979, é um dos meus filmes favoritos. Caramba, como eu amo aquele filme. É a mistura perfeita do terror com a ficção científica e tem a Sigourney Weaver como a Ripley, uma das minhas personagens favoritas do cinema.
 
@@ -49,7 +49,7 @@ Seja como for, _Peanuts Completo_ é um conjunto da obra. Não só o conteúdo �
 
 ## 3. Pra ouvir: o novo álbum do The xx.
 
-<iframe src="https://open.spotify.com/embed/track/5CPqOpKSk0QcJ3dGdaWcRB" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5CPqOpKSk0QcJ3dGdaWcRB" width="300" height="380"  allowtransparency="true" allow="encrypted-media"></iframe>
 
 O The xx trabalha devagar, e eu não tenho nenhum problema com isso. Com um debut excelente com _[xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz)_ e um retorno com _[Coexist](https://open.spotify.com/album/2cRMVS71c49Pf5SnIlJX3U)_, o The xx não só já mostrou seu estilo como também se mostrou capaz de explorá-lo. E, pelo que a gente pode perceber com “On Hold” (acima), eles estão prontos pra seguir em frente.
 
@@ -59,7 +59,7 @@ Não temos previsão pra quando o novo do trio vai chegar, mas o The xx diz que 
 
 ## 2. Pra jogar: _The Legend of Zelda: Breath of the Wild_.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1rPxiXXxftE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1rPxiXXxftE"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Não só [a maior fila da história da E3](http://www.polygon.com/e3/2016/6/15/11948622/legend-of-zelda-breath-of-the-wild-e3-line), superando o antigo detentor da façanha (o Wii, também da Nintendo, em 2006), _The Legend of Zelda: Breath of the Wild_ é o jogo mais esperado do ano: o primeiro — e, provavelmente, último — jogo da série para Wii U, e o jogo de abertura pro novo [Switch](https://youtu.be/f5uik5fgIaI); uma aventura Zelda inédita em seis anos; e **tá tudo absurdamente lindo**.
 
@@ -69,7 +69,7 @@ Depois de décadas sendo (inclusive ainda é) parâmetro de cópias para qualque
 
 ## 1. Pra ver na TV: _The Leftovers_, terceira temporada.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SabBKLuebSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SabBKLuebSo"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Com o blockbuster _Westworld_ finalmente lançando esse ano, e com _Game of Thrones_ atrasando pro segundo semestre de 2017, a HBO deu um ano sabático para _The Leftovers_, simplesmente [o melhor de 2015](/os-melhores-de-2015.html) pelo :bread:. A gente mal consegue esperar.
 

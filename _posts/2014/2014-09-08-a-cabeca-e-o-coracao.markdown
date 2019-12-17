@@ -17,4 +17,4 @@ Se você viu How I Met Your Mother, Chuck ou o filme O Lado Bom da Vida, provave
 
 Nesse primeiro álbum, que é todo bom, eu recomendo _Ghosts_, _Down in the Valley_, e _Sounds Like Hallelujah_.
 
-<iframe src="https://open.spotify.com/embed/album/490NgrGvR5PX8hWK6bUNsy" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/490NgrGvR5PX8hWK6bUNsy" height="380"  allowtransparency="true" allow="encrypted-media"></iframe>

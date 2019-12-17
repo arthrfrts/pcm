@@ -13,7 +13,7 @@ Eu sou uma das seis pessoas no planeta que não gosta de _Primer_, o primeiro lo
 
 E parece que a história ia se repetir quando eu assisti _Upstream Color_ pela primeira vez. Eu não detestei, mas eu [achei um saco](https://umfilmeumdia.wordpress.com/2013/10/10/upstream-color-2013/). O problema, porém, foi depois. Desde 2013, quando eu vi ele pela primeira vez, _Upstream Color_ não saiu da minha cabeça. Daí, em dezembro do ano passado, eu decidi dar uma chance pra ele de novo.
 
-<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/5U9KmAlrEXU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/5U9KmAlrEXU"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 _Upstream Color_ é uma ficção científica, mas também uma história de amor: Kris, que é drogada e infectada por um ser misterioso e acaba sendo roubada por um Ladrão; e Jeff, um corretor que também é infectado por esse ser. A partir daí, eles se encontram e tentam decifrar o que aconteceu com eles, e essa busca é uma jornada emocionante por um intrincado labirinto que Carruth criou para seus personagens, e os guia com precisão e fascínio.
 

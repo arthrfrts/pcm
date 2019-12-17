@@ -22,7 +22,7 @@ Vamos começar?
 
 ## 5. O melhor álbum: _Lemonade_.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/LrCHz1gwzTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/LrCHz1gwzTo"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Que Beyoncé está colocando seu plano de dominação mundial em prática, todo mundo já sabe, mas o que a gente podia não esperar é que seu próximo passo fosse algo tão grandioso e pessoal como seu novo “álbum visual”, _Lemonade_.
 
@@ -63,7 +63,7 @@ _High Maintenance_ (HBO); _The Night Of_ (HBO); _Insecure_ (HBO); _Atlanta_ (FX)
 
 ## 2. O melhor filme: _Aquarius_.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/VB-5rodvHUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/VB-5rodvHUc"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Não existe nada tão monumental como _Aquarius_ no cinema esse ano. Foda-se, sinceramente, sua visão política. Quando um filme é tão bem dirigido, escrito, atuado, fotografado, sonorizado e montado como _Aquarius_, em que a linguagem cinematográfica tá tão plenamente na tela, presente para o espectador, é impossível negar: _esse é um dos grandes filmes do cinema_.
 

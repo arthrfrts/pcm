@@ -17,7 +17,7 @@ Lançado em 2014, depois de um bocado de dor de cabeça e de uma briga ferrenha 
 
 _A Imigrante_ é, como todo o grande filme, lindo. O desenho de produção é soberbo, e cada cenário e cada figurino vibra com vida. É nos detalhes que os anos 1920 ganham vida. Os confetes pregados nas roupas das apresentações. O sentimento de purgatório que assola a Ilha Ellis, o fetichismo das grandes roupas. Mas _A Imigrante_ é grande mesmo em sua história. Ele é _repleto_ de história, em cada uma das esquinas da cinzenta e implacável Nova York dos anos 1920. Ewa conhece Bruno, um homem que oferece a ela o emprego como dançarina em um vaudeville como pagamento para tirar Magda do hospital. Ewa eventualmente descobre que as intenções de Bruno são outras, e precisa fugir não só dele como do implacável sistema americano — que revela que o sonho de liberdade é repleto de poréns.
 
-<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/3bdLWoomD9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/3bdLWoomD9A"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ao dar o nome de _A Imigrante_ ao seu filme, Gray soa definitivo. E o filme é. As excelentes atuações da Marion Cottilard (vencedora do Oscar por sua atuação em _Piaf: Um Hino Ao Amor_) e de Joaquin Phoenix (do excelente [Ela]({%- post_url 2016/2016-02-24-ela -%})) trazem uma delicadeza nos costumes da época, mas Gray tem seu maior sucesso em tornar _A Imigrante_, esse filme de uma época tão demarcada, em algo urgente.
 

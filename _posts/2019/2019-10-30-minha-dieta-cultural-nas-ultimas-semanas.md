@@ -44,12 +44,12 @@ Eu tenho uma categoria na minha lista de leituras no Pinboard chamada “alguém
 ### Séries
 
 {: .full-width }
-<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/mvC2FEnkY0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/mvC2FEnkY0w"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Além de _Watchmen_, que eu tô apaixonado, e de rever _Gilmore Girls_ diariamente pra manter a minha saúde mental intacta nesse mundo, eu terminei [_The Deuce_](https://www.hbogo.com.br/content/d76463ec-8b56-11e7-80ea-0050569a010f) (HBO Go) ontem. Uma das melhores séries que eu já vi no último ano, é uma jornada pela história do início da indústria de filmes pornográficos na Nova York dos anos 70 e 80. É pesada, como as outras séries do David Simon (_The Wire_, _Treme_), mas vale cada segundo. (Não tem tanto James Franco quanto o material publicitário vende, o que é sempre bom pra saúde).
 
 {: .full-width }
-<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/bagwg_tXlhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/bagwg_tXlhc"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu também tô assistindo [_Forever_](https://www.primevideo.com/detail/0TVNJJQYMZMNZAQADQK4H4I2VG/ref=atv_hover_title) (Prime Video), uma comédia com Maya Rudolph e Fred Armisen sobre um casal que vive uma vida bem pacata, até que tudo muda (em uma surpresa boa demais pra estragar aqui) e eles começam a questionar sua rotina e o casamento. É muito boa, e como boa parte das “comédias” nessa década, é cheia daqueles momentos silenciosos e tristes sobre o vazio da existência. Uma pena que foi cancelada. :(
 
@@ -64,7 +64,7 @@ Aí vai um segredo que meus amigos da faculdade de cinema não podem saber: eu n
 Mas enfim, eu vi algumas coisas que eu gostei muito nas últimas semanas. O melhor deles foi um curta que vi no MUBI, _…À Valparaiso_. Ele já saiu do serviço mas ei, olha quem eu achei no YouTube:
 
 {: .full-width }
-<iframe width="695" height="521" src="https://www.youtube-nocookie.com/embed/_qH5-d7SVX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="695" height="521" src="https://www.youtube-nocookie.com/embed/_qH5-d7SVX4"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Meu amigo Leo me recomendou [_De Olhos Bem Fechados_](https://br.hbogola.com/content/74c11cd6-5a64-464e-b71d-ef4447fd0a31) (HBO Go), o último filme do diretor Stanley Kubrick, um cara que eu não gosto muito (sem piada), mas esse filme é fantástico e levemente perturbador. Recomendo muito.
 

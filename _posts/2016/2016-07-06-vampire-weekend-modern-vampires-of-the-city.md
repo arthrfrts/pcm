@@ -14,7 +14,7 @@ E _Contra_, seu álbum anterior, era sobre eles se aceitarem, e buscarem aqueles
 
 Dá pra confirmar isso até nos shows. Por mais que _Contra_ e o _Vampire Weekend_ fossem bons, era simplesmente sofrível assistir a performance ao vivo de Ezra Koenig. Com _Modern Vampires of the City_ a banda não só amadureceu, como explodiu. O próprio Koenig parece mais confortável com isso. E muito se sente na música. Repare em “Unbelievers”, a música mais parecida com aquilo que vimos anteriormente no Vampire Weekend.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/2b1GgT07aes" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/2b1GgT07aes"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Há ali o tom rápido e brincalhão, mas ele está ligeiramente diferente. Parece que o Vampire Weekend não se interessa mais em fazer aquela música divisiva que era sua marca logo na estreia. Eles encontraram na sutileza de faixas como “Everlasting Arms” e “Don't Lie”, contando para nós as fábulas cotidianas da banda, como em “Finger Back”, “Hudson” e “Step”. Mesmo com explosões melódicas de “Diane Young” ou na própria “Unbelievers”, sentimos a diferença.
 

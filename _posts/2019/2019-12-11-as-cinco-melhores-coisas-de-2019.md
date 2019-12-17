@@ -45,7 +45,7 @@ A gente se vê na próxima quarta, com uma lista muito especial pra fechar o ano
 
 ## O melhor disco: _Remind me Tomorrow_ (Sharon van Etten)
 
-<iframe src="https://open.spotify.com/embed?uri=spotify%3Aalbum%3A2dvXk4nacVRmDSnbKniwrS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify%3Aalbum%3A2dvXk4nacVRmDSnbKniwrS" width="300" height="380"  allowtransparency="true" allow="encrypted-media"></iframe>
 
 Eu não sei escrever sobre música, então deixo aqui [o texto de Cleber Facchi](http://miojoindie.com.br/critica-remind-me-tomorrow-sharon-van-etten/), do Miojo Indie, sobre o meu disco favorito desse ano:
 
@@ -63,7 +63,7 @@ Eu não sei escrever sobre música, então deixo aqui [o texto de Cleber Facchi]
 
 ## O melhor filme: _Pássaros de Verão_ (Ciro Guerra e Cristina Gallego, 2018)
 
-<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/QV0uWf72ZQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/QV0uWf72ZQw"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vários dos meus diretores favoritos voltaram com filmes excelentes em 2019. O Karim Aïnouz trouxe _A Vida Invisível_, um dos filmes mais lindos que eu já vi; James Gray realizou meus sonhos com _Ad Astra_; Martin Scorsese faliu a Netflix com o magnífico _O Irlandês_ (e tem o _La Flor_, que eu não coloquei aqui, que merece um destaque à parte um dia desses).
 
@@ -81,7 +81,7 @@ O melhor filme que eu vi esse ano, porém, foi uma aposta. Eu amo _O Abraço da 
 
 ## O melhor jogo: _The Touryst_ (Shin'en Multimedia, Nintendo Switch)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lSQD5xJeXpk?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lSQD5xJeXpk?controls=0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu joguei poucos jogos grandes em 2019. Com o [Apple Arcade]({% post_url 2019/2019-12-04-os-dez-melhores-jogos-do-apple-arcade %}) e os indies atacando o Nintendo Switch, eu passei muito do meu tempo nos últimos meses jogando experimentos estranhos de desenvolvedoras pequenas. Só semana passada que tive a chance de passar umas horas com o _Death Stranding_ no PS4 da minha irmã, por exemplo.
 
@@ -99,7 +99,7 @@ Mesmo assim, nenhum outro jogo me ofereceu algo tão bacana como _The Touryst_. 
 
 ## A melhor série: _Succession_ (segunda temporada, HBO)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/77PsqaWzwG0?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/77PsqaWzwG0?controls=0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Que ano pra TV, hein? Em 2017 eu ficava empolgado com quanta coisa boa tinha pra assistir na TV. Esse ano, tem tanta coisa pra assistir que é difícil não se sentir oprimido pelo número de opções, mas também tá muito fácil de achar séries fenomenais. Eu nunca achei que ia assistir algo tão… perfeito? quanto a segunda temporada de _Fleabag_; ou veria uma observação tão bem feita do colapso do ser humano quanto em _Chernobyl_; e é totalmente injusto a HBO entregar uma das melhores séries da década nas últimas semanas do ano (ei, _Watchmen_).
 
