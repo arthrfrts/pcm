@@ -295,7 +295,7 @@ _Elizabeth Moss em Mad Men._
 
 **Livro:** _O segundo sexo_ (Simone de Beauvoir - relançamento em 2016 pela Nova Fronteira).
 
-<iframe width="806" height="453" src="https://www.youtube.com/embed/WDZJPJV__bQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/WDZJPJV__bQ"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Videoclipes:**
 - _Formation_ (Beyoncé) (acima)
@@ -325,7 +325,7 @@ _Elizabeth Moss em Mad Men._
 
 **Episódio de série documental:** _Asma Khan_ (_Chef's Table_)
 
-<iframe width="695" height="521" src="https://www.youtube.com/embed/oD4ap_0wRAY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="695" height="521" src="https://www.youtube-nocookie.com/embed/oD4ap_0wRAY"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Melhor abertura de série:**
 - _True Blood_ (HBO) (acima)
