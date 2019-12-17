@@ -157,6 +157,8 @@ Fui ficando boa no jogo. Trazendo novos amigos pra jogar juntos. Até um videoga
 Nenhum jogo chegou a esse nível. Nenhum jogo me fez acompanhar história de personagem. Atualizações constantes. Jogar os eventos até o fim. Acompanhar o campeonato mundial! Sim, eu virei essa pessoa.
 Atualmente não tenho mais videogame, e de todos os jogos que acumulei nos últimos 8 anos com consoles, somente um faz falta. _Overwatch_.
 
+***
+
 ## [Guilherme Bragança](/autor/guilhermeb/)
 
 {: .full-width}
@@ -259,7 +261,7 @@ _Elizabeth Moss em Mad Men._
 - [_Black Mirror_](https://www.netflix.com/title/70264888) (Channel 4/Netflix, 2011–)
 - [_True Detective_](https://www.hbogo.com.br/content/c73b93b6-9a8a-42ea-ab88-db4a76db16b9) (HBO, 2014–)
 - [_Brooklyn Nine-Nine_](https://www.netflix.com/title/70281562) (Fox/NBC, 2013–)
-- https://www.netflix.com/title/80100172 (Netflix, 2017–)
+- [_Dark_](https://www.netflix.com/title/80100172) (Netflix, 2017–)
 
 **Episódios de série:** 
 
