@@ -165,36 +165,45 @@ Atualmente não tenho mais videogame, e de todos os jogos que acumulei nos últi
 ![Representação das ondas gravitacionais que são geradas na colisão de buracos negros]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/ondas-gravitacionais.jpeg -%})
 _Pelo que eu entendi isso é uma representação do que acontece quando dois buracos negros se chocam, mas pergunte pro Guilherme pra ter certeza._
 
-**Séries:**
-- [_Twin Peaks: The Return_](https://www.netflix.com/title/80095712) (Showtime, 2017)
-- _Mac Finds His Pride_ (_It's Always Sunny in Philadelphia_ 13x10, 2018)
-- _Nathan For You_ (Comedy Central, 2013–2017)
-- [_JoJo's Bizarre Adventure_](https://www.crunchyroll.com/pt-br/jojos-bizarre-adventure) (Netflix, 2012–2019)
+**[_Twin Peaks: The Return_](https://www.netflix.com/title/80095712) (Showtime, 2017).** Eu já vou jogar aqui de primeira o mais importante. _Twin Peaks: The Return_, ou _Twin Peaks season 3_, ou _Twin Peaks season 1_ (pelo amor de deus Netflix ARRUMA ISSO), foi minha coisa favorita dos anos 10. Não estaria usando hipérbole se dissesse que foi o pedaço de mídia audiovisual mais incrível que degustei na vida.
 
-**Jogos:**
-- _Red Dead Redemption_, 1 e _2_ (Rockstar Games, 2010/2018)
-- _Metal Gear Solid V: The Phantom Pain_ (Konami, 2015)
-- _Kingdom Hearts 3_ (Square Enix, 2019)
-- _Kerbal Space Program_ (Squad, 2011)
-- _The Legend of Zelda: Breath of the Wild_ (Nintendo, 2017)
-- _Dark Souls_ (FromSoftware, 2011)
-- _Fallout: New Vegas_ (Obsidian, 2010)
-- _Final Fantasy XIV_ (Square Enix, 2013)
-- Nintendo Switch
+**_Red Dead Redemption_, 1 e _2_ (Rockstar Games, 2010/2018).** Eu não conseguiria montar um top 10 games favoritos mas certamente consigo um top 3; _RDR_[^1] estaria em segundo lugar nessa lista (o primeiro lugar seria _Metal Gear Solid 2_ mas ele é da década passada). 
 
-**Links:**
-- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
-- [Kurzgesagt](https://kurzgesagt.org)
+**_Metal Gear Solid V: The Phantom Pain_ (Konami, 2015).** O último jogo da franquia _Metal Gear_ (vamos fingir que _Survive_ não existiu) deixou um gosto meio amargo na boca dos fãs quando todos os escândalos envolvendo Kojima e a Konami explodiram, porém, vendo o produto como ele é, ainda sim é um jogo fantástico.
 
-**Leituras:**
+**_Kingdom Hearts 3_ (Square Enix, 2019).** Deus do céu eu esperei 14 anos pra ver [um minigame com o _Ratatouille_](https://www.youtube.com/watch?v=K-WG0kp9XIg) e valeu completamente a pena.
 
-- [Detecção de ondas gravitacionais](https://www.scientificamerican.com/article/gravitational-waves-discovered-from-colliding-black-holes1/)
-- O final de _Boa Noite PunPun_ (Inio Asano, 2013)
+**_Mac Finds His Pride_ (_It's Always Sunny in Philadelphia_ 13x10, 2018)**. _It's Always Sunny_ está junto com _Seinfeld_ entre minhas séries de comédia favoritas mas como ela é de 2005 não irei contar como algo dos anos 10, porém vou colocar o último episódio da décima terceira temporada, que saiu em 2018, na lista pois é lindo demais.
 
+**_Nathan For You_ (Comedy Central, 2013–2017)**. Nathan é um cara que quer se conectar com pessoas, e para isso ele usa seu programa de TV com ideias absurdas para melhorar negócios.
 
-**Filmes:**
-- _Shin Godzilla_ (Hideaki Anno e Shinji Higuchi, 2016)
-- [_Mad Max: Estrada da Fúria_](https://itunes.apple.com/br/movie/mad-max-4-fury-road/id990549112) (George Miller, 2015)
+**[Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA).** Os anos 10 foram anos incríveis para a educação científica, e o YouTube ajudou muito nisto. Michael, do _Vsauce_, é um dos grandes educadores que surgiram no site e os vídeos dele nos fazem ter grandes reflexões da vida e universo com assuntos mais banais.
+
+**[Kurzgesagt](https://kurzgesagt.org)**. Assim como _Vsauce_, _Kurzgesagt_ educa de formas fantásticas mas usando desenhos lindos de patos.
+
+**_Shin Godzilla_ (Hideaki Anno e Shinji Higuchi, 2016)**. Escrito e dirigido por Hidaeki Anno (o criador de _Neon Genesis Evangelion_), _Shin Godzilla_ é meio que um reboot do personagem (e contando que as versões americanas nem existem). 
+
+**[_Mad Max: Estrada da Fúria_](https://itunes.apple.com/br/movie/mad-max-4-fury-road/id990549112) (George Miller, 2015)**. Esse aqui foi o filme que uniu a tribo dos cinélifos e os ~normies.
+
+**_Kerbal Space Program_ (Squad, 2011).** _Kerbal_ é uma ótima representação do método científico, que é a tentativa e erro (muitos erros).
+
+**_The Legend of Zelda: Breath of the Wild_ (Nintendo, 2017)**. Se eu não colocasse esse aqui provavelmente o Arthur iria me bater.
+
+_(Nota do editor: Sim)_
+
+**_Dark Souls_ (FromSoftware, 2011).** _Dark Souls_ não é meu jogo favorito da década mas certamente ele foi **O** jogo da década, ele formou o _zeitgeist_ dos anos 10 onde jogos começaram a apresentar multiplayer mais passivo, lore com pouca exposição e um desdém pelo jogador.
+
+**[Detecção de ondas gravitacionais](https://www.scientificamerican.com/article/gravitational-waves-discovered-from-colliding-black-holes1/)**. Essa aqui foi importante pois é minha área de estudo, ondas gravitacionais foram teorizadas por Einstein mais de 100 anos atrás e em 2019 finalmente foram detectadas. Agora astrônomos tem um novo método de observar o universo, elas foram para nós o que _The Jazz Singer_ foi para o cinema (menos o racismo).
+
+**[_JoJo's Bizarre Adventure_](https://www.crunchyroll.com/pt-br/jojos-bizarre-adventure) (Netflix, 2012–2019)**. Homens bombados fazendo poses. Só isso mesmo.
+
+**_Fallout: New Vegas_ (Obsidian, 2010)**. O terceiro lugar no meu top 3 jogos favoritos e o motivo do meu ódio pela Bethesda por estar completamente cagando para ele.
+
+**Nintendo Switch**. O Switch foi o terceiro console Nintendo que tive na vida, antes dele tive um GameBoy Color e o SNES, no momento que liguei o meu pela primeira vez pensei comigo “ok, esse foi o melhor eletrônico que já comprei na vida”.
+
+**_Final Fantasy XIV: A Realm Reborn_ (Square Enix, 2013)**. Esse aqui foi uma das maiores histórias de superação na indústria dos games, o jogo começou com tantos problemas de bugs e gameplay que [resolveram simplesmente aniquilar](https://www.youtube.com/watch?v=YgEg8kXmifo) o mundo todo e começar de novo em A_ Realm Reborn_. Para mim ele é o melhor MMORPG já feito então podem cancelar todos os outros (estou olhando para você, _WoW Classic_).
+
+**O final de _Boa Noite PunPun_ (Inio Asano, 2013)**. Tem duas coisas no mundo que me fazem chorar 100% das vezes: cachorros sofrendo e o volume final de _Boa Noite PunPun_.
 
 ***
 
@@ -360,3 +369,6 @@ Dez anos depois, muita coisa mudou no mundo. É fácil um álbum sobre sentir sa
 **_The Leftovers_ (HBO, 2014–2017)**. A sinopse oficial da series finale de _The Leftovers_ é “Nada é respondido. Tudo é respondido. E então acaba”. Para uma série que se preocupava em enxergar as maiores perguntas possíveis (qual o sentido de tudo, o que há depois da morte, existe uma força maior?), essa é uma sinopse capaz de gerar grandes expectativas e muita decepção, algo que é comum para o criador da série, Damon Lindelof (de _Lost_ e da adaptação de _Watchmen_ para a HBO). Mas, quer saber? Ela é perfeita. Não só para a finale, mas para a série inteira. Em suas três temporadas, _The Leftovers_ criou uma experiência em que o espectador não espera por nada porque não sabe o que esperar, e fica contente com aquilo que vier. Seria fácil seguir o caminho simples, entregar qualquer coisa que viesse à cabeça dos roteiristas e deixar assim, mas _The Leftovers_ entrega tudo, inclusive respostas. E então acaba. Foi a experiência emocional mais forte que tive nesses dez anos, uma montanha russa entre a depressão, a euforia, a íntima felicidade e, finalmente, um certo tipo de paz. _The Leftovers_ foi a série que perguntou as maiores perguntas possíveis, e me ensinou a não me apavorar com a falta de respostas, mas aceitar que a beleza da vida é correr atrás delas até o final.
 
 Eu escrevi sobre _The Leftovers_ em 2015, [sobre a segunda temporada](/2015/12/the-leftovers-segunda-temporada/), e em 2017, [sobre a última](/2017/09/the-leftovers-s03/).
+
+
+[^1]: Vou contar os dois jogos como um pois não consigo escolher o melhor entre eles
