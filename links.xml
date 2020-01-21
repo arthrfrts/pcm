@@ -11,8 +11,10 @@
     <name>{{- site.title -}}</name>
   </author>
   <id>{{- page.url | absolute_url -}}</id>
+  
+  {%- assign notes = site.notes | sort: "date" | reverse -%}
 
-  {% for note in site.notes -%}
+  {% for note in site.notes limit: 12 -%}
     <entry>
       <title>{{- note.content | strip_html | strip_newlines | normalize_whitespace -}}</title>
       <id>{{- note.permalink -}}</id>

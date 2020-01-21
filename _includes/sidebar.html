@@ -4,7 +4,9 @@
       <h4>Rapidinhas</h4>
       
       <ul>
-        {%- for note in site.notes -%}
+        {%- assign notes = site.notes | sort: "date" | reverse -%}
+        
+        {%- for note in notes limit: 6 -%}
           <li><a href="{{- note.permalink -}}" rel="bookmark">{{- note.content | remove: "<p>" | remove: "</p>" -}}</a></li>
         {%- endfor -%}
       </ul>
