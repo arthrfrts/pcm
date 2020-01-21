@@ -12,7 +12,7 @@ logo: "/assets/images/logo.png"
 timezone: America/Sao_Paulo
 
 collections:
-  links:
+  notes:
     output: false
   authors:
     output: true

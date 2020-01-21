@@ -1,11 +1,11 @@
 <aside class="sidebar">
-  {%- if site.links.size > 0 -%}
+  {%- if site.notes.size > 0 -%}
     <section class="links">
       <h4>Rapidinhas</h4>
       
       <ul>
-        {%- for link in site.links -%}
-          <li><a href="{{- link.permalink -}}" rel="bookmark">{{- link.content -}}</a></li>
+        {%- for note in site.notes -%}
+          <li><a href="{{- note.permalink -}}" rel="bookmark">{{- note.content | remove: "<p>" | remove: "</p>" -}}</a></li>
         {%- endfor -%}
       </ul>
       
