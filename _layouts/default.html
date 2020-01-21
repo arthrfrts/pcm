@@ -20,10 +20,10 @@
       
       {%- include_cached footer.html -%}
     </div>
-    <script type="text/javascript" src="{%- link assets/js/jquery.js -%}"></script>
-    <script type="text/javascript" src="{%- link assets/js/scripts.js -%}"></script>
+    <script name="vendor-jquery" src="{%- link assets/js/jquery.js -%}"></script>
+    <script name="site-scripts" src="{%- link assets/js/scripts.js -%}"></script>
     {%- if content contains "#disqus_thread" -%}
-    <script id="dsq-count-scr" src="//paomortadela.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" async src="//paomortadela.disqus.com/count.js"></script>
     {%- endif -%}
     
     {%- if jekyll.environment == "production" -%}
