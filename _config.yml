@@ -32,6 +32,7 @@ paginate_path: "/p:num/"
 
 include:
   - _redirects
+  - _headers
   
 keep_files:
   - ads.txt
