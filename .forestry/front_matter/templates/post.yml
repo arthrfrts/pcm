@@ -5,18 +5,35 @@ fields:
 - type: text
   name: layout
   label: layout
+  config:
+    required: true
+  default: post
+  hidden: true
 - type: text
-  name: author
+  name: title
+  label: title
+- name: author
+  type: select
+  default: arthurf
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: authors-a5289e0e-80d2-45b2-a7db-e1cf2e7d1d6e
+      file: _data/authors.yml
+      path: 
   label: author
 - type: datetime
   name: date
   label: date
-- type: text
-  name: title
-  label: title
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
+    source:
+      type: simple
 - type: file
   name: image
   label: image
