@@ -36,7 +36,7 @@ include:
   
 keep_files:
   - ads.txt
-  - assets/img
+  - assets/images
   - assets/js
   - uploads
   
@@ -49,19 +49,19 @@ defaults:
 
 plugins:
   - jekyll-feed
+  - jekyll-menus
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-paginate
-  - jekyll-coffeescript
   - jekyll-include-cache
 
+# SEO
 social:
   name: Pão com Mortadela
   links:
     - https://twitter.com/paomortadela
     - https://www.facebook.com/paomortadela.com.br
-    - https://tinyletter.com/paomortadela
 
 twitter:
   username: paomortadela

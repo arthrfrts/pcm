@@ -12,7 +12,7 @@
           </div>
           
           {%- unless page.layout == "page" -%}
-            {%- include sidebar.html -%}
+            {%- include_cached archives/sidebar.html -%}
           {%- endunless -%}
         </div>
       </main>
@@ -27,7 +27,7 @@
     {%- endif -%}
     
     {%- if jekyll.environment == "production" -%}
-      {%- include analytics.html -%}
+      {%- include_cached components/analytics.html -%}
       <script async await src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {%- endif -%}
   </body>

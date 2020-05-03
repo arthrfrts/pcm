@@ -1,0 +1,10 @@
+main:
+  - title: Arquivo
+    url: "/arquivo/"
+  - title: Newsletter
+    url: "https://tinyletter.com/paomortadela"
+  - title: Colabore
+    url: "/colabore/"
+  - title: Sobre
+    url: "/sobre/"
+

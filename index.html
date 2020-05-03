@@ -3,7 +3,7 @@ layout: default
 ---
 
 {%- for post in paginator.posts -%}
-  {%- include post.html hide_content=true -%}
+  {%- include archives/post.html hide_content=true -%}
 {%- endfor -%}
 
 <nav class="pagination">
@@ -14,5 +14,5 @@ layout: default
     <a href="{{- paginator.next_page_path | relative_url -}}" rel="next">Posts mais antigos &rarr;</a>
   {%- endif -%}
   
-  <a class="archive_link" href="{%- link arquivo.html -%}">(ou visite Os Arquivos)</a>
+  <a class="archive_link" href="{%- link arquivo.html -%}">(ou visite os arquivos)</a>
 </nav>

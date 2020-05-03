@@ -1,0 +1,23 @@
+<nav class="site_menu">
+  {% for menu in site.menus.main %}
+    <a class="menu_item" href="{{- menu.url -}}" {%- if menu.external %} target="_blank" rel="external"{%- endif -%}>
+      {{- menu.title -}}
+    </a>
+  {% endfor -%}
+  
+  {%- if site.social.links -%}
+    {%- for item in site.social.links -%}
+      {% assign service = item | remove: "www." | remove: "https://" | split: "." | first %}
+      {% assign icon = service | append: '.svg' | prepend: 'icons/' %}
+      
+      <a class="menu_item social_link" href="{{- item -}}" rel="external">
+        {%- include {{ icon }} -%}
+      </a>
+      
+    {%- endfor -%}
+  {%- endif -%}
+  
+  <a class="menu_item social_link" href="https://feeds.feedburner.com/paomortadela" rel="alternate">
+    {%- include icons/rss.svg -%}
+  </a>
+</nav>
