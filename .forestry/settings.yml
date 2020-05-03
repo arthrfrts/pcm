@@ -11,7 +11,7 @@ sections:
   - post
 - type: directory
   path: _notes
-  label: Notes
+  label: Links
   create: all
   match: "**/*"
   new_doc_ext: txt
