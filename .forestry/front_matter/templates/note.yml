@@ -29,3 +29,5 @@ fields:
     schema:
       format: markdown
   label: Content
+pages:
+- _notes/2020-05-03-testando-as-notas-pelo-forestry.txt

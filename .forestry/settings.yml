@@ -14,7 +14,7 @@ sections:
   label: Notes
   create: all
   match: "**/*"
-  new_doc_ext: ".txt"
+  new_doc_ext: txt
   templates:
   - note
 - type: jekyll-pages
