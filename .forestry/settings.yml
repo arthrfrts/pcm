@@ -7,20 +7,30 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - post
+- type: directory
+  path: _notes
+  label: Links
+  create: all
+  match: "**/*"
+  new_doc_ext: txt
+  templates:
+  - note
 - type: jekyll-pages
   label: Pages
   create: all
+  templates:
+  - page
+- type: heading
+  label: Authors
 - type: document
   path: _data/authors.yml
   label: Authors
+  read_only: true
 - type: directory
   path: _authors
-  label: Author Archives
-  create: all
-  match: "**/*"
-- type: directory
-  path: _notes
-  label: Notes
+  label: Archives
   create: all
   match: "**/*"
 upload_dir: uploads

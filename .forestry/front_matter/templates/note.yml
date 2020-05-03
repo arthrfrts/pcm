@@ -1,7 +1,7 @@
 ---
-label: Note
-hide_body: true
-display_field: content
+label: Link
+hide_body: false
+display_field: permalink
 fields:
 - name: date
   type: datetime
@@ -20,12 +20,5 @@ fields:
   config:
     required: true
   label: Link
-- name: content
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Content
+pages:
+- _notes/teste.txt
