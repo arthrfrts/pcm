@@ -1,4 +1,31 @@
 ---
 label: Note
-hide_body: false
-fields: []
+hide_body: true
+display_field: content
+fields:
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: h:mm A ZZ
+    display_utc: false
+    export_format: YYYY-MM-DD hh:mm:ss Z
+  hidden: true
+  default: now
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: Link
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
