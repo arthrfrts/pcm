@@ -1,6 +1,7 @@
 ---
 label: Note
 hide_body: false
+display_field: permalink
 fields:
 - name: date
   type: datetime
