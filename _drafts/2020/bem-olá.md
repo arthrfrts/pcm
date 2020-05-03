@@ -2,7 +2,8 @@
 layout: post
 date: 2020-05-03T10:29:54.000+00:00
 author: arthurf
-tags: []
+tags:
+- meta
 title: Bem… olá!
 image: "/uploads/2020/05/03/troy-and-abed.gif"
 excerpt: ''
