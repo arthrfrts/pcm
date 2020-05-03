@@ -1,7 +1,6 @@
 ---
 label: Note
 hide_body: false
-display_field: content
 fields:
 - name: date
   type: datetime
