@@ -1,6 +1,6 @@
 ---
 label: Note
-hide_body: true
+hide_body: false
 display_field: content
 fields:
 - name: date
@@ -20,12 +20,3 @@ fields:
   config:
     required: true
   label: Link
-- name: content
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Content
