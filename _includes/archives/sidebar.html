@@ -41,8 +41,8 @@
         <input type="search" name="q" placeholder="Procure nos arquivos…" />
       </form>
       
-      {%- for menu in site.data.menu -%}
-        <a href="{{- menu.url -}}">{{- menu.title -}}</a>
+      {%- for item in site.menus.main -%}
+        <a href="{{- item.url -}}" {%- if item.external %} target="_blank" rel="external"{%- endif -%}>{{- item.title -}}</a>
       {%- endfor -%}
       
       <a href="https://feeds.feedburner.com/paomortadela" rel="external">Feed RSS</a>
