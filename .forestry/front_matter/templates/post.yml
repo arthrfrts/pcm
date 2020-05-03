@@ -25,7 +25,33 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD hh:mm:ss Z
   default: now
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: author
+  type: select
+  default: arthurf
+  config:
+    required: true
+    options: []
+    source:
+      type: documents
+      section: authors-a5289e0e-80d2-45b2-a7db-e1cf2e7d1d6e
+      file: _data/authors.yml
+      path: 
+  label: Author
 - name: tags
   type: tag_list
   default: []
   label: Tags
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
