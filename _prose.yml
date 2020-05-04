@@ -22,6 +22,15 @@ prose:
     - index.html
     - arquivo.html
   metadata:
+    _notes:
+      - name: date
+        field:
+          element: hidden
+          value: CURRENT_DATETIME
+      - name: permalink
+        field:
+          element: text
+          label: Link
     _posts:
       - name: layout
         field:
