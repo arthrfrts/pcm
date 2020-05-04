@@ -23,6 +23,10 @@ prose:
     - arquivo.html
   metadata:
     _notes:
+      - name: published
+        field:
+          element: hidden
+          value: true
       - name: date
         field:
           element: hidden
