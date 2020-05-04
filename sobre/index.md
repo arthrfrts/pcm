@@ -7,7 +7,7 @@ O Pão com Mortadela era uma webzine de resenhas que se transformou num blog col
 
 (Em outras palavras, nós fazemos o que queremos fazer, como um bom e velho blog).
 
-Saiba como colaborar com o PCM, enviando seu texto ou ajudando no site, [clicando aqui]({% link colabore.md %}). Confira também nossa [política de privacidade]({% link sobre/privacidade.md %}) e nossas regras de [comentários]({% link sobre/comentarios.md %}).
+Saiba como colaborar com o PCM, enviando seu texto ou ajudando no site, [clicando aqui]({% link colabore/index.md %}). Confira também nossa [política de privacidade]({% link sobre/privacidade.md %}) e nossas regras de [comentários]({% link sobre/comentarios.md %}).
 
 ### Publicidade e patrocínio
 
