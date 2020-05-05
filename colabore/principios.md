@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Princrípios Editoriais"
----
+title: Princrípios Editoriais
 
-A ideia inicial do PCM era a de criar um espaço onde amigos pudessem sugerir uns aos outros aquilo que eles consumiam em termos de cultura. Sejam livros ou filmes, jogos ou músicas, o PCM foi planejado para ser um espaço seguro de compartilhar e discutir ideias sobre aquilo que gostamos, e agora queremos que você faça parte dele também.
+---
+A ideia inicial do Pão era a de criar um espaço onde amigos pudessem sugerir uns aos outros aquilo que eles consumiam em termos de cultura. Sejam livros ou filmes, jogos ou músicas, o Pão foi planejado para ser um espaço seguro de compartilhar e discutir ideias sobre aquilo que gostamos, e agora queremos que você faça parte dele também.
 
 Tendo isso em mente, o Pão com Mortadela é fundamentado nos seguintes princípios:
 
 ## 1. O Pão com Mortadela é gratuito.
 
-O PCM existe como um espaço colaborativo para críticos, ensaístas e entusiastas, além de pessoas interessadas por crítica e análise cultural. A plataforma em si não visa lucros, e todas as posições editoriais são voluntárias. Custos de domínio e servidores são cobertos pelo editor do site.
+O Pão existe como um espaço colaborativo para críticos, ensaístas e entusiastas, além de pessoas interessadas por crítica e análise cultural. A plataforma em si não visa lucros, e todas as posições editoriais são voluntárias. Custos de domínio e servidores são cobertos pelo editor do site.
 
 Todo o conteúdo que aparece nesse site é de propriedade de seus autores e podem ser compartilhadas e republicadas por eles livremente, vendidas para outras publicações ou fazerem parte de campanhas de arrecadamento, como Patreons e Catarse. A republicação desses textos em outros veículos só pode ser feita com a autorização expressa de seus autores.
 
@@ -38,5 +38,3 @@ Além disso, entendemos também que a inclusão é mais do que a ausência de di
 ## 4. O Pão com Mortadela é independente.
 
 Estamos empenhados em servir aos nossos leitores em primeiro lugar, e visamos manter um bom relacionamento com editores, convenções e outros escritores. Nosso conteúdo editorial representa as opiniões desse site e de seus autores, e ninguém mais.
-
-
