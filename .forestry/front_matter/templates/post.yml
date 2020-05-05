@@ -56,5 +56,3 @@ fields:
     schema:
       format: markdown
   label: Excerpt
-pages:
-- _posts/2020/bem-olá.md

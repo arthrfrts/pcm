@@ -1,14 +1,22 @@
 ---
 layout: page
 title: Sobre esse site
+
 ---
+O Pão com Mortadela é um blog que tem um interesse especial sobre cultura e internet, mas também tem espaço pra tudo o que está ali no meio. Ele aceita colaborações (leia mais abaixo), mas hoje em dia é mais um esforço pessoal do que coletivo.
 
-O Pão com Mortadela era uma webzine de resenhas que se transformou num blog colaborativo sobre cultura. Nosso objetivo é oferecer um espaço para as pessoas escreverem sobre aquilo que gostam — dos livros favoritos ao canal de YouTube que descobriram recentemente. Sem requisitos para começar a postar, apenas um espaço para escrever e ser lido por leitores interessados e interessantes. Jogue suas ideias por aqui que vamos oferecer um bom lugar para ela viver na internet.
+Escrito pelo Arthur no sul do Brasil, e com a participação de vários amigos dele ao redor do mundo (oi, Manu!).
 
-(Em outras palavras, nós fazemos o que queremos fazer, como um bom e velho blog).
+Posts são (na maioria das vezes) semanais, mas as vezes você vai ter sorte e ver mais de um post na mesma semana; links interessantes ficam na barra lateral; e sábado tem uma newsletter com um punhado de leituras bacanas na internet.
 
-Saiba como colaborar com o PCM, enviando seu texto ou ajudando no site, [clicando aqui]({% link colabore/index.md %}). Confira também nossa [política de privacidade]({% link sobre/privacidade.md %}) e nossas regras de [comentários]({% link sobre/comentarios.md %}).
+***
 
-### Publicidade e patrocínio
+Se você quer escrever um post pro Pão, saiba como colaborar [clicando aqui]({% link colabore/index.md %}). Confira também a [política de privacidade]({% link sobre/privacidade.md %}) e as regras de [comentários]({% link sobre/comentarios.md %}).
 
-O PCM ainda não trabalha com publicidade e patrocínio. É algo que estamos estudando para implementar! Se você quiser ajudar ou propor algo, sinta-se livre de falar conosco pelo email **mesa (arroba) paomortadela.com.br**.
+Escreva para **mesa \[arroba\] paomortadela.com.br**.
+
+Você também pode enviar uma mensagem pelo Twitter, [@paomortadela](https://twitter.com/paomortadela). Vou adorar falar com você.
+
+***
+
+Você pode acompanhar esse blog através do seu [leitor RSS](https://paomortadela.com.br/feed.xml) ou pelo [Twitter](https://twitter.com/paomortadela). Uma página não-gerenciada do Pão existe no [Facebook](https://www.facebook.com/paomortadela.com.br) e _deve_ se manter atualizada toda a vez que aparecer um novo post por aqui, se o script funcionar direitinho.
