@@ -17,7 +17,6 @@ excerpt: "“Vai passar”."
 Como todo o mundo, no meio do ano passado eu me peguei no meio do furacão que era a segunda temporada de _Fleabag_. A primeira temporada da série inglesa sobre uma mulher tentando levar a vida em meio a um colapso familiar, sexual e profissional é engraçada pra cacete desde o primeiro episódio, com a Fleabag parando a ação para comentários rápidos, muitas vezes sarcásticos, sobre o que está acontecendo ao redor dela. Mas quando _Fleabag_ voltou com tudo, ano passado, ela jogou pro alto todas as regras que tinha criado na primeira temporada e, no caminho, partiu meu coração.
 
 {:.pull}
-
 > É fácil descrever o que acontece na segunda temporada de _Fleabag_, mas caramba se é difícil de descrever o que ela te faz sentir.
 
 As duas temporadas de _Fleabag_ acompanham a personagem principal (a própria criadora da série, Phoebe Waller-Bridge) em momentos especialmente estressantes. Na primeira, acompanhamos ela nas semanas prestes a perder o aluguel do café que ela montou com sua melhor amiga, que morreu e cujo luto abate Fleabag constantemente. Pra ajudar, ela não tem uma boa relação com a madrasta que é cada vez mais central na vida do seu pai, e sua irmã Claire está envolvida em um casamento terrível.
@@ -43,6 +42,8 @@ Partiu meu coração porque a entrega é sublime. Quando o padre fala isso, os d
 Então o padre vai embora, e Fleabag, como toda ferrada nessa vida, vê que seu ônibus foi cancelado. Não só levou um fora, vai ter que voltar a pé pra casa. A câmera segue, mas Fleabag para, olha pra trás e diz que não. A gente fica pra trás, ela dá uma última olhada e acena, timidamente. Fleabag segue em frente.
 
 É quando a série parte o meu coração, pra valer.
+
+<iframe width="806" height="453" src="https://www.youtube.com/embed/7K3ffDrignk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu revi a temporada várias vezes depois disso, porque o efeito desse final em mim foi surreal. Como foi que _Fleabag_ me afetou tanto assim? O que ela faz de diferente de outras comédias pra me ter me deixado tão desolado?
 
