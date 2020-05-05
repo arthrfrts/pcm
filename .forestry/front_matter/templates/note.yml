@@ -20,3 +20,5 @@ fields:
   config:
     required: true
   label: Link
+pages:
+- _notes/crash-course-app.txt
