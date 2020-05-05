@@ -47,7 +47,7 @@ Então o padre vai embora, e Fleabag, como toda ferrada nessa vida, vê que seu 
 
 Eu revi a temporada várias vezes depois disso, porque o efeito desse final em mim foi surreal. Como foi que _Fleabag_ me afetou tanto assim? O que ela faz de diferente de outras comédias pra me ter me deixado tão desolado?
 
-A resposta está no truque. _Fleabag_ é engraçada desde o início, vale a pena dizer, mas a primeira temporada tem um quê do que eu chamo de fascínio de uma temporada — um conceito bom o suficiente pra levar os seis episódios, mas que podem arruinar uma série se ela seguir em frente. É algo que Phoebe Waller-Bridge, parecia saber também. Nos anos seguintes ao lançamento do primeiro volume da série, em 2016, ela comentava que os seis primeiros episódios de _Fleabag_ era tudo o que ela tinha pra personagem.
+A resposta está no truque. _Fleabag_ é engraçada desde o início, vale a pena dizer, mas a primeira temporada tem um quê do que eu chamo de fascínio de uma temporada — um conceito bom o suficiente pra levar os seis episódios, mas que podem arruinar uma série se ela seguir em frente. É algo que Phoebe Waller-Bridge parecia saber também. Nos anos seguintes ao lançamento do primeiro volume da série, em 2016, ela comentava que os seis primeiros episódios de _Fleabag_ era tudo o que ela tinha pra personagem.
 
 Quando a série reapareceu ano passado, então, era porque Waller-Bridge tinha encontrado um jeito de levar ela pra frente sem que o macete — a quebra frequente da quarta parede — virasse um problema (_Os Normais_ conseguiu isso porque o casal vivia quebrando as próprias regras que tinham em relação à isso). Se passando um ano depois dos acontecimentos da primeira temporada, Fleabag nos chama de volta em um momento estressante.
 
