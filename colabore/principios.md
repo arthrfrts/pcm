@@ -3,7 +3,7 @@ layout: page
 title: Princrípios Editoriais
 
 ---
-A ideia inicial do Pão era a de criar um espaço onde amigos pudessem sugerir uns aos outros aquilo que eles consumiam em termos de cultura. Sejam livros ou filmes, jogos ou músicas, o Pão foi planejado para ser um espaço seguro de compartilhar e discutir ideias sobre aquilo que gostamos, e agora queremos que você faça parte dele também.
+A ideia do Pão é a de criar um espaço onde amigos possam sugerir uns aos outros aquilo que eles consumiam em termos de cultura. Sejam livros ou filmes, jogos ou músicas, o Pão foi planejado para ser um espaço seguro de compartilhar e discutir ideias sobre aquilo que gostamos.
 
 Tendo isso em mente, o Pão com Mortadela é fundamentado nos seguintes princípios:
 
@@ -21,7 +21,7 @@ Nós aceitamos qualquer autor, independente da experiência prévia, e trabalhar
 
 Nosso objetivo é fazer com que nossos autores prestem o mesmo serviço que eles estão nos oferecendo, promovendo-os, orientando-os e, geralmente, ajudando onde podemos. Vemos a edição como uma forma de orientação, ao invés de reforçar um estilo distinto. Nosso processo visa a curadoria mais do que de canonização.
 
-Nosso status como uma plataforma gratuita nos impede de oferecer remuneração aos autores. Mesmo assim, entendemos que oferecer um lugar para a exposição de trabalho e para o crescimento é a maneira da nossa área de conhecer novos talentos, e por isso fazemos essa oferta com humildade.
+Nosso status como uma plataforma gratuita nos impede de oferecer remuneração constante aos autores, mas pequenas contribuições em dinheiro são oferecidas. Mesmo assim, entendemos que oferecer um lugar para a exposição de trabalho e para o crescimento é a maneira da nossa área de conhecer novos talentos, e por isso fazemos essa oferta com humildade.
 
 ***
 
