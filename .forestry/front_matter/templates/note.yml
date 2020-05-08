@@ -21,5 +21,6 @@ fields:
     required: true
   label: Link
 pages:
+- _notes/animal-crossing-new-horizons-journals.txt
 - _notes/crash-course-app.txt
 - _notes/everything-is-alive-mirror-mirror.txt
