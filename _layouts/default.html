@@ -22,7 +22,7 @@
     </div>
     <script name="vendor-jquery" src="{%- link assets/js/jquery.js -%}"></script>
     <script name="site-scripts" src="{%- link assets/js/scripts.js -%}"></script>
-    {%- if page.layout == "post" -%}
+    {%- if page.layout != "post" and page.layout != "page" -%}
       <script id="dsq-count-scr" async await src="//paomortadela.disqus.com/count.js"></script>
     {%- endif -%}
     
