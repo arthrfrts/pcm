@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Princrípios Editoriais"
----
+title: Princrípios Editoriais
 
-A ideia inicial do PCM era a de criar um espaço onde amigos pudessem sugerir uns aos outros aquilo que eles consumiam em termos de cultura. Sejam livros ou filmes, jogos ou músicas, o PCM foi planejado para ser um espaço seguro de compartilhar e discutir ideias sobre aquilo que gostamos, e agora queremos que você faça parte dele também.
+---
+A ideia do Pão é a de criar um espaço onde amigos possam sugerir uns aos outros aquilo que eles consumiam em termos de cultura. Sejam livros ou filmes, jogos ou músicas, o Pão foi planejado para ser um espaço seguro de compartilhar e discutir ideias sobre aquilo que gostamos.
 
 Tendo isso em mente, o Pão com Mortadela é fundamentado nos seguintes princípios:
 
 ## 1. O Pão com Mortadela é gratuito.
 
-O PCM existe como um espaço colaborativo para críticos, ensaístas e entusiastas, além de pessoas interessadas por crítica e análise cultural. A plataforma em si não visa lucros, e todas as posições editoriais são voluntárias. Custos de domínio e servidores são cobertos pelo editor do site.
+O Pão existe como um espaço colaborativo para críticos, ensaístas e entusiastas, além de pessoas interessadas por crítica e análise cultural. A plataforma em si não visa lucros, e todas as posições editoriais são voluntárias. Custos de domínio e servidores são cobertos pelo editor do site.
 
 Todo o conteúdo que aparece nesse site é de propriedade de seus autores e podem ser compartilhadas e republicadas por eles livremente, vendidas para outras publicações ou fazerem parte de campanhas de arrecadamento, como Patreons e Catarse. A republicação desses textos em outros veículos só pode ser feita com a autorização expressa de seus autores.
 
@@ -21,7 +21,7 @@ Nós aceitamos qualquer autor, independente da experiência prévia, e trabalhar
 
 Nosso objetivo é fazer com que nossos autores prestem o mesmo serviço que eles estão nos oferecendo, promovendo-os, orientando-os e, geralmente, ajudando onde podemos. Vemos a edição como uma forma de orientação, ao invés de reforçar um estilo distinto. Nosso processo visa a curadoria mais do que de canonização.
 
-Nosso status como uma plataforma gratuita nos impede de oferecer remuneração aos autores. Mesmo assim, entendemos que oferecer um lugar para a exposição de trabalho e para o crescimento é a maneira da nossa área de conhecer novos talentos, e por isso fazemos essa oferta com humildade.
+Nosso status como uma plataforma gratuita nos impede de oferecer remuneração constante aos autores, mas pequenas contribuições em dinheiro são oferecidas. Mesmo assim, entendemos que oferecer um lugar para a exposição de trabalho e para o crescimento é a maneira da nossa área de conhecer novos talentos, e por isso fazemos essa oferta com humildade.
 
 ***
 
@@ -38,5 +38,3 @@ Além disso, entendemos também que a inclusão é mais do que a ausência de di
 ## 4. O Pão com Mortadela é independente.
 
 Estamos empenhados em servir aos nossos leitores em primeiro lugar, e visamos manter um bom relacionamento com editores, convenções e outros escritores. Nosso conteúdo editorial representa as opiniões desse site e de seus autores, e ninguém mais.
-
-
