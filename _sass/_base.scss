@@ -223,7 +223,8 @@ iframe, video, object {
   }
 }
 
-img + em {
+img + em,
+iframe + p > em:first-child:last-child {
   font: 400 #{1.2rem}/#{1.25} $font-headings;
   color: rgba($color-text, 0.7);
   display: block;
