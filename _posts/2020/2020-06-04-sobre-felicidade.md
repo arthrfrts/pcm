@@ -2,7 +2,7 @@
 layout: post
 date: "2020-06-04 20:32:00 -0300"
 title: Sobre felicidade
-image: "/uploads/2020/06/04/se-a-rua-beale-falasse.png"
+image: "/uploads/2020/06/04/se-a-rua-beale-falasse.jpg"
 author: arthurf
 tags:
   - essenciais
