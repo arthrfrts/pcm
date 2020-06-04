@@ -1,6 +1,3 @@
----
-
----
 # Pão com Mortadela
 
 O [Pão com Mortadela](https://paomortadela.com.br/) é um blog que publica sugestões de filmes, séries, livros, jogos e links bacanas semanalmente às 9h. Esse repositório contem o código e todo o arquivo de posts.
