@@ -1,16 +1,17 @@
 ---
 layout: post
-date: "2020-06-04 20:32:00 -0300"
+date: '2020-06-04 20:32:00 -0300'
 title: Sobre felicidade
-image: "/uploads/2020/06/04/se-a-rua-beale-falasse.jpg"
+image: /uploads/2020/06/04/se-a-rua-beale-falasse.jpg
 author: arthurf
 tags:
-  - essenciais
   - filmes
+  - HBO
+  - essenciais
   - livros
   - Barry Jenkins
   - James Baldwin
-  - HBO
+published: true
 ---
 
 
@@ -20,7 +21,7 @@ Teve um momento da minha vida que eu queria contar histórias. Eu me achava um b
 
 Deixa eu te contar algo que eu só aprendi quando desisti de escrever ficção: quando a gente quer explorar a escuridão, a gente precisa ter um ponto de luz, senão a gente não consegue enxergar nada. Isso vale pra vida real — leve uma lanterna quando for explorar uma caverna! —, mas também vale pra narrativa: é inútil tatear a tristeza de uma pessoa, se você não oferece ao seu leitor uma referência do que é a felicidade. Essa é uma regra que vale de _Hamlet_ à _John Wick_. A gente só entende a dor, a tragédia do que presenciamos porque entendemos o que é a felicidade, o que foi perdido.
 
-Eu aprendi isso quando assisti _Se a Rua Beale Falasse_ (_If Beale Street Could Talk_, 2018). Dirigido por Barry Jenkins, adaptado de um romance de James Baldwin[^1], o filme conta a história do amor entre Tish e Fonny no início dos anos 1970. Tish e Fonny se conhecem desde sempre, mas faz pouco tempo que os dois perceberam que estavam apaixonados. Eles querem alugar um apartamento, mas nenhum proprietário em Nova York aluga apartamentos para negros. Um dia eles encontram um lugar, e decidem fazer uma janta para celebrar. No mercadinho, Tish é assediada por um homem. Fonny o confronta, mas um policial branco tenta prendê-lo por agressão. Ele é impedido porque a dona da loja impede, chamando o policial de racista. O policial vai embora, mas a amargura de “ter perdido” para Fonny o faz voltar, dias depois para prendê-lo com uma acusação de estupro.
+Eu aprendi isso quando assisti _Se a Rua Beale Falasse_ (_If Beale Street Could Talk_, 2018). Dirigido por Barry Jenkins, adaptado de um romance de James Baldwin[^1], o filme conta a história do amor entre Tish e Fonny no início dos anos 1970. Tish e Fonny se conhecem desde sempre, mas faz pouco tempo que os dois perceberam que estavam apaixonados. Eles querem alugar um apartamento, mas nenhum proprietário em Nova York aluga apartamentos para negros. Um dia eles encontram um lugar, e decidem fazer uma janta para celebrar. No mercadinho, Tish é assediada por um homem. Fonny o confronta, mas um policial branco tenta prendê-lo por agressão. A dona da loja impede, chamando o policial de racista. O policial vai embora, mas a amargura de “ter perdido” para Fonny o faz voltar, dias depois para prendê-lo com uma acusação de estupro.
 
 <iframe width="806" height="461" src="https://www.youtube.com/embed/t6Bt-QLPJa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,11 +31,11 @@ Todas as qualidades do filme anterior de Barry Jenkins, _Sob a Luz do Luar_ (_Mo
 
 São breves lampejos de beleza em meio à uma história triste e furiosa sobre a injustiça e a impunidade da violência contra a população negra dos Estados Unidos. Ela é bem demarcada e bem contextualizada — os apartamentos dos personagens do filme são aconchegantes, mas também são pequenos; a rua que eles moram é linda com o farfalhar das folhas avermelhadas no outono; mas ela existe na sombra de uma linha de trem, e o barulho é constante.
 
-Mas, ainda assim, é lindo, e Tish e Fonny encontram felicidade nesses lugares: como é lindo se apaixonar, como as vezes seus pais reagem à uma grande notícia da melhor forma possível, ou como a gente sai na rua exatamente no fim do dia, e aquela primeira rajada da brisa fria da noite bate no nosso rosto. É glorioso, e Jenkins acentua esses breves momentos para nos lembrar de tudo o que o racismo interrompe e arranca do mundo. Como é trágico que algo lindo não possa existir.
+Mas ainda assim é lindo, e Tish e Fonny encontram felicidade nesses lugares: como é lindo se apaixonar, como as vezes seus pais reagem à uma grande notícia da melhor forma possível, ou como a gente sai na rua exatamente no fim do dia, e aquela primeira rajada da brisa fria da noite bate no nosso rosto. É glorioso, e Jenkins acentua esses breves momentos para nos lembrar de tudo o que o racismo interrompe e arranca do mundo. Como é trágico que algo lindo não possa existir.
 
-E, ainda assim, são esses os momentos que Tish lembra pra ganhar forças e seguir em frente. Pra ir no tribunal e fazer sua parte. Pra dar à luz ao filho do amor que existe. A tragédia, _Se a Rua Beale Falasse_ parece indicar, não é que Tish e Fonny estão separados, como as histórias de amor tendem a retratar. Mas porque há uma força que as impede de ficar juntos. Essa é a tragédia.
+Mesmo assim, são esses os momentos que Tish lembra pra ganhar forças e seguir em frente. Pra ir no tribunal e fazer sua parte. Pra dar à luz ao filho do amor que existe. A tragédia, _Se a Rua Beale Falasse_ parece indicar, não é que Tish e Fonny estão separados, como as histórias de amor tendem a retratar. Mas porque há uma força que as impede de ficar juntos. Essa é a tragédia.
 
-A felicidade é tão breve e passageira, e nos alcança sempre acompanhada de algum outro sentimento — uma pitada de saudade, ou talvez de medo — que ela é incapaz de nos cegar para a tragédia. Mas eu acho, ao invés disso, que ela nos faz enxergar melhor. Ela nos ajuda a fazer sentido do caos, ela nos lembra do que faz sentido e do que nos move. Ela nos dá perspectiva e nos dá esperança, e batalhar para que mais pessoas possam sentir isso já é algo que vale a pena.
+A felicidade é tão breve e passageira, e nos alcança sempre acompanhada de algum outro sentimento — uma pitada de saudade, ou talvez de medo — que eu não sei se ela é capaz de nos cegar para a tragédia. Ao contrário, eu acho que ela nos ajuda a enxergar melhor. A fazer sentido do caos, a nos lembrar do que nos move. Ela nos dá perspectiva e nos dá esperança, e batalhar para que mais pessoas possam sentir algo assim vale a pena.
 
 ***
 
