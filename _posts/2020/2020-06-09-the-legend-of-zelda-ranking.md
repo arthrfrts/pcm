@@ -91,7 +91,7 @@ O principal atrativo de *Four Swords Adventures* é o multiplayer, que eu não e
 ![Twilight Princess](/uploads/2020/06/09/twilight-princess.jpeg)
 _Twilight Princess HD (Wii U)_
 
-## 12. *Twilight Princess* (GDC/Wii, 2006)
+## 12. *Twilight Princess* (GC/Wii, 2006)
 
 Todo o jogo *Zelda* desde *Ocarina of Time* segue a mesma estrutura: há um mundo vasto, o qual o jogador pode explorar livremente para aprender novas habilidades ou aumentar sua vida ou a força de sua espada através de side quests. Ao atravessar esse mundo em diferentes direções o jogador encontra dungeons, os quais precisam de um item ou de uma habilidade que você aprendeu em um dungeon diferente para poder explorar.
 
