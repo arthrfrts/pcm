@@ -216,7 +216,7 @@ Se *Ocarina of Time* traduzia os fundamentos de *Zelda* para o 3D, ele o fez a p
 
 E o pior: é fácil de perceber essa perfeição, mas é dificílimo descrevê-la. *A Link to the Past* é o ápice da fórmula da Nintendo de estruturar um mundo com dungeons espalhadas que dependem uma da outra para serem exploradas. Se é a mesma estrutura que muitos dos jogos da franquia tentaram replicar ou adaptar desde então, é só um sinal de como a Nintendo acerta tão bem aqui, porque jogar *A Link to the Past* hoje, pela primeira vez, é como experimentar a reinvenção do que eu joguei até aqui.
 
-É como assistir *The Wire* pela primeira vez, sabe? Ela nos ensina a não ensinar certos atalhos que outros jogos vão tentar, nos deixa mais chatos pra certas coisas. Mas isso porque você já viu um jogo que conseguiu brilhar sem cair nas armadilhas. É um jogo que pega o rascunho bruto de *The Legend of Zelda*, pega tudo o que consegue aproveitar de *Adventure of Link*, e preenche o resto com detalhes. É um trabalho de gênio que é constantemente dissecado por outros jogos para entender como pode ser tão preciso.
+É como assistir *The Wire* pela primeira vez, sabe? Ela nos ensina a não aceitar certos atalhos que outros jogos vão tentar, nos deixa mais chatos pra certas coisas. Mas isso porque você já viu um jogo que conseguiu brilhar sem cair nas armadilhas. É um jogo que pega o rascunho bruto de *The Legend of Zelda*, pega tudo o que consegue aproveitar de *Adventure of Link*, e preenche o resto com detalhes. É um trabalho de gênio que é constantemente dissecado por outros jogos para entender como pode ser tão preciso.
 
 De verdade, esse é um jogo *daqueles*.
 
@@ -231,9 +231,9 @@ Ao ver que chegaram no limite de explorar a fórmula de *A Link to the Past* e *
 
 E, com esse retorno às origens, a Nintendo entra de vez em estruturas de jogos mais contemporâneas. Não só provando que o mundo aberto é algo que ela inovou lá atrás, a Nintendo decidiu provar que podia aperfeiçoá-lo: *Breath of the Wild* entrega um mundo que pode ser explorado livremente pelo jogador, e não aceita uma ordem de como ele deve ser explorado. Você pode seguir qualquer caminho, que *BotW* vai te dar o que fazer e uma sensação de que você está atingindo um objetivo.
 
-São mais de 400 mini-dungeons espalhados por um mundo gigante, e Link pode pular e escalar quase qualquer superfície desde o início. É uma mudança pequena nas habilidades de Link que abre todo um novo universo de possibilidades para a série. *Breath of the Wild* encontra aquele ponto de perfeição entre a estrutura intrincada de enigmas na exploração de *A Link to the Past* e o senso de descoberta e solidão no *The Legend of Zelda* original, e os aperfeiçoa com uma direção de arte tão atemporal como a de *The Wind Waker*.
+São mais de 400 mini-dungeons espalhados por um mundo gigante, e Link pode pular e escalar quase qualquer superfície desde o início. É uma mudança pequena nas habilidades de Link que abre todo um novo universo de possibilidades para a série. *Breath of the Wild* encontra aquele ponto de perfeição entre a estrutura intrincada de enigmas na exploração de *A Link to the Past* e o senso de descoberta e solidão no *The Legend of Zelda* original, e os aperfeiçoa com uma direção de arte tão atemporal quanto a de *The Wind Waker*.
 
-*A Link to the Past* é analisado e estudado por décadas, e o que vimos em 2017 com o lançamento e a consolidação quase imediata de *Breath of the Wild* como um clássico é a história se repetindo. Há tanto para ser explorado em *BotW*, seja na superfície ou em como o jogo une centenas de processos e métodos de game design em um sistema complexo, que esse é um jogo que vai ser discutido por muito tempo.
+*A Link to the Past* é analisado e estudado por décadas, e o que vimos em 2017 com o lançamento e a consolidação quase imediata de *Breath of the Wild* como um clássico é a história se repetindo. Há tanto para ser explorado em *BotW*, seja na superfície ou em como o jogo une centenas de processos e métodos de game design em um sistema complexo, que eu não duvido que esse é um jogo que também vai ser dissecado e estudado por muito tempo.
 
 ***
 
