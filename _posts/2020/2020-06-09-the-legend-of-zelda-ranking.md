@@ -1,23 +1,24 @@
 ---
 layout: post
-date: "2020-06-09 23:00:00 -0300"
-title: "Um ranking de todos os The Legend of Zelda"
+date: '2020-06-09 23:00:00 -0300'
+title: Um ranking de todos os The Legend of Zelda
 author: arthurf
-image: "/uploads/2020/06/09/zelda.jpg"
+image: /uploads/2020/06/09/zelda.jpg
 tags:
-  - listas
   - jogos
   - aventura
+  - listas
   - Nintendo
+published: true
 ---
 
-Desde o dia que eu terminei de fazer meu ranking de *Super Mario* eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.
+Desde o dia que eu terminei de fazer [meu ranking de *Super Mario*](https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/) eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.
 
 Eu ainda vou escrever sobre como *Zelda*, *Mario* e *Metroid* definiram a missão da Nintendo como desenvolvedora desde muito cedo, mas até eu formular esse pensamento com mais clareza na minha cabeça vou fazer esses rankings completamente subjetivos e nem um pouco claros sobre as franquias dela.
 
 Diferente de *Super Mario*, porém, *Zelda* é uma série que experimentou bem mais e errou bem mais, e talvez seja um melhor ponto de referência para vermos como a Nintendo em si pareceu muito perdida quando enfrentou a Sony nos anos 2000, ao mesmo tempo que sempre teve uma noção muito aguçada de como seus jogos são percebidos culturalmente. Dos inovadores jogos para NES ao revolucionário jogo no Switch, passando pelos ápices criativos no Super Nintendo e Game Boy e o marasmo entre o GameCube e o Wii, *Zelda* oferece uma visão ampla de uma franquia que alcançou a perfeição muito cedo em sua trajetória, e precisou enfrentar o peso desse legado diversas vezes desde então.
 
-Vale um adendo aqui: eu joguei esses jogos fora de ordem, e só considerei os jogos que estão na cronologia oficial do jogo (a ideia original desse post era de rankear as lendas em si, mas nada nesse caralho faz sentido), então nada de *Link’s Crossbow Training* por hoje!
+Vale um adendo aqui: eu joguei esses jogos fora de ordem, e só considerei os jogos que estão na cronologia oficial do jogo (a ideia original desse post era de rankear as lendas em si, [mas nada nesse caralho faz sentido](https://youtu.be/Q-25c8Rsobw)), então nada de *Link’s Crossbow Training* por hoje!
 
 ***
 
