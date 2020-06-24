@@ -6,9 +6,8 @@ title: Eu jogo Animal Crossing e fico pensando no futuro
 tags:
   - jogos
   - esquinas
+  - simulação
   - Nintendo
-  - Nintendo Switch
-  - Animal Crossing
 image: /uploads/2020/05/11/acnh-capa.jpg
 excerpt: >-
   Jolly good!

@@ -9,8 +9,7 @@ tags:
   - HBO
   - essenciais
   - livros
-  - Barry Jenkins
-  - James Baldwin
+  - romance
 published: true
 ---
 

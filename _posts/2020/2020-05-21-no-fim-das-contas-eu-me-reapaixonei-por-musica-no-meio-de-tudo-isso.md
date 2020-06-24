@@ -7,8 +7,6 @@ image: "/uploads/2020/05/21/fiona-apple-perfume-genius.jpg"
 tags:
   - músicas
   - essenciais
-  - Fiona Apple
-  - Perfume Genius
 ---
 
 Alguma coisa mudou no jeito que eu escuto música há uns anos. Em 2013, mais especificamente. Até então, eu amava música. Eu amava entrar num blogspot e baixar alguma discografia e ouvir. Eu gostava de acompanhar lançamentos de artistas que eu gostava e de ir na Wikipédia e ouvir as referências musicais desses artistas também. Eu nunca entendi muito de música — o que faz música boa? Eu não sei, e é um dos motivos que não escrevo muito sobre aqui no Pão —, mas eu amava ouvir e descobrir música boa mesmo assim.

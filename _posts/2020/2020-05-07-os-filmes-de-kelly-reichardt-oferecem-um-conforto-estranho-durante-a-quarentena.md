@@ -5,7 +5,6 @@ author: arthurf
 tags:
 - esquinas
 - filmes
-- Kelly Reichardt
 - drama
 - carreiras em perspectiva
 title: Os filmes de Kelly Reichardt oferecem um conforto estranho durante a quarentena

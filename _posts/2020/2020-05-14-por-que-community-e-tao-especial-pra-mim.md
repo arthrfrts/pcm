@@ -9,7 +9,7 @@ image: "/uploads/2020/05/14/community.jpg"
 tags:
   - esquinas
   - séries
-  - Community
+  - comédia
   - Netflix
   - Prime Video
 ---

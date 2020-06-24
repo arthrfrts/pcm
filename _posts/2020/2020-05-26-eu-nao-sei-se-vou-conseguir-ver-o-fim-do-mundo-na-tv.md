@@ -7,7 +7,8 @@ image: "/uploads/2020/05/26/the-leftovers.jpg"
 tags:
   - essenciais
   - séries
-  - The Leftovers
+  - drama
+  - mistério
   - HBO
 ---
 

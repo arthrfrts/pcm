@@ -5,10 +5,8 @@ author: arthurf
 tags:
 - séries
 - Prime Video
-- Phoebe Waller-Bridge
 - comédia
 - romance
-- Fleabag
 title: Foi assim que Fleabag partiu meu coração
 image: "/uploads/2020/05/05/fleabag.jpg"
 excerpt: "“Vai passar”."
