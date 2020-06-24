@@ -1,23 +1,24 @@
 ---
 layout: post
-date: "2020-06-09 23:00:00 -0300"
-title: "Um ranking de todos os The Legend of Zelda"
+date: '2020-06-09 23:00:00 -0300'
+title: Um ranking de todos os The Legend of Zelda
 author: arthurf
-image: "/uploads/2020/06/09/zelda.jpg"
+image: /uploads/2020/06/09/zelda.jpg
 tags:
-  - listas
   - jogos
   - aventura
+  - listas
   - Nintendo
+published: true
 ---
 
-Desde o dia que eu terminei de fazer meu ranking de *Super Mario* eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.
+Desde o dia que eu terminei de fazer [meu ranking de *Super Mario*](https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/) eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.
 
 Eu ainda vou escrever sobre como *Zelda*, *Mario* e *Metroid* definiram a missão da Nintendo como desenvolvedora desde muito cedo, mas até eu formular esse pensamento com mais clareza na minha cabeça vou fazer esses rankings completamente subjetivos e nem um pouco claros sobre as franquias dela.
 
-Diferente de *Super Mario*, porém, *Zelda* é uma série que experimentou bem mais e errou bem mais, e talvez seja um melhor ponto de referência para vermos como a Nintendo em si pareceu muito perdida quando enfrentou a Sony nos anos 2000, ao mesmo tempo que sempre teve uma noção muito aguçada de como seus jogos são percebidos culturalmente. Dos inovadores jogos para NES ao revolucionário jogo no Switch, passando pelos ápices criativos no Super Nintendo e Game Boy e o marasmo entre o GameCube e o Wii, *Zelda* oferece uma visão ampla de uma franquia que alcançou a perfeição muito cedo em sua trajetória, e precisou enfrentar o peso desse legado diversas vezes desde então.
+Diferente de *Super Mario*, porém, *Zelda* é uma série que experimentou e errou bem mais, e talvez seja um melhor ponto de referência para vermos como a Nintendo em si pareceu muito perdida quando enfrentou a Sony nos anos 2000, ao mesmo tempo que sempre teve uma noção muito aguçada de como seus jogos são percebidos culturalmente. Dos inovadores jogos para NES ao revolucionário jogo no Switch, passando pelos ápices criativos no Super Nintendo e Game Boy e o marasmo entre o GameCube e o Wii, *Zelda* oferece uma visão ampla de uma franquia que alcançou a perfeição muito cedo em sua trajetória, e precisou enfrentar o peso desse legado diversas vezes desde então.
 
-Vale um adendo aqui: eu joguei esses jogos fora de ordem, e só considerei os jogos que estão na cronologia oficial do jogo (a ideia original desse post era de rankear as lendas em si, mas nada nesse caralho faz sentido), então nada de *Link’s Crossbow Training* por hoje!
+Vale um adendo aqui: eu joguei esses jogos fora de ordem, e só considerei os jogos que estão na cronologia oficial do jogo (a ideia original desse post era de rankear as lendas em si, [mas nada nesse caralho faz sentido](https://youtu.be/Q-25c8Rsobw)), então nada de *Link’s Crossbow Training* por hoje!
 
 ***
 
@@ -90,7 +91,7 @@ O principal atrativo de *Four Swords Adventures* é o multiplayer, que eu não e
 ![Twilight Princess](/uploads/2020/06/09/twilight-princess.jpeg)
 _Twilight Princess HD (Wii U)_
 
-## 12. *Twilight Princess* (GDC/Wii, 2006)
+## 12. *Twilight Princess* (GC/Wii, 2006)
 
 Todo o jogo *Zelda* desde *Ocarina of Time* segue a mesma estrutura: há um mundo vasto, o qual o jogador pode explorar livremente para aprender novas habilidades ou aumentar sua vida ou a força de sua espada através de side quests. Ao atravessar esse mundo em diferentes direções o jogador encontra dungeons, os quais precisam de um item ou de uma habilidade que você aprendeu em um dungeon diferente para poder explorar.
 
@@ -215,7 +216,7 @@ Se *Ocarina of Time* traduzia os fundamentos de *Zelda* para o 3D, ele o fez a p
 
 E o pior: é fácil de perceber essa perfeição, mas é dificílimo descrevê-la. *A Link to the Past* é o ápice da fórmula da Nintendo de estruturar um mundo com dungeons espalhadas que dependem uma da outra para serem exploradas. Se é a mesma estrutura que muitos dos jogos da franquia tentaram replicar ou adaptar desde então, é só um sinal de como a Nintendo acerta tão bem aqui, porque jogar *A Link to the Past* hoje, pela primeira vez, é como experimentar a reinvenção do que eu joguei até aqui.
 
-É como assistir *The Wire* pela primeira vez, sabe? Ela nos ensina a não ensinar certos atalhos que outros jogos vão tentar, nos deixa mais chatos pra certas coisas. Mas isso porque você já viu um jogo que conseguiu brilhar sem cair nas armadilhas. É um jogo que pega o rascunho bruto de *The Legend of Zelda*, pega tudo o que consegue aproveitar de *Adventure of Link*, e preenche o resto com detalhes. É um trabalho de gênio que é constantemente dissecado por outros jogos para entender como pode ser tão preciso.
+É como assistir *The Wire* pela primeira vez, sabe? Ela nos ensina a não aceitar certos atalhos que outros jogos vão tentar, nos deixa mais chatos pra certas coisas. Mas isso porque você já viu um jogo que conseguiu brilhar sem cair nas armadilhas. É um jogo que pega o rascunho bruto de *The Legend of Zelda*, pega tudo o que consegue aproveitar de *Adventure of Link*, e preenche o resto com detalhes. É um trabalho de gênio que é constantemente dissecado por outros jogos para entender como pode ser tão preciso.
 
 De verdade, esse é um jogo *daqueles*.
 
@@ -230,9 +231,9 @@ Ao ver que chegaram no limite de explorar a fórmula de *A Link to the Past* e *
 
 E, com esse retorno às origens, a Nintendo entra de vez em estruturas de jogos mais contemporâneas. Não só provando que o mundo aberto é algo que ela inovou lá atrás, a Nintendo decidiu provar que podia aperfeiçoá-lo: *Breath of the Wild* entrega um mundo que pode ser explorado livremente pelo jogador, e não aceita uma ordem de como ele deve ser explorado. Você pode seguir qualquer caminho, que *BotW* vai te dar o que fazer e uma sensação de que você está atingindo um objetivo.
 
-São mais de 400 mini-dungeons espalhados por um mundo gigante, e Link pode pular e escalar quase qualquer superfície desde o início. É uma mudança pequena nas habilidades de Link que abre todo um novo universo de possibilidades para a série. *Breath of the Wild* encontra aquele ponto de perfeição entre a estrutura intrincada de enigmas na exploração de *A Link to the Past* e o senso de descoberta e solidão no *The Legend of Zelda* original, e os aperfeiçoa com uma direção de arte tão atemporal como a de *The Wind Waker*.
+São mais de 400 mini-dungeons espalhados por um mundo gigante, e Link pode pular e escalar quase qualquer superfície desde o início. É uma mudança pequena nas habilidades de Link que abre todo um novo universo de possibilidades para a série. *Breath of the Wild* encontra aquele ponto de perfeição entre a estrutura intrincada de enigmas na exploração de *A Link to the Past* e o senso de descoberta e solidão no *The Legend of Zelda* original, e os aperfeiçoa com uma direção de arte tão atemporal quanto a de *The Wind Waker*.
 
-*A Link to the Past* é analisado e estudado por décadas, e o que vimos em 2017 com o lançamento e a consolidação quase imediata de *Breath of the Wild* como um clássico é a história se repetindo. Há tanto para ser explorado em *BotW*, seja na superfície ou em como o jogo une centenas de processos e métodos de game design em um sistema complexo, que esse é um jogo que vai ser discutido por muito tempo.
+*A Link to the Past* é analisado e estudado por décadas, e o que vimos em 2017 com o lançamento e a consolidação quase imediata de *Breath of the Wild* como um clássico é a história se repetindo. Há tanto para ser explorado em *BotW*, seja na superfície ou em como o jogo une centenas de processos e métodos de game design em um sistema complexo, que eu não duvido que esse é um jogo que também vai ser dissecado e estudado por muito tempo.
 
 ***
 
@@ -244,12 +245,12 @@ _Link's Awakening (Switch)_
 
 Como *Majora’s Mask*, *The Minish Cap* e (sim) *Adventure of Link*, *Link’s Awakening* é um experimento dos desenvolvedores em como subverter a fórmula clássica de *A Link to the Past* em uma aventura mais pessoal.
 
-O jogo, lançado logo depois de *A Link to the Past*, não tenta aperfeiçoar o que honestamente já encontrou sua forma ideal. Ao invés disso, *Link’s Awakening* simplifica muito da interação entre mundos e itens de *A Link to the Past*, se focando em uma ilha bem menor que Hyrule. Muito disso é por mera limitação tecnológica: *Link’s Awakening* foi lançado para o Game Boy — o primeiro Game Boy, vale ressaltar —, então precisou trocar a expansividade do seu antecessor pela densidade: a ilha de Koholint é pequena, mas é repleta de pequenos detalhes que fazem o jogador ter vontade de conhecer toda ela.
+O jogo, lançado logo depois de *A Link to the Past*, não tenta aperfeiçoar o que honestamente já encontrou sua forma ideal. Ao invés disso, *Link’s Awakening* simplifica muito da interação entre mundos e itens de *A Link to the Past*, se focando em uma ilha bem menor que Hyrule. Muito disso é por mera limitação tecnológica: *Link’s Awakening* foi lançado para o Game Boy — o primeiro Game Boy, vale ressaltar —, então precisou trocar a expansividade do seu antecessor pela densidade: a ilha de Koholint é pequena, mas é repleta de pequenos detalhes que fazem o jogador ter vontade de conhecer toda ela. Ao invés de mecânicas complexas que demandavam de hardware, o jogo investe em um recurso leve, mas eficaz: o texto.
 
 Personagens extremamente carismáticos, animais falantes e Goombas e outros inimigos de *Super Mario* estão por toda a parte na ilha Koholint, e *Link’s Awakening* usa esse carisma como sua maior força, criando a melhor de todas as lendas de Zelda: longe de Hyrule, Link encontra Marin e o povo da ilha, cheios de sonhos e de desejos. Muito como *Majora’s Mask*, você passa muito tempo ajudando eles ou realizando side quests, mas diferente do jogo de Nintendo 64 esse não é o seu objetivo principal. Há um inimigo a ser enfrentado, e o povo de Koholint vai te ajudar nessa missão.
 
 É um jogo difícil, mas não injusto, que usa o tamanho diminuto do mundo a seu favor. Você viaja por Koholint diversas vezes, até você conhecer a ilha como a palma da sua mão. Você desvenda os segredos de suas dungeons e ajuda seus amigos em uma estrutura que não é cansativa nem extensa demais. E aí está a grande arma do jogo: ele une um game design extremamente bem calibrado com a melhor lenda até aqui, uma história de sonhos frustrados e tragédias que se repetem.
 
-Vários *Zelda* exploram a solidão e a tristeza na vida de Link, do Link deixado para trás pela própria lenda em *Majora’s Mask* ao Link que é um fantasma de um outro tempo em *Breath of the Wild*. Mas nunca a série olhou com tanta delicadeza para a relação de Link com as pessoas ao seu redor — o espírito aventureiro que embarcamos nesses jogos é o mesmo que encontra um lar nas estranhezas de Koholint. Mas, como tudo na vida do personagem (e na do jogador, vale dizer), esse sonho não é feito para durar.
+Vários *Zelda* exploram a solidão e a tristeza na vida de Link, do Link deixado para trás pela própria lenda em *Majora’s Mask* ao Link que é um fantasma de um outro tempo em *Breath of the Wild*. Mas nunca a série olhou com tanta delicadeza para a relação de Link com as pessoas ao seu redor — o espírito aventureiro que embarcamos nesses jogos é o mesmo que encontra um lar nas estranhezas de Koholint. Como tudo na vida do personagem (e na do jogador, vale dizer), esse sonho não é feito para durar.
 
 Não é por nada que foi o *Zelda* criado depois de *A Link to the Past* e relançado depois de *Breath of the Wild*. É um jogo que subverte e experimenta com conceitos básicos da série o suficiente para torná-los quase imperceptíveis, ao mesmo tempo que entrega uma experiência realmente emocionante que nenhum outro *Zelda* conseguiu.
