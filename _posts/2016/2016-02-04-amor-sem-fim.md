@@ -6,6 +6,7 @@ tags:
   - leituras
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg"
+permalink: "/post/622829472778944512/"
 ---
 
 Qual o mistério de _Amor sem fim_?

@@ -9,13 +9,14 @@ tags:
   - drama
   - HBO
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-leftovers-2.jpg"
+permalink: "/post/622827558330859520/"
 ---
 
 Se a primeira temporada de _The Leftovers_ parecia demais com a última temporada de _Lost_, a produção anterior de Damon Lindelof, esse ano a série da HBO supera comparações e vai além. Em sua segunda temporada, _The Leftovers_ se transformou em um dos melhores shows da TV — não com um grito, mas com um suspiro.
 
 Na primeira temporada da série, que dividiu a audiência entre fãs e haters, sem meio-termo, _The Leftovers_ extrapolava na tristeza de uma família após “a partida”, um evento inexplicável em que dois porcento da população mundial desapareceu em pleno ar. _The Leftovers_ era extremamente triste, com mistérios um tanto mirabolantes demais, mas uma excelente investigação sobre a depressão.
 
-Não me entenda mal: eu sou um dos grandes defensores da primeira temporada de _The Leftovers_, embora ainda enxergue seus problemas. Sua estrutura narrativa, focando-se em diversas pessoas através dos EUA, nem sempre escolhia os melhores pontos de vista nem os melhores dramas particulares. As vezes, também, a série parecia carregar muito na tristeza e na auto-importância que dava a si mesma. Mas acertava em nunca menosprezar o sentimento de seus personagens, e conseguia transpôr para  a tela o que se passava na mente deles visualmente, sem a necessidade de diálogos expositivos.
+Não me entenda mal: eu sou um dos grandes defensores da primeira temporada de _The Leftovers_, embora ainda enxergue seus problemas. Sua estrutura narrativa, focando-se em diversas pessoas através dos EUA, nem sempre escolhia os melhores pontos de vista nem os melhores dramas particulares. As vezes, também, a série parecia carregar muito na tristeza e na auto-importância que dava a si mesma. Mas acertava em nunca menosprezar o sentimento de seus personagens, e conseguia transpôr para a tela o que se passava na mente deles visualmente, sem a necessidade de diálogos expositivos.
 
 _The Leftovers_ manteve suas qualidades nesse ano, e foi além. Mudando de tom completamente, simplificando sua estrutura e escolhendo melhor os dramas no qual se focar, a série de Lindelof encontrou o ritmo certo, e quase perfeito. Observe, por exemplo, como acerta muito mais com uma nova vinheta (e compare-a com [a da primeira temporada](https://youtu.be/3PTNHQND6MA)):
 

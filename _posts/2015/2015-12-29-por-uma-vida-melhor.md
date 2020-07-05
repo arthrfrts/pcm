@@ -8,6 +8,7 @@ tags:
   - descobertas
   - filmes
   - romance
+permalink: "/post/622827323388985344/"
 ---
 
 Quantas pessoas bacanas você viu no cinema? Bacanas mesmo. Alguém gente-fina, que é legal e se importa em fazer algo bom — seja para si, para a família ou para um bem comum —, mas que não é um herói por isso. É só uma pessoa bacana.

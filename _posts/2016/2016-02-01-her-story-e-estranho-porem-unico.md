@@ -6,6 +6,7 @@ tags:
   - jogos
 image: "https://arthrfrts.files.wordpress.com/2018/03/her-story.jpg"
 author: arthurf
+permalink: "/post/622828669835083776/"
 ---
 
 _Her Story_ é um jogo que valoriza a atenção de seu jogador. Não sua persistência ou insistência, não a habilidade. Não é fácil prosseguir, após um tempo, não porque você não é habilidoso o suficiente, mas porque você _não prestou atenção suficiente_.

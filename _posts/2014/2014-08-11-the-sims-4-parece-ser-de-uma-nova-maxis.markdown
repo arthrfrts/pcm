@@ -10,6 +10,7 @@ tags:
   - simulação
   - The Sims
 image: "/uploads/2014/the-sims-4.jpg"
+permalink: "/post/622824433899520000/"
 ---
 
 Essa sexta-feira eu ganhei a versão de demonstração da ferramenta Criar Um Sim do The Sims 4 e estou empolgado utilizando (quase) todas as possibilidades do novo criador de pessoas virtuais durante o final de semana. Como a cada mudança de geração, fiquei impressionado pelas possibilidades quase sem limites da nova tecnologia de “maleabilidade” corporal e da tão falada expressividade dos Sims. Sim, eles parecem estar vivos, finalmente.
@@ -44,7 +45,7 @@ Contei toda essa historinha para chegarmos em 2013 e 2014, quando finalmente pod
 ![Imagem do novo SimCity](https://arthrfrts.files.wordpress.com/2018/03/simcity-2013-1024x572.jpg)
 _SimCity (2013)_
 
-Pois agora estou eu aqui experimentando o novo Criar um Sim (chamado amigavelmente de CAS pela comunidade de fãs do jogo) e posso lhes dizer. SimCity e The Sims 4 estão aqui não para serem nossas casinhas de bonecas com gráficos mais bonitos, eles estão aqui para mudar os jogos de simulação da empresa para um novo rumo. O gerenciamento estatístico é posto de lado — ele ainda é importante, mas como um fator e não uma necessidade; há muito mais além dele — para que a interação do jogador com aquilo que ele está construindo seja importante.  É importante você escolher um bom lugar para colocar sua escola no SimCity, porque ela precisará crescer. É importante você escolher o modo de andar do seu novo Sim, porque será como ele passará pela vizinhança — e como seus vizinhos o conhecerão.
+Pois agora estou eu aqui experimentando o novo Criar um Sim (chamado amigavelmente de CAS pela comunidade de fãs do jogo) e posso lhes dizer. SimCity e The Sims 4 estão aqui não para serem nossas casinhas de bonecas com gráficos mais bonitos, eles estão aqui para mudar os jogos de simulação da empresa para um novo rumo. O gerenciamento estatístico é posto de lado — ele ainda é importante, mas como um fator e não uma necessidade; há muito mais além dele — para que a interação do jogador com aquilo que ele está construindo seja importante. É importante você escolher um bom lugar para colocar sua escola no SimCity, porque ela precisará crescer. É importante você escolher o modo de andar do seu novo Sim, porque será como ele passará pela vizinhança — e como seus vizinhos o conhecerão.
 
 Essas novas importâncias são elementos que priorizam algo que a Maxis parece estar ensaiando há algum tempo. Criar um ambiente híbrido para jogadores aficionados por estatísticas e números e no gerenciamento destes; mas também criar uma nova experiência rica em momentos e sentimentos para se contar uma nova história, e é nessa última que The Sims 4 está sendo construído. Ao Criar Um Sim, você não precisa mais ficar horas rolando barras para escolher traços de sua personalidade, você seleciona um desejo e três aspirações que o ajudarão a traçar um caminho para atingí-lo. É uma maneira mais direta de lidar com a vida, mas também é uma maneira mais divertida e também respeitosa.
 

@@ -9,6 +9,7 @@ tags:
   - livros
   - Ian McEwan
 image: "https://arthrfrts.files.wordpress.com/2018/03/serena-capa-672x372.jpg"
+permalink: "/post/622824134953631744/"
 ---
 
 Serena, o livro, começa bem direto. Serena, a personagem, descreve traços básicos de sua personalidade e faz um resumo da história logo na primeira página. Depois, comenta que sua infância e adolescência são desinteressantes e, depois de descrever esses estágios rapidamente, passa para o que nos interessa. De todos os livros do Ian McEwan que eu já li (e eu só não li dois ainda), é o mais dinâmico no seu início. Foge da descrição extensa, mas belíssima, do Reparação, de todo o interlúdio perfeccionista de Amor sem fim, dos longuíssimos devaneios de Sábado, e assim por diante. Mas ele o engana imediatamente aí.
@@ -17,7 +18,7 @@ Ao falar que tudo aquilo não nos interessa, McEwan é hábil. Um dos melhores r
 
 Serena narra a história da personagem título que, ao ser recrutada pelo MI5, vê sua carreira subir e então vertiginosamente ruir por causa de seus amantes, suas missões e um segredando que nos é deixado para a última frase do último parágrafo da última página do livro.
 
-Como muitos outros livros de McEwan, a história não é lá uma novidade. Seguindo uma mistura de Reparação e de O Inocente, em Serena o autor cria uma história de amor e investigação no meio de uma guerra. Mas é em como ele narra a história que nos deleitamos com tudo. A progressão da história, em toda a primeira metade, é lenta e se foca muito mais em Serena na faculdade de Matemática (parte essencial para um desafio de matemática que o autor impõe o leitor no meio do livro), na sua paixão com um professor e seus primeiros meses no MI-5.  É uma narrativa densa em detalhes e monótona, como se a própria envelhecida Serena não se lembrasse muito bem de tudo aquilo (e voltar naquele tempo também não a interessava), que ao conseguir sua grande missão muda completamente para uma dinâmica veloz, ágil e envolvente de paixão e mistérios dentro de mistérios.
+Como muitos outros livros de McEwan, a história não é lá uma novidade. Seguindo uma mistura de Reparação e de O Inocente, em Serena o autor cria uma história de amor e investigação no meio de uma guerra. Mas é em como ele narra a história que nos deleitamos com tudo. A progressão da história, em toda a primeira metade, é lenta e se foca muito mais em Serena na faculdade de Matemática (parte essencial para um desafio de matemática que o autor impõe o leitor no meio do livro), na sua paixão com um professor e seus primeiros meses no MI-5. É uma narrativa densa em detalhes e monótona, como se a própria envelhecida Serena não se lembrasse muito bem de tudo aquilo (e voltar naquele tempo também não a interessava), que ao conseguir sua grande missão muda completamente para uma dinâmica veloz, ágil e envolvente de paixão e mistérios dentro de mistérios.
 
 Os joguetes de matemática durante o livro são só uma das chaves para conseguir solucionar todo o mistério (como em Sábado e Solar, é assustador o modo com que McEwan tem domínio das ciências de seus personagens — a descrição de uma cirurgia no livro de 2005 até hoje me surpreende), detalhes narrativos são importantíssimos e, se uma frase não lhe parecer muito bem encaixada, espere: há um motivo para isso e ele será apontado.
 

@@ -5,6 +5,10 @@
 /{{- post.date | date: "%Y" -}}/{{- post.slug -}}/    {{ post.url | relative_path }}    301
 {%- endfor -%}
 
+{%- for tag in site.tags %}
+/tag/{{ tag[0] }}/    /tagged/{{ tag[0] }}/    301
+{%- endfor -%}
+
 /2020/06/a-vastidao-da-noite      /post/622806395353530368/a-vastidão-da-noite    301
 /2020/06/the-legend-of-zelda-ranking/    /post/622807217329078272/um-ranking-de-todos-os-the-legend-of-zelda    301
 /2020/06/sobre-felicidade/        /post/622807677178970112/sobre-felicidade        301
@@ -28,7 +32,28 @@
 /2014/05/rise-and-shine-mr-freeman/    /post/189392773918/            301
 /2014/05/iliada-de-odyr/                /post/189392839338/           301
 /2014/06/limites-e-demonstracoes-a-brisa-na-estrada-de-kentucky-route-atos-1-e-2/      /post/189392906808/    301
-2014/07/flash-constantine-e-a-oportunidade-do-novo/    /post/622395460918837248/    301
+/2014/07/flash-constantine-e-a-oportunidade-do-novo/    /post/622395460918837248/    301
 /2014/07/o-grande-gatsby-e-a-era-do-jazz/  /post/622395671801184256/  301
 /2014/07/vikings-e-a-tentativa-do-naofalsoreal/    /post/622395936365297664/    301
 /2014/07/dont-hug-me-im-scared-o-limite-das-criatividades/    /post/622396109544947712/    301
+/2014/08/serena-ian-mcewan/    /post/622824134953631744/    301
+/2014/08/the-sims-4-parece-ser-de-uma-nova-maxis/    /post/622824433899520000/    301
+/2014/09/a-cabeca-e-o-coracao/    /post/622824601467174912/    301
+/2015/01/kentucky-route-zero-act-iii-corroi-sua-alma-com-dividas-do-passado/    /post/622825301883404288/    301
+/2015/01/os-10-melhores-de-2014/    /post/622825635739549696/    301
+/2015/02/here-and-there-along-the-echo/    /post/622826024304050176/    301
+/2015/03/looking-a-segunda-temporada/    /post/622826251895308288/    301
+/2015/08/journey/        /post/622826605551681536/    301
+/2015/09/hannibal/      /post/622826805203746816/    301
+/2015/12/cinco-coisas-pra-terminar-2015/    /post/622826983859142657/    301
+/2015/12/space-age/    /post/622827181084753920/    301
+/2015/12/por-uma-vida-melhor/    /post/622827323388985344/     301
+/2015/12/the-leftovers-segunda-temporada/    /post/622827558330859520/    301
+/2015/12/os-melhores-de-2015/    /post/622827971304128512/    301
+/2016/01/community-se-despediu-com-uma-das-suas-melhores-temporadas/    /post/622828174019084288/    301
+/2016/01/animal-crossing-new-leaf/  /post/622828360337440768/    301
+/2016/02/her-story-e-estranho-porem-unico/    /post/622828669835083776/    301
+/2016/02/serial-faz-historia-a-cada-episodio/    /post/622829098229776384/    301
+/2016/02/zodiaco/      /post/622829306484326400/      301
+/2016/02/amor-sem-fim/    /post/622829472778944512/      301
+/2016/02/firewatch/    /post/622829746302205952/    301

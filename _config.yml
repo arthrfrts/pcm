@@ -18,13 +18,12 @@ collections:
     output: true
     permalink: "/autor/:title/"
 
-
 # Build settings
 markdown: kramdown
 incremental: true
 
-url: 'https://paomortadela.com.br' # mudar no merge
-baseurl: ''
+url: "https://paomortadela.com.br" # mudar no merge
+baseurl: ""
 
 permalink: /:year/:month/:title/
 paginate: 8
@@ -33,17 +32,16 @@ paginate_path: "/p:num/"
 include:
   - _redirects
   - _headers
-  
+
 keep_files:
   - ads.txt
   - assets/images
   - assets/js
   - uploads
-  
 
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       image: "/assets/images/default.jpg"
 
@@ -67,7 +65,6 @@ twitter:
   username: paomortadela
   card: summary_large_image
 
-
 # Archives
 jekyll-archives:
   enabled:
@@ -78,4 +75,4 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-    tag: "/tag/:name/"
+    tag: "/tagged/:name/"
