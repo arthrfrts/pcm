@@ -3,18 +3,20 @@ layout: post
 date: 2020-05-05 07:48:00 -03:00
 author: arthurf
 tags:
-- séries
-- Prime Video
-- comédia
-- romance
+  - séries
+  - Prime Video
+  - comédia
+  - romance
 title: Foi assim que Fleabag partiu meu coração
 image: "/uploads/2020/05/05/fleabag.jpg"
 excerpt: "“Vai passar”."
-
+permalink: "/post/622810352178102272/vai-passar"
 ---
+
 Como todo o mundo, no meio do ano passado eu me peguei no meio do furacão que era a segunda temporada de _Fleabag_. A primeira temporada da série inglesa sobre uma mulher tentando levar a vida em meio a um colapso familiar, sexual e profissional é engraçada pra cacete desde o primeiro episódio, com a Fleabag parando a ação para comentários rápidos, muitas vezes sarcásticos, sobre o que está acontecendo ao redor dela. Mas quando _Fleabag_ voltou com tudo, ano passado, ela jogou pro alto todas as regras que tinha criado na primeira temporada e, no caminho, partiu meu coração.
 
 {:.pull}
+
 > É fácil descrever o que acontece na segunda temporada de _Fleabag_, mas caramba se é difícil de descrever o que ela te faz sentir.
 
 As duas temporadas de _Fleabag_ acompanham a personagem principal (a própria criadora da série, Phoebe Waller-Bridge) em momentos especialmente estressantes. Na primeira, acompanhamos ela nas semanas prestes a perder o aluguel do café que ela montou com sua melhor amiga, que morreu e cujo luto abate Fleabag constantemente. Pra ajudar, ela não tem uma boa relação com a madrasta que é cada vez mais central na vida do seu pai, e sua irmã Claire está envolvida em um casamento terrível.

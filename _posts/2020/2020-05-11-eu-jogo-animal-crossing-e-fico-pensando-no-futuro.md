@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2020-05-11 20:44:00 -0300'
+date: "2020-05-11 20:44:00 -0300"
 author: arthurf
 title: Eu jogo Animal Crossing e fico pensando no futuro
 tags:
@@ -12,7 +12,9 @@ image: /uploads/2020/05/11/acnh-capa.jpg
 excerpt: >-
   Jolly good!
 published: true
+permalink: "/post/622809376192872448/eu-jogo-animal-crossing-e-fico-pensando-no-futuro"
 ---
+
 Eu ando pensando bastante em como vai ser daqui pra frente. Acho que todo mundo tá, né. O que vai sobrar depois dessa pandemia? O que vai acontecer? Vamos continuar seguindo rumo ao cataclisma econômico que vai acontecer depois do coronavirus, ou a gente vai parar pra decidir uma alternativa melhor? Agora que uma parte do mundo parou e lembrou que há muito mais além da exploração viciosa do nosso modelo econômico atual, a gente vai querer voltar pra esse ciclo de novo? O peso de ter que produzir mais finalmente vai ser levado em conta?
 
 É isso o que eu penso todos os dias desde a quarentena. Coincidentemente, é mais ou menos o que eu penso todos os dias enquanto eu jogo _Animal Crossing: New Horizons_, desde que ele foi lançado no fim de março. É quase que irônico que o jogo que a Nintendo lançou um jogo sobre criar e cuidar de uma ilha paradisíaca com seus vizinhos simpáticos, onde a fome e a doença nunca vai nos acometer; enquanto grande parte do mundo se recolhia dentro de casa e começava a se distanciar fisicamente das outras pessoas.
@@ -20,6 +22,7 @@ Eu ando pensando bastante em como vai ser daqui pra frente. Acho que todo mundo 
 Já tem muito texto por aí sobre 1. [como _Animal Crossing_ chegou na hora exata](https://www.fanbyte.com/tag/animal-crossing-new-horizons/) (e o sucesso estrondoso do jogo, o maior lançamento da Nintendo de todos os tempos); e 2. [como Tom Nook](https://www.vice.com/en_us/article/g5xwg7/animal-crossings-tom-nook-pleasant-landlord-or-anarcho-capitalist), o tanuki (não é um guaxinim!) que leva você para a ilha paradisíaca e te enche de dívidas [é um monstro capitalista](https://www.youtube.com/watch?v=LeI3F4h2s08). E, honestamente, eu não tenho nada a adicionar sobre esses dois tópicos, os dois são verdade! O jogo me anima um pouco todos os dias, e eu sinto um ódio profundo do Tom Nook todos os dias também!
 
 {:.pull}
+
 > TL;DR: o jogo defende a renda básica da cidadania.
 
 Mas _Animal Crossing_ anda me fazendo pensar bastante no futuro também. No que ele poderia ser.

@@ -1,7 +1,18 @@
 ---
 ---
 
-/2019/2019-04-24-au-revoir-agn-s-varda/     /2019/04/au-revoir-agnes-varda/      301
 {%- for post in site.posts %}
 /{{- post.date | date: "%Y" -}}/{{- post.slug -}}/    {{ post.url | relative_path }}    301
 {%- endfor -%}
+
+/2019/2019-04-24-au-revoir-agn-s-varda/     /2019/04/au-revoir-agnes-varda/      301
+/2020/06/a-vastidao-da-noite      /post/622806395353530368/a-vastidão-da-noite    301
+/2020/06/the-legend-of-zelda-ranking/    /post/622807217329078272/um-ranking-de-todos-os-the-legend-of-zelda    301
+/2020/06/sobre-felicidade/        /post/622807677178970112/sobre-felicidade        301
+/2020/05/eu-nao-sei-se-vou-conseguir-ver-o-fim-do-mundo-na-tv/    /post/622808298060644353/eu-não-sei-se-vou-conseguir-ver-o-fim-do-mundo-na    301
+/2020/05/no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso/    /post/622808577314258944/no-fim-das-contas-eu-me-reapaixonei-por-música-no    301
+/2020/05/por-que-community-e-tao-especial-pra-mim/     /post/622808783371091968/por-que-community-é-tão-especial-pra-mim    301
+/2020/05/eu-jogo-animal-crossing-e-fico-pensando-no-futuro/    /post/622809376192872448/eu-jogo-animal-crossing-e-fico-pensando-no-futuro    301
+/2020/05/os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena/    /post/622809777625612288/os-filmes-de-kelly-reichardt-oferecem-um-conforto    301
+/2020/05/foi-assim-que-fleabag-partiu-meu-corac-a-o/      /post/622810352178102272/vai-passar      301
+/2020/05/bem-ola/    /post/622810705388797952/bem-olá      301

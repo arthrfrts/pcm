@@ -12,6 +12,7 @@ tags:
   - comédia
   - Netflix
   - Prime Video
+permalink: "/post/622808783371091968/por-que-community-é-tão-especial-pra-mim"
 ---
 
 Essa é a quarta vez que eu escrevo sobre _Community_ pro Pão com Mortadela. Nas duas primeiras vezes, eu escrevi sobre temporadas específicas enquanto elas iam ao ar. Ano passado, eu escrevi [sobre um episódio específico](https://paomortadela.com.br/2019/03/remedial-chaos-theory-e-o-episodio-mais-importante-de-community/). _Community_ é o tema que mais rendeu posts aqui no Pão, é a minha série favorita, e é o que eu estou sempre pensando sobre. Essa é a quarta vez que eu escrevo sobre _Community_ pro Pão, e muito provavelmente não vai ser a última.
