@@ -7,6 +7,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/pokemon-20.jpg"
 category: Reconsiderações
 tags:
   - jogos
+permalink: "/post/622831237314347008/"
 ---
 
 _Pokémon_ fez vinte anos nesse último sábado, dia 27. Fazia anos que eu não enxia meus olhos com tantos dos monstrinhos de bolso que eu sempre amei.
