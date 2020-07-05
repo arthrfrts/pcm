@@ -5,7 +5,6 @@
 /{{- post.date | date: "%Y" -}}/{{- post.slug -}}/    {{ post.url | relative_path }}    301
 {%- endfor -%}
 
-/2019/2019-04-24-au-revoir-agn-s-varda/     /2019/04/au-revoir-agnes-varda/      301
 /2020/06/a-vastidao-da-noite      /post/622806395353530368/a-vastidão-da-noite    301
 /2020/06/the-legend-of-zelda-ranking/    /post/622807217329078272/um-ranking-de-todos-os-the-legend-of-zelda    301
 /2020/06/sobre-felicidade/        /post/622807677178970112/sobre-felicidade        301
@@ -15,4 +14,21 @@
 /2020/05/eu-jogo-animal-crossing-e-fico-pensando-no-futuro/    /post/622809376192872448/eu-jogo-animal-crossing-e-fico-pensando-no-futuro    301
 /2020/05/os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena/    /post/622809777625612288/os-filmes-de-kelly-reichardt-oferecem-um-conforto    301
 /2020/05/foi-assim-que-fleabag-partiu-meu-corac-a-o/      /post/622810352178102272/vai-passar      301
-/2020/05/bem-ola/    /post/622810705388797952/bem-olá      301
+/2020/05/bem-ola/                      /post/622810705388797952/bem-olá      301
+/2014/08/burnout-paradise/             /post/622812623786885120/      301
+/2014/07/grandes-astros-superhomem/    /post/622812740789108736/      301
+/2014/02/uma-aventura-lego/            /post/189392086238/            301
+/2014/01/o-anjo-exterminador/          /post/189391748838/            301
+/2014/02/true-detective/               /post/189391903883/            301
+/2014/02/ela/                          /post/189392182953/            301
+/2014/02/sweet-tooth/                  /post/189392251373/            301
+/2014/03/sherlock/                     /post/189392304813/            301
+/2014/04/community/                    /post/189392528838/            301
+/2014/04/o-mito-do-garotodeduascabecas/      /post/189392613243/      301
+/2014/05/rise-and-shine-mr-freeman/    /post/189392773918/            301
+/2014/05/iliada-de-odyr/                /post/189392839338/           301
+/2014/06/limites-e-demonstracoes-a-brisa-na-estrada-de-kentucky-route-atos-1-e-2/      /post/189392906808/    301
+2014/07/flash-constantine-e-a-oportunidade-do-novo/    /post/622395460918837248/    301
+/2014/07/o-grande-gatsby-e-a-era-do-jazz/  /post/622395671801184256/  301
+/2014/07/vikings-e-a-tentativa-do-naofalsoreal/    /post/622395936365297664/    301
+/2014/07/dont-hug-me-im-scared-o-limite-das-criatividades/    /post/622396109544947712/    301

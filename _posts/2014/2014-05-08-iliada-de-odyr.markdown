@@ -8,6 +8,7 @@ tags:
   - tirinhas
 author: filliped
 image: "https://arthrfrts.files.wordpress.com/2018/03/iliada4b-672x372.jpg"
+permalink: "/post/189392839338/"
 ---
 
 São poucas as emoções que são comuns a todas – ou quase todas – as culturas do planeta. Sete ao todo, se não me engano. Nessas emoções, experimentadas pela maioria de nós todos os dias, cada indivíduo ensaia sua própria rotina subjetiva de sentimentos. Os sentimentos, então, são as experiências pessoais de cada um com algum tipo de emoção.

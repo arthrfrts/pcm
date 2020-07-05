@@ -9,11 +9,12 @@ tags:
   - Community
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/community_8-bit.jpg"
+permalink: "/post/189392528838/"
 ---
+
 Criar uma mitologia densa em uma série de TV é difícil, principalmente no circuito norte-americano. São muitos os requisitos dados pela emissora que os criadores devem seguir, e há sempre a incerteza da continuidade, uma vez que a autorreferência que uma mitologia complexa implica geralmente diminui seu público. Quando acontece, é aplaudido de pé, como no caso de _Breaking Bad_, _Família Soprano_ e, em um caso mais recente, _True Detective_. Mas essas séries não trabalham com o elemento mais difícil de se lidar no entretenimento: o humor.
 
 É aí que mora a genialidade de _Community_, uma série de comédia que, em episódios de vinte minutos na NBC (o SBT dos EUA), conseguiu criar um universo rico em elementos fantásticos, expandindo e reutilizando-o a cada novo episódio. E tudo em função do humor — o que torna as autorreferências da série ainda mais fascinantes.
-
 
 _Community_ começou em 2009 com uma temporada morna. Os primeiros cinco ou seis episódios ainda não tinham um humor dinâmico que caracterizaria a série depois, e justamente por precisar sedimentar um território, personagens e características para que seu humor funcionasse, acabou por tornar os primeiros episódios, vendo agora, em peças menores no quadro geral. Quando engrena, porém, _Community_ se transforma em um monstro incontrolável que não perdoa nem mesmo sua emissora ou seus espectadores: todos estão sujeitos à entrar no enorme tabuleiro de referências da série.
 
@@ -21,7 +22,7 @@ Apenas mais uma série de humor normal onde seus personagens acabam se transform
 
 Conhecemos Jeff, um advogado que teve seu diploma cassado por ser falso; Britta, uma jovem idealista que, por trás de suas ideias, não tem muita coisa; Annie, uma nerd que acabou de sair de uma clínica de reabilitação; Shirley, uma dedicada e religiosa mãe com dois (e depois três) filhos; Troy, um ex-capitão do time de futebol; Pierce, um velho que está na faculdade há uns 40 anos; e Abed, um estudante de cinema que encontra na vida os padrões que fazem ele perceber que tudo é uma série de TV. Os sete de Greendale, como eles seriam chamados na terceira temporada, não passam de um grupo de fracassados e esquisitos, que acabam criando um grupo de estudos para estudar Espanhol e que, a partir daí, descobrem que o que há de mais normal em Greendale são eles.
 
-É Greendale a personagem principal de _Community_. Ao decorrer das cinco temporadas (à exceção da quarta, uma desgraça), os roteiristas da série se interessam em desvendar os deliciosos segredos da faculdade comunitária que une esses sete personagens (que, em um episódio em específico, vê como tudo estava entrelaçado para acontecer). São aulas fantásticas (escadas, idioma dos bebês, dá para fritar?), eventos únicos (ocktoberfest em agosto, concurso da  milionésima descarga, festa de halloween com zumbis de verdade) e setores fascinantes (o apêndice do ar-condicionado, o misterioso trampolim) que tornam a Greendale _Community_ College num prato cheio para situações inusitadas, onde brincadeiras de criança são assunto sério, guerras de paintball geralmente levam à morte e, bem, até mesmo portais interdimensionais se abrem.
+É Greendale a personagem principal de _Community_. Ao decorrer das cinco temporadas (à exceção da quarta, uma desgraça), os roteiristas da série se interessam em desvendar os deliciosos segredos da faculdade comunitária que une esses sete personagens (que, em um episódio em específico, vê como tudo estava entrelaçado para acontecer). São aulas fantásticas (escadas, idioma dos bebês, dá para fritar?), eventos únicos (ocktoberfest em agosto, concurso da milionésima descarga, festa de halloween com zumbis de verdade) e setores fascinantes (o apêndice do ar-condicionado, o misterioso trampolim) que tornam a Greendale _Community_ College num prato cheio para situações inusitadas, onde brincadeiras de criança são assunto sério, guerras de paintball geralmente levam à morte e, bem, até mesmo portais interdimensionais se abrem.
 
 {: .full-width}
 ![Imagem de Community](https://arthrfrts.files.wordpress.com/2018/03/community304.jpg)

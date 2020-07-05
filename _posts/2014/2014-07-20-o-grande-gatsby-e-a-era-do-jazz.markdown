@@ -8,6 +8,7 @@ tags:
   - livros
 author: filliped
 image: "https://arthrfrts.files.wordpress.com/2018/03/168a2311556945-560f9956043e7.jpg"
+permalink: "/post/622395671801184256/"
 ---
 
 > “Demonstrou interesse em ter a minha opinião sobre esse novo livro – tratava-se de O Grande Gatsby – e prometeu que me emprestaria o último e único exemplar que possuía, tão logo fosse devolvido por uma pessoa a quem emprestara. Ouvindo-o falar assim tão displicentemente de O Grande Gatsby, ninguém pensaria que se tratasse de um romance tão bom, a não ser que estivesse familiarizado com essa maneira que os escritores de verdade têm de se referir com certa vergonha aos seus melhores trabalhos.”
@@ -19,6 +20,7 @@ Assim fala Ernest Hemingway sobre um de seus encontros com Francis Scott Fitzger
 _Francis e Zelda Fitzgerald no rolezinho._
 
 ## Considerações sobre os anos 20
+
 A década de vinte foi marcada pelo fim da Primeira Guerra Mundial, que resultou em uma boa fase econômica nos Estados Unidos, enquanto a Europa lidava com os pepinos do pós-guerra. Entretanto, aproveitando-se da prosperidade americana, os jovens da época – principalmente da burguesia – criavam uma realidade de quebras, buscando novos caminhos em meio às artes e novas maneiras de aproveitar a vida, o que culminou em uma era de euforia, entusiasmo, noites de bares cheios de longas conversas com poetas, músicos e escritores e festas da alta sociedade que contavam com as mentes mais brilhantes de sua época.
 
 Claro, também havia o outro lado, como o da _génération perdue_, como batizara Gertrude Stein àqueles que serviram na guerra. Hemingway mostrou como era difícil a vida de um escritor e jornalista que trabalhava para manter a esposa e o filho em Paris: os dias que passara sem comer; as perigosas porém necessárias apostas em cavalos; as dificuldades criativas enfrentadas pelo escritor, mas, acima de tudo, lembra de como sempre haviam as belas luzes da cidade e um amor sempre a sua espera . Uma parte da desigualdade da época é mostrada na adaptação cinematográfica de _O Grande Gatsby_, na fala de Daisy: “rich girls don’t marry poor boys”.
