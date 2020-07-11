@@ -63,11 +63,9 @@ Mas essa ideia de amor romântico, monogâmico, não pode ser dita também assim
 No final das contas o filme parece dizer que é isso mesmo, que só existe amor porque um dia alguém inventou. E mostra que é menos doloroso percebê-lo como artificio, e tentar criar a partir disso a sua própria verdade. Porque sentimentos são também fruto de esforços, de tentativa e erro - de encontros planejados.
 
 Acho que o lance do "amor de verdade" pode levar a uma interpretação que não é bem o que eu quis dizer, acho melhor não arriscar. Acabei mudando o resto da frase pra fazer mais sentído.
-
 ---
 
 **Onde posso assistir _Viajo Porque Preciso, Volto Porque Te Amo_?** O filme possui uma linda edição que acompanha um livro com a transcrição dos relatos de José — ela [está disponível na Amazon](https://www.amazon.com.br/Viajo-porque-preciso-volto-amo/dp/8569298129). Você também pode assistir o filme no [YouTube](https://www.youtube-nocookie.com/watch?v=gperj-foF_0).
-
 ---
 
 Já que falamos em Guimarães Rosa, talvez seja interessante aproveitar a carona de Ainouz e seguir viagem pelos afetos destes sertões:

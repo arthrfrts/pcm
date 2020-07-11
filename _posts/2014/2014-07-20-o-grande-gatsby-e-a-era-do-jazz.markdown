@@ -8,7 +8,6 @@ tags:
   - livros
 author: filliped
 image: "https://arthrfrts.files.wordpress.com/2018/03/168a2311556945-560f9956043e7.jpg"
-permalink: "/post/622395671801184256/"
 ---
 
 > “Demonstrou interesse em ter a minha opinião sobre esse novo livro – tratava-se de O Grande Gatsby – e prometeu que me emprestaria o último e único exemplar que possuía, tão logo fosse devolvido por uma pessoa a quem emprestara. Ouvindo-o falar assim tão displicentemente de O Grande Gatsby, ninguém pensaria que se tratasse de um romance tão bom, a não ser que estivesse familiarizado com essa maneira que os escritores de verdade têm de se referir com certa vergonha aos seus melhores trabalhos.”
@@ -36,7 +35,6 @@ Apesar de ter sido lançado em 1925, o livro abrange o período de 1890 até 192
 Em West Egg, Nick conhece Jay Gatsby, um bilionário famoso pelas festas que dá em sua mansão, todas as noites. A fortuna de Jay é motivo de desconfiança – assim como o motivo de tantas festas, já que ninguém parece realmente conhecer seu anfitrião -, mesmo entre aqueles que frequentam sua casa todas as noites. Nick também é vizinho de sua prima Daisy e seu marido Tom Buchanan, um ex-atleta supersticioso e com manias de leitura. Seu casamento não tem ido muito bem, e alguns desconfiam que Tom tenha um caso, ideia sustentada pela melhor amiga de Daisy, a jogadora de golf Jordan Baker. As relações entre os personagens vão sendo construídas aos poucos, tendo Nick como espectador, o que nos ajuda a entender melhor as estranhas situações às quais ele é submetido, ora por Gatsby, ora por Tom.
 
 A escrita tranquila e quase musical de Fitzgerald faz com que não esperemos, como diz Hemingway, que esse seja um romance tão incrivelmente bom e com um auge tão triste e sombrio. Como conta um membro da _génération perdue_, quando entrava nos cafés em Paris e via todas aquelas pessoas bebendo juntas e conversando: poetas, dançarinas, músicos, pintores, modelos e algumas “pessoas enfeites”, ele sabia que estavam interessados uns nos outros, e que esse interesse era movido pelo ambiente, pela cidade, pelas luzes, pela bebida e pela música. Ele sabia que teria uma boa noite.
-
 ---
 
 Dessa forma, esse mesmo sentimento se mantém vivo quando você lê _O Grande Gatsby_. Os personagens, os lugares, as situações: tudo é tão familiar e amigável quanto uma reunião com velhos amigos. Uma viagem mágica ao coração da tão sonhada era do jazz.

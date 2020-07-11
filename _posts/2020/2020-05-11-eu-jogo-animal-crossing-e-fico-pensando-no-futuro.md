@@ -12,7 +12,6 @@ image: /uploads/2020/05/11/acnh-capa.jpg
 excerpt: >-
   Jolly good!
 published: true
-permalink: "/post/622809376192872448/eu-jogo-animal-crossing-e-fico-pensando-no-futuro"
 ---
 
 Eu ando pensando bastante em como vai ser daqui pra frente. Acho que todo mundo tá, né. O que vai sobrar depois dessa pandemia? O que vai acontecer? Vamos continuar seguindo rumo ao cataclisma econômico que vai acontecer depois do coronavirus, ou a gente vai parar pra decidir uma alternativa melhor? Agora que uma parte do mundo parou e lembrou que há muito mais além da exploração viciosa do nosso modelo econômico atual, a gente vai querer voltar pra esse ciclo de novo? O peso de ter que produzir mais finalmente vai ser levado em conta?

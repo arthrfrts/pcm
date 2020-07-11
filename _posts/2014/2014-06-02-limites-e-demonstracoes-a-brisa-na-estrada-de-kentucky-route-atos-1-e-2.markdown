@@ -9,7 +9,6 @@ tags:
   - aventura
   - Kentucky Route Zero
 image: "https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-1-672x372.jpg"
-permalink: "/post/189392906808/"
 ---
 
 Você é Conway, um vivido motorista. Você dirige uma camionete igualmente velha, acompanhado de um cão igualmente velho. Você para em Equus Oils, um posto de gasolina esquecido no tempo, assim como você. Nele, está Joseph, um velho poeta, talvez cego, sentado entre duas bombas de gasolina. Você pergunta como chegar à Zero, uma estrada na qual nunca ouviu falar. Você precisa chegar lá para fazer uma entrega na Dogwood Drive, 5. Ele não sabe, mas conhece alguém que saiba. Você precisa ir até a casa dela. Você precisa fazer essa entrega.

@@ -10,7 +10,6 @@ tags:
 title: Os filmes de Kelly Reichardt oferecem um conforto estranho durante a quarentena
 image: "/uploads/2020/05/08/wendy-lucy.jpg"
 excerpt: Filmando o grande céu que nos protege (e nos cerca).
-permalink: "/post/622809777625612288/os-filmes-de-kelly-reichardt-oferecem-um-conforto"
 ---
 
 Eu me tornei fã de carteirinha da diretora americana Kelly Reichardt desde quando eu vi _Certas Mulheres_ pela primeira vez, depois do meu amigo Leo recomendar o filme dizendo que “é exatamente o tipo de filme que eu gosto”. O Leo acertou em cheio, _Certas Mulheres_ podia muito bem se chamar “Arthur Freitas Favorite Hits™”. Desde então eu assisti todos os outros filmes da diretora, e espero ansiosamente pelo _First Cow_ que ela lançou ano passado.

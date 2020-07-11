@@ -8,7 +8,6 @@ tags:
   - requentando
   - jogos
   - corrida
-permalink: "/post/622812623786885120/"
 ---
 
 Antes de levar o nome da franquia Need for Speed de volta ao topo dos jogos de corrida nessa geração com dois jogos excelentes (suas visões dos clássicos Hot Pursuit e Most Wanted), a Criterion já era um estúdio amado pela indústria. Seus títulos demoravam um tempo não muito curto, mas também não muito longo, e Black e a série Burnout sempre impressionaram por sua qualidade.

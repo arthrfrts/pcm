@@ -8,7 +8,6 @@ tags:
   - esquinas
   - séries
   - drama histórico
-permalink: "/post/622395936365297664/"
 ---
 
 Há algum tempo eu li um artigo sobre os realities que incendiavam a tv americana e lançavam um indício de chamas por aqui também. Quem acompanha os canais da tv à cabo, de maneira geral mesmo, pode notar como o esse tipo de programa é recorrente nas mais diversas emissoras. Temos uma vastíssima variedade, que vai desde mulheres seminuas na Multishow, até caras em mega oficinas no Discovery. Em uma cerimônia do Emmy, um de seus apresentadores chegou a brincar que um dia os roteiristas não seriam mais necessários, já que as maiores audiências da tv eram de reality shows.

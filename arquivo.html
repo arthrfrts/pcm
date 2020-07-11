@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Arquivos e tags
+permalink: "/arquivo/"
 
 ---
 <p>Desde 2013, já foram publicados {{ site.posts | size }} posts no Pão com Mortadela. Se você estiver procurando algo em específico, talvez a busca te ajude:</p>
@@ -26,7 +27,7 @@ title: Arquivos e tags
 <dl>
   {%- for column in site.data.columns -%}
   <dt>
-    <a href="{{ column.title | slugify | prepend: '/tag/' }}" rel="tag">{{ column.title }}</a>
+    <a href="{{ column.title | slugify | prepend: '/arquivo/' }}" rel="tag">{{ column.title }}</a>
   </dt>
   <dd>{{ column.description | markdownify }}</dd>
   {%- endfor -%}

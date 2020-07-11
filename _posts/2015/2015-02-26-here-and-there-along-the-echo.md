@@ -8,7 +8,6 @@ tags:
   - resenhas
   - jogos
   - Kentucky Route Zero
-permalink: "/post/622826024304050176/"
 ---
 
 Não só uma das melhores experiências jogáveis dos últimos anos, *Kentucky Route Zero* é um incrível criador de lendas. Seu universo calcado no realismo fantástico, com fortes referências à literatura romântica e ao cinema de Tarkovsky (principalmente _Stalker_ e *Solaris*) dão aos ambientes e aos personagens do jogo dividido em cinco atos uma aura emblemática e inquisitiva. Não dá pra não se sentir preso ao universo de _KR0_ para descobrir os mistérios por baixo da encenação teatral.
@@ -22,7 +21,6 @@ Claro, há surpresas. Em determinados momentos, o narrador cita alguns números 
 O que é libertador, diga-se de passagem. Porque, uma vez que todos os jogos que sustentam esse universo de *KR0* são frutos de grandes interpretações quanto ao *game design*, e a discussão se eles são jogos ou não acaba sempre soterrando as qualidades do produto. Sim: *Here and There Along The Echo* é um jogo. Pode ter apenas uma tela, mas a interação está ali — e a dedicação do jogador se faz presente com força. Não há, porém, personagens a serem moldados pelo jogador, nem escolha do próximo destino. em *Here And There Along The Echo*, você decide qual a história que você quer ouvir.
 
 E, diga-se de passagem, essa experiência vale mais a pena que muitas outras por aí.
-
 ---
 
 **Onde posso jogar *Here And There Along The Echo*?** O jogo está disponível gratuitamente para Windows, Mac e Linux. [O download pode ser feito no site oficial de *Kentucky Route Zero*](http://kentuckyroutezero.com/here-and-there-along-the-echo/ "Here And There Along The Echo"). Você também pode jogar através do telefone, discando para o número indicado no site — mas lembre-se: é um telefone americano, e taxas internacionais serão cobradas.

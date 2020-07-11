@@ -21,7 +21,6 @@ Dante foi e voltou do céu e inferno sem consumir sequer uma barrinha de cereais
 Com o passar do tempo o consumo, e a cultura que dele imana, tornaram-se importantes demais para ficar de fora do estudo social esboçado pelos autores da literatura. Pode-se dizer que as questões relativas a cultura do consumo são responsáveis diretas pela forma com que a sociedade se organizou desde sempre, e isso faz com que, no momento em que a arte (novamente ocidental, anglo-saxã) começa a conseguir se libertar de suas funções religiosas, é bastante natural que, aos poucos, o consumo vá ganhando notoriedade como tema sob o qual as estórias encontram algum tipo de represamento e direção.
 
 É pensando em tudo isso que podemos relegar um olhar mais preparado na recepção de _Os Ratos_, romance de Dyonélio Machado.
-
 ---
 
 O romance nos mostra Naziazeno, um funcionário público que precisa pagar sua dívida de 53 mil réis ao leiteiro, que ameaça cortar o abastecimento caso a dívida não seja sanada até o final do dia. A gritaria do leiteiro é tanta que Naziazeno sente vergonha de fazer o caminho habitual até o trabalho naquela manhã, sente vergonha dos vizinhos, tem a impressão de que todos o observam e cochicham ao seu respeito. O romance se passa em um período de 24 horas, e mostra as andanças da personagem abaixo do sol do verão porto-alegrense, atrás da pífia quantia (o equivalente a 120 - 160 reais).

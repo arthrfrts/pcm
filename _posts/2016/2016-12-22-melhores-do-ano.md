@@ -29,7 +29,6 @@ Que Beyoncé está colocando seu plano de dominação mundial em prática, todo 
 Beyoncé navega no seu álbum mais coeso nessa sua fase mais madura que começou no autointitulado de 2013, explorando diversas vertentes da história da música norte-americana na excelente “Daddy Lessons”, gritando suas agonias em “Freedom”, ou dando seu grito de guerra em “Formation”. 2016 pode ter sido o ano de eventos fatídicos por aqui, _Lemonade_ dá uma ponta de esperança de que, em tempos agoniantes, a arte estará lá para expressar nossos medos e nossa vontade de lutar. Se a vida nos dá limões, aprendemos a fazer limonada. Se a vida dá agonia à Beyoncé, ela faz sua obra-prima.
 
 **Também consideramos:** _Blackstar_ (David Bowie); _A Moon Shaped Pool_ (Radiohead); _You Want It Darker_ (Leonard Cohen); _Skeleton Tree_ (Nick Cave & the Bad Seeds); _Blood Orange_ (Freetown Sound).
-
 ---
 
 ## 4. O melhor jogo: _Firewatch_.
@@ -42,7 +41,6 @@ Poucos jogos conseguem o efeito absorvente e imediato de um conto. Primeiro, por
 _Firewatch_, o jogo de estréia da Campo Santo, é um desses jogos que te prendem imediatamente, e te faz absorver na pele de Henry, um homem de meia-idade que vai para o meio de um parque ambiental após uma tragédia pessoal. Lá, ele conhece Delilah, também guarda ambiental. A jornada de _Firewatch_ é, porém, bastante simples: a história do relacionamento de duas pessoas que passaram por alguns maus bocados e decidiram se isolar no meio da mata. Quando eles percebem que alguém está ouvindo as conversas (que crescem em intimidade), eles começam a especular o que poderia ser. _Firewatch_ não foge da realidade, como qualquer outro jogo faria: não há um plano maléfico por trás, não há uma grande trama envolvendo o estado (embora os comentários sobre a NSA estejam ali). É apenas a história de duas pessoas, imperfeitas como qualquer outras, e não de bonecos animados com alguns bugs. Se existe algum elogio melhor para um jogo, eu não saberia dizer qual é.
 
 **Também consideramos:** _Kentucky Route Zero, Act IV_ (Cardboard Computer); _The Last Guardian_ (Sony Computer Entertainment); _Neighbor_ (Cardboard Computer); _Inside_ (Playdead); _Battlefield 1_ (Electronic Arts); _Pokémon Sun & Moon_ (Nintendo).
-
 ---
 
 ## 3. A melhor série: _Halt & Catch Fire_.
@@ -58,7 +56,6 @@ Deixando apra trás os ecos que a tornavam uma _Mad Men_ sobre o Vale do Silíci
 
 **Também consideramos:** _The Americans_ (FX); _Veep_ (HBO); _Westworld_ (HBO);
 _High Maintenance_ (HBO); _The Night Of_ (HBO); _Insecure_ (HBO); _Atlanta_ (FX); _The People v. O. J. Simpson: American Crime Story_ (FX); _BoJack Horseman_ (Netflix); _Silicon Valley_ (HBO).
-
 ---
 
 ## 2. O melhor filme: _Aquarius_.
@@ -70,7 +67,6 @@ Não existe nada tão monumental como _Aquarius_ no cinema esse ano. Foda-se, si
 E, para todos os efeitos, _Aquarius_ é. Eu ainda não vi _Toni Erdmann_, que muitos consideram o grande filme do ano, mas a magnetude que _Aquarius_ atinge em cada cena, em cada fotograma em tela, é surpreendente. Em um filme, que viaja pela música brasileira de forma sublime, tão preocupado em registrar a memória, o nosso bem mais pessoal e mais inatingível, Kleber Mendonça Filho extrapola as qualidades do seu cinema, já apresentados em _O Som Ao Redor_, em um filme de força, que revela não só os percalços do brasileiro no dia-a-dia, nossa luta contra o nosso próprio preconceito, mas também contra um sistema que visou, por tanto tempo, lutar contra a igualdade. _Aquarius_ é um manifesto, sim, mas também é um _tour-de-force_ para Sônia Braga, que toma o filme para si e transforma _Aquarius_ na obra-prima que é. _Aquarius_ pode ser sobre qualquer problema do Brasil hoje em dia, mas antes de tudo, é um filme sobre Clara. E Clara, que escuta tanto Queen quanto Gilberto Gil, representa muito mais esse país que um homem que tem medo de sair na rua pra ser vaiado. Que _Aquarius_, em todo o seu monumento ao cinema e à memória, viva para sempre na história.
 
 **Também consideramos:** _O Abraço da Serpente_ (Ciro Guerra); _A Bruxa_ (Robert Eggers); _A Chegada_ (Denis Villeneuve); _Cemitério do Esplendor_ (Apichatpong Weerasethakul); _Looking: O Filme_ (Andrew Haigh).
-
 ---
 
 ## 1. O melhor do ano: _O Coração é Um Caçador Solitário_.

@@ -6,7 +6,6 @@ title: Karen O finalmente explora seus tons mais delicados em Crush Songs
 image: "https://arthrfrts.files.wordpress.com/2018/03/crush-songs.jpg"
 tags:
   - músicas
-permalink: "/post/622830548134625280/"
 ---
 
 Em _It's Blitz!_ é [“Skeletons”](https://youtu.be/6ZnIDwnWJtA). Em _Fever to Tell_, [“Maps”](https://youtu.be/oIIxlgcuQRU). Todo álbum do Yeah Yeah Yeahs apresenta, em meio aos gritos raivosos e os tons incontidos, uma música em os tons mais delicados e melancólicos de Karen O. E Karen O sabe lidar com sua voz em um tom doce. [“The Moon Song”](https://soundcloud.com/warner-bros-pictures/karen-o-the-moon-song), canção do filme _Ela_, não é só linda – é devastadora. O sussuro que encerra “Food Is Still Hot”, na trilha-sonora de _Onde Vivem Os Monstros_, é o que precisa para você se emocionar.

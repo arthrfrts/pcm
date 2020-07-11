@@ -1,20 +1,4 @@
-<aside class="sidebar">
-  {%- if site.notes.size > 0 -%}
-    <section class="links">
-      <h4>Rapidinhas</h4>
-      
-      <ul>
-        {%- assign notes = site.notes | sort: "date" | reverse -%}
-        
-        {%- for note in notes limit: 6 -%}
-          <li><a href="{{- note.permalink -}}" rel="bookmark">{{- note.content | remove: "<p>" | remove: "</p>" -}}</a></li>
-        {%- endfor -%}
-      </ul>
-      
-      <a class="twitter_link" href="https://twitter.com/paomortadela" rel="external">Siga o PCM no Twitter para mais links</a>
-    </section>
-  {%- endif -%}
-  
+<aside class="sidebar">  
   {%- if jekyll.environment == "production" -%}
     <!-- Barra lateral -->
     <ins class="adsbygoogle"

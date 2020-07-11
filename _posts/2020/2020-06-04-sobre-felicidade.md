@@ -11,7 +11,6 @@ tags:
   - livros
   - romance
 published: true
-permalink: "/post/622807677178970112/sobre-felicidade"
 ---
 
 No início dessa semana um amigo meu desabafou como ele se sentia mal por estar feliz em tempos como esses, em que o povo precisa ir à rua em meio à maior pandemia do último século para lutar contra o fascismo, para defender sua comunidade contra o racismo estrutural que quer destruí-la e apagá-la da história por centenas de anos (e que já se provou eficaz em fazer isso). Eu passei o resto da semana pensando nisso, porque é um desabafo tão forte e tão honesto pra se ter. As coisas não estão indo bem, como é que a gente encontra motivos pra estar feliz no meio disso?
@@ -35,7 +34,6 @@ Mas ainda assim é lindo, e Tish e Fonny encontram felicidade nesses lugares: co
 Mesmo assim, são esses os momentos que Tish lembra pra ganhar forças e seguir em frente. Pra ir no tribunal e fazer sua parte. Pra dar à luz ao filho do amor que existe. A tragédia, _Se a Rua Beale Falasse_ parece indicar, não é que Tish e Fonny estão separados, como as histórias de amor tendem a retratar. Mas porque há uma força que as impede de ficar juntos. Essa é a tragédia.
 
 A felicidade é tão breve e passageira, e nos alcança sempre acompanhada de algum outro sentimento — uma pitada de saudade, ou talvez de medo — que eu não sei se ela é capaz de nos cegar para a tragédia. Ao contrário, eu acho que ela nos ajuda a enxergar melhor. A fazer sentido do caos, a nos lembrar do que nos move. Ela nos dá perspectiva e nos dá esperança, e batalhar para que mais pessoas possam sentir algo assim vale a pena.
-
 ---
 
 [^1]: Eu li o livro depois de ver o filme, mas é incrível e eu recomendo muito (os dois, vai nos dois tranquilo), mas como eu não sei muito comentar sobre literatura eu vou tentar ficar só no filme, que vou saber explicar meu ponto melhor.

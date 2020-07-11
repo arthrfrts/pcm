@@ -7,7 +7,6 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/25a65c1dd531ebd70a74e260e8
 tags:
   - descobertas
   - músicas
-permalink: "/post/622824601467174912/"
 ---
 
 Pra começar essa ótima semana, a dica é The Head and the Heart.

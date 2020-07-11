@@ -10,7 +10,6 @@ tags:
   - listas
   - Nintendo
 published: true
-permalink: "/post/622807217329078272/um-ranking-de-todos-os-the-legend-of-zelda"
 ---
 
 Desde o dia que eu terminei de fazer [meu ranking de *Super Mario*](https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/) eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.

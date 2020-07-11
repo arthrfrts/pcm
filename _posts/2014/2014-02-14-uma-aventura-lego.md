@@ -10,7 +10,6 @@ tags:
   - animação
   - brinquedos
 image: "https://i.imgur.com/JY96DhZ.jpg"
-permalink: "/post/189392086238/"
 ---
 
 Uma Aventura LEGO tinha um zilhão de chances de dar errado. Poderia acabar sendo um grande comercial das peças de montar, ou um monte de referências que crianças não entenderiam e que os adultos não gostariam (como nos dois últimos Shrek). Mas não: Uma Aventura LEGO acertou em cheio.

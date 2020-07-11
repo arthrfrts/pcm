@@ -9,7 +9,6 @@ tags:
   - drama
   - HBO
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-leftovers-2.jpg"
-permalink: "/post/622827558330859520/"
 ---
 
 Se a primeira temporada de _The Leftovers_ parecia demais com a última temporada de _Lost_, a produção anterior de Damon Lindelof, esse ano a série da HBO supera comparações e vai além. Em sua segunda temporada, _The Leftovers_ se transformou em um dos melhores shows da TV — não com um grito, mas com um suspiro.

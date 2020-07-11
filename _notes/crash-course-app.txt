@@ -1,6 +1,0 @@
----
-date: 2020-05-05 10:25:31 -03:00
-permalink: https://youtu.be/JfMmzx67Krw
-
----
-O Crash Course lançou um app pra iOS e Android com acesso fácil aos vários cursos gratuitos que eles oferecem (todos os cursos continuam disponíveis de graça no YouTube).

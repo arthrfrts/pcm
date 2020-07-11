@@ -9,7 +9,6 @@ tags:
   - Community
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/community_8-bit.jpg"
-permalink: "/post/189392528838/"
 ---
 
 Criar uma mitologia densa em uma série de TV é difícil, principalmente no circuito norte-americano. São muitos os requisitos dados pela emissora que os criadores devem seguir, e há sempre a incerteza da continuidade, uma vez que a autorreferência que uma mitologia complexa implica geralmente diminui seu público. Quando acontece, é aplaudido de pé, como no caso de _Breaking Bad_, _Família Soprano_ e, em um caso mais recente, _True Detective_. Mas essas séries não trabalham com o elemento mais difícil de se lidar no entretenimento: o humor.

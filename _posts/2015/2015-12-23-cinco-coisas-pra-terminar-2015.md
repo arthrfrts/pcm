@@ -16,7 +16,6 @@ tags:
   - leituras
   - vídeos
   - músicas
-permalink: "/post/622826983859142657/"
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.
@@ -36,7 +35,6 @@ _45 Anos_ conta a história de Kate e Geoff (eu fiquei me perguntando que nome �
 O mais impressionante de _45 Anos_ é a simplicidade com que tudo é exibido, mas o quão doloroso é assistir, mesmo assim. Andrew Haigh já fez um filme incrível sobre relacionamentos (_Weekend_, de 2011) e dirigiu uma das melhores séries do ano (_Looking_, na HBO). Mas em _45 Anos_ ele une a honestidade de um com a maturidade do outro e cria uma obra pequena e irretocável de dor e dúvida. 45 Anos não é um filme sobre aquilo que faz um casal se separar; mas sobre aquilo que passa na nossa cabeça quando estamos ainda estamos juntos.
 
 **Onde assistir?** _45 Anos_ ainda está no circuito, em algumas salas do país. O DVD deve chegar em março do ano que vem.
-
 ---
 
 ## Uma série: _Hannibal_
@@ -52,7 +50,6 @@ _Hannibal_ me deixa com fome. Ele me sacia, mas sempre me deixa querendo mais. U
 E também é uma história de amor.
 
 **Onde assistir?** O AXN está fazendo reprise da série e você pode assistir tudo no site da emissora. As duas primeiras temporadas estão no Netflix, e a terceira deve aportar no primeiro semestre do ano que vem.
-
 ---
 
 ## Um jogo: _Here And There Along The Echo_
@@ -64,7 +61,6 @@ Vocês já sabem que eu amo _Kentucky Route Zero_. Amo a ponto de dizer que ele 
 E isso é tudo o que você precisa saber aqui. _Here And There Along The Echo_ é um telefonema. Mas é o telefonema que vai acompanhar você por muito, muito tempo. Como nas melhores partes de _Kentucky Route Zero_, _Here And There…_ é um excelente contador de histórias. Bem como naqueles antigos jogos de telefone, que você ligava para um número e se aventurava em uma série de menus, _Here And There_ lhe apresentará personagens e lugares fantásticos e inesquecíveis, em uma das experiências mais mágicas que eu tive esse ano.
 
 **Onde jogar?** Várias formas. Você pode ligar para o número do jogo através do Skype (é um número americano, então use o Skype para ser mais barato), ou (acesse o site)[http://kentuckyroutezero.com/here-and-there-along-the-echo/] e baixe-o gratuitamente.
-
 ---
 
 ## Um álbum: _Currents_
@@ -76,7 +72,6 @@ Deixa eu te contar uma verdade: eu não gosto do Tame Impala. Nunca vi o que ele
 E _Currents_ não é todo excelente, pra falar a verdade. Tem umas três ou quatro músicas ali que eu passo toda vez, sem exceção. Mas _Let It Happen_, _The Less I Know The Better_ e _Past Life_, em compensação, estão **sempre** no repeat agora. E não dá pra não ser. _Currents_ tem aquele poder de ser o ponto de virada de uma banda, que já tinha aquela personalidade bem definida, mas que agora vai além. _Currents_ é excelente. É divertidíssimo de se ouvir. Completamente dançante. Completamente apaixonável. Eu quero ouvir ele o resto da minha vida (ou até o próximo álbum do Arcade Fire).
 
 **Onde ouvir?** Já a venda em qualquer lugar, se você é desses. [O álbum já está disponível no Spotify](https://open.spotify.com/album/0rxKf57PZvWEoU8v3m5W2q).
-
 ---
 
 ## Um link: _Jout Jout Prazer_

@@ -16,7 +16,7 @@ collections:
     output: false
   authors:
     output: true
-    permalink: "/autor/:title/"
+    permalink: "/arquivo/autor/:title/"
 
 # Build settings
 markdown: kramdown
@@ -27,7 +27,8 @@ baseurl: ""
 
 permalink: /:year/:month/:title/
 paginate: 8
-paginate_path: "/p:num/"
+paginate_path: "/arquivo/pagina/:num/"
+seo_paginator_message: "Página %<current>s de %<total>s | "
 
 include:
   - _redirects
@@ -39,12 +40,6 @@ keep_files:
   - assets/js
   - uploads
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: "/assets/images/default.jpg"
-
 plugins:
   - jekyll-feed
   - jekyll-menus
@@ -52,7 +47,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-paginate
-  - jekyll-include-cache
 
 # SEO
 social:
@@ -75,4 +69,4 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-    tag: "/tagged/:name/"
+    tag: "/arquivo/:name/"

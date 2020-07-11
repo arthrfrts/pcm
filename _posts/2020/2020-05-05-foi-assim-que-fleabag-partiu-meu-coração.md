@@ -10,7 +10,6 @@ tags:
 title: Foi assim que Fleabag partiu meu coração
 image: "/uploads/2020/05/05/fleabag.jpg"
 excerpt: "“Vai passar”."
-permalink: "/post/622810352178102272/vai-passar"
 ---
 
 Como todo o mundo, no meio do ano passado eu me peguei no meio do furacão que era a segunda temporada de _Fleabag_. A primeira temporada da série inglesa sobre uma mulher tentando levar a vida em meio a um colapso familiar, sexual e profissional é engraçada pra cacete desde o primeiro episódio, com a Fleabag parando a ação para comentários rápidos, muitas vezes sarcásticos, sobre o que está acontecendo ao redor dela. Mas quando _Fleabag_ voltou com tudo, ano passado, ela jogou pro alto todas as regras que tinha criado na primeira temporada e, no caminho, partiu meu coração.

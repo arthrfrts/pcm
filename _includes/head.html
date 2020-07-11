@@ -2,10 +2,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
-  {%- if page.title -%}
-    <title>{{ page.title }} ({{ site.title }})</title>
+  
+  {%- if page.title and page.title != "" -%}
+    <title>{{- page.title }} ({{- site.title -}})</title>
   {%- else -%}
-    <title>{{ site.title }} ~ {{ site.tagline }}</title>
+    <title>{{- site.title }} ~ {{ site.tagline -}}</title>
   {%- endif -%}
   {%- seo title=false -%}
   

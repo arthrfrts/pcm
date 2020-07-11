@@ -10,7 +10,6 @@ tags:
   - simulação
   - The Sims
 image: "/uploads/2014/the-sims-4.jpg"
-permalink: "/post/622824433899520000/"
 ---
 
 Essa sexta-feira eu ganhei a versão de demonstração da ferramenta Criar Um Sim do The Sims 4 e estou empolgado utilizando (quase) todas as possibilidades do novo criador de pessoas virtuais durante o final de semana. Como a cada mudança de geração, fiquei impressionado pelas possibilidades quase sem limites da nova tecnologia de “maleabilidade” corporal e da tão falada expressividade dos Sims. Sim, eles parecem estar vivos, finalmente.

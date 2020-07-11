@@ -3,7 +3,7 @@
   {%- include head.html -%}
   <body>
     <div id="site">
-      {%- include_cached header.html -%}
+      {%- include header.html -%}
       
       <main class="content">
         <div class="wrapper">
@@ -12,13 +12,13 @@
           </div>
           
           {%- unless page.layout == "page" -%}
-            {%- include_cached archives/sidebar.html -%}
+            {%- include archives/sidebar.html -%}
           {%- endunless -%}
         </div>
       </main>
       
       
-      {%- include_cached footer.html -%}
+      {%- include footer.html -%}
     </div>
     <script name="vendor-jquery" src="{%- link assets/js/jquery.js -%}"></script>
     <script name="site-scripts" src="{%- link assets/js/scripts.js -%}"></script>
@@ -27,7 +27,7 @@
     {%- endif -%}
     
     {%- if jekyll.environment == "production" -%}
-      {%- include_cached components/analytics.html -%}
+      {%- include components/analytics.html -%}
       <script async await src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {%- endif -%}
   </body>

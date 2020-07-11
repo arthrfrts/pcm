@@ -37,11 +37,9 @@ Já no primeiro episódio o programa traz informações curiosas sobre a série 
 Afinal quem é Michael Schur, além do currículo invejável? E de onde ele tirou a ideia de uma série que consegue falar de ética e filosofia de uma forma tão natural e engraçada? Como conseguiu que essa ideia maluca fosse aprovada? Como foi a decisão de atores e onde foram encontrados? Essas perguntas são respondidas nos primeiros 51 minutos do programa piloto. Não, eu não pretendo estragar a graça do episódio revelando as respostas aqui.
 
 Com bom humor e informação esse podcast é um complemento perfeito para essa série altamente aclamada pelos críticos. Afinal, entre uma temporada e outra, nada melhor do que continuar no universo de _The Good Place_ para não sentir tanta falta. 
-
 ---
 
 **Você pode assistir _The Good Place_, a série, [no Netflix](https://www.netflix.com/title/80113701); e ouvir _The Good Place_, o podcast, [no seu player favorito](https://pca.st/vpoC).**
-
 ---
 
 Emanuele Spies é queer, fã incondicional de _Carol_, (2015 dir. Todd Haynes), e Cate Blanchett. Ouvinte assídua de Podcasts e apaixonada por tecnologia.

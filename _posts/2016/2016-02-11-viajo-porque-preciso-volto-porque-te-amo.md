@@ -6,7 +6,6 @@ title: Lugares, pessoas, paisagens e histórias se confundem em Viajo Porque Pre
 tags:
   - filmes
 image: "https://arthrfrts.files.wordpress.com/2018/03/viajo-porque-preciso-volto-porque-te-amo.jpg"
-permalink: "/post/622830248225112064/"
 ---
 
 > Todo o casamento é perfeito, até que acaba.
