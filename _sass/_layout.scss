@@ -136,6 +136,16 @@
   
   .archive_header {
     margin-bottom: $spacing-unit * 3;
+    
+    p {
+      margin-bottom: $spacing-unit;
+      
+      a {
+        text-decoration: underline;
+        text-decoration-color: $color-accent;
+        text-decoration-style: wavy;
+      }
+    }
   }
   
   .post {

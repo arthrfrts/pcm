@@ -13,16 +13,20 @@ layout: default
         {{ page.date | date: "%Y" }}
       {%- endif -%}
     {%- else -%}
-      Posts marcados com {{ page.title }}
+      {% if page.title == "Pãodecast" %}
+        {{ page.title }}
+      {% else %}
+        Posts marcados com {{ page.title }}
+      {% endif %}
     {%- endif -%}
   </h2>
   
   {%- if page.type == "tag" -%}
-    
     {%- for column in site.data.columns -%}
       {% assign column_name = column.title | downcase %}
+      {% assign page_title = page.title | downcase %}
       
-      {%- if column_name == page.title -%}
+      {%- if column_name == page_title -%}
         {{ column.description | markdownify }}
       {%- endif -%}
     {%- endfor -%}
