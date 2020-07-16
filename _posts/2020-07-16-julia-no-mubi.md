@@ -3,12 +3,12 @@ layout: post
 title: Julia entrou na programação do MUBI
 author: arthurf
 tags:
-  - achados
-  - filmes
-  - drama
-  - thriller
+- achados
+- filmes
+- drama
+- thriller
+date: 2020-07-16 11:14 -0300
 ---
-
 {: .full-width }
 <iframe src="https://www.youtube.com/embed/VDDWeWknMl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
