@@ -2,7 +2,7 @@ main:
   - title: Arquivo
     url: "/arquivo/"
   - title: Pãodecast
-    url: "/arquivo/pãodecast/"
+    url: "/arquivo/tags/pãodecast/"
   - title: Newsletter
     url: "https://tinyletter.com/paomortadela"
   # - title: Colabore

@@ -50,8 +50,9 @@ layout: default
         <p>Mais posts sobre…</p>
         <ul class="tags">
           {%- for tag in page.tags -%}
+            {%- assign tag_slug = tag | slugify -%}
             <li>
-              <a class="tag_link" href="{{ tag | slugify | prepend: '/tag/' | relative_url }}" rel="tag">
+              <a class="tag_link" href="{{- site.jekyll-archives.permalinks.tag | replace: ':name', tag_slug | relative_url -}}" rel="tag">
                 {{ tag }}
               </a>
             </li>
