@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Julia entrou na programação do MUBI
+title: ""
 author: arthurf
 tags:
 - achados
