@@ -27,7 +27,7 @@ permalink: "/arquivo/"
 <dl>
   {%- for column in site.data.columns -%}
   <dt>
-    <a href="{{ column.title | slugify | prepend: '/arquivo/' }}" rel="tag">{{ column.title }}</a>
+    <a href="{{ column.title | slugify | prepend: '/arquivo/tags/' }}" rel="tag">{{ column.title }}</a>
   </dt>
   <dd>{{ column.description | markdownify }}</dd>
   {%- endfor -%}
@@ -44,7 +44,7 @@ permalink: "/arquivo/"
 {% capture tags %}
   {%- for tag in site.tags limit: 20 -%}
     {% unless columns contains tag[0] %}
-      <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}" href="{{ tag[0] | slugify | prepend: '/tag/' }}" rel="tag">
+      <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}" href="{{ tag[0] | slugify | prepend: '/arquivo/tags/' }}" rel="tag">
         {{ tag[0] }}
       </a><sup>({{ tag[1].size }})</sup> {% unless forloop.last %} sep {% endunless %}
     {% endunless %}
