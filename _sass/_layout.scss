@@ -190,6 +190,14 @@
       margin-bottom: $spacing-unit;
     }
     
+    .ads {
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: center;
+      margin-top: $spacing-unit;
+      margin-bottom: $spacing-unit;
+    }
+    
     .post_footer {
       margin-top: $spacing-unit;
       
