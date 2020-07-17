@@ -1,6 +1,8 @@
 <aside class="sidebar">  
   {%- if jekyll.environment == "production" -%}
-    <ins class="adsbycontextcue" data-cc-site="2e3a3e25-ce4a-4f75-8cd6-eb9679a577fb" data-cc-slot="yqfL9JhvM" style="display:block;"></ins>
+    <div class="ads">
+      <ins class="adsbycontextcue" data-cc-site="2e3a3e25-ce4a-4f75-8cd6-eb9679a577fb" data-cc-slot="yqfL9JhvM" style="display:block;"></ins>
+    </div>
   {%- endif -%}
   
   <div class="fixed_menu">
@@ -19,7 +21,7 @@
         <a href="{{- item.url -}}" {%- if item.external %} target="_blank" rel="external"{%- endif -%}>{{- item.title -}}</a>
       {%- endfor -%}
       
-      <a href="https://feeds.feedburner.com/paomortadela" rel="external">Feed RSS</a>
+      <a href="{{- '/feed.xml' | absolute_url -}}" rel="external">Feed RSS</a>
     </nav>
   </div>
 </aside>
