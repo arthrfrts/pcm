@@ -3,20 +3,19 @@ layout: page
 title: Sobre esse site
 
 ---
-O Pão com Mortadela é um blog que tem um interesse especial sobre cultura e internet, mas também tem espaço pra tudo o que está ali no meio. Ele aceita colaborações (leia mais abaixo), mas hoje em dia é mais um esforço pessoal do que coletivo.
 
-Escrito pelo Arthur no sul do Brasil, e com a participação de vários amigos dele ao redor do mundo (oi, Manu!).
+Escrito por [Arthur Freitas](https://arthr.me/) no sul do Brasil (e convidados ao redor do mundo), o Pão com Mortadela é um blog criado em 2013 com a missão de sempre ter um texto bacana para você ler na hora do café ou do chá.
 
-Posts são (na maioria das vezes) semanais, mas as vezes você vai ter sorte e ver mais de um post na mesma semana; links interessantes ficam na barra lateral; e sábado tem uma newsletter com um punhado de leituras bacanas na internet.
+Posts são ocasionais, e vão de links ou notas rápidas a ensaios (que chamamos aqui de [_esquinas_](/arquivo/tags/esquinas/)). A ideia é que você sempre encontre algo bacana para ler naqueles minutinhos livres da sua rotina.
 
-***
+O Pão tem uma newsletter quinzenalmente nos sábados, com um resumo da dieta cultural do editor nas últimas semanas. Você pode assiná-la [aqui](https://tinyletter.com/paomortadela).
 
-Se você quer escrever um post pro Pão, saiba como colaborar [clicando aqui]({% link colabore/index.md %}). Confira também a [política de privacidade]({% link sobre/privacidade.md %}) e as regras de [comentários]({% link sobre/comentarios.md %}).
-
-Escreva para **mesa \[arroba\] paomortadela.com.br**.
-
-Você também pode enviar uma mensagem pelo Twitter, [@paomortadela](https://twitter.com/paomortadela). Vou adorar falar com você.
+Em 2020, o Pão criou [um podcast](/arquivo/tags/pãodecast/) com conversas de quinze minutos.
 
 ***
 
-Você pode acompanhar esse blog através do seu [leitor RSS](https://paomortadela.com.br/feed.xml) ou pelo [Twitter](https://twitter.com/paomortadela). Uma página não-gerenciada do Pão existe no [Facebook](https://www.facebook.com/paomortadela.com.br) e _deve_ se manter atualizada toda a vez que aparecer um novo post por aqui, se o script funcionar direitinho.
+## Fale com o Arthur
+
+Se você quiser me enviar uma mensagem ou pedir para participar do Pãodecast, fique a vontade de enviar um email para <mesa@paomortadela.com.br> ou usar esse formulário:
+
+{%- include components/contact-form.html -%}

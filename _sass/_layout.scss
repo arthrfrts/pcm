@@ -452,6 +452,10 @@
       }
     }
     
+    label {
+      color: $color-background;
+    }
+    
     .newsletter_fields {
       display: flex;
       flex-flow: row nowrap;
@@ -515,5 +519,46 @@
   
   .site_credits {
     font-size: 1.2rem;
+  }
+}
+
+// Forms
+.contact_form {
+  padding: $spacing-unit;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  
+  @include media-query($on-palm) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  .wrapper_message {
+    flex: 1 0 100%;
+    margin-bottom: 0;
+  }
+  
+  .wrapper_field {
+    flex: 0 0 calc((100% / 3) - #{$spacing-unit / 2});
+    margin-bottom: 0;
+    align-self: flex-end;
+    
+    @include media-query($on-palm) {
+      flex: 0 0 calc(50% - #{$spacing-unit / 2});
+      margin-bottom: $spacing-unit / 2;
+    }
+    
+    &.submit {
+      @include media-query($on-palm) {
+        flex: 1 0 100%;
+      }
+      
+      button[type="submit"] {
+        display: block;
+        width: 100%;
+      }
+    }
   }
 }
