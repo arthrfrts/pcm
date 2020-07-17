@@ -1,7 +1,7 @@
 <nav class="site_menu">
-  {% for menu in site.menus.main %}
-    <a class="menu_item" href="{{- menu.url -}}" {%- if menu.external %} target="_blank" rel="external"{%- endif -%}>
-      {{- menu.title -}}
+  {% for item in site.data.menu %}
+    <a class="menu_item" href="{{- item.url -}}" {%- if item.external %} target="_blank" rel="external"{%- endif -%}>
+      {{- item.title -}}
     </a>
   {% endfor -%}
   

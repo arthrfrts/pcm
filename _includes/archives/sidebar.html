@@ -25,7 +25,7 @@
         <input type="search" name="q" placeholder="Procure nos arquivos…" />
       </form>
       
-      {%- for item in site.menus.main -%}
+      {%- for item in site.data.menu -%}
         <a href="{{- item.url -}}" {%- if item.external %} target="_blank" rel="external"{%- endif -%}>{{- item.title -}}</a>
       {%- endfor -%}
       

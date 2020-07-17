@@ -67,6 +67,6 @@ Depois de décadas sendo (inclusive ainda é) parâmetro de cópias para qualque
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SabBKLuebSo"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Com o blockbuster _Westworld_ finalmente lançando esse ano, e com _Game of Thrones_ atrasando pro segundo semestre de 2017, a HBO deu um ano sabático para _The Leftovers_, simplesmente [o melhor de 2015](/os-melhores-de-2015.html) pelo :bread:. A gente mal consegue esperar.
+Com o blockbuster _Westworld_ finalmente lançando esse ano, e com _Game of Thrones_ atrasando pro segundo semestre de 2017, a HBO deu um ano sabático para _The Leftovers_, simplesmente [o melhor de 2015]({% post_url 2015/2015-12-31-os-melhores-de-2015 %}) pelo 🍞. A gente mal consegue esperar.
 
 Estreando em abril, a terceira e última temporada de _The Leftovers_ levará a família Garvey para a Austrália. É só o que a gente sabe por enquanto. Se você acompanhou a série até aqui, porém, sabe que 1. quanto menos a gente sabe, melhor; e 2. não é uma série que vá nos dar muitas respostas. O que é bom. O grande acerto de _The Leftovers_ é, como toda a grande história, não fazer o espectador procurar por respostas, mas por fazer mais perguntas. Se _The Leftovers_ conseguir continuar fazendo isso com a beleza e a catarse que ele conseguiu semanalmente em 2015, eu tenho certeza que terei uma nova série pra chamar de favorita.

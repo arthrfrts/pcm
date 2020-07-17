@@ -303,7 +303,7 @@
     margin-left: $spacing-unit * 2;
     font-size: 1.4rem;
     
-    @include media-query($on-palm) {
+    @include media-query($on-laptop) {
       margin-left: 0;
       margin-top: $spacing-unit * 2;
       margin-bottom: $spacing-unit * 2;
@@ -350,7 +350,7 @@
       top: $spacing-unit;
       text-align: right;
       
-      @include media-query($on-palm) {
+      @include media-query($on-laptop) {
         position: fixed;
         top: auto;
         bottom: 0;
@@ -361,7 +361,7 @@
       [for="toggle_menu"] {
         display: none;
         
-        @include media-query($on-palm) {
+        @include media-query($on-laptop) {
           display: inline-block;
           margin-right: $spacing-unit;
           margin-bottom: $spacing-unit;
@@ -372,7 +372,7 @@
         display: flex;
         flex-flow: column nowrap;
         
-        @include media-query($on-palm) {
+        @include media-query($on-laptop) {
           display: none;
           padding: $spacing-unit / 2;
           background-color: $color-accent;
@@ -402,7 +402,7 @@
       #toggle_menu {
         display: none;
         
-        @include media-query($on-palm) {
+        @include media-query($on-laptop) {
           &:checked ~ .menu {
             display: flex;
           }

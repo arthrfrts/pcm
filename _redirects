@@ -1,3 +1,6 @@
+---
+---
+
 /post/622806395353530368/a-vastidão-da-noite	/2020/06/a-vastidao-da-noite/	301
 /post/622807217329078272/um-ranking-de-todos-os-the-legend-of-zelda	/2020/06/the-legend-of-zelda-ranking/	301
 /post/622807677178970112/sobre-felicidade	/2020/06/sobre-felicidade/	301
@@ -52,3 +55,7 @@
 /post/189391903883/	/2014/02/true-detective/	301
 /post/189391748838/	/2014/01/o-anjo-exterminador/	301
 /post/189391633783/você-ainda-não-assistiu-black-mirror/	/2013/11/voce-ainda-nao-assistiu-black-mirror/	301
+{% for tag in site.tags %}
+/tagged/{{ tag | first | slugify }}	/arquivo/tags/{{ tag | first | slugify }}/	301
+/tags/{{ tag | first | slugify }}	/arquivo/tags/{{ tag | first | slugify }}/	301
+{%- endfor -%}

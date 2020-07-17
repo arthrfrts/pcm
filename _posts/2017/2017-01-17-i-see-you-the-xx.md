@@ -8,7 +8,7 @@ author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-xx-i-see-you.jpg"
 ---
 
-Eu não concordo com as opiniões das pessoas que entendem mais de música do que eu de que uma banda precisa sempre seguir em frente ou se reinventar num novo disco. Eu olho pra [_Random Access Memories_]({{ '/random-access-memories-nao-reinventa-um-genero-mas-redescobre-o-daft-punk.html' | relative_url }}), que é um _Discovery_ levado à perfeição, e acho que seguir em frente às vezes já é o suficiente.
+Eu não concordo com as opiniões das pessoas que entendem mais de música do que eu de que uma banda precisa sempre seguir em frente ou se reinventar num novo disco. Eu olho pra _Random Access Memories_, que é um _Discovery_ levado à perfeição, e acho que seguir em frente às vezes já é o suficiente.
 
 <iframe src="https://open.spotify.com/embed/track/33B2QbtAj8mbDpwvGTOnBt" width="300" height="380"  allowtransparency="true" allow="encrypted-media"></iframe>
 

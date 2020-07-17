@@ -42,7 +42,6 @@ keep_files:
 
 plugins:
   - jekyll-feed
-  - jekyll-menus
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
@@ -70,3 +69,14 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
     tag: "/arquivo/tags/:name/"
+
+# Compose
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      author: arthurf
+      tags:
+    posts:
+      author: arthurf
+      tags:

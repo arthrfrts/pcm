@@ -8,7 +8,7 @@ tags:
 image: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
 ---
 
-A gente aqui no PCM defende que os videogames não param de amadurecer. Nosso [jogo do ano](os-melhores-de-2015.html), por exemplo, é uma obra-prima na narrativa e na participação do jogador, colocando ele como espectador e agente da ação ao mesmo tempo. Nós inclusive fizemos uma lista com [dezesseis jogos que amaruderecam os videogames](16-jogos-que-amadureceram-os-videogames-nos-anos-2000.html). E, agora, a gente tem o prazer de dar como dica nessa volta de carnaval um jogo que segue essa linha (e, ao mesmo tempo, se alinha com as outras dicas que teremos essa semana): _Firewatch_, o belíssimo jogo de estréia da Campo Santo.
+A gente aqui no PCM defende que os videogames não param de amadurecer. Nosso [jogo do ano]({% post_url 2015/2015-12-31-os-melhores-de-2015 %}), por exemplo, é uma obra-prima na narrativa e na participação do jogador, colocando ele como espectador e agente da ação ao mesmo tempo. Agora a gente tem o prazer de dar como dica nessa volta de carnaval um jogo que segue essa linha (e, ao mesmo tempo, se alinha com as outras dicas que teremos essa semana): _Firewatch_, o belíssimo jogo de estréia da Campo Santo.
 
 Começando com um delicado prólogo escrito, _Firewatch_ aproxima o jogador do personagem principal, Henry. Acompanhamos Henry conhecendo, se apaixonando e vivendo com Julia, sua namorada e depois esposa, até que as coisas se complicam. O prólogo usa o mesmo método narrativo de _Kentucky Route Zero_, com o mesmo propósito, inclusive. As escolhas dadas para o jogador servem menos para levar a história adiante (elas vão levar para o mesmo lugar, afinal) e mais para alinhar a experiência de personagem e jogador, tornando-os cúmplices.
 
