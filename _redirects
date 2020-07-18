@@ -58,4 +58,5 @@
 {% for tag in site.tags %}
 /tagged/{{ tag | first | slugify }}	/arquivo/tags/{{ tag | first | slugify }}/	301
 /tags/{{ tag | first | slugify }}	/arquivo/tags/{{ tag | first | slugify }}/	301
+/tag/{{ tag | first | slugify }}	/arquivo/tags/{{ tag | first | slugify }}/	301
 {%- endfor -%}
