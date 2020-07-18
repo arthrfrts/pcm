@@ -20,13 +20,12 @@
       
       {%- include footer.html -%}
     </div>
-    <script name="vendor-jquery" src="{%- link assets/js/jquery.js -%}"></script>
-    <script name="site-scripts" src="{%- link assets/js/scripts.js -%}"></script>
+    <script id="vendor-jquery" src="{%- link assets/js/jquery.js -%}"></script>
+    <script id="site-scripts" src="{%- link assets/js/scripts.js -%}"></script>
     {%- if jekyll.environment == "production" -%}
       {%- if page.layout != "post" and page.layout != "page" -%}
         <script id="dsq-count-scr" async await src="//paomortadela.disqus.com/count.js"></script>
       {%- endif -%}
-      <script async src="//cdn.contextcue.com/adsbycontextcue.js"></script>
     {%- endif -%}
   </body>
 </html>

@@ -9,10 +9,18 @@
     <title>{{- site.title }} ~ {{ site.tagline -}}</title>
   {%- endif -%}
   {%- seo title=false -%}
+  {% unless page.image %}
+    <meta property="og:image" content="{{ 'assets/images/ogp.jpg' | absolute_url }}" />
+  {% endunless %}
   
   <link rel="shortcut icon" type="image/png" href="{%- link assets/images/favicon.png -%}" />
   <link rel="apple-touch-icon" type="image/png" href="{%- link assets/images/apple-touch-icon.png -%}">
   <link rel="stylesheet" type="text/css" href="{{- "/assets/css/main.css" | relative_url -}}" />
   {% feed_meta %}
   <link rel="alternate" type="application/rss+xml" title="Pãodecast" href="https://anchor.fm/s/2acb8e44/podcast/rss" />
+  
+  {% if jekyll.environment == "production" %}
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+    <script async src="//cdn.contextcue.com/adsbycontextcue.js"></script>
+  {% endif %}
 </head>
