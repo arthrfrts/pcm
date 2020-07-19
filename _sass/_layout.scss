@@ -148,6 +148,21 @@
     }
   }
   
+  .search_fields {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-end;
+    margin: $spacing-unit * 2 0;
+    
+    input[type="search"] {
+      flex: 1 1 auto;
+    }
+    
+    button {
+      flex: 0 0 auto;
+    }
+  }
+  
   .post {
     &:not(:last-child) {
       margin-bottom: $spacing-unit * 4;
@@ -402,7 +417,6 @@
         }
         
         input[type="search"] {
-          background: $color-background;
           width: 100%;
         }
       }
@@ -468,7 +482,6 @@
       display: flex;
       flex-flow: row nowrap;
       align-items: flex-end;
-      font-family: $font-headings;
       
       @include media-query($on-palm) {
         max-width: 300px;
