@@ -6,6 +6,15 @@ $(document).ready(function() {
   });
 });
 
+$(".contact_form").submit(function(e) {
+  e.preventDefault();
+
+  var $form = $(this);
+  $.post($form.attr("action"), $form.serialize()).then(function() {
+    alert("Obrigado! Sua mensagem foi enviada com sucesso.");
+  });
+});
+
 (function() {
   var _debounce, _each, _filter, _resize, iframes, isVideo, resizeVideos, videos;
 

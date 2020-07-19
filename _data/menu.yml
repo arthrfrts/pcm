@@ -1,11 +1,9 @@
-- title: Arquivo
-  url: "/arquivo/"
 - title: Pãodecast
   url: "/arquivo/tags/pãodecast/"
 - title: Newsletter
   url: "https://tinyletter.com/paomortadela"
-# - title: Colabore
-#   url: "/colabore/"
+- title: Arquivo
+  url: "/arquivo/"
 - title: Sobre
   url: "/sobre/"
 

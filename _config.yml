@@ -40,8 +40,6 @@ keep_files:
   - assets/js
   - uploads
 
-staticman: "https://paomortadela-comentarios.herokuapp.com/v2/entry/arthrfrts/paomortadela/master/comments"
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap

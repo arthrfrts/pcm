@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Política de Privacidade
-
 ---
-O Pão com Mortadela leva sua privacidade a sério. Nós usamos o Google Analytics para interpretar os tipos de informações que seu navegador envia — coisas como resolução da tela, versão do navegador, e região do país em que você está acessando o site. Nós infelizmente não temos controle sobre como o Google usa essa informação.
 
-Você pode optar por bloquear o acesso do Pão com Mortadela à essas informações a qualquer momento. Em navegadores como o Safari e o Firefox, você pode ativar os controles de segurança na barra de endereço. No Chrome, busque por “Do Not Track” na página de configurações e ative a opção indicada. Nós alteramos o _script_ que ativa o Google Analytics em nosso site para respeitar essa configuração de rastreamento. Ou seja: se você configurar seu navegador para não ser rastreado, nós vamos respeitar essa opção ([você pode conferir como esse código é aplicado no código-fonte do Pão](https://github.com/arthrfrts/paomortadela/blob/master/_includes/components/analytics.html)).
+O Pão com Mortadela respeita a sua privacidade. O site não rastreia as visitas, apenas registra o número de acessos que cada página tem.  Nenhum IP ou qualquer informação do seu navegador está sendo armazenado no servidor do site ou em serviços de terceiros — a única coisa que o Pão é quantas vezes um arquivo foi chamado nos servidores do site.
 
-Nós usamos essa informação apenas para mensurar o número de acessos aos nossos textos, para fins de publicidade, e entender que tipo de tecnologia nossos leitores usam e o tamanho de nossa audiência. Por exemplo, essa informação é útil na hora de desenvolver um novo recurso para o site e sabermos quais navegadores devem ser testados para atender senão toda, ao menos a maioria da audiência.
+Essa informação é usada para entender quais textos do site são mais lidos, e qual o tamanho da audiência.
+
+Infelizmente não temos controle sobre a forma que sites incorporados — como o YouTube, o Spotify, ou a plataforma de comentários Disqus — podem obtém dados sobre o seu acesso à internet através do nosso site. Por isso, a gente encoraja o uso de navegadores que respeitam e protegem sua privacidade: o [Firefox](https://mozilla.org/firefox/), o [Edge](https://www.microsoft.com/edge/) ou o [Safari](https://www.apple.com/safari/).
