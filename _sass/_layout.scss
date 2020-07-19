@@ -467,55 +467,31 @@
     .newsletter_fields {
       display: flex;
       flex-flow: row nowrap;
-      align-items: center;
+      align-items: flex-end;
+      font-family: $font-headings;
       
       @include media-query($on-palm) {
-        max-width: 350px;
+        max-width: 300px;
         margin-left: auto;
         margin-right: auto;
       }
       
-      input[type="email"],
-      input[type="submit"] {
-        display: inline-block;
-        -webkit-appearance: none;
-        -moz-appearance: textfield;
-        border: 1px solid $color-background;
-        font-family: $font-headings;
-        opacity: 0.75;
-        transition: opacity 250ms ease;
-        line-height: 1.5;
-        padding: $spacing-unit / 4;
-      
-        &:hover,
-        &:focus {
-          opacity: 1;
-        }
-      }
-    
       input[type="email"] {
-        background-color: transparent;
         color: $color-background;
-        flex: 1 0 auto;
-      
+        flex: 1 1 auto;
+        
         &::placeholder {
-          color: $color-background;
+          color: rgba($color-background, 0.5);
         }
       }
-    
-      input[type="submit"] {
-        padding: $spacing-unit / 4 $spacing-unit / 2;
-        background-color: $color-background;
-        color: $color-accent;
-        transition-property: background-color, color, opacity;
-        transition-duration: 250ms;
-        transition-timing-function: ease;
-        flex: 0 0 auto;
       
-        &:hover,
-        &:focus {
-          background-color: $color-header;
-          color: $color-background;
+      button {
+        flex: 0 0 auto;
+        color: $color-background;
+        
+        &:active {
+          box-shadow: 0 -2.5em 0 $color-background;
+          color: $color-text;
         }
       }
     }
