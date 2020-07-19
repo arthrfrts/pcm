@@ -11,7 +11,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 
 > Seja lá o que você acha que é, _The Entertainment_ é fantástico.
 
-Então, como é que eu vou falar de _The Entertainment_? É um jogo, eu acho. É desenvolvido pela Cardboard Computer (de um dos meus jogos favoritos,[ _Kentucky Route Zero_]({%- post_url 2016/2016-07-21-kentucky-route-zero-4 -%}) e do sensacional [_Neighbor_]({%- link 404.md -%})). Você pode jogá-lo no Oculus Rift ou no computador.
+Então, como é que eu vou falar de _The Entertainment_? É um jogo, eu acho. É desenvolvido pela Cardboard Computer (de um dos meus jogos favoritos,[ _Kentucky Route Zero_]({%- post_url 2016/2016-07-21-kentucky-route-zero-4 -%}) e do sensacional [_Neighbor_]({%- link 404.html -%})). Você pode jogá-lo no Oculus Rift ou no computador.
 
 Mas você também pode interpretá-lo.
 
