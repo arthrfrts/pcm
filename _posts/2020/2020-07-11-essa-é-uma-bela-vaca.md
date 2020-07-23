@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Essa é uma bela vaca."
 author: arthurf
 date: '2020-07-11 12:57:02 -0300'
 tags:
@@ -10,8 +11,6 @@ tags:
 
 {: .full-width }
 ![Retrato de uma vaca pequena]({%- link /uploads/2020/07/11/first-cow-evie.jpg -%})
-
-Essa é uma bela vaca.
 
 Ela se chama Evie, e essa é a foto que fez [Kelly Reichardt]({%- post_url 2020/2020-05-07-os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena -%}) escolher Evie pra ser o animal título do seu filme mais recente, *First Cow*.
 
