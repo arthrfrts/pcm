@@ -8,8 +8,7 @@ tags:
 date: 2020-07-17 13:55 -0300
 ---
 {: .full-width }
-<iframe frameborder="0" src="https://bandcamp.com/EmbeddedPlayer/album=2575935432/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless>
-  <a href="http://yolatengo.bandcamp.com/album/we-have-amnesia-sometimes">We Have Amnesia Sometimes by Yo La Tengo</a>
+<iframe  src="https://bandcamp.com/EmbeddedPlayer/album=2575935432/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/">
 </iframe>
 
 A banda Yo La Tengo lançou hoje o álbum *We Hame Amnesia Sometimes*, um álbum gravado à distância durante o período de isolamento social que a gente tá passando. A banda tava lançando prévias do trabalho nos últimos dias, mas largou o álbum completo no [Bandcamp](https://yolatengo.bandcamp.com/) deles.

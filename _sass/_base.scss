@@ -415,6 +415,7 @@ img {
 
 iframe, video, object {
   max-width: 100%;
+  border: none;
 
   &.full-width {
     width: 100%;

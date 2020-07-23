@@ -42,7 +42,7 @@ Então o padre vai embora, e Fleabag, como toda ferrada nessa vida, vê que seu 
 
 É quando a série parte o meu coração, pra valer.
 
-<iframe width="806" height="453" src="https://www.youtube.com/embed/7K3ffDrignk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="453" src="https://www.youtube.com/embed/7K3ffDrignk"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu revi a temporada várias vezes depois disso, porque o efeito desse final em mim foi surreal. Como foi que _Fleabag_ me afetou tanto assim? O que ela faz de diferente de outras comédias pra me ter me deixado tão desolado?
 

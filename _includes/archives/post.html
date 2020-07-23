@@ -1,6 +1,6 @@
 <article class="post">
   <header class="post_header">
-    {%- unless post.title == blank -%}
+    {%- unless post.title == "" -%}
       <h2 class="post_title">
         <a href="{{- post.url | relative_url -}}" rel="bookmark">
           {{- post.title -}}

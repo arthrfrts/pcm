@@ -11,7 +11,7 @@ tags:
 - animação
 ---
 {: .full-width }
-<iframe width="806" height="373" src="https://www.youtube.com/embed/80406ua_ERo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="806" height="373" src="https://www.youtube.com/embed/80406ua_ERo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu queria tanto poder recomendar _Central Park_ pra todo o mundo que tá precisando de uma série carinhosa sobre uma família que se ama mesmo quando não se entendem. É uma comédia musical em desenho animado, dos mesmos criadores de _Bob's Burgers_, e o humor carismático e coração grande são traços em comum nas duas séries.
 

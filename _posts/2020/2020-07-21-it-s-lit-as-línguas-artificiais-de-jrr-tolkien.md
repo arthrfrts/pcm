@@ -12,7 +12,7 @@ tags:
 date: 2020-07-21 19:46 -0300
 ---
 {: .full-width }
-<iframe src="https://www.youtube.com/embed/VFlyQk_uVAI?origin={{- site.url | url_encode -}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/VFlyQk_uVAI?origin={{- site.url | url_encode -}}"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 No último vídeo de *It's Lit*, Lindsay Ellis explica como as línguas artificiais criadas por Tolkien para seus livros da Terra-Média influenciaram muito mais do que o gênero literário de fantasia, se transformando em um ramo importante no desenvolvimento de qualquer mundo narrativo — de *Game of Thrones* à *Avatar*. Como todos os vídeos do *It's Lit* (e o trabalho da Lindsay Ellis de maneira geral), o vídeo trata o tema com fascínio e é só a ponta de uma discussão maior (e é curtinho!)
 
