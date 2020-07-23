@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Júlia, no MUBI"
 author: arthurf
 tags:
 - achados
