@@ -16,7 +16,7 @@
           {{- author.name -}}
           
         </a>
-        <a class="info post_date" href="{{ post.url | absolute_url }}" rel="permalink">
+        <a class="info post_date" href="{{ post.url | absolute_url }}" rel="bookmark">
           <time datetime="{{- post.date | date_to_xmlschema -}}">
             {{- post.date | date: "%d/%m/%Y" -}}
           </time>
