@@ -7,7 +7,7 @@ tags:
 - canais do YouTube
 - Halo
 - FPS
-- ficçào científica
+- ficção científica
 - Brian David Gilbert
 date: 2020-07-31 08:30 -0300
 ---

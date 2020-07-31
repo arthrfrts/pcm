@@ -5,7 +5,7 @@ author: arthurf
 tags:
 - livros
 - vídeos
-- canais
+- canais do YouTube
 - O Senhor dos Anéis
 - Lindsay Ellis
 - JRR Tolkien
