@@ -31,4 +31,4 @@ Diante da situação global, particularmente agravada no Brasil, relacionada a p
 
 > Silvia é uma jovem professora. Certo dia, sua aula é interrompida quando os alunos veem seu duplo pela janela. Ela tenta ignorar a aparição, mas o evento perturbador passa a impregnar seu cotidiano e alterar sua personalidade.
 
-<iframe src="//player.vimeo.com/video/312830394?app_id=122963&origin=https://portacurtas.org.br" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Assista *O Duplo* no Porta Curtas](http://portacurtas.org.br/filme/?name=o_duplo)
