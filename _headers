@@ -1,8 +1,8 @@
 /assets/js/*
-  cache-control: max-age=2628000
+  cache-control: max-age=86400
 
 /assets/css/*
-  cache-control: max-age=2628000
+  cache-control: max-age=86400
   
 /uploads/*
   cache-control: max-age=31536000
