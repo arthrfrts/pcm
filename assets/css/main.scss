@@ -12,8 +12,8 @@ Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
 $font-headings: "Avenir Next", Avenir, Corbel, "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 
 $content-width: 1020px;
-$on-laptop: 800px;
-$on-palm: 600px;
+$on-laptop: 960px;
+$on-palm: 740px;
 $spacing-unit: 20px;
 
 @mixin media-query($device) {

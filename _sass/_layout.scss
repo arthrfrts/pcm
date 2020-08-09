@@ -19,7 +19,7 @@
 }
 
 .wrapper {
-  max-width: calc(#{$content-width} - #{$spacing-unit});
+  max-width: calc(#{$content-width} + #{$spacing-unit});
   padding-left: $spacing-unit / 2;
   padding-right: $spacing-unit / 2;
   margin-left: auto;
@@ -80,6 +80,12 @@
       -webkit-overflow-scrolling: touch;
       -ms-overflow-style: -ms-autohiding-scrollbar;
       justify-content: flex-start;
+      
+      &::before,
+      &::after {
+        content: " ";
+        margin: auto;
+      }
     }
     
     a {
@@ -118,19 +124,21 @@
   
   & > .wrapper {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
+    width: 100%;
     
-    @include media-query($on-laptop) {
-      display: block;
-    }
+		@include media-query($on-palm) {
+			flex-flow: column nowrap;
+		}
     
     .blog {
-      width: 100%;
-      max-width: 700px;
-      
-      @include media-query($on-laptop) {
-        max-width: 100%;
-      }
+			max-width: calc(#{100%} - #{300px + $spacing-unit});
+			margin-right: $spacing-unit;
+
+			@include media-query($on-palm) {
+				max-width: 100%;
+				margin-right: 0;
+			}
     }
   }
   
@@ -322,15 +330,15 @@
   position: relative;
   
   .sidebar {
-    flex: 0 0 300px;
-    margin-left: $spacing-unit * 2;
-    font-size: 1.4rem;
-    
-    @include media-query($on-laptop) {
-      margin-left: 0;
-      margin-top: $spacing-unit * 2;
-      margin-bottom: $spacing-unit * 2;
-    }
+		flex-basis: 300px;
+		flex: 1;
+		font-size: 1.4rem;
+
+		@include media-query($on-palm) {
+			margin-left: 0;
+			margin-top: $spacing-unit * 2;
+			margin-bottom: $spacing-unit * 2;
+		}
     
     .links {
       background: rgba(#55acee, 0.15);
@@ -373,7 +381,7 @@
       top: $spacing-unit;
       text-align: right;
       
-      @include media-query($on-laptop) {
+      @include media-query($on-palm) {
         position: fixed;
         top: auto;
         bottom: 0;
@@ -384,7 +392,7 @@
       [for="toggle_menu"] {
         display: none;
         
-        @include media-query($on-laptop) {
+        @include media-query($on-palm) {
           display: inline-block;
           margin-right: $spacing-unit;
           margin-bottom: $spacing-unit;
@@ -395,7 +403,7 @@
         display: flex;
         flex-flow: column nowrap;
         
-        @include media-query($on-laptop) {
+        @include media-query($on-palm) {
           display: none;
           padding: $spacing-unit / 2;
           background-color: $color-accent;
@@ -418,13 +426,17 @@
         
         input[type="search"] {
           width: 100%;
+          
+          @include media-query($on-palm) {
+            color: $color-background;
+          }
         }
       }
       
       #toggle_menu {
         display: none;
         
-        @include media-query($on-laptop) {
+        @include media-query($on-palm) {
           &:checked ~ .menu {
             display: flex;
           }
