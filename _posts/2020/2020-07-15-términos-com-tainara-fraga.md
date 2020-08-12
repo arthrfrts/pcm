@@ -7,8 +7,8 @@ tags:
 - podcasts
 date: 2020-07-15 13:21 -0300
 ---
-{: .full-width }
-<iframe src="https://anchor.fm/paomortadela/embed/episodes/Trminos--com-Tainara-Fraga-egn2th/a-a2mn3e3"></iframe>
+
+<iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Trminos--com-Tainara-Fraga-egn2th/a-a2mn3e3" frameborder="0" scrolling="no"></iframe>
 
 
 Esse último sábado eu sentei com a minha amiga [Tainara](https://twitter.com/taimfrg) pra finalmente tirarmos do papel uma ideia que tivemos _no ano passado_: nós gravamos o primeiro episódio do Pãodecast, um podcast de conversas.

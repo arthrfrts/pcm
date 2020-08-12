@@ -7,7 +7,7 @@ tags:
 - podcasts
 date: 2020-08-12 09:38 -0300
 ---
-<iframe src="https://anchor.fm/paomortadela/embed/episodes/Eduarda-Ellwanger-ehve7p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Eduarda-Ellwanger-ehve7p" frameborder="0" scrolling="no"></iframe>
 
 Eu e a Eduarda falamos de família e o que é se sentir em família.
 
