@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pãodecast: Com Raul Fontoura'
+title: 'Episódio 2 — com Raul Fontoura'
 author: arthurf
 tags:
 - Pãodecast

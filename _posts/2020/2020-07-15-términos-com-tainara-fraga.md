@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Términos, com Tainara Fraga
+title: Episódio 1 — Tainara Fraga
 author: arthurf
 tags:
 - Pãodecast
