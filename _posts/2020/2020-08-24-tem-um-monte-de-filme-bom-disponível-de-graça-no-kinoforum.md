@@ -24,6 +24,6 @@ A Mostra Internacional deste ano conta com 41 curtas de 26 países diferentes, t
 **Festival Internacional de Curtas Metragens – 31º Curta Kinforum**  
 de 20 a 30 de agosto  
 Edição Virtual  
-Pogramação pode ser acessada em: <https://2020.kinoforum.org/programacao-completa>
+Programação pode ser acessada em: <https://2020.kinoforum.org/programacao-completa>
 
 Acesso pelo endereço [kinoforum.org.br](https://jinoforum.org.br), ou pelos aplicativos [innsaei.tv](https://innsaei.tv/) (para celulares, tablets e smart TVs, disponíveis no Google Play e na Apple Store). Pra ver na TV, você pode usar o AirPlay ou o Chromecast. Mais informações na [Associação Cultural Kinoforum](https://kinoforum.org/curtas).

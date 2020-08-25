@@ -544,3 +544,30 @@ hr {
   border-top: 1px dashed $color-accent;
   transform: rotate(-2deg);
 }
+
+// Footnotes
+
+.post_content .footnote {
+  font: 400 #{1.125rem}/#{1} $font-headings;
+  color: $color-background;
+  display: inline-block;
+  padding: 1px 3px;
+  background-color: $color-accent;
+  border-radius: 50%;
+  text-decoration: none;
+  transition-property: background-color, color;
+  
+  &:hover,
+  &:focus {
+    background-color: $color-header;
+  }
+}
+
+.footnotes {
+  font: 400 #{1.2rem}/#{1.25} $font-headings;
+  color: rgba($color-text, 0.7);
+  
+  ol, p {
+    font-family: inherit;
+  }
+}
