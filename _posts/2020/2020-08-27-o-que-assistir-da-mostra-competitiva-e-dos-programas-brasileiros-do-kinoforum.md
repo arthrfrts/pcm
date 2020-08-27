@@ -3,16 +3,16 @@ layout: post
 title: O que assistir da Mostra Competitiva e dos Programas Brasileiros do Kinoforum
 image: "/uploads/2020/08/27/construcao.jpg"
 authors:
-  - guilhermen
-  - erez
+- guilhermen
+- erez
 tags:
-  - filmes
-  - cinema nacional
-  - curtas
-  - festivais
-  - Kinoforum
+- filmes
+- cinema nacional
+- curtas
+- festivais
+- Kinoforum
+date: 2020-08-27 14:01 -0300
 ---
-
 A principal mostra dentro dos programas brasileiros esse ano foi composta por três sessões com quatro filmes em cada. Dos doze filmes selecionados, sete são produções do estado de São Paulo, dois de Pernambuco, um do Espírito Santo, um de Santa Catarina e um do Rio Grande do Sul. Os filmes estiveram online durante a semana e retornam por 24h a partir das 19h de hoje, dia 27 de agosto, então corre lá pra dar tempo de ler nossos comentários e assistir as indicações que preparamos para você.
 
 Na primeira sessão temos filmes que expressam sua reação a um tensionamento representado pelo tempo, pelo hoje - existe algo no tempo presente que ameaça a existência dos nossos personagens, seja em um sentido simbólico, ou cultural, ou mesmo no sentido literal. A Ayahuasca é apresentada como uma alternativa de contato com os antepassados em *O Jardim Fantástico* (2020, Fábio Baldo e Tico Dias), em *Inabitável* (2020, Matheus Farias e Enock Carvalho) temos a filha que “some”, mas permanece através de um amuleto carregado pela mãe, em C*ontos da Família Pu* (2020, Pedro Nishi) observamos o esforço de um avô ao tentar contar a história da família com a produção de incensos para a neta e, por último, em *Carne* (2019) temos relatos que são amarrados por um jogo temporal que referencia as diversas fases do corpo da mulher e encerra com Helena Ignez falando sobre o processo de envelhecer, confrontada consigo mesma em *Copacabana Mon Amour* (1970, Rogério Sganzerla) bradando “Eu tenho pavor da velhice”.
