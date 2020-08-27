@@ -3,6 +3,8 @@ layout: post
 title: "Community se despediu com uma das suas melhores temporadas"
 tags:
   - séries
+  - comédia
+  - Community
 image: "https://arthrfrts.files.wordpress.com/2018/03/community.jpg"
 author: arthurf
 ---
