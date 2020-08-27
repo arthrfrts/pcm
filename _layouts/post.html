@@ -9,11 +9,20 @@ layout: default
       </h1>
     {%- endunless -%}
   
-    {%- assign author = site.data.authors[page.author] -%}
-  
     <div class="post_meta">
       <p class="post_info">
-        <a class="info post_author {{ page.author -}}" href="{{- page.author | prepend: '/arquivo/autor/' -}}" rel="author">{{ author.name }}</a>
+        
+        {% if page.authors %}
+          {% for author_code in page.authors %}
+            {%- assign author = site.data.authors[author_code] -%}
+          
+            <a class="info post_author {{ author_code -}}" href="{{- author_code | prepend: '/arquivo/autor/' -}}" rel="author">{{ author.name }}</a>
+          {% endfor %}
+        {% else %}
+          {% assign author = site.data.authors[page.author] %}
+          <a class="info post_author {{ page.author -}}" href="{{- page.author | prepend: '/arquivo/autor/' -}}" rel="author">{{ author.name }}</a>
+        {% endif %}
+        
         <a class="info post_date" href="{{ page.url | absolute_url }}" rel="bookmark">
           <time datetime="{{- page.date | date_to_xmlschema -}}">{{- page.date | date: "%d/%m/%Y" -}}</time>
         </a>

@@ -18,7 +18,7 @@ layout: default
   {{ page.content }}
 </header>
 
-{% assign author_posts = site.posts | where: "author", page.slug %}
+{% assign author_posts = site.posts | where_exp: "item", "item.author == page.slug or item.authors contains page.slug" %}
 
 {%- for post in author_posts -%}
   {%- include archives/post.html hide_content="true" -%}
