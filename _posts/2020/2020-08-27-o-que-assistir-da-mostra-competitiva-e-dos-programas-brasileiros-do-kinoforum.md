@@ -19,6 +19,7 @@ Na primeira sessão temos filmes que expressam sua reação a um tensionamento r
 
 Na segunda sessão nossos personagens estão mais instrumentados na luta contra essa ameaça, e sua principal arma são os seus relatos — como o cineasta que quer falar sobre a sua comunidade, mas parece perseguido pelas imagens de violência que marcaram a vivência de sua personagem principal em *Entre Nós e o Mundo* (2019, Fábio Rodrigo); ou os dançarinos e coreógrafos que querem transformar a arte em uma forma de continuar a luta de seus antepassados em *Inabitáveis* (2020, Anderson Bardot); mas, principalmente, o poder do relato de Timóteo, homem negro escravizado no século XIX, em *A Morte Branca do Feiticeiro Negro* (Rodrigo Ribeiro, 2020), é muito representativo quanto à natureza dessas fricções temporais. Fechando a sessão, temos *Perifericu* (2019, Nay Mendl, Vita Pereira, Rosa Caldeira e Stheffany Fernanda) que mostra a angústia e os conflitos de uma juventude queer e periférica que está entrando fase adulta e sofre por questões típicas de sua idade, tais como a dificuldade de entrar no mercado de trabalho, problemas amorosos e atritos nas relações familiares.
 
+{: .full-width }
 ![]({%- link uploads/2020/08/27/carne.jpg -%})
 *Carne*
 			
