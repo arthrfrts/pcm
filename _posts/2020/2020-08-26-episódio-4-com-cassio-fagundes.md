@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episódio 4 – com Cassio Fagundes
+title: Episódio 4 – com Cássio Fagundes
 author: arthurf
 tags:
 - Pãodecast
@@ -9,9 +9,9 @@ date: 2020-08-26 09:09 -0300
 ---
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Cassio-Fagundes-eik66o/a-a31gh5i" height="102" frameborder="0" scrolling="no"></iframe>
 
-Era um pouco tarde da noite quando eu e o Cassio paramos pra conversar. Eu tava trabalhando. Ele tava lavando louça.
+Era um pouco tarde da noite quando eu e o Cássio paramos pra conversar. Eu tava trabalhando. Ele tava lavando louça.
 
-O Cassio não tá por aí na internet, mas ele pediu pra avisar que se quiser falar com ele, procura na praia.
+O Cássio não tá por aí na internet, mas ele pediu pra avisar que se quiser falar com ele, procura na praia.
 
 O Pãodecast é produzido por mim, a trilha-sonora é do [Blue Dot Sessions](https://sessions.blue), e a ilustração foi feita pelo [Raul Fontoura](https://raulranma.itch.io).
 
