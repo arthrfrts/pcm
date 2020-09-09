@@ -19,5 +19,7 @@ Eu tô há tempos procurando um universo de ficção científica pra afundar min
 
 Agora, tá com uma carinha de que vai ser um outro fracasso de bilheteria como *BR2049* foi (Villeneuve trabalha num ritmo lento demais porque gosta muito dos planos que encena), então nem vou me animar muito pra uma sequência que já foi meio que confirmada.
 
+Esse é um filme que eu quero muito ver no cinema. Villeneuve trabalha numa proporção gigante, sempre, e vale a pena uma imagem maior que o natural. Eu **realmente** espero que a Warner atrase o lançamento (que, por enquanto, tá previsto pra dezembro). Não façam como fizeram com *Tenet*.
+
 
 [^1]: Particularmente eu gostava mais de quando os trailers simplesmente surgiam na internet, sem muito aviso prévio. Criava aquela surpresa e excitação de ver o que um filme ia ser pela primeira vez. Há tempos já não é assim — esse trailer de *Duna* foi anunciado há umas semanas já e a Warner ficou criando “hype” pro seu “lançamento” como se ele fosse o filme em si. Pra mim é surreal que um trailer por si só não seja capaz de criar conversa sobre um filme mais.
