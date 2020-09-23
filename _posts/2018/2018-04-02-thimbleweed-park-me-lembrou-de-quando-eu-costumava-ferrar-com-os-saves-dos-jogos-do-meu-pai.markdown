@@ -6,6 +6,8 @@ date: "2018-04-02 09:29:54 -0300"
 tags:
   - jogos
   - séries
+  - aventura
+  - Switch
 image: "https://i.imgur.com/Wnwtn8w.jpg"
 ---
 

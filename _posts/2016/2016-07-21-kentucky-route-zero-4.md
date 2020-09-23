@@ -6,6 +6,9 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/kr04.jpg"
 author: arthurf
 tags:
   - jogos
+  - aventura
+  - Kentucky Route Zero
+  - Cardboard Computer
 ---
 
 > Kentucky Route Zero é uma tragédia. E todas as tragédias acabam do mesmo jeito.

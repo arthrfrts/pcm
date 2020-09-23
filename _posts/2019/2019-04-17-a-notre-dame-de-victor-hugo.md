@@ -34,6 +34,7 @@ Victor Hugo escreveu _O Corcunda de Notre Dame_ como uma ode à catedral, que na
 Mas é também uma lembrança que Notre Dame já esteve à beira de ser perdida, e foi reencontrada novamente (em grande parte, por causa da _O Corcunda…_) e hoje, tanto a catedral quanto o livro são exemplos daquilo que podemos criar, e testemunhas da passagem do tempo. Hugo descreve como as paredes de Notre Dame, tendo demorado séculos para ficarem prontas, carregam dentro delas a minúscia e o legado de diferentes artistas, de diferentes movimentos artísticos. A ideia de perder nem que seja parte de uma construção dessas é destruir parte desse legado, que tanto significa nosso passado e nos ensina um futuro.
 
 Somados cada um desses artistas, cada um de seus restauradores, cada uma das pessoas que a visitou e criou memórias lá, está a perpétua construção da humanidade em si. Se transforma, se fortalece e eventualmente cai — para então, nas ruínas do que se restou, se unir e levantar de novo.
+
 ---
 
 Você pode encontrar _O Corcunda de Notre Dame_, em livro ou ebook, na [Amazon](https://www.amazon.com.br/Corcunda-Notre-Dame-Coleção-Clássicos/dp/8537810886/ref=sr_1_4?__mk_pt_BR=ÅMÅŽÕÑ&keywords=notre+dame+de+paris&qid=1555462631&s=gateway&sr=8-4). O livro original, em francês, está disponível de graça no [Projeto Gutenberg](http://www.gutenberg.org/ebooks/19657).

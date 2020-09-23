@@ -6,6 +6,8 @@ tags:
   - esquinas
   - leituras
   - livros
+  - clássicos
+  - Ernest Hemingway
 author: filliped
 image: "https://arthrfrts.files.wordpress.com/2018/03/168a2311556945-560f9956043e7.jpg"
 ---

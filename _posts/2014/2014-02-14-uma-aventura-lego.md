@@ -2,10 +2,8 @@
 layout: post
 date: "2014-02-14 00:46:33 -0300"
 title: "Tudo é completamente, incrivelmente, especialmente incrível em Uma Aventura Lego"
-categories: resenhas
 author: arthurf
 tags:
-  - resenhas
   - filmes
   - animação
   - brinquedos

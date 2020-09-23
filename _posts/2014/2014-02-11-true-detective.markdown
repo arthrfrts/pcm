@@ -3,7 +3,6 @@ layout: post
 title: "True Detective"
 date: "2014-02-11 19:28:58 -0300"
 tags:
-  - resenhas
   - séries
   - suspense
   - HBO

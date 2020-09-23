@@ -2,7 +2,6 @@
 layout: post
 title: "“Rise and shine, Mr. Freeman”"
 date: "2014-05-02 23:52:13 -0300"
-category: Essenciais
 author: arthurf
 tags:
   - essenciais

@@ -9,6 +9,7 @@ tags:
   - aventura
   - listas
   - Nintendo
+  - The Legend of Zelda
 published: true
 ---
 

@@ -5,6 +5,8 @@ title: "Firewatch apresenta a maturidade aos videogames"
 author: arthurf
 tags:
   - jogos
+  - jogos narrativos
+  - Campo Santo
 image: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
 ---
 

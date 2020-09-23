@@ -4,7 +4,7 @@ title: "A melancolia anunciada de Cicero"
 date: "2014-08-19 20:10:55 -0300"
 author: vanessao
 tags:
-  - descobertas
+  - achados
   - músicas
 image: "https://arthrfrts.files.wordpress.com/2018/03/cicero.jpg"
 ---

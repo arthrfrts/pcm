@@ -56,6 +56,7 @@ Se você nunca ouviu podcasts ou se está em dúvidas quanto a esse programa, d�
 Quando a gente aprende que muitas vezes é melhor construir uma ponte do que provar um ponto o mundo agradece.
 
 [Você pode ouvir o Mamilos direto no site](https://www.b9.com.br/podcasts/mamilos/) ou através do seu agregador de podcasts favorito. Caso esteja a procura de algum, aqui no PCM a gente recomenda o [PocketCasts](https://www.pocketcasts.com).
+
 ---
 
 **Emanuele Spies** é _queer_, fã incondicional de _Carol_, (2015 dir. Todd Haynes), e Cate Blanchett. Ouvinte assídua de Podcasts e apaixonada por tecnologia. 

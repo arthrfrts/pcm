@@ -4,10 +4,12 @@ title: "A guerra pessoal de This War of Mine"
 author: guilhermeb
 date: "2015-02-18 20:33:37 -0300"
 tags:
-  - resenhas
+  - achados
   - jogos
-image: "https://pcmbackup.files.wordpress.com/2015/02/untitled-1.png"
+  - estratégia
+  - guerra
 ---
+
 Você esta com frio, fome e vivendo com desconhecidos sob o teto de uma casa abandonada.
 
 “Vou esperar até de noite e ir naquela área residencial, lá tem comida” você pensa.

@@ -3,9 +3,12 @@ layout: post
 date: 2016-07-05
 author: arthurf
 title: "Uma carta de amor a Abbas Kiarostami"
-category: Exposições
 tags:
   - filmes
+  - carreiras em perspectiva
+  - cinema iraniano
+  - Abbas Kiarostami
+  - mistério
 image: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
 ---
 

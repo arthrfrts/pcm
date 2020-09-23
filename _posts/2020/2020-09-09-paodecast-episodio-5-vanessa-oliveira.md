@@ -8,6 +8,7 @@ tags:
 - conversas
 date: 2020-09-09 08:57 -0300
 ---
+
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Vanessa-Oliveira-ej8l0r/a-a3572ou" height="102" frameborder="0" scrolling="no"></iframe>
 
 Eu e a Vanessa sentamos pra conversar sobre como a vida dela mudou nesse último ano.

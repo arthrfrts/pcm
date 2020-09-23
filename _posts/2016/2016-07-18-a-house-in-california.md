@@ -2,9 +2,11 @@
 layout: post
 date: 2016-07-18
 title: "Uma noite de verão em A House in California"
-category: Achados
 tags:
   - jogos
+  - aventura
+  - jogos narrativos
+  - Cardboard Computer
   - links
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"

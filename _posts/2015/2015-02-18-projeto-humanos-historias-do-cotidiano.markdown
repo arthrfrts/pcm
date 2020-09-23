@@ -3,10 +3,10 @@ layout: post
 title: "Projeto Humanos: histórias do cotidiano"
 date: "2015-02-18 20:35:59 -0300"
 author: filliped
-image: "https://pcmbackup.files.wordpress.com/2015/02/projetohumanos.png"
 tags:
-  - descobertas
+  - links
   - podcasts
+  - achados
 ---
 Ivan Mizanzuk é designer, com mestrado em filosofia/sociologia e doutorado em tecnologia e design. Mas nada disso importa aqui. No maravilhoso mundo da internet ele é apresentador do [Anticast](http://www.brainstorm9.com.br/anticast/) e idealizador do _Projeto Humanos_.
 

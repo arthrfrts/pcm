@@ -187,6 +187,7 @@ Entre os lançamentos internacionais já disponíveis, _[Dungeon World](https://
 O próprio _Apocalypse World_ não existiria sem jogos como _Ars Magica_, _Burning Wheel_, _Primetime Adventures_, _Shadow of Yesterday_ e _Trollbabe_, como a [ludografia](https://en.wikipedia.org/wiki/Lists_of_video_games) que fecha o jogo aponta. Talvez você tenha curiosidade de ler um, dois ou todos esses. Talvez nenhum deles, e tudo bem. Talvez você queira [fazer você mesmo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiW35CfpLfhAhUuD7kGHV05DQEQFjAAegQIAhAB&url=http%3A%2F%2Fcybermamute.com.br%2Fconcursofvm%2F&usg=AOvVaw2ruhrSG7ZM4vtqu_4_A78R).
 
 O importante é que a Conversa continue.
+
 ---
 
 Você pode receber mais informações sobre o lançamento de Apocalypse World [seguindo este link](https://www.facebook.com/notes/secular-games/apocalypse-world-edi%C3%A7%C3%A3o-brasileira/2772444012797694/).

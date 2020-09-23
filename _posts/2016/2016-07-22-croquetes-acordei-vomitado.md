@@ -2,10 +2,11 @@
 layout: post
 date: 2016-07-22
 title: "Acordei Vomitado é, antes de qualquer coisa, sincero demais"
-category: Achados
 tags:
+  - achados
   - links
   - músicas
+  - videoclipes
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/acordei-vomitado.jpg"
 ---

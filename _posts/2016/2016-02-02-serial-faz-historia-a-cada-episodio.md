@@ -6,6 +6,9 @@ author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/serial.jpg"
 tags:
   - links
+  - podcasts
+  - essenciais
+  - Serial
 ---
 
 Os podcasts, por anos, tentaram se identificar. Uma versão atualizada dos programas de rádio, agora na Internet, podcasts sempre tiveram o problema de não serem relevantes, de não introduzirem nada de novo que valha a eles serem considerados um meio de expressão. Não se engane: podcasts são divertidos pelos mais diferentes motivos, de serem verdadeiros diários sonoros a conversas fantásticas ou um modo interessante de contar histórias.

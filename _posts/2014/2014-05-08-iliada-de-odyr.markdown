@@ -3,7 +3,7 @@ layout: post
 title: "Ilíada, de Odyr"
 date: "2014-05-08 19:34:11 -0300"
 tags:
-  - descobertas
+  - achados
   - leituras
   - tirinhas
 author: filliped

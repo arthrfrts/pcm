@@ -5,6 +5,11 @@ date: 2016-02-11
 title: Lugares, pessoas, paisagens e histórias se confundem em Viajo Porque Preciso, Volto Porque Te Amo.
 tags:
   - filmes
+  - romance
+  - cinema nacional
+  - cinema experimental
+  - Karim Aïnouz
+  - Marcelo Gomes
 image: "https://arthrfrts.files.wordpress.com/2018/03/viajo-porque-preciso-volto-porque-te-amo.jpg"
 ---
 

@@ -4,7 +4,7 @@ title: "O Anjo Exterminador"
 date: "2014-01-26 20:02:17 -0300"
 author: filliped
 tags:
-  - descobertas
+  - achados
   - filmes
   - Luis Buñuel
   - surrealismo

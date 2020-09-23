@@ -3,7 +3,6 @@ layout: post
 title: "Medianeras"
 date: "2014-08-01 19:15:49 -0300"
 tags:
-  - resenhas
   - filmes
   - romance
 author: filliped

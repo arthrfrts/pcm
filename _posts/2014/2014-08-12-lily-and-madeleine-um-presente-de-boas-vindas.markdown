@@ -3,8 +3,9 @@ layout: post
 title: "Lily and Madeleine: um presente de boas vindas"
 date: "2014-08-12 19:44:17 -0300"
 tags:
-  - descobertas
+  - achados
   - músicas
+  - indie
 author: vanessao
 image: "https://arthrfrts.files.wordpress.com/2018/03/2baeb64276ae4bffbf47887a7e75f66f.jpg"
 ---
