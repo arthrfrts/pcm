@@ -5,6 +5,8 @@ title: "Everything Now pede para encararmos o abismo juntos"
 image: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
 tags:
   - músicas
+  - rock
+  - Arcade Fire
 author: arthurf
 ---
 

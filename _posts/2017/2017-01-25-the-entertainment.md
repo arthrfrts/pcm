@@ -5,6 +5,9 @@ title: Você nunca vai jogar nada como The Entertainment
 category: Achados
 tags:
   - jogos
+  - VR
+  - Cardboard Computer
+  - Kentucky Route Zero
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
 ---

@@ -5,6 +5,7 @@ category: Achados
 tags:
   - leituras
   - links
+  - newsletters
 date: 2017-01-12
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/leia-brasileiros.jpg"

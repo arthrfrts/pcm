@@ -5,6 +5,10 @@ title: 'Legion é o futuro brilhante dos super-heróis.'
 image: "https://arthrfrts.files.wordpress.com/2018/03/legion-s01.jpg"
 tags:
   - séries
+  - super-heróis
+  - ação
+  - Netflix
+  - X-Men
 author: arthurf
 ---
 

@@ -5,6 +5,9 @@ title: "Upstream Color não sai da minha cabeça."
 category: Achados
 tags:
   - filmes
+  - ficção científica
+  - cinema experimental
+  - MUBI
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/upstream-color.jpg"
 ---

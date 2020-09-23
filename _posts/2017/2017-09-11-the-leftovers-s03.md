@@ -6,6 +6,10 @@ excerpt: E responde tudo. E então acaba.
 image: "https://i.imgur.com/LCq1cjC.png"
 tags:
   - séries
+  - drama
+  - Damon Lindelof
+  - The Leftovers
+  - HBO
 author: arthurf
 ---
 

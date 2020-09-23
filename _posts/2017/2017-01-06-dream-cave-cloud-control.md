@@ -3,6 +3,8 @@ layout: post
 title: "Dream Cave é novo e empolgante."
 tags:
   - músicas
+  - indie
+  - Cloud Control
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
 ---

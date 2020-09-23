@@ -6,6 +6,9 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/immigrant.jpg"
 category: Achados
 tags:
   - filmes
+  - cinema americano
+  - drama
+  - James Gray
 author: arthurf
 ---
 
