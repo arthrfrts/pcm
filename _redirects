@@ -7,4 +7,5 @@
 /tag/{{ tag | first | slugify }}	/arquivo/tags/{{ tag | first | slugify }}/	301
 {%- endfor -%}
 
+/2020/09/eu-voltei-a-assistir-séries-semanalmente/ /2020/09/eu-voltei-a-assistir-series-semanalmente/ 301
 /colabore/* / 301

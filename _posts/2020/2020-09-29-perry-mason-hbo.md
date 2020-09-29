@@ -12,7 +12,7 @@ date: 2020-09-29 09:40 -0300
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/5kvje3ogHDk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Eu quase paguei minha língua quando escrevi semana passada sobre [assistir séries semanalmente]({%- post_url 2020/2020-09-21-eu-voltei-a-assistir-séries-semanalmente -%}) porque, quando o terceiro episódio de *Perry Mason* terminou, eu quase deixei ir pro próximo episódio (eu não deixei, mas ô vontade). Eu queria ter visto enquanto a série ainda tava dando na HBO, pra me incentivar a ver os episódios semanalmente, mas não consegui porque tava assistindo outra série na época e agora a temporada inteira tá na HBO Go, e a tentação é grande.
+Eu quase paguei minha língua quando escrevi semana passada sobre [assistir séries semanalmente]({%- post_url 2020/2020-09-21-eu-voltei-a-assistir-series-semanalmente -%}) porque, quando o terceiro episódio de *Perry Mason* terminou, eu quase deixei ir pro próximo episódio (eu não deixei, mas ô vontade). Eu queria ter visto enquanto a série ainda tava dando na HBO, pra me incentivar a ver os episódios semanalmente, mas não consegui porque tava assistindo outra série na época e agora a temporada inteira tá na HBO Go, e a tentação é grande.
 
 Postzinho rápido porque eu tô no meio da temporada, mas a recomendação é forte. *Perry Mason* tem a sensibilidade das séries antes do pico da TV na década passada: é uma série de antiherói, sim, mas como as melhores desse clichê ela enxerga todos os personagens ainda mais fascinantes ao redor do protagonista, e como as ações dele afetam essas pessoas ao redor — o que só acentua o *anti* do heroísmo dele.
 
