@@ -6,7 +6,7 @@ author: arthurf
 tags:
 - séries
 - mistério
-- documentário
+- documentários
 - Liz Garbus
 - HBO
 date: 2020-07-20 19:55 -0300

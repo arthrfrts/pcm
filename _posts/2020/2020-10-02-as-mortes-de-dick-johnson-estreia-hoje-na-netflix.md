@@ -5,7 +5,7 @@ author: arthurf
 tags:
 - filmes
 - trailers
-- documentário
+- documentários
 - Kirsten Johnson
 - Netflix
 date: 2020-10-02 09:39 -0300
