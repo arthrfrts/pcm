@@ -3,7 +3,7 @@
   {%- include head.html -%}
   <body>
     <div id="site">
-      {%- include header.html -%}
+      {%- include_cached header.html -%}
       
       <main class="content">
         <div class="wrapper">
@@ -12,13 +12,13 @@
           </div>
           
           {%- unless page.layout == "page" -%}
-            {%- include archives/sidebar.html -%}
+            {%- include_cached archives/sidebar.html -%}
           {%- endunless -%}
         </div>
       </main>
       
       
-      {%- include footer.html -%}
+      {%- include_cached footer.html -%}
     </div>
     <script id="vendor-jquery" src="{%- link assets/js/jquery.js -%}"></script>
     <script id="site-scripts" src="{%- link assets/js/scripts.js -%}"></script>

@@ -1,7 +1,22 @@
 ---
 layout: post
-title: Kentucky Route Zero acabou e levou uma parte de mim
+title: Kentucky Route Zero chegou ao fim
+author: arthurf
+tags:
+  - jogos
+  - aventura
+  - Kentucky Route Zero
+  - Cardboard Computer
 ---
+
+*Kentucky Route Zero* começa no fim.
+
+Ou algo que se parece muito com o fim. Conway, um velho caminhoneiro, estaciona na margem da interestadual no pôr-do-sol, perguntando por direções em um posto de gasolina. É a sua última entrega antes do antiquário que trabalha fechar as portas. E, ainda assim, a ideia de que *Kentucky Route Zero* finalmente terminou é estranha pra mim. Mesmo depois de [escrever estensivamente sobre](https://paomortadela.com.br/arquivo/tags/kentucky-route-zero) através dos anos, não ter mais um novo ato ou interlúdio pra esperar parece um sentimento distante, parte de um outro eu.
+
+<iframe class="full-width" src="https://www.youtube.com/embed/pzXtmls1kFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+***
 
 Não era o meu plano passar seis meses sem atualizar o Pão com Mortadela. O plano original era fazer uma pausa em janeiro, deixar uns posts meio que encaminhados, e voltar com o blog em fevereiro. Não era o meu plano, mas foi o que aconteceu. Em meados de janeiro eu recebi um código pra baixar o último ato de _Kentucky Route Zero_, um jogo que eu vim acompanhando e jogando desde 2013 — o mesmo ano, curiosamente, que esse blog nasceu. Eu não vou medir palavras aqui: o quinto ato de _Kentucky Route Zero_ é pequeno, mas é também gigante. É tão poderoso que eu passei meses sem conseguir escrever. É um jogo que me fez repensar meu jeito de ver e de sentir de uma maneira tão completa que eu perdi as palavras. Elas precisaram crescer de novo em mim.
 

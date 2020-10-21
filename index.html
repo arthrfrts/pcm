@@ -3,7 +3,7 @@ layout: default
 ---
 
 {%- for post in paginator.posts -%}
-  {%- include archives/post.html hide_content=true -%}
+  {%- include_cached archives/post.html post=post hide_content=true -%}
 {%- endfor -%}
 
 <nav class="pagination">
