@@ -11,7 +11,10 @@ tags:
 
 *Kentucky Route Zero* começa no fim.
 
-Ou algo que se parece muito com o fim. Conway, um velho caminhoneiro, estaciona na margem da interestadual no pôr-do-sol, perguntando por direções em um posto de gasolina. É a sua última entrega antes do antiquário que trabalha fechar as portas. E, ainda assim, a ideia de que *Kentucky Route Zero* finalmente terminou é estranha pra mim. Mesmo depois de [escrever estensivamente sobre](https://paomortadela.com.br/arquivo/tags/kentucky-route-zero) através dos anos, não ter mais um novo ato ou interlúdio pra esperar parece um sentimento distante, parte de um outro eu.
+Ou algo que se parece muito com o fim. Conway, um velho caminhoneiro, estaciona na margem da interestadual no pôr-do-sol, perguntando por direções em um posto de gasolina. É a sua última entrega antes do antiquário que trabalha fechar as portas. É uma imagem que fica na memória: os últimos vestígios de um dia e de um trabalho, e um jogo que eu aguardei sua conclusão por anos depois de vê-la primeira vez.
+
+Lançado de forma episódica desde 2013, *Kentucky Route Zero* 
+
 
 <iframe class="full-width" src="https://www.youtube.com/embed/pzXtmls1kFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
