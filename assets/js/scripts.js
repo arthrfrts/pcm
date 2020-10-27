@@ -17,6 +17,10 @@ $(".contact_form").on('submit', function(e) {
   });
 });
 
+
+/*
+  Responsive videos.
+*/
 (function() {
   var _debounce, _each, _filter, _resize, iframes, isVideo, resizeVideos, videos;
 
