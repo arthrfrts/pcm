@@ -9,7 +9,7 @@ tags:
 - The Sims
 date: 2020-10-29 20:02 -0300
 ---
-<iframe src="https://player.twitch.tv/?video=783888743&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" class="full-width"></iframe>
+<iframe src="https://player.twitch.tv/?video=783888743&parent=paomortadela.com.br" frameborder="0" allowfullscreen="true" scrolling="no" class="full-width"></iframe>
 
 A dramaturga Celine Song, autora de [*Endings*](https://www.nytw.org/show/endlings/) executou uma performance do clássico *A Gaivota* de Anton Tchekhov no *The Sims 4*, como parte do programa de “instigação” do New York Theater Workshop, para ajudar artistas durante a pandemia, enquanto os teatros estão fechados.
 
