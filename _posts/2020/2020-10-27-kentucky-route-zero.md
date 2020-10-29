@@ -6,6 +6,7 @@ image: "/uploads/2020/10/26/dogwood-drive.png"
 excerpt: Nos últimos dez anos, minha vida se cruzou intimamente com um jogo. Nos últimos
   dez meses, eu tento entender como ele acabou.
 tags:
+- esquinas
 - jogos
 - aventura
 - Kentucky Route Zero
