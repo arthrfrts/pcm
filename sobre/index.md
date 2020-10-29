@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre esse site
-
 ---
 
 Escrito por [Arthur Freitas](https://arthr.me/) no sul do Brasil (e convidados ao redor do mundo), o Pão com Mortadela é um blog criado em 2013 com a missão de sempre ter um texto bacana para você ler na hora do café ou do chá.
