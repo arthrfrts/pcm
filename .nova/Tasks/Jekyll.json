@@ -1,8 +1,8 @@
 {
   "actions" : {
     "build" : {
-      "enabled" : false,
-      "script" : "#!\/bin\/sh\nbundle exec jekyll serve --drafts"
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle update"
     },
     "run" : {
       "enabled" : true,
