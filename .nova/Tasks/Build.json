@@ -1,0 +1,13 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : false,
+      "script" : "#!\/bin\/sh\nbundle exec jekyll serve --drafts"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle exec jekyll serve --drafts"
+    }
+  },
+  "identifier" : "BEA56BE2-4CCE-468A-A0AF-1E6568AC3303"
+}
