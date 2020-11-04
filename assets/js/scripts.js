@@ -6,17 +6,6 @@ $(document).ready(function() {
   });
 });
 
-$(".contact_form").on('submit', function(e) {
-  e.preventDefault();
-
-  var $form = $(this);
-
-  $.post($form.attr("action"), $form.serialize()).then(function() {
-    alert(`Obrigado!\n\nSua mensagem foi enviada e vou respondê-la em breve.\n\nAté lá,\nArthur.`);
-    $form[0].reset();
-  });
-});
-
 
 /*
   Responsive videos.
