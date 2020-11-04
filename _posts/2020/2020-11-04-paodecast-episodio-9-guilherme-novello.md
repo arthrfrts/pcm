@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episódio 9 - Guilherme Novello
+title: Episódio 9 – com Guilherme Novello
 author: arthurf
 tags:
   - Pãodecast

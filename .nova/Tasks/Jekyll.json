@@ -9,5 +9,6 @@
       "script" : "#!\/bin\/sh\nbundle exec jekyll serve --drafts"
     }
   },
-  "identifier" : "BEA56BE2-4CCE-468A-A0AF-1E6568AC3303"
+  "identifier" : "BEA56BE2-4CCE-468A-A0AF-1E6568AC3303",
+  "openLogOnRun" : "start"
 }
