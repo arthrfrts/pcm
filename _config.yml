@@ -60,6 +60,7 @@ twitter:
 
 # Archives
 jekyll-archives:
+  slug_mode: latin
   enabled:
     - tags
     - year
@@ -68,7 +69,7 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-    tag: "/arquivo/tags/:name/"
+    tag: "/tags/:name/"
 
 # Compose
 jekyll_compose:

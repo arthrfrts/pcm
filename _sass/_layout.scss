@@ -273,6 +273,33 @@
   }
 }
 
+// Archives
+
+.post_content {
+  .tags_list {
+    list-style: none;
+    margin-left: 0;
+    font-family: $font-headings;
+  
+    li {
+      display: inline-block;
+    
+      &:not(:last-child) {
+        &::after {
+          padding-left: $spacing-unit / 4;
+          padding-right: $spacing-unit / 4;
+          content: "/";
+          color: rgba($color-text, 0.2);
+        } 
+      }
+      
+      .tag_count {
+        font-size: 1.1rem;
+      }
+    }
+  } 
+}
+
 .pagination {
   @include media-query($on-palm) {
     display: flex;
