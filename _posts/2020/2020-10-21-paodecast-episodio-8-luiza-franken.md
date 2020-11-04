@@ -14,5 +14,5 @@ Era um sábado de sol e a Luiza e eu sentamos pra conversar sobre o nosso dia-a-
 
 Você pode seguir a Luiza no Instagram, em [@lufranken](https://www.instagram.com/lufranken).
 
-Se você quer participar de um episódio e conversar sobre qualquer coisa, [envie uma mensagem]({%- link sobre/index.md -%})!
+Se você quer participar de um episódio e conversar sobre qualquer coisa, [envie uma mensagem]({% link sobre/index.md %})!
 
