@@ -60,12 +60,12 @@ twitter:
 
 # Archives
 jekyll-archives:
-  slug_mode: latin
   enabled:
     - tags
     - year
     - month
-  layout: "archive"
+  layout: archive
+  slug_mode: latin
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
