@@ -6,6 +6,8 @@ html {
   font-size: 62.5%; // 10px = 1rem;
   font-family: $font-headings;
   box-sizing: border-box;
+  max-width: 100vw;
+  overflow-x: hidden;
 }
 
 *,
