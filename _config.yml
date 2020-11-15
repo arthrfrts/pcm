@@ -46,6 +46,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-paginate
+  - jekyll-loading-lazy
+  - jekyll-include-cache
 
 # SEO
 social:
