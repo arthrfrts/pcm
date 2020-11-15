@@ -22,13 +22,16 @@ collections:
 markdown: kramdown
 incremental: true
 
+sass:
+  style: compressed
+
 url: "https://paomortadela.com.br" # mudar no merge
 baseurl: ""
 
-permalink: /:year/:month/:title/
+permalink: "/:year/:month/:title/"
 paginate: 8
 paginate_path: "/arquivo/pagina/:num/"
-seo_paginator_message: "Página %<current>s de %<total>s | "
+seo_paginator_message: "Página %<current>s de %<total>s ~ "
 
 include:
   - _redirects
