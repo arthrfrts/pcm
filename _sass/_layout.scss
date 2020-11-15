@@ -39,7 +39,7 @@
   
   .site_title {
     font-size: 3.2rem;
-    font-weight: 900;
+    font-weight: bolder;
     margin-bottom: 0;
     
     img {
@@ -108,7 +108,7 @@
   .wave {
     line-height: 0;
     display: block;
-    transform: translateY(1px);
+    transform: translateY(1px) scale(1.2);
   }
 }
 
