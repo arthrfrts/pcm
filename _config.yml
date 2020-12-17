@@ -22,6 +22,9 @@ collections:
 markdown: kramdown
 incremental: true
 
+feed:
+  excerpt_only: true
+
 sass:
   style: compressed
 
