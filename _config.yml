@@ -36,6 +36,10 @@ paginate: 8
 paginate_path: "/arquivo/pagina/:num/"
 seo_paginator_message: "Página %<current>s de %<total>s ~ "
 
+exclude:
+  - LICENSE
+  - README.md
+
 include:
   - _redirects
   - _headers
