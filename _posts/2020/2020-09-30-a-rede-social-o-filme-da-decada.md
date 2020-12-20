@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Rede Social é o filme da década
-excerpt: Dez anos depois, nenhum filme conseguiu observar os anos 2010 como o “Filme
-  do Facebook”.
+excerpt: >-
+  Dez anos depois, nenhum filme conseguiu observar os anos 2010 como o “Filme do Facebook”.
 author: arthurf
 image: "/uploads/2020/10/01/a-rede-social.jpg"
 tags:
