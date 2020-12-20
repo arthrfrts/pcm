@@ -10,6 +10,7 @@ tags:
   - Netflix
 date: 2020-12-14 09:33 -0300
 ---
+
 Os filmes estão longos demais. Eu não tenho problema nenhum em ficar cinco horas sentado na frente da TV assistindo a vários episódios de [*Gilmore Girls*]({% post_url 2020/2020-08-13-ainda-bem-que-gilmore-girls-existe %}), mas toda a vez que eu penso em rever [*Blade Runner 2049*]({% post_url 2019/2019-11-06-fracassos-de-bilheteria %}#blade-runner-2049-2017) (um filme que eu amo), eu lembro que ele tem duas horas e quarenta e três minutos de duração. Tudo bem que os filmes de Denis Villeneuve têm um ritmo um pouco mais lento do que outros *blockbusters*, e por mim tudo bem. Mas eu sei muito bem qual o principal culpado dessa duração gigantesca: *backstory*.
 
 *Backstory* é aquilo que aconteceu antes dos eventos da narrativa de um filme. Quase todos os filmes têm, é muito raro um filme ser somente sobre o tempo presente (*Tangerina*, aquele filme maravilhoso que foi filmado em um iPhone, é um bom exemplo desses casos raros). Alguns são quase todos feitos de *backstory*, como *Antes do Pôr-do-Sol* — um filme em tempo real[^1], mas que é quase que totalmente sobre duas pessoas conversando sobre o passado. Enfim, *backstory* é algo meio que essencial pro cinema, mas eu tenho uma teoria de que muitos filmes dos últimos vinte anos, mais ou menos, não sabem direito como usar ele.

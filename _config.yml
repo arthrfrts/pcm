@@ -81,7 +81,7 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-    tag: "/tags/:name/"
+    tag: "/arquivo/tag/:name/"
 
 # Compose
 jekyll_compose:

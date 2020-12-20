@@ -17,4 +17,4 @@ Em 2020, o Pão criou [um podcast](/arquivo/tags/pãodecast/) com conversas de q
 
 Se você quiser me enviar uma mensagem ou pedir para participar do Pãodecast, fique a vontade de enviar um email para <mesa@paomortadela.com.br> ou usar esse formulário:
 
-{%- include components/contact-form.html -%}
+{%- include contact-form.html -%}

@@ -3,62 +3,63 @@ layout: default
 ---
 <article class="post single">
   <header class="post_header">
-    {%- unless page.title == "" -%}
+    {% unless page.title == "" %}
       <h1 class="post_title">
-        {{- page.title -}}
+        {{ page.title }}
       </h1>
-    {%- endunless -%}
+    {% endunless %}
   
     <div class="post_meta">
       <p class="post_info">
         
         {% if page.authors %}
           {% for author_code in page.authors %}
-            {%- assign author = site.data.authors[author_code] -%}
+            {% assign author = site.data.authors[author_code] %}
           
-            <a class="info post_author {{ author_code -}}" href="{{- author_code | prepend: '/arquivo/autor/' -}}" rel="author">{{ author.name }}</a>
+            <a class="info post_author {{ author_code -}}" href="{{ author_code | prepend: '/arquivo/autor/'  }}" rel="author">{{ author.name }}</a>
           {% endfor %}
         {% else %}
           {% assign author = site.data.authors[page.author] %}
-          <a class="info post_author {{ page.author -}}" href="{{- page.author | prepend: '/arquivo/autor/' -}}" rel="author">{{ author.name }}</a>
+          
+          <a class="info post_author {{ page.author -}}" href="{{ page.author | prepend: '/arquivo/autor/' }}" rel="author">{{ author.name }}</a>
         {% endif %}
         
         <a class="info post_date" href="{{ page.url | absolute_url }}" rel="bookmark">
-          <time datetime="{{- page.date | date_to_xmlschema -}}">{{- page.date | date: "%d/%m/%Y" -}}</time>
+          <time datetime="{{- page.date | date_to_xmlschema -}}">{{ page.date | date: "%d/%m/%Y" }}</time>
         </a>
       </p>
     </div>
   </header>
   
-  {%- if page.image -%}
+  {% if page.image %}
     <figure class="post_image">
       <img src="{{ page.image.path | default: page.image }}" alt="{{ page.image.alt }}" role="presentation" />
     </figure>
-  {%- endif -%}
+  {% endif %}
   
   <div class="post_content">
     {{ page.content }}
   </div>
   
   <footer class="post_footer">
-    {%- if page.tags -%}
+    {% if page.tags %}
       <div class="post_tags">
         <p>Mais posts sobre…</p>
         <ul class="tags">
-          {%- for tag in page.tags -%}
-            {%- assign tag_slug = tag | slugify -%}
+          {% for tag in page.tags %}
+            {% assign tag_slug = tag | slugify %}
             <li>
               <a class="tag_link" href="{{- site.jekyll-archives.permalinks.tag | replace: ':name', tag_slug | relative_url -}}" rel="tag">
                 {{ tag }}
               </a>
             </li>
-          {%- endfor -%}
+          {% endfor %}
         </ul>
       </div>
-    {%- endif -%}
+    {% endif %}
   </footer>
   
-  {%- unless page.comments == false -%}
+  {% unless page.comments == false %}
     <div class="post_comments">
       <div id="disqus_thread"></div>
       <script>
@@ -76,16 +77,16 @@ layout: default
       </script>
       <noscript>Comentários do site oferecidos por Disqus.</noscript>
     </div>
-  {%- endunless -%}
+  {% endunless %}
 </article>
 
-{%- if page.previous or page.next -%}
+{% if page.previous or page.next %}
 <nav class="pagination">
-  {%- if page.previous -%}
-    <a href="{{- page.previous.url | relative_url -}}" rel="prev">&larr; Post anterior</a>
-  {%- endif -%}
-  {%- if page.next -%}
-    <a href="{{- page.next.url | relative_url -}}" rel="next">Próximo post &rarr;</a>
-  {%- endif -%}
+  {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}" rel="prev">&larr; Post anterior</a>
+  {% endif %}
+  {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}" rel="next">Próximo post &rarr;</a>
+  {% endif %}
   </nav>
-{%- endif -%}
+{% endif %}
