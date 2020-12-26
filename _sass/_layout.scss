@@ -92,6 +92,7 @@
       text-decoration: none;
       display: inline-block;
       flex: 0 0 auto;
+      font-weight: 400;
       
       &:not(:last-child) {
         margin-right: $spacing-unit;

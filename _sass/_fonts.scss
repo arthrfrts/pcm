@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Gthm';
+  src: url('/assets/fonts/Gthm-900.woff2') format('woff2'),
+      url('/assets/fonts/Gthm-900.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gthm';
+  src: url('/assets/fonts/Gthm-400.woff2') format('woff2'),
+      url('/assets/fonts/Gthm-400.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gthm';
+  src: url('/assets/fonts/Gthm-400i.woff2') format('woff2'),
+      url('/assets/fonts/Gthm-400i.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
