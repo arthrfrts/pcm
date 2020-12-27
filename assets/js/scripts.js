@@ -1,4 +1,3 @@
-
 window.addEventListener("DOMContentLoaded", function() {
   
   var footerHeight = document.querySelector('footer.colophon').offsetHeight;
