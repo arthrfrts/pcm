@@ -77,11 +77,11 @@ jekyll-archives:
     - year
     - month
   layout: archive
-  slug_mode: latin
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
     tag: "/arquivo/tag/:name/"
+  slug_mode: default
 
 # Compose
 jekyll_compose:
