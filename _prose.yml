@@ -9,7 +9,10 @@ prose:
     - /_includes
     - /_layouts
     - /_sass
-    - /assets
+    - /assets/css
+    - /assets/fonts
+    - /assets/images
+    - /assets/js
     - .editorconfig
     - .gitignore
     - 404.html
