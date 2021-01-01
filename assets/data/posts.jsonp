@@ -1,10 +1,9 @@
 ---
-# Hello, Jekyll!
 ---
 
-{%- assign site_posts = site.posts | sort_natural: title -%}
+{%- assign site_posts = site.posts | sort: date -%}
 
-callback([
+posts([
 {%- for post in site_posts -%}
   {
     "text": {{ post.title | jsonify }},

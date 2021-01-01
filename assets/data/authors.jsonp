@@ -1,8 +1,7 @@
 ---
-# Hello, Jekyll!
 ---
 
-authorsCallback([
+authors([
 {%- for author in site.data.authors -%}
   {
     "value": {{ author | first | jsonify }},

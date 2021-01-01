@@ -1,0 +1,53 @@
+prose:
+  rooturl: _posts
+  siteurl: "https://paomortadela.com.br"
+  relativeLinks: "https://paomortadela.com.br/assets/data/posts.jsonp?callback=posts"
+  media: "uploads"
+  ignore:
+    - /_authors
+    - _config.yml
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /assets
+    - .editorconfig
+    - .gitignore
+    - 404.html
+    - CNAME
+    - favicon.ico
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+  metadata:
+    _posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: author
+        field:
+          element: multiselect
+          label: Authors
+          options: "https://paomortadela.com.br/assets/data/authors.jsonp?callback=authors"
+      - name: date
+        field:
+          element: hidden
+          value: CURRENT_DATETIME
+      - name: title
+        field: 
+          element: text
+          label: Title
+      - name: image
+        field:
+          element: text
+          label: Image
+          placeholder: Add the relative image path or full image URL
+      - name: tags
+        field: 
+          element: multiselect
+          label: Tags
+          placeholder: Start typing to choose or add tags
+          options: "https://paomortadela.com.br/assets/data/authors.jsonp?callback=authors"
+          alterable: true
+        
