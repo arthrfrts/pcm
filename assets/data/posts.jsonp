@@ -1,7 +1,7 @@
 ---
 ---
 
-{%- assign site_posts = site.posts | sort: date -%}
+{%- assign site_posts = site.posts | sort: "date" -%}
 
 posts([
 {%- for post in site_posts -%}

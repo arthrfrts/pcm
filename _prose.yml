@@ -51,6 +51,6 @@ prose:
           element: multiselect
           label: Tags
           placeholder: Start typing to choose or add tags
-          options: "https://paomortadela.com.br/assets/data/authors.jsonp?callback=authors"
+          options: "https://paomortadela.com.br/assets/data/tags.jsonp?callback=tags"
           alterable: true
         
