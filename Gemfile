@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.2"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15.1"
@@ -12,3 +12,5 @@ group :jekyll_plugins do
   gem "jekyll-loading-lazy", "~> 0.1.1"
   gem "jekyll-include-cache", "~> 0.2.1"
 end
+
+gem "webrick", "~> 1.7"
