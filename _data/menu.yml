@@ -1,9 +1,11 @@
-- title: Pãodecast
-  url: "/arquivo/tag/pãodecast/"
-- title: Newsletter
-  url: "https://tinyletter.com/paomortadela"
 - title: Arquivo
   url: "/arquivo/"
 - title: Sobre
   url: "/sobre/"
+- title: Pãodecast
+  url: "/arquivo/tag/pãodecast/"
+- title: Newsletter
+  url: "https://tinyletter.com/paomortadela"
+- title: Colabore
+  url: "https://catarse.me/paomortadela"
 
