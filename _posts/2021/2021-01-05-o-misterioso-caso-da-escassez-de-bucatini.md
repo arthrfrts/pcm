@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O misterioso caso da escassez de bucatini
+title: Rachel Handler investiga o misterioso caso da escassez de bucatini
 author: arthurf
 tags:
 - links
