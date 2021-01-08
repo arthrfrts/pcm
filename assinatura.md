@@ -9,7 +9,7 @@ Olá, e muito obrigado por querer apoiar o *Pão*! Se você é um leitor assídu
     Por alguns trocados por dia você pode se transformar em um dos Top 100 Amigos do Pão! Isso basicamente significa que você está protegido por lei se quiser me pedir para fazer um ranking de todos os episódios dos Cavaleiros do Zodíaco.
 - **[Camarada — R$ 12](https://www.catarse.me/pt/projects/99154/subscriptions/start?reward_id=230772)**  
     Honestamente, se você chegou até aqui é porque você lê e se interessa pelos links e textos no Pão. Se esse for o caso, eu vou ficar muito agradecido pelo seu apoio como uma camarada. Muito obrigado! Sobre o que você quer ler agora?
-- **[Patrocínio](https://www.catarse.me/pt/projects/99154/subscriptions/start?reward_id=231647)**  
+- **[Patrocínio — R$ 80](https://www.catarse.me/pt/projects/99154/subscriptions/start?reward_id=231647)**  
     Ah, sim… nesse nível você permite que eu construa uma infraestrutura de servidores que vai aguentar o cataclisma em que o sol engolirá a Terra, fazendo com que todo o legado cultural da humanidade seja os posts do Pão, são e salvos para o encontro com os alienígenas.
 
 Os pagamentos são processados pela plataforma de financiamento coletivo chamada Catarse. Eles aceitam cartões de crédito e boletos bancários. Se você gostaria de contribuir, mas não pode pagar um valor mensal, sinta-se livre em enviar sua colaboração no valor que quiser por Pix usando o QR code abaixo:
