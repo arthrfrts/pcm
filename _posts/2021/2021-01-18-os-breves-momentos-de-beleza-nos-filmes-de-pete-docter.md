@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Os breves momentos de beleza nos filmes de Pete Docter
-excerpt: Esse post revela momentos da trama de Soul.
+excerpt: >-
+  Esse post revela momentos da trama de Soul.
 author: arthurf
 image: "/uploads/2021/01/18/soul.jpg"
 tags:
-- esquinas
-- filmes
-- carreiras em perspectiva
-- Pete Docter
-- Pixar
-date: 2021-01-18 09:18 -0300
+  - esquinas
+  - filmes
+  - carreiras em perspectiva
+  - Pete Docter
+  - Pixar
 ---
+
 _Esse post revela momentos da trama de Soul._
 
 Em uma cena de _Soul_, Joe Gardner — ou melhor, a alma de Joe — acompanha a alma 22 no Museu da Minha Vida. Lá, ele mostra para ela alguns dos momentos mais importantes da sua experiência como um ser humano. Para ele, o momento mais especial é o que seu pai o leva à um clube de jazz, e ele descobre seu amor pela música. Joe é um pianista, mas ele nunca deslanchou em uma carreira como músico. Enquanto observa os momentos que compõem o Museu, ele percebe vários em que esteve infeliz — assistindo TV sozinho na sala, comendo uma torta numa lanchonete à noite, dando aula para seus alunos pouco interessados do ensino médio. Joe percebe, observando esses momentos, que sua vida foi um fracasso.
@@ -24,7 +25,7 @@ Em seus quatro filmes até aqui (_Monstros S.A._, _Up — Altas Aventuras_, _Div
 
 Docter tem um carinho pela fisicalidade do humor. Enquanto Stanton explora o ultra-realismo e Bird encena como os filmes-seriados de espiões das décadas de 1940 e 1950, a principal referência visual de Pete Docter parece ser os desenhos dos _Looney Tunes_, em que Pernalonga, Patolino, Piu-Piu e Frajola se distorcem e fazem posições nada reais para mostrar seus sentimentos. Mas os filmes em que os personagens de Docter estão usam desse tipo de humor para realçar o movimento interno do filme, onde a jornada de seus personagens é tão interna quanto externa.
 
-_Monstros S.A._ tem muitas semelhanças com outros filmes da primeira leva da Pixar: é uma história sobre amizade onde os amigos precisam passar por uma jornada e conhecer o limite uns dos outros. Como _Toy Story_ e _Vida de Inseto_, o que começa como uma comédia se torna uma aventura de pega-pega, e o filme se foca tanto em eles desenvolvendo um plano mirabolante quanto em descobrindo como trabalhar junto para executá-los. Mas se os filmes anteriores do estúdio mostram os amigos passando pelos perrengues e então superando-os e voltando à amizade, enquanto _Monstros S.A._ usa a aventura para torná-la um momento em que Mike e Sulley fortalecem sua amizade e observam, num futuro onde o epílogo do filme se passa, com nostalgia.
+_Monstros S.A._ tem muitas semelhanças com outros filmes da primeira leva da Pixar: é uma história sobre amizade onde os amigos precisam passar por uma jornada e conhecer o limite uns dos outros. Como _Toy Story_ e _Vida de Inseto_, o que começa como uma comédia se torna uma aventura de pega-pega, e o filme se foca tanto em eles desenvolvendo um plano mirabolante quanto em descobrindo como trabalhar junto para executá-los. Mas se os filmes anteriores do estúdio mostram os amigos passando pelos perrengues e então superando-os e voltando à amizade, _Monstros S.A._ usa a aventura para torná-la um momento em que Mike e Sulley fortalecem sua amizade e observam, num futuro onde o epílogo do filme se passa, com nostalgia.
 
 <iframe class="full-width" src="https://www.youtube.com/embed/j8etbVnzhtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
