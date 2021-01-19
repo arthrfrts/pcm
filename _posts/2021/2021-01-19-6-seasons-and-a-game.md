@@ -17,6 +17,6 @@ _Six Seasons and a Game_ é um jogo de tiro em primeira pessoa, multiplayer e **
 
 Essa não é a primeira vez que fãs de _Community_ puseram as mãos na massa e fizeram um jogo. Enquanto a série ainda estava no ar, uns fãs recriaram [_Journey to the Center of Hawkthorne_](https://projecthawkthorne.com), um jogo de plataforma e aventura exibido em um episódio no final da terceira temporada, e **também** é um jogo gratuito e muito bom. Essa comunidade de _Community_ é muito talentosa.
 
-[_Six Seasons and a Game_ tá disponível no Steam]() e [*Journey to the Center of Hawkthorne*] tá disponível no [GitHub](https://github.com/hawkthorne/hawkthorne-journey/releases).
+[_Six Seasons and a Game_ tá disponível no Steam](https://store.steampowered.com/app/1460830/6_Seasons_and_a_Game/) e _Journey to the Center of Hawkthorne_ tá disponível no [GitHub](https://github.com/hawkthorne/hawkthorne-journey/releases).
 
 Mas eu ainda tô esperando o filme.
