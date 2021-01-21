@@ -3,16 +3,17 @@ layout: post
 title: Apreciando os trailers de Breath of the Wild
 author: arthurf
 tags:
-- vídeos
-- jogos
-- The Legend of Zelda
+  - vídeos
+  - jogos
+  - The Legend of Zelda
 date: 2021-01-21 08:53 -0300
 ---
+
 Eu acordo mais de uma vez por semana pensando algo do tipo “o que será que vai acontecer em _Breath of the Wild 2_?” ou “quando vai ser lançado?” ou ainda “será que a Zelda vai ser jogável?”. Em alguns desses dias eu revejo a única informação confirmada de _Breath of the Wild 2_: um trailer que anuncia o seu desenvolvimento:
 
 <iframe class="full-width" src="https://www.youtube.com/embed/3fr1Z07AV00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-E geralmente isso me faz perceber como é bom esperar por um novo jogo de _Zelda_. Só não é tão bom quanto finalmente jogar ele. Hoje em dia, com _The Legend of Zelda: Breath of the Wild_ tendo sido lançado há quase quatro anos, é fácil de esquecer que esse também foi um jogo que a gente sonhou por muito tempo, e que por grande parte desse tempo a gente sabia muito pouco sobre ele.
+E geralmente isso me faz perceber como é bom esperar por um novo jogo de _Zelda_. Só não é tão bom quanto [finalmente jogar ele]({% post_url 2020/2020-06-09-the-legend-of-zelda-ranking %}). Hoje em dia, com _The Legend of Zelda: Breath of the Wild_ tendo sido lançado há quase quatro anos, é fácil de esquecer que esse também foi um jogo que a gente sonhou por muito tempo, e que por grande parte desse tempo a gente sabia muito pouco sobre ele.
 
 Quando foi anunciado, em 2014, a gente só sabia que _Zelda U_ seria em mundo aberto, como o primeiro jogo da série foi. Eu tava assistindo a coletiva de imprensa da Nintendo na E3 no meio da minha aula de história do cinema, quando esse trailer saiu:
 
@@ -50,4 +51,4 @@ Eu revejo esse trailer de tempos em tempos. É um dos meus trailers de jogos fav
 
 Ah, e no finalzinho, a Nintendo finalmente revelou que sim, _Breath of the Wild_ ia ser o jogo de lançamento do Switch.
 
-[O resto é história](https://www.metacritic.com/game/switch/the-legend-of-zelda-breath-of-the-wild).
+[O resto é história]({% post_url 2017/2017-07-25-the-legend-of-the-zelda-breath-of-the-wild %}).
