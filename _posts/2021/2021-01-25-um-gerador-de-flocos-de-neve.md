@@ -1,7 +1,7 @@
 ---
 date: '2021-01-25 16:28 -0300'
 layout: post
-published: false
+published: true
 title: Um gerador de flocos de neve
 tags:
   - links
