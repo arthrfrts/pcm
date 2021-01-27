@@ -3,14 +3,14 @@ layout: post
 title: Aparentemente descobriram uma nova tonalidade de azul
 author: arthurf
 tags:
-- links
-- ciência
-date: 2021-01-27 08:36 -0300
+  - links
+  - ciência
 ---
+
 {: .full-width }
 ![Farelos da nova tonalidade de azul, YInMn]({% link uploads/2021/01/27/yinmn.jpg %})
 
-Eu sempre achei que se tinha uma coisa que a gente já tinha total conhecimento, eram as cores. Nunca imaginei que (1) seres humanos conseguem criar tonalidades de cor; e (2) exista alguma cor que a gente ainda não tenha visto. Mas descobri que essas minhas duas certezas não faziam sentido quando eu li esse artigo sobre a primeira nova tonalidade de azul em dois séculos, YInMn.
+Eu sempre achei que se tinha uma coisa que a gente já tinha total conhecimento, eram as cores. Nunca imaginei que (1) seres humanos conseguem criar tonalidades de cor; e (2) exista alguma cor que a gente ainda não tenha visto. Mas descobri que essas minhas duas certezas não faziam sentido quando eu li [esse artigo](https://hyperallergic.com/615971/meet-yinmn-the-first-new-shade-of-blue-in-two-centuries/) sobre a primeira nova tonalidade de azul em dois séculos, YInMn.
 
 O artigo é ótimo se você, como eu, não tem ideia de como tonalidades são criadas, nomeadas, patenteadas e licenciadas para uso (e como esses usos são categorizados de maneiras bem específicas). Sempre achei que cores fossem algo que a gente não tem domínio sobre porque é um aspecto intrinsicamente natural, já que quase tudo tem cor, mas olha como esse é um processo muito artificial:
 
