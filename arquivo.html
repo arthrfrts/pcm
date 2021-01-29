@@ -21,10 +21,11 @@ permalink: "/arquivo/"
   {%- for column in site.data.columns -%}
     {%- assign column_slug = column.title | slugify -%}
     {%- assign column_url = site.jekyll-archives.permalinks.tag | replace: ":name", column_slug -%}
-  <dt>
-    <a href="{{ column_url }}" rel="tag">{{ column.title }}</a>
-  </dt>
-  <dd>{{ column.description | markdownify }}</dd>
+    
+    <dt>
+      <a href="{{ column_url }}" rel="tag">{{ column.title }}</a>
+    </dt>
+    <dd>{{ column.description | markdownify }}</dd>
   {%- endfor -%}
 </dl>
 

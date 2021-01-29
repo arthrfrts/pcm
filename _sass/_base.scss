@@ -71,10 +71,7 @@ dl, dd, ol, ul, figure {
 
 // Blockquotes
 blockquote {
-  font-weight: 700;
   font-style: italic;
-  text-align: right;
-  color: $color-accent;
   
   @include media-query($on-palm) {
     padding-left: $spacing-unit;
@@ -83,7 +80,10 @@ blockquote {
   
   &:first-child,
   &.pull {
+    color: $color-accent;
     float: right;
+    text-align: right;
+    font-weight: bold;
     max-width: 360px;
     margin-left: $spacing-unit * 2;
     
@@ -95,17 +95,10 @@ blockquote {
   }
   
   &:not(:first-child):not(.pull) {
-    border-left: 3px solid $color-accent;
-    border-right: 3px solid $color-accent;
-  }
-  
-  p, ul, ol {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  
-  ul, ol {
-    list-style: none;
+    border-left: 3px dashed rgba($color-text, 0.2);
+    border-right: 3px dashed rgba($color-text, 0.2);
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
   
   cite {
@@ -157,7 +150,7 @@ h6 {
 // Lists
 
 ul, ol, dl {
-  margin-left: $spacing-unit;
+  margin-left: $spacing-unit * 2;
 }
 
 ul,
@@ -236,13 +229,13 @@ img + em {
 // Horizontal rule
 
 hr {
-  margin-top: $spacing-unit * 3;
-  margin-bottom: $spacing-unit * 3;
+  margin: $spacing-unit * 3 auto;
   border: none;
   display: block;
   width: 100%;
+  max-width: 250px;
   height: 0;
-  border-top: 1px dashed $color-accent;
+  border-top: 3px dashed rgba($color-text, 0.2);
   transform: rotate(-2deg);
 }
 

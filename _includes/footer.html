@@ -1,23 +1,22 @@
 <footer class="colophon">
   <div class="wrapper">
-    <div class="footer_widgets">
+    <div class="footer_widgets" id="revue-embed">
       <div class="site_description">
         {{ site.description | markdownify }}
       </div>
     
-      <form action="https://tinyletter.com/paomortadela" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/!paomortadela', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+      <form action="https://www.getrevue.co/profile/paomortadela/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
         <p>
           <label for="tlemail">Nos sábados a gente envia uma newsletter</label>
         </p>
         <p class="newsletter_fields">
-          <input type="email" name="email" id="tlemail" placeholder="seu@email.com" required />
-          <input type="hidden" value="1" name="embed">
-          <button type="submit">
+          <input type="email" title="Seu endereço de email" name="member[email]" id="member_email" placeholder="seu@email.com" required />
+          <button type="submit" name="member[subscribe]" value="Subscribe" id="member_submit">
             Assinar
           </button>
         </p>
         <p class="newsletter_credits">
-          <a href="https://tinyletter.com/paomortadela" rel="external">TinyLetter</a>
+          <a href="https://www.getrevue.co/profile/paomortadela" rel="external">Enviado por Revue</a>
         </p>
       </form>
     </div>
