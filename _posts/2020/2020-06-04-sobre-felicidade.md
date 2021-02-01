@@ -5,6 +5,7 @@ title: Sobre felicidade
 image: /uploads/2020/06/04/se-a-rua-beale-falasse.jpg
 author: arthurf
 tags:
+  - miscelânea
   - filmes
   - HBO
   - essenciais
