@@ -9,6 +9,7 @@ tags:
 - Apple Arcade
 date: 2021-02-08 11:24 -0300
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/1FriW1wcdzk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu amo os jogos do estilo “corrida infinita”, aqueles em que o personagem está sempre seguindo em frente e você precisa fazer ele desviar de obstáculos. Pra mim, esse é o melhor estilo de jogo pra celular: jogos como *Alto's Adventure* e *Super Mario Run* têm comandos fáceis e o objetivo é simples, e quando é bem feito os obstáculos vão ficando difíceis o suficiente para desafiar qualquer bom jogador. Então é perfeito tanto para jogar nos minutos em que você espera a água do café esquentar quanto para uma viagem mais longa (seja lá quando a gente puder viajar de novo).
