@@ -7,7 +7,7 @@ tags:
   - jogos
   - séries
   - aventura
-  - Switch
+  - Nintendo Switch
 image: "https://i.imgur.com/Wnwtn8w.jpg"
 ---
 

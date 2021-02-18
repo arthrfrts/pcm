@@ -8,7 +8,7 @@ tags:
   - aventura
   - The Legend of Zelda
   - Nintendo
-  - Switch
+  - Nintendo Switch
 author: arthurf
 ---
 
