@@ -3,11 +3,11 @@ layout: post
 title: As rotinas de Ursula K. Le Guin e David Lynch
 author: arthurf
 tags:
-- links
-- Ursula K. Le Guin
-- David Lynch
-date: 2021-03-03 08:15 -0300
+  - links
+  - Ursula K. Le Guin
+  - David Lynch
 ---
+
 Hoje eu começo meu novo trabalho, com uma carga horária diferente da que eu tive nos últimos três anos. Eu tive uns dias de folga entre o meu último trabalho e esse, e usei eles para tentar estabelecer uma nova rotina. Isso porque meus projetos, como escrever aqui no Pão ou estudar francês ou outras coisas que eu estou estudando, requerem um tempo do meu dia-a-dia, e eu tento ter um pouco de tempo pra tudo.
 
 E eu me dou muito bem com rotinas. Eu preciso de uma para liberar minha mente para fazer outras coisas. Se eu estou seguindo minha rotina, eu sei que eu vou ter um pouco mais de espaço mental para escrever um post pro Pão, por exemplo, porque eu não preciso me preocupar com outras coisas naquele momento — elas têm um tempo para me ocupar também, então fica tudo bacana.
@@ -15,7 +15,7 @@ E eu me dou muito bem com rotinas. Eu preciso de uma para liberar minha mente pa
 Eu aprendi isso lendo sobre o processo artístico de alguns dos meus artistas favoritos. A autora Ursula K. Le Guin, que escreveu alguns dos melhores livros que eu já li, era famosa por ter uma rotina. Le Guin, além de escritora, era mãe, editora e professora de universidade. O dia dela começava às 5h30 da manhã, por exemplo, e ela escrevia das 7h15 às 12h:
 
 {: .full-width }
-![A lista de tarefas de Ursula K. Le Guin]({% link 2021/03/03/leguin-rotina.png %})
+![A lista de tarefas de Ursula K. Le Guin]({% link uploads/2021/03/03/leguin-rotina.png %})
 
 David Lynch também é famoso por manter uma rotina bem específica: ele acorda cedo para meditar e fumar um cigarro, mas por sete anos ele ia no Bob's às 14h30 para comer a mesma coisa. Ele comenta mais sobre como a rotina ajuda a criatividade dele no vídeo abaixo:
 
