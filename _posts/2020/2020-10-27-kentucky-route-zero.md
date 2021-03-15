@@ -23,7 +23,7 @@ Então é apropriado que, sete anos depois de eu jogar essa cena pela primeira v
 
 Mesmo assim, é estranho de pensar que não tem mais *Kentucky Route Zero* para esperar. Seu primeiro ato foi lançado em 2013, e desde então o tempo de desenvolvimento de cada um dos outros quatro atos aumentou exponencialmente. O segundo ato foi lançado alguns meses depois, mas o terceiro demorou um ano inteiro; o quarto apareceu só dois anos depois; e o último ato só chegou em janeiro de 2020, em uma atualização que une todos os atos com seus quatro interlúdios — pequenos experimentos de jogabilidade que exploram personagens secundários do jogo.
 
-[Eu escrevi sobre *KRZ* através dos anos aqui no *Pão*]({{ "/arquivo/tags/kentucky-route-zero" | absolute_url }}), e mesmo depois desses sete anos (e esses dez meses desde o lançamento do Ato V), eu ainda tenho dificuldade de expressar o que esse jogo me fez sentir.
+[Eu escrevi sobre *KRZ* através dos anos aqui no *Pão*]({{ site.jekyll-archives.permalinks.tag | replace: "name", "/arquivo/tags/kentucky-route-zero" | absolute_url }}), e mesmo depois desses sete anos (e esses dez meses desde o lançamento do Ato V), eu ainda tenho dificuldade de expressar o que esse jogo me fez sentir.
 
 Um pouco disso é porque *Kentucky Route Zero* é um jogo enganosamente simples de se explicar: é uma aventura de apontar-e-clicar, um dos gêneros fundamentais dos videogames modernos, em que você ajuda Conway a fazer sua última entrega. Você escolhe entre opções de diálogo e controla um caminhão para ir até os lugares que os personagens precisam ir, lugares feitos com formas geométricas simples e sem texturas.
 
