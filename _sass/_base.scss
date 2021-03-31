@@ -20,6 +20,7 @@ body {
   color: $color-text;
   font: normal #{1.6rem}/#{1.5} $font-headings;
   width: 100vw;
+  overflow-x: hidden;
 }
 
 
@@ -37,32 +38,32 @@ dl, dd, ol, ul, figure {
 
 .post_content {
   font-size: 1.8rem;
-  
+
   h1, h2, h3, h4, h5, h6 {
     margin-top: $spacing-unit / 2;
     margin-bottom: $spacing-unit / 2;
   }
-  
+
   h1, h2, h3, h5, h6, h6,
   p, ul, ol, dl,
   pre, table {
     &:not(.full-width) {
       padding-left: 3rem;
       padding-right: 5rem;
-      
+
       @include media-query($on-palm) {
         padding-left: 0;
         padding-right: 0;
       }
     }
   }
-  
+
   p, ul, ol, dl,
   blockquote, pre,
   figure, iframe {
     margin-bottom: $spacing-unit;
   }
-  
+
   p, ul, ol, dl,
   blockquote {
     font-family: $font-content;
@@ -72,12 +73,12 @@ dl, dd, ol, ul, figure {
 // Blockquotes
 blockquote {
   font-style: italic;
-  
+
   @include media-query($on-palm) {
     padding-left: $spacing-unit;
     padding-right: $spacing-unit;
   }
-  
+
   &:first-child,
   &.pull {
     color: $color-accent;
@@ -86,21 +87,21 @@ blockquote {
     font-weight: bold;
     max-width: 360px;
     margin-left: $spacing-unit * 2;
-    
+
     @include media-query($on-palm) {
       float: none;
       max-width: none;
       margin-left: 0;
     }
   }
-  
+
   &:not(:first-child):not(.pull) {
     border-left: 3px dashed rgba($color-text, 0.2);
     border-right: 3px dashed rgba($color-text, 0.2);
     padding-left: 3rem;
     padding-right: 3rem;
   }
-  
+
   cite {
     font: #{400} #{1.4rem}/#{1.5} $font-headings;
     color: rgba($color-text, 0.7);
@@ -158,7 +159,7 @@ ol {
   ul, ol {
     margin-bottom: 0;
   }
-  
+
   li:not(:last-child) {
     margin-bottom: $spacing-unit / 2;
   }
@@ -166,7 +167,7 @@ ol {
 
 ul {
   list-style: square;
-  
+
   ul {
     list-style: disc;
   }
@@ -174,7 +175,7 @@ ul {
 
 ol {
   list-style: decimal;
-  
+
   ol {
     list-style: lower-alpha;
   }
@@ -185,7 +186,7 @@ a {
   color: currentColor;
   text-decoration: none;
   transition: color 250ms ease;
-  
+
   &:hover,
   &:focus {
     color: $color-accent;
@@ -262,7 +263,7 @@ textarea {
   font-family: $font-headings;
   width: 100%;
   transition: border-bottom-color 250ms linear;
-  
+
   &:focus,
   &:active {
     outline: none;
@@ -291,13 +292,13 @@ button {
   transition-property: color, box-shadow;
   transition-duration: 250ms;
   transition-timing-function: ease;
-  
+
   &:hover,
   &:focus {
     box-shadow: inset 0 -2.5em 0 $color-header;
     color: $color-background;
   }
-  
+
   &:active {
     box-shadow: inset 0 -2.5em 0 $color-accent;
   }
@@ -314,7 +315,7 @@ button {
   border-radius: 50%;
   text-decoration: none;
   transition-property: background-color, color;
-  
+
   &:hover,
   &:focus {
     background-color: $color-header;
@@ -324,7 +325,7 @@ button {
 .footnotes {
   font: 400 #{1.2rem}/#{1.25} $font-headings;
   color: rgba($color-text, 0.7);
-  
+
   ol, p {
     font-family: inherit;
   }
