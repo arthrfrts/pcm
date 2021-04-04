@@ -7,4 +7,4 @@ O Pão com Mortadela respeita a sua privacidade. O site não rastreia as visitas
 
 A busca do site utiliza o [DuckDuckGo](https://duck.com/) como provedor. O Duck não guarda histórico de buscas nem rastreia os seus cliques, e é uma boa alternativa ao Google, se você está procurando uma.
 
-Infelizmente, não temos controle sobre a forma que sites incorporados — como o YouTube, o Spotify, ou a plataforma de comentários Disqus — obtém dados sobre o seu acesso à internet através do nosso site. Por isso a gente encoraja o uso de navegadores que respeitam e protegem sua privacidade: o [Firefox](https://mozilla.org/firefox/), o [Edge](https://www.microsoft.com/edge/) ou o [Safari](https://www.apple.com/safari/).
+Infelizmente, não temos controle sobre a forma que sites incorporados — como o YouTube e o Spotify — obtém dados sobre o seu acesso à internet através do nosso site. Por isso a gente encoraja o uso de navegadores que respeitam e protegem sua privacidade: o [Firefox](https://mozilla.org/firefox/), o [Edge](https://www.microsoft.com/edge/) ou o [Safari](https://www.apple.com/safari/).

@@ -8,39 +8,39 @@ layout: default
         {{ page.title }}
       </h1>
     {% endunless %}
-  
+
     <div class="post_meta">
       <p class="post_info">
-        
+
         {% if page.authors %}
           {% for author_code in page.authors %}
             {% assign author = site.data.authors[author_code] %}
-          
+
             <a class="info post_author {{ author_code -}}" href="{{ author_code | prepend: '/arquivo/autor/'  }}" rel="author">{{ author.name }}</a>
           {% endfor %}
         {% else %}
           {% assign author = site.data.authors[page.author] %}
-          
+
           <a class="info post_author {{ page.author -}}" href="{{ page.author | prepend: '/arquivo/autor/' }}" rel="author">{{ author.name }}</a>
         {% endif %}
-        
+
         <a class="info post_date" href="{{ page.url | absolute_url }}" rel="bookmark">
           <time datetime="{{- page.date | date_to_xmlschema -}}">{{ page.date | date: "%d/%m/%Y" }}</time>
         </a>
       </p>
     </div>
   </header>
-  
+
   {% if page.image %}
     <figure class="post_image">
       <img src="{{ page.image.path | default: page.image }}" alt="{{ page.image.alt }}" role="presentation" />
     </figure>
   {% endif %}
-  
+
   <div class="post_content">
     {{ page.content }}
   </div>
-  
+
   <footer class="post_footer">
     {% if page.tags %}
       <div class="post_tags">
@@ -58,24 +58,10 @@ layout: default
       </div>
     {% endif %}
   </footer>
-  
+
   {% unless page.comments == false %}
     <div class="post_comments">
-      <div id="disqus_thread"></div>
-      <script>
-        var disqus_config = function () {
-          this.page.url = '{{- page.url | absolute_url -}}';
-          this.page.identifier = '{{- page.slug -}}';
-        };
-  
-        (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = 'https://paomortadela.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-        })();
-      </script>
-      <noscript>Comentários do site oferecidos por Disqus.</noscript>
+      <div id="comment-section"></div>
     </div>
   {% endunless %}
 </article>

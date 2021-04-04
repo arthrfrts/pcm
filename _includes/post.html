@@ -7,48 +7,48 @@
         </a>
       </h2>
     {%- endunless -%}
-  
+
     <div class="post_meta">
       <p class="post_info">
         {% if include.post.authors %}
           {% for author_code in include.post.authors %}
             {% assign author = site.data.authors[author_code] %}
-          
+
             <a class="info post_author {{ author_code -}}" href="{{ author_code | prepend: '/arquivo/autor/' }}" rel="author">{{ author.name }}</a>
-            
+
           {% endfor %}
         {% else %}
           {% assign author = site.data.authors[include.post.author] %}
-          
+
           <a class="info post_author {{ include.post.author -}}" href="{{ include.post.author  | prepend: '/arquivo/autor/'  }}" rel="author">{{ author.name }}</a>
-          
+
         {% endif %}
-        
+
         <a class="info post_date" href="{{ include.post.url | absolute_url }}" rel="bookmark">
           <time datetime="{{ include.post.date | date_to_xmlschema }}">
             {{ include.post.date | date: "%d/%m/%Y" }}
           </time>
         </a>
-        
-        <a class="info comment_count" href="{{ include.post.url | append: '#disqus_thread' | absolute_url }}">
+
+        <a class="info comment_count" href="{{ include.post.url | append: '#comment-section' | absolute_url }}">
           Comentários
         </a>
       </p>
     </div>
   </header>
-  
+
   {%- if include.post.image -%}
     <figure class="post_image">
       <img src="{{ include.post.image.path | default: include.post.image }}" alt="{{ include.post.image.alt }}" role="presentation" />
     </figure>
   {%- endif -%}
-  
+
   {% if include.post.title == "" or include.post.image == nil %}
     <div class="post_content">
       {{ include.post.content | markdownify }}
     </div>
   {% endif %}
-  
+
   <footer class="post_footer">
     {% if include.post.tags %}
       <div class="post_tags">

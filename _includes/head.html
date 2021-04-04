@@ -1,8 +1,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-  
+
+
   {%- if page.title and page.title != "" -%}
     <title>{{- page.title }} ({{- site.title -}})</title>
   {%- else -%}
@@ -12,10 +12,15 @@
   {% unless page.image %}
     <meta property="og:image" content="{{ 'assets/images/ogp.jpg' | absolute_url }}" />
   {% endunless %}
-  
+
   <link rel="shortcut icon" type="image/png" href="{%- link assets/images/favicon.png -%}" />
   <link rel="apple-touch-icon" type="image/png" href="{%- link assets/images/apple-touch-icon.png -%}">
   <link rel="stylesheet" type="text/css" href="{{- "/assets/css/main.css" | relative_url -}}" />
   {% feed_meta %}
   <link rel="alternate" type="application/rss+xml" title="Pãodecast" href="https://anchor.fm/s/2acb8e44/podcast/rss" />
+
+  {% if page.layout == "post" %}
+    <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+    <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css" />
+  {% endif %}
 </head>
