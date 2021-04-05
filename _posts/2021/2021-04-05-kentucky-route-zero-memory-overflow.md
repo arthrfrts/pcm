@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Kentucky Route Zero: Memory Overflow"
+title: 'Kentucky Route Zero: Memory Overflow'
 author: arthurf
 tags:
-  - músicas
-  - trilhas-sonoras
-  - Ben Babbitt
-  - Cardboard Computer
-  - Kentucky Route Zero
+- músicas
+- trilhas-sonoras
+- Ben Babbitt
+- Cardboard Computer
+- Kentucky Route Zero
+date: 2021-04-05 14:15 -0300
 ---
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1853398660/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://benbabbitt.bandcamp.com/album/kentucky-route-zero-memory-overflow">Kentucky Route Zero- Memory Overflow by Ben Babbitt</a></iframe>
 
 O compositor Ben Babbitt lançou no seu BandCamp um disco de “sobras” da trilha-sonora de [*Kentucky Route Zero*]({% post_url 2020/2020-10-27-kentucky-route-zero %}). O disco inclui músicas ouvidas só nos trailers (como a belíssima _The Flood_) e músicas do jogo que não foram incluídas na [trilha-sonora oficial](https://open.spotify.com/album/6ZXXQiAcwIzvBuLhlhiLvU), como ruídos de estações de rádio, sons distantes e sonhos.
