@@ -3,8 +3,8 @@ title: Pão com Mortadela
 tagline: >-
   Dicas bacanas para acompanhar seu café.
 description: |+
-  Tem tanta coisa por aí.  
-  A gente te ajuda a encontrar aquilo que você vai gostar.  
+  Tem tanta coisa por aí.
+  A gente te ajuda a encontrar aquilo que você vai gostar.
   Algo bom pra ler, ver, ouvir ou jogar.
 
 lang: pt-BR
@@ -20,7 +20,7 @@ collections:
 
 # Build settings
 markdown: kramdown
-incremental: true
+# incremental: true
 
 sass:
   style: compressed
