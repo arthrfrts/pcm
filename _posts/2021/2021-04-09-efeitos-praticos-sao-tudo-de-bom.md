@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Efeitos praticos sao tudo de bom
+title: Efeitos práticos são tudo de bom
 author: arthurf
 tags:
 - vídeos
