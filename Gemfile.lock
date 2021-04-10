@@ -58,9 +58,9 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.11.2-arm64-darwin)
+    nokogiri (1.11.3-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.11.2-x86_64-darwin)
+    nokogiri (1.11.3-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -96,4 +96,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.3
+   2.2.16
