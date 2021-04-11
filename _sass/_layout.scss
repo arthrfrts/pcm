@@ -40,7 +40,7 @@
 
   .site_title {
     font-size: 3.2rem;
-    font-weight: bolder;
+    font-weight: bold;
     margin-bottom: 0;
 
     img {
@@ -93,7 +93,7 @@
       text-decoration: none;
       display: inline-block;
       flex: 0 0 auto;
-      font-weight: 400;
+      font-weight: normal;
 
       &:not(:last-child) {
         margin-right: $spacing-unit;
@@ -397,7 +397,7 @@
       }
 
       .twitter_link {
-        font-weight: 700;
+        font-weight: bold;
         font-size: 1.2rem;
         text-transform: lowercase;
         color: #55acee;

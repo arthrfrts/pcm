@@ -103,7 +103,7 @@ blockquote {
   }
 
   cite {
-    font: #{400} #{1.4rem}/#{1.5} $font-headings;
+    font: normal #{1.4rem}/#{1.5} $font-headings;
     color: rgba($color-text, 0.7);
   }
 }
@@ -115,11 +115,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3 {
-  font-weight: 400;
+  font-weight: normal;
 }
 
 h4, h5, h6 {
-  font-weight: 900;
+  font-weight: bold;
 }
 
 h1 {
@@ -221,7 +221,7 @@ iframe, video, object {
 }
 
 img + em {
-  font: 400 #{1.2rem}/#{1.25} $font-headings;
+  font: normal #{1.2rem}/#{1.25} $font-headings;
   color: rgba($color-text, 0.7);
   display: block;
   max-width: 600px;
@@ -317,7 +317,7 @@ button {
 // Footnotes
 
 .post_content .footnote {
-  font: 400 #{1.125rem}/#{1} $font-headings;
+  font: normal #{1.125rem}/#{1} $font-headings;
   color: $color-background;
   display: inline-block;
   padding: 1px 3px;
@@ -333,7 +333,7 @@ button {
 }
 
 .footnotes {
-  font: 400 #{1.2rem}/#{1.25} $font-headings;
+  font: normal #{1.2rem}/#{1.25} $font-headings;
   color: rgba($color-text, 0.7);
 
   ol, p {
