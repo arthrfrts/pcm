@@ -135,7 +135,7 @@ _Green Book: O Guia_ foi lançado nos cinemas hoje, 24/01.
 
 **Indicações:** 4. Design de Produção, Edição de Som, Mixagem de Som, Efeitos Visuais.
 
-Como _Nasce uma Estrela_, _O Primeiro Homem_ era visto como um dos favoritos a todos os prêmios principais da noite.  É um lindo, íntimo retrato de Neil Armstrong e sua jornada entre o luto pela sua filha e a lua, o destino que o escreveria na História. O diretor Damien Chenzelle, dos queridinhos do Oscar _Whiplash_ e _[La La Land]({%- post_url 2017/2017-01-20-la-la-land-cantando-estacoes -%})_, apostou em uma estética e abordagem arriscadas, um intimismo extremo que agradou a crítica mas afastou o público, e o seu burburinho apagou cedo. Uma pena, é um belo filme que só cresceu com o tempo, e que eu espero rever antes da premiação.
+Como _Nasce uma Estrela_, _O Primeiro Homem_ era visto como um dos favoritos a todos os prêmios principais da noite.  É um lindo, íntimo retrato de Neil Armstrong e sua jornada entre o luto pela sua filha e a lua, o destino que o escreveria na História. O diretor Damien Chenzelle, dos queridinhos do Oscar _Whiplash_ e _[La La Land]({% post_url 2017/2017-01-20-la-la-land-cantando-estacoes %})_, apostou em uma estética e abordagem arriscadas, um intimismo extremo que agradou a crítica mas afastou o público, e o seu burburinho apagou cedo. Uma pena, é um belo filme que só cresceu com o tempo, e que eu espero rever antes da premiação.
 
 _O Primeiro Homem_ será lançado em blu-ray, DVD e no iTunes e Google Play em 6/02.
 

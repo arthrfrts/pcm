@@ -18,7 +18,7 @@ Eu fiquei feliz de perceber que, de certa forma, o festival de curta-metragens d
 A ideia é a seguinte: até quarta, as mostras tem sessões diárias, que são liberadas às 19h e ficam no [site do festival](https://2020.kinoforum.org/) por 24 horas. A partir do dia 27, todos os filmes vão ficar liberados até o fim do mês. *É muito filme*, no bom sentido. Tem muita coisa boa pra assistir, então nos próximos dias o [Guilherme](https://twitter.com/novellogg), a [Tainara](https://twitter.com/taimfrg) e o [Erê](https://twitter.com/ourovaleere) vão postar seus textos com suas impressões das mostras que cada um escolheu pra se dedicar. Eu me aventurei um pouco em todas, assistindo um filme aqui na mostra nacional, ali nos experimentais, acolá na mostra latina, mas me dediquei a assistir todos os filmes da Mostra Internacional[^1].
 
 {: .full-width }
-![]({%- link uploads/2020/08/25/um-mundo-mais-humano.jpg -%})
+![]({% link uploads/2020/08/25/um-mundo-mais-humano.jpg %})
 *Um Mundo Mais Humano*
 
 A curadoria da mostra internacional é excelente, agrupando os filmes em temáticas semelhantes por dia, permitindo relações de obras vindas de cantos e visões distintas, como *Ainda em Funcionamento* (*Still Working*, Suíça) de Julietta Korbel e *Padrões Distópicos* (*Distopic Patterns*, Bélgica) de Isabelle Nouzha, que veem o hoje como o fim do mundo do passado — o que nos fazem questionar qual vai ser o nosso fim do mundo a seguir. Já em outros casos, as relações são muito mais difíceis de definir, como em *Invisíveis* (*Kaunapawa*, Namíbia) de Joel Haikali e *Uma Estudante* (*A Student*, Coréia do Sul) de Mi-ji Lee, e parte da diversão é se abrir como espectador o suficiente pra poder enxergar o que os curadores estavam propondo ao unir esses dois filmes.
@@ -28,7 +28,7 @@ Claro que, como em qualquer seleção dessas, há seus altos e baixos. A Mostra 
 O experimento mais interessante pra mim foi o excelente *Um Mundo Mais Humano* (*A More Human World*, Nova Zelândia) de Gavin Hipkins, exibido já no primeiro dia, uma espécie de filme diário do filho sobre o pai, onde as imagens que o pai captou em uma exposição no auge do otimismo da era atômica na Europa, cerca de trinta anos antes da explosão de Tchernóbil, faz ele considerar o futuro que o pai imaginou para o filho. É um retrato curto, mas despedaçador de como o tempo lava a esperança da humanidade.
 
 {: .full-width }
-![]({%- link uploads/2020/08/25/catiorros.jpg -%})
+![]({% link uploads/2020/08/25/catiorros.jpg %})
 *Catiorros*
 
 O pessimismo do primeiro dia da Mostra nunca é pesado demais. *Um Mundo Mais Humano* ainda vê aquele futuro imaginado no coração do filho, por exemplo; e a necessidade de conexão é central no cenário pós-apocalíptico do ótimo *Ainda em Funcionamento*. Mas a Mostra definitivamente vai abrindo seu horizonte otimista com o passar dos dias. Já no segundo dia, é a estranheza dos pequenos momentos que o dia-a-dia traz, como charmoso *Catiorros* (de Halima Ouardiri, do Marrocos), que observa a organização política dos cachorros em um abrigo na hora da comida; ou no piquenique de *Fim de Semana* (dirigido por Ario Motevaghe, do Irã), com uma boa lembrança de que a “normalidade” do nosso cotidiano antes da pandemia começar também reservava uma boa dose de desentendimento. A partir daí, a seleção internacional passa pelo sobrenatural, com o interessante *E Daí Se O Rebanho Vai Morrer?*, de Sofia Aloui (França/Marrocos); à contos familiares, como a belíssima animação *Ele Não Consegue Viver Sem O Cosmos* de Konstantin Bronzit (Rússia).

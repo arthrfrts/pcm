@@ -11,7 +11,7 @@ tags:
   - aventura
 ---
 
-[_Journey_]({%- post_url 2015/2015-08-10-journey -%}) é um dos melhores jogos que eu já joguei. _flOw_ e _Flower_, os jogos anteriores da thatgamecompany, são experiências lindas e únicas. Mas _Journey_ sempre foi algo a mais: uma aventura em um deserto infinito que é linda por fora e reveladora por dentro. Uma jornada de autodescoberta como só um jogo consegue revelar.
+[_Journey_]({% post_url 2015/2015-08-10-journey %}) é um dos melhores jogos que eu já joguei. _flOw_ e _Flower_, os jogos anteriores da thatgamecompany, são experiências lindas e únicas. Mas _Journey_ sempre foi algo a mais: uma aventura em um deserto infinito que é linda por fora e reveladora por dentro. Uma jornada de autodescoberta como só um jogo consegue revelar.
 
 Uma das melhores coisas que _Journey_ fez foi criar uma experiência multijogador infalível. Não só ela é opcional, ela se baseia em pequenos gestos entre desconhecidos querendo se ajudar. Você não pode falar com seus companheiros, e toda a comunicação é feita através de gestos ou saltos. Não é possível atrapalhar os outros e, se você não quiser ser a companhia de ninguém, é só seguir em frente com sua jornada e deixar os outros para trás.
 

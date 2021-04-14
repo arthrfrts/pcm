@@ -15,7 +15,7 @@ tags:
 
 Oi pessoal! As últimas semanas têm sido uma loucura, e eu infelizmente tô sem tempo pra terminar os posts que eu tenho planejado pra postar no PCM. Em um mundo perfeito eu teria contribuições bacanas pra postar nas semanas que eu não consigo escrever, mas em um mundo _mais_ perfeito ainda eu teria dinheiro pra pagar meus amigos pra escrever algo legal, então eu não fico chateado com isso (mas esse é um dos meus planos pro PCM em 2020, spoiler!).
 
-Então, eu decidi que essa semana eu não vou forçar sair um texto ruim sobre algo que eu gosto (como eu fiz com [Succession]({%- post_url 2019/2019-08-07-succession -%}) semanas atrás), eu decidi fazer um resumo do que eu gostei de ler, ver, escutar e jogar nas últimas semanas. É algo inspirado no que o [Jason Kottke faz há anos no seu blog](https://kottke.org/tag/media%20diet) (que eu também gosto muito, então essa a primeira dica).
+Então, eu decidi que essa semana eu não vou forçar sair um texto ruim sobre algo que eu gosto (como eu fiz com [Succession]({% post_url 2019/2019-08-07-succession %}) semanas atrás), eu decidi fazer um resumo do que eu gostei de ler, ver, escutar e jogar nas últimas semanas. É algo inspirado no que o [Jason Kottke faz há anos no seu blog](https://kottke.org/tag/media%20diet) (que eu também gosto muito, então essa a primeira dica).
 
 ***
 

@@ -13,7 +13,7 @@ date: 2020-09-09 14:00 -0300
 
 A Warner finalmente divulgou o trailer[^1] da nova versão de *Duna*, e caramba eu tô empolgado.
 
-Essa versão é dirigida por Denis Villeneuve, do excelente [*Blade Runner 2049*]({%- post_url 2019/2019-11-06-fracassos-de-bilheteria -%}#blade-runner-2049-2017) e do magnífico [*A Chegada*]({%- post_url 2017/2017-01-10-a-chegada -%}). Eu sou um fã do trabalho mais recente dele (não gosto muito dos pseudo-Nolan que ele fez no início da carreira, mas até lá tem um potencial), e quero muito ver pra onde ele vai levar o material.
+Essa versão é dirigida por Denis Villeneuve, do excelente [*Blade Runner 2049*]({% post_url 2019/2019-11-06-fracassos-de-bilheteria %}#blade-runner-2049-2017) e do magnífico [*A Chegada*]({% post_url 2017/2017-01-10-a-chegada %}). Eu sou um fã do trabalho mais recente dele (não gosto muito dos pseudo-Nolan que ele fez no início da carreira, mas até lá tem um potencial), e quero muito ver pra onde ele vai levar o material.
 
 Eu tô há tempos procurando um universo de ficção científica pra afundar minha cabeça. O cinema tem *O Senhor dos Anéis* pra fantasia, mas fora *Star Wars* não tem uma ópera espacial grande o suficiente pra me satisfazer. O *Duna* do David Lynch é instigante (mais instigante do que bom, vale dizer), quero ver o que o Villeneuve faz com o quádruplo do orçamento.
 

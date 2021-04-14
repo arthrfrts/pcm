@@ -2,17 +2,17 @@
 layout: default
 ---
 
-{%- for post in paginator.posts -%}
-  {%- include post.html post=post  -%}
-{%- endfor -%}
+{% for post in paginator.posts %}
+  {% include post.html post=post  %}
+{% endfor %}
 
 <nav class="pagination">
-  {%- if paginator.previous_page -%}
+  {% if paginator.previous_page %}
     <a href="{{- paginator.previous_page_path | relative_url -}}" rel="prev">&larr; Posts mais recentes</a>
-  {%- endif -%}
-  {%- if paginator.next_page -%}
+  {% endif %}
+  {% if paginator.next_page %}
     <a href="{{- paginator.next_page_path | relative_url -}}" rel="next">Posts mais antigos &rarr;</a>
-  {%- endif -%}
-  
-  <a class="archive_link" href="{%- link arquivo.html -%}">(ou visite os arquivos)</a>
+  {% endif %}
+
+  <a class="archive_link" href="{% link arquivo.html %}">(ou visite os arquivos)</a>
 </nav>

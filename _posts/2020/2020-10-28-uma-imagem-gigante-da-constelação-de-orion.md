@@ -8,7 +8,7 @@ tags:
 date: 2020-10-28 09:05 -0300
 ---
 {: .full-width }
-![Constelação de Órion]({%- link uploads/2020/10/28/orion.jpg -%})
+![Constelação de Órion]({% link uploads/2020/10/28/orion.jpg %})
 
 Ontem eu tava comentando com uma amiga sobre como eu amo ler e ver sobre o universo. As vezes chega a ser um problema sair de um vórtice da Wikipédia, em que eu passo sábados inteiros lendo sobre alguma nebulosa ou o que acontece quando duas estrelas se chocam, por exemplo. Eu acho fascinante, e não é algo que eu falo muito sobre.
 

@@ -13,22 +13,22 @@ A Nintendo finalmente divulgou as primeiras imagens do parque temático baseado 
 O *Super Nintendo World* deveria ser aberto esse ano, depois de cinco anos de planejamento. No início do ano a Nintendo divulgou um trailer do que a gente poderia esperar, mas não nos mostrou nada do parque em si. Tudo o que a gente sabia vinha de imagens aéreas que apareciam pela internet e eram sumariamente removidas pela Nintendo logo depois. O ano do fim do mundo tá quase acabando, e pelo visto eles quiseram aproveitar pra dar uma boa notícia e nos mostrar como está ficando:
 
 {: .full-width }
-![]({%- link uploads/2020/11/30/snw-1.png -%})
+![]({% link uploads/2020/11/30/snw-1.png %})
 
 {: .full-width }
-![]({%- link uploads/2020/11/30/snw-2.png -%})
+![]({% link uploads/2020/11/30/snw-2.png %})
 
 {: .full-width }
-![]({%- link uploads/2020/11/30/snw-3.png -%})
+![]({% link uploads/2020/11/30/snw-3.png %})
 
 {: .full-width }
-![]({%- link uploads/2020/11/30/snw-4.png -%})
+![]({% link uploads/2020/11/30/snw-4.png %})
 
 {: .full-width }
-![]({%- link uploads/2020/11/30/snw-5.png -%})
+![]({% link uploads/2020/11/30/snw-5.png %})
 
 {: .full-width }
-![]({%- link uploads/2020/11/30/snw-6.png -%})
+![]({% link uploads/2020/11/30/snw-6.png %})
 
 A Universal Studios também divulgou uma promo do parque:
 

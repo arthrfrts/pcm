@@ -14,4 +14,4 @@ O Victor e eu nos sentamos pra conversar sobre como a gente desbravou o mato que
 
 Você pode encontrar o Victor no Twitter, em [@amobrejas](https://twitter.com/amobrejas) e no Instagram, em [@vicaobaker](https://www.instagram.com/vicaobaker).
 
-Esse é o último episódio do Pãodecast nesse ano, mas eu já estou gravando conversas para o ano que vem. Quer participar? [Envie uma mensagem]({%- link sobre/index.md -%}) e vamos combinar um dia.
+Esse é o último episódio do Pãodecast nesse ano, mas eu já estou gravando conversas para o ano que vem. Quer participar? [Envie uma mensagem]({% link sobre/index.md %}) e vamos combinar um dia.

@@ -4,35 +4,35 @@ layout: default
 
 <header class="archive_header">
   <h2 class="archive_title">
-    {%- if page.date -%}
+    {% if page.date %}
       Posts publicados em
-      
-      {%- if page.type == "month" %}
+
+      {% if page.type == "month" %}
         {{ page.date | date: "%m/%Y" }}
-      {%- else %}
+      {% else %}
         {{ page.date | date: "%Y" }}
-      {%- endif -%}
-    {%- else -%}
+      {% endif %}
+    {% else %}
       {% if page.title == "Pãodecast" %}
         {{ page.title }}
       {% else %}
         Posts marcados com <strong>{{ page.title }}</strong>
       {% endif %}
-    {%- endif -%}
+    {% endif %}
   </h2>
-  
-  {%- if page.type == "tag" -%}
-    {%- for column in site.data.columns -%}
+
+  {% if page.type == "tag" %}
+    {% for column in site.data.columns %}
       {% assign column_name = column.title | downcase %}
       {% assign page_title = page.title | downcase %}
-      
-      {%- if column_name == page_title -%}
+
+      {% if column_name == page_title %}
         {{ column.description | markdownify }}
-      {%- endif -%}
-    {%- endfor -%}
-  {%- endif -%}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 </header>
 
-{%- for post in page.posts -%}
-  {%- include_cached post.html post=post hide_content="true" -%}
-{%- endfor -%}
+{% for post in page.posts %}
+  {% include_cached post.html post=post hide_content="true" %}
+{% endfor %}

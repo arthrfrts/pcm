@@ -13,7 +13,7 @@ tags:
 published: true
 ---
 
-Desde o dia que eu terminei de fazer [meu ranking de *Super Mario*]({%- post_url 2019/2019-08-14-um-ranking-de-todos-os-super-mario -%}) eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.
+Desde o dia que eu terminei de fazer [meu ranking de *Super Mario*]({% post_url 2019/2019-08-14-um-ranking-de-todos-os-super-mario %}) eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.
 
 Eu ainda vou escrever sobre como *Zelda*, *Mario* e *Metroid* definiram a missão da Nintendo como desenvolvedora desde muito cedo, mas até eu formular esse pensamento com mais clareza na minha cabeça vou fazer esses rankings completamente subjetivos e nem um pouco claros sobre as franquias dela.
 
