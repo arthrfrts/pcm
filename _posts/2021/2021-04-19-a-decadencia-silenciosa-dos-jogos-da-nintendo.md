@@ -4,14 +4,14 @@ title: A decadência silenciosa dos jogos da Nintendo
 image: "/uploads/2021/04/19/zelda-ruinas.png"
 author: arthurf
 tags:
-- esquinas
-- jogos
-- Nintendo
-- The Legend of Zelda
-- Animal Crossing
-- Pokémon
-date: 2021-04-19 13:14 -0300
+  - esquinas
+  - jogos
+  - Nintendo
+  - The Legend of Zelda
+  - Animal Crossing
+  - Pokémon
 ---
+
 No fim do mês passado, *Animal Crossing: New Horizons* completou um ano de lançamento. A minha ilha no jogo, Léte, também. Isabelle me entregou um bolo de primeiro aniversário para comemorar, mas eu sentia um peso na consciência.
 
 Antes de Léte havia Nada, a cidade que eu cuidava em *New Leaf*, no Nintendo 3DS. Nada é uma cidade pequena: tem um cafézinho perto da praia, um salão de beleza que eu nunca entrei, e um clube que eu sempre esqueço que tem shows todas as noites.
