@@ -1,10 +1,8 @@
 ---
 date: '2021-04-19 08:34 -0300'
 layout: post
-published: true
-title: 'Video Works: uma jornada pela história dos jogos'
-author:
-  - arthurf
+title: "Video Works: uma jornada pela história dos jogos"
+author: arthurf
 tags:
   - jogos
   - links

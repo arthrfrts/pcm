@@ -2,6 +2,7 @@
 layout: post
 title: A decadência silenciosa dos jogos da Nintendo
 image: "/uploads/2021/04/19/zelda-ruinas.png"
+date: "2021-04-19 13:22:00 -0300"
 author: arthurf
 tags:
   - esquinas
