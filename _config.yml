@@ -12,18 +12,13 @@ logo: "/assets/images/logo.png"
 timezone: America/Sao_Paulo
 
 collections:
-  notes:
-    output: false
   authors:
     output: true
     permalink: "/arquivo/autor/:title/"
 
 # Build settings
 markdown: kramdown
-# incremental: true
-
-sass:
-  style: compressed
+incremental: true
 
 url: "https://paomortadela.com.br" # mudar no merge
 baseurl: ""
