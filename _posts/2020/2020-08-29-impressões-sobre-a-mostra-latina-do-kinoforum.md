@@ -24,16 +24,16 @@ O programa 1 - **Micromundos** - abrigou 4 curtas que tinha como eixo de ligaç�
 Destaco aqui o curta *Mamapara*, do diretor Alberto Flores Vilca.
 
 {: .full-width }
-![]({%- link uploads/2020/08/29/mamapara.jpg -%})
+![]({% link uploads/2020/08/29/mamapara.jpg %})
 _Mamapara_
 
 ## *Mamapara* (Peru, Bolívia, Argentina | 2019 | 17 min)
 
-Filmar a rotina de uma senhora não é tarefa simples. Os clichês neste tipo de narrativa estão sempre à espreita, mas Alberto parece dar um passo além ao nos apresentar sua mãe, Honorata, uma vendedora ambulante no Peru. Narrado totalmente em quechua, com voice overs do próprio diretor, *Mamapara* traz o lirismo necessário para se apresentar a dureza da vida de Honorata. Não a romantiza, mas a escancara, através das palavras da própria senhora, que nos conta passagens de sua vida, enquanto executa suas tarefas diárias. 
+Filmar a rotina de uma senhora não é tarefa simples. Os clichês neste tipo de narrativa estão sempre à espreita, mas Alberto parece dar um passo além ao nos apresentar sua mãe, Honorata, uma vendedora ambulante no Peru. Narrado totalmente em quechua, com voice overs do próprio diretor, *Mamapara* traz o lirismo necessário para se apresentar a dureza da vida de Honorata. Não a romantiza, mas a escancara, através das palavras da própria senhora, que nos conta passagens de sua vida, enquanto executa suas tarefas diárias.
 
-Alberto, diretor e filho, faz aqui o papel de narrador externo. Ele nos conduz a Honorata e à dureza de sua vida, mas faz isso através de imagens metafóricas como a chuva que volta pra terra e a frieza da câmera diante de Honorata guiando sozinha um carrinho carregado de doces para venda. Toda as ações da senhora são mostradas de maneira distante, sem intervenção do observador que, atento, deixa Honorata em seu lugar, sem intervir. 
+Alberto, diretor e filho, faz aqui o papel de narrador externo. Ele nos conduz a Honorata e à dureza de sua vida, mas faz isso através de imagens metafóricas como a chuva que volta pra terra e a frieza da câmera diante de Honorata guiando sozinha um carrinho carregado de doces para venda. Toda as ações da senhora são mostradas de maneira distante, sem intervenção do observador que, atento, deixa Honorata em seu lugar, sem intervir.
 
-Mesmo no momento ápice do filme, a distância é tomada. Honorata sofre, mas seu sofrimento é seu. Alberto sofre também, mas não interfere no curso da natureza. O que vemos em *Mamapara* é a inevitável onipotência da natureza, do envelhecimento e do fim. Honorata é a sobrevivente que permanece, que não luta contra o retorno da chuva para o céu. E que não emudece nem esmorece, mas lamenta o que precisa e segue em seu lugar.  
+Mesmo no momento ápice do filme, a distância é tomada. Honorata sofre, mas seu sofrimento é seu. Alberto sofre também, mas não interfere no curso da natureza. O que vemos em *Mamapara* é a inevitável onipotência da natureza, do envelhecimento e do fim. Honorata é a sobrevivente que permanece, que não luta contra o retorno da chuva para o céu. E que não emudece nem esmorece, mas lamenta o que precisa e segue em seu lugar.
 
 ***
 
@@ -42,16 +42,16 @@ O segundo programa - **Fantasmagoria da Violência** - propunha filmes com temá
 Destaco aqui o curta *Las Fauces*, do diretor Mauricio Maldonado.
 
 {: .full-width }
-![]({%- link uploads/2020/08/29/garganta.jpg -%})
+![]({% link uploads/2020/08/29/garganta.jpg %})
 _Garganta_
 
 ## *Garganta* - (Colômbia | 2020 | 15 min)
-	
+
 O isolamento de um jovem é o estranhamento necessário para que nos percamos nas florestas chuvosas do curta colombiano. Deivis, o protagonista, não aparenta ter razão para estar naquela floresta. Seu semblante pesado e o constante estado de vigilância, no entanto, denunciam um passado obscuro e difícil.
 
 A solidão de Deivis se desfaz assim que ele encontra um corpo na estrada, que o seguirá pela floresta de forma silenciosa. A densidade da trama se dá através de longos planos fixos, cercados pela chuva e pela umidade das árvores. A monotonia da vida do protagonista transpassa a narrativa a todo momento. Descobrimos pouco do personagem e de seu passado, o que talvez seja o ponto mais frágil do filme. No entanto, sabemos que há um mistério que liga aqueles dois meninos e os faz transcender, quase literalmente.
 
-O que liga os meninos que atravessam a floresta em suas motos, com armas a tiracolo, ao destino de Deivis é incerto. Há uma violência não dita, que os empurra para esse isolamento e que deixa o espectador sem respostas. Mas, de qualquer forma, a resposta se perde naquele final coletivo, de jovens contemplando a fúria de uma cachoeira. 
+O que liga os meninos que atravessam a floresta em suas motos, com armas a tiracolo, ao destino de Deivis é incerto. Há uma violência não dita, que os empurra para esse isolamento e que deixa o espectador sem respostas. Mas, de qualquer forma, a resposta se perde naquele final coletivo, de jovens contemplando a fúria de uma cachoeira.
 
 ***
 
@@ -67,17 +67,17 @@ A conversa final entre mãe e filho, que dá o título do filme, coloca em persp
 
 ***
 
-Por fim, o último dia de mostra - **Territórios do Corpo** - finalizou a sequência dedicada a filmes latinos com curtas que exploram a relação das transformações corporais e sentimentais pelas quais passamos. Uma animação experimental, que trata das metamorfoses necessárias para se estabelecer a morte de alguém ou a sua memória, como em *Eclosão*; o atrito adolescente com a chegada de uma estranha, e como a organização em torno de uma masculinidade tóxica prejudica a todos, é o tema de *A Ponte das Crianças Travessas*; e, por fim, a adolescência em suas encruzilhadas de amadurecimento, os ritos de passagem que versam sobre sexualidade, descoberta do corpo e dilemas éticos, em *Febre Austral*. 
+Por fim, o último dia de mostra - **Territórios do Corpo** - finalizou a sequência dedicada a filmes latinos com curtas que exploram a relação das transformações corporais e sentimentais pelas quais passamos. Uma animação experimental, que trata das metamorfoses necessárias para se estabelecer a morte de alguém ou a sua memória, como em *Eclosão*; o atrito adolescente com a chegada de uma estranha, e como a organização em torno de uma masculinidade tóxica prejudica a todos, é o tema de *A Ponte das Crianças Travessas*; e, por fim, a adolescência em suas encruzilhadas de amadurecimento, os ritos de passagem que versam sobre sexualidade, descoberta do corpo e dilemas éticos, em *Febre Austral*.
 
-*Sol de Planície*, o filme de Manuel Irene Espiritia, é que escolhi para terminar esse apanhado de textos. 
+*Sol de Planície*, o filme de Manuel Irene Espiritia, é que escolhi para terminar esse apanhado de textos.
 
 {: .full-width }
-![]({%- link uploads/2020/08/29/sol-de-planicie.jpg -%})
+![]({% link uploads/2020/08/29/sol-de-planicie.jpg %})
 _Sol de Planície_
 
 ## *Sol de Planície* - (Colômbia, México | 2019 | 20 min)
 
-Meli precisa cuidar do irmão, uma criança ainda menor que ela. Ao lado de sua mãe, que dirige um caminhão por uma estrada escura, Meli vela o sono de seu irmão. Não sabemos o destino dessa família, até vermos na casa da avó. Um lugar escondido, distante de tudo e perfeito para as aventuras da solitária Meli. A menina passa seus dias entre brincar com os pássaros que a avó cuida para vender e explorar o terreno em volta da propriedade. 
+Meli precisa cuidar do irmão, uma criança ainda menor que ela. Ao lado de sua mãe, que dirige um caminhão por uma estrada escura, Meli vela o sono de seu irmão. Não sabemos o destino dessa família, até vermos na casa da avó. Um lugar escondido, distante de tudo e perfeito para as aventuras da solitária Meli. A menina passa seus dias entre brincar com os pássaros que a avó cuida para vender e explorar o terreno em volta da propriedade.
 
 Porém, a mãe de Meli não está bem. E a sutileza da diretora ao mostrar a mãe em uma clara escalada de depressão é notável. Meli não entende o que acontece com sua mãe e nós a acompanhamos neste processo. A confusão mental e o estar entre o cuidado com os filhos e a necessidade de sumir parecem ser o conflito que a mãe enfrenta. A família precisa passar por isso e Meli precisa estar atenta. Precisa cuidar do irmão, mas ainda é muito pequena. Não pode querer salvar o mundo, muito menos os pássaros de sua avó. Mas não há tempo para nada quando a vida precisa seguir, apesar do fogo, apesar da prostração da mãe e da inércia da avó. Meli não tem escolha.
 
@@ -85,6 +85,6 @@ Porém, a mãe de Meli não está bem. E a sutileza da diretora ao mostrar a mã
 
 Eu não acredito que há uma resposta para este sentimento de não pertencimento ao que é ser latina. As latinidades são muitas mas, ao mesmo tempo, quando falamos de Brasil, talvez esqueçamos que estamos aqui. Que esse território é miscigenado, transformado a força pela colonização e agora vive quase em uma negação identitária. A mostra latina trouxe um panorama abrangente dos cinemas que temos aqui, nesses países tão próximos. O sentimento de permanência, de preservação de rituais e mitos perpassa inúmeros filmes da mostra. Ainda sim, não há como se pensar numa América Latina única.
 
-As fronteiras existem, os lados estão postos e há que se entender isso. O voltar-se para si, talvez, seja uma resposta. O olhar para dentro das nossas raízes latinas, para o que construímos enquanto indivíduos colonizados, descendentes de povos expurgados. Não é uma resposta, mas é uma forma de começar uma acolhida que pode ser colocada em nossas narrativas e, por fim, em nosso cinema. 
+As fronteiras existem, os lados estão postos e há que se entender isso. O voltar-se para si, talvez, seja uma resposta. O olhar para dentro das nossas raízes latinas, para o que construímos enquanto indivíduos colonizados, descendentes de povos expurgados. Não é uma resposta, mas é uma forma de começar uma acolhida que pode ser colocada em nossas narrativas e, por fim, em nosso cinema.
 
 

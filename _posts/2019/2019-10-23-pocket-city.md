@@ -12,7 +12,7 @@ tags:
 published: true
 ---
 
-Eu acho que simulação é o meu gênero favorito de jogo. Eu já escrevi várias vezes aqui sobre [The Sims]({%- post_url 2014/2014-08-11-the-sims-4-parece-ser-de-uma-nova-maxis -%}) e [Spore]({%- post_url 2019/2019-05-31-spore -%}) e [The Sims]({%- post_url 2019/2019-02-15-vivendo-e-crescendo-com-the-sims -%}) de novo. É um gênero que retribui o nível de atenção que eu estou disposto a dar. Se eu me sinto inspirado e me dedico, eu posso passar gerações inteiras com meus Sims no _The Sims_. Se eu quero só relaxar um pouco, basta colocar umas zonas residenciais e comerciais no meio de um terreno pra ver uma cidade tomar forma e se ajeitar no _SimCity 4_.
+Eu acho que simulação é o meu gênero favorito de jogo. Eu já escrevi várias vezes aqui sobre [The Sims]({% post_url 2014/2014-08-11-the-sims-4-parece-ser-de-uma-nova-maxis %}) e [Spore]({% post_url 2019/2019-05-31-spore %}) e [The Sims]({% post_url 2019/2019-02-15-vivendo-e-crescendo-com-the-sims %}) de novo. É um gênero que retribui o nível de atenção que eu estou disposto a dar. Se eu me sinto inspirado e me dedico, eu posso passar gerações inteiras com meus Sims no _The Sims_. Se eu quero só relaxar um pouco, basta colocar umas zonas residenciais e comerciais no meio de um terreno pra ver uma cidade tomar forma e se ajeitar no _SimCity 4_.
 
 Simulação é um gênero gigante nos jogos. No final da década de 1980, em meio a uma crise criativa, Will Wright salvou os jogos de computador quase que sozinho com seu _SimCity_ original e, no meio do caminho, fundou todo um gênero junto. Mas, pra uma figura tão grande na história dos jogos, é um gênero também bem pouco expressivo. Se você quer jogar um simulador de pessoas, não existe nada além de _The Sims_. Se quer simular uma cidade ou você joga o _SimCity 4_, de 2003, ou parte pra _Cities: Skylines_ (se você gosta de sofrer, o _SimCity_ de 2013 ainda existe, também).
 
@@ -30,7 +30,7 @@ _Pocket City_ usa essa familiaridade ao seu favor, porque é a primeira grande r
 Isso é puro design, e o que eu mais amei em _Pocket City_. Muitas das dores de crescimento que o gênero vem sofrendo nessa última década é pela dificuldade de incorporar os avanços tecnológicos da indústria, o que acaba afetando o balanceamento da jogabilidade (de retribuir a dedicação do jogador no mesmo nível), que era justamente o aspecto mais bacana desse tipo de jogo. _Pocket City_ precisou remover muitos desses sistemas mais complexos do holofote porque sua interface não permite, já que o jogo precisa apresentar todas as informações que o jogador quer em poucos toques na tela.
 
 {:.full-width}
-![Um tornado destroi uma cidade]({%- link uploads/2019/10/pocket-city-desastres.jpg -%})
+![Um tornado destroi uma cidade]({% link uploads/2019/10/pocket-city-desastres.jpg %})
 _Eba, mais lugar pra construir!_
 
 E essa informação ainda está lá, só muito bem distribuída. Gráficos populacionais ainda existem, e você pode controlar impostos e importações e exportações como qualquer outro simulador de cidades. Mas _Pocket City_ não faz isso ser uma rotina obrigatória do jogo, e volta àquela beleza que _SimCity 4_ acertou em cheio — e que faz dele o simulador de cidades definitivo até hoje — de que o jogador pode jogar com as ferramentas que quiser. É um jogo confiante o suficiente nos seus acertos que entende que o jogador vai querer se dedicar mais com o tempo, conforme se sente confortável com as ferramentas que já dominou.

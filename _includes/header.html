@@ -1,22 +1,22 @@
 <header class="masthead">
   <div class="wrapper">
-    {%- if page.title -%}
+    {% if page.title %}
       <div class="site_title">
         <a href="{{- site.url -}}" rel="index">
-          <img src="{%- link assets/images/logo.png -%}" alt="" />
+          <img src="{% link assets/images/logo.png %}" alt="" />
           {{ site.title }}
         </a>
       </div>
-    {%- else -%}
+    {% else %}
       <h1 class="site_title">
         <a href="{{- site.url -}}" rel="index">
-          <img src="{%- link assets/images/logo.png -%}" alt="" />
+          <img src="{% link assets/images/logo.png %}" alt="" />
           {{ site.title }}
         </a>
       </h1>
-    {%- endif -%}
-    
-    {%- include menu.html -%}
+    {% endif %}
+
+    {% include menu.html %}
   </div>
-  {%- include wave.svg -%}
+  {% include wave.svg %}
 </header>

@@ -2,24 +2,24 @@
 layout: default
 ---
 
-{%- assign author = site.data.authors[page.slug] -%}
+{% assign author = site.data.authors[page.slug] %}
 
 <header class="archive_header">
   <h2 class="archive_title">
     {{ author.name }}
   </h2>
-  
-  {%- if author.twitter -%}
+
+  {% if author.twitter %}
     <p>
       <strong><a href="{{ author.twitter | prepend: 'https://twitter.com/' }}" rel="external">{{ author.twitter | prepend: "@" }}</a></strong>
     </p>
-  {%- endif -%}
-  
+  {% endif %}
+
   {{ page.content }}
 </header>
 
 {% assign author_posts = site.posts | where_exp: "item", "item.author == page.slug or item.authors contains page.slug" %}
 
-{%- for post in author_posts -%}
-  {%- include_cached post.html post=post hide_content="true" -%}
-{%- endfor -%}
+{% for post in author_posts %}
+  {% include_cached post.html post=post hide_content="true" %}
+{% endfor %}

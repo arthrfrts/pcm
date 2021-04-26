@@ -16,4 +16,4 @@ Você pode encontrar o Erê no [Twitter](https://twitter.com/ourovaleere) e no [
 
 O Pãodecast é produzido por Arthur Freitas, a trilha-sonora é do [Blue Dot Sessions](https://sessions.blue), e a ilustração foi feita pelo [Raul Fontoura](https://raulranma.itch.io/).
 
-Quer fazer parte de um episódio? [Envia uma mensagem]({%- link sobre/index.md -%})!
+Quer fazer parte de um episódio? [Envia uma mensagem]({% link sobre/index.md %})!

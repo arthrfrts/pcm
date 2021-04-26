@@ -23,11 +23,23 @@ body {
   overflow-x: hidden;
 }
 
-
 // Resets some basic styling
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
   margin: 0;
   padding: 0;
 }
@@ -39,14 +51,28 @@ dl, dd, ol, ul, figure {
 .post_content {
   font-size: 1.8rem;
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-top: $spacing-unit / 2;
     margin-bottom: $spacing-unit / 2;
   }
 
-  h1, h2, h3, h5, h6, h6,
-  p, ul, ol, dl,
-  pre, table {
+  h1,
+  h2,
+  h3,
+  h5,
+  h6,
+  h6,
+  p,
+  ul,
+  ol,
+  dl,
+  pre,
+  table {
     &:not(.full-width) {
       padding-left: 3rem;
       padding-right: 5rem;
@@ -58,13 +84,21 @@ dl, dd, ol, ul, figure {
     }
   }
 
-  p, ul, ol, dl,
-  blockquote, pre,
-  figure, iframe {
+  p,
+  ul,
+  ol,
+  dl,
+  blockquote,
+  pre,
+  figure,
+  iframe {
     margin-bottom: $spacing-unit;
   }
 
-  p, ul, ol, dl,
+  p,
+  ul,
+  ol,
+  dl,
   blockquote {
     font-family: $font-content;
   }
@@ -109,16 +143,25 @@ blockquote {
 }
 
 // Headings
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   line-height: 1.45;
   font-weight: 300;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-weight: normal;
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   font-weight: bold;
 }
 
@@ -150,13 +193,16 @@ h6 {
 
 // Lists
 
-ul, ol, dl {
+ul,
+ol,
+dl {
   margin-left: $spacing-unit * 2;
 }
 
 ul,
 ol {
-  ul, ol {
+  ul,
+  ol {
     margin-bottom: 0;
   }
 
@@ -211,7 +257,9 @@ img {
   width: 100%;
 }
 
-iframe, video, object {
+iframe,
+video,
+object {
   max-width: 100%;
   border: none;
 
@@ -336,7 +384,8 @@ button {
   font: normal #{1.2rem}/#{1.25} $font-headings;
   color: rgba($color-text, 0.7);
 
-  ol, p {
+  ol,
+  p {
     font-family: inherit;
   }
 }

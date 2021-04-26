@@ -31,7 +31,7 @@ A proposta foi simples: eu pedi que cada um deles me enviasse uma lista daquilo 
 ### Afonso Alban
 
 {: .full-width}
-![Cena de Atlanta]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/atlanta.jpg -%})
+![Cena de Atlanta]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/atlanta.jpg %})
 _Donald Glover e Lakeith Stanfield em Atlanta._
 
 **Séries:**
@@ -68,7 +68,7 @@ _Donald Glover e Lakeith Stanfield em Atlanta._
 ## [Emanuele Spies](/autor/emanueles)
 
 {: .full-width}
-![Uma mulher olha para o pára-brisa do carro, coberto de neve]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/carol.jpeg -%})
+![Uma mulher olha para o pára-brisa do carro, coberto de neve]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/carol.jpeg %})
 _Rooney Mara em Carol._
 
 
@@ -76,9 +76,9 @@ Os padeiros do PCM me pediram para refletir sobre a minha lista da década. Aque
 
 **Filme: [_Carol_](https://www.netflix.com/title/80058700)**
 
-Então é claro que minha lista começa com _Carol_. Porque _Carol_ não foi apenas o melhor filme lésbico que eu já vi, mas ele também abriu portas que eu nunca havia pensado em olhar. Esse filme me fez redescobrir o universo cultural lésbico, aquele submundo que toda adolescente vive, mas que eu, por N razões, não vivi. 
+Então é claro que minha lista começa com _Carol_. Porque _Carol_ não foi apenas o melhor filme lésbico que eu já vi, mas ele também abriu portas que eu nunca havia pensado em olhar. Esse filme me fez redescobrir o universo cultural lésbico, aquele submundo que toda adolescente vive, mas que eu, por N razões, não vivi.
 
-Não basta ser um filme com elenco maravilhoso, pelo amor, Cate Blanchett maravilhosa beijando outra mulher, quem perderia? E essa outra mulher sendo Rooney choro-fácil-pode-ver Mara? Eu já tinha adorado o trabalho da Rooney em Os homens que não amavam as mulheres, onde Lisbeth Salander é super queer, forte, daquelas que não leva desaforo para casa, mas vê-la nesse personagem super frágil que desabrocha e virá uma mulher independente e cheia de si. Foi incrível. 
+Não basta ser um filme com elenco maravilhoso, pelo amor, Cate Blanchett maravilhosa beijando outra mulher, quem perderia? E essa outra mulher sendo Rooney choro-fácil-pode-ver Mara? Eu já tinha adorado o trabalho da Rooney em Os homens que não amavam as mulheres, onde Lisbeth Salander é super queer, forte, daquelas que não leva desaforo para casa, mas vê-la nesse personagem super frágil que desabrocha e virá uma mulher independente e cheia de si. Foi incrível.
 
 Mas _Carol_ também me marcou porque ele me fez pensar (finalmente!) que eu deveria estar perdendo muita coisa, que deveria haver tanto conteúdo lésbico por aí que eu nem sabia que existia. E foi assim que eu comecei a me aventurar em livros lesbicos em inglês; em fanfics; em audiobooks. E nunca mais parei.
 
@@ -88,14 +88,14 @@ _Precisamos falar sobre o Kevin_ foi o livro mais forte e emocionante que eu já
 
 **Livros: Trilogia _Millennium_**
 
-Como já mencionado: Lisbeth Salander. É tão maravilhoso quando a gente consegue se identificar com um personagem. Não que minha vida se pareça em qualquer aspecto com a de Lisbeth. Mas uma protagonista mulher, nerd, inteligente, que nao esta nem ai para a opinião alheia? Shut up and take my money. 
-Ao ler o livro um eu nem imaginava que teria o prazer de “ver” Lisbeth com uma mulher. Isso foi apenas um enorme bônus. 
+Como já mencionado: Lisbeth Salander. É tão maravilhoso quando a gente consegue se identificar com um personagem. Não que minha vida se pareça em qualquer aspecto com a de Lisbeth. Mas uma protagonista mulher, nerd, inteligente, que nao esta nem ai para a opinião alheia? Shut up and take my money.
+Ao ler o livro um eu nem imaginava que teria o prazer de “ver” Lisbeth com uma mulher. Isso foi apenas um enorme bônus.
 
 Eu amei esses livros e os guardei com tanto carinho que quando me mudei de país ou carreguei comigo - e para quem os viu, sabe que são pesados.
 
 **Série: [_The L Word_](https://globoplay.globo.com/the-l-word/t/CRt1fScZCc/)**
 
-Se Carol me despertou para o universo de livros e fanfics, _The L Word_ me acordou para a vida. De novo eu repito a importância de se sentir representada em alguma mídia. Até então eu achava que era estranha, que eu não pertencia àquele mundo, mas eu não sabia o porquê. Quando eu passei a assistir a série, e a ver outros universos possíveis, comecei a compreender que de fato eu não pertencia onde estava, pois aquele mundo não era o meu. 
+Se Carol me despertou para o universo de livros e fanfics, _The L Word_ me acordou para a vida. De novo eu repito a importância de se sentir representada em alguma mídia. Até então eu achava que era estranha, que eu não pertencia àquele mundo, mas eu não sabia o porquê. Quando eu passei a assistir a série, e a ver outros universos possíveis, comecei a compreender que de fato eu não pertencia onde estava, pois aquele mundo não era o meu.
 
 _The L Word_, apesar de ser uma grande ficção com enormes problemas, me fez ver que nao tinha nada errado comigo, eu so nao estava no lugar certo.
 
@@ -127,13 +127,13 @@ Tire 20 minutos do seu tempo e assista. Talvez essa conversa não vai mudar sua 
 
 **Link: [_A3O_](https://archiveofourown.org)**
 
-Quando eu digo que Carol me abriu portas para fanfics, é de [_A3O (Archive Of Our Own)_](https://archiveofourown.org) que eu me refiro. 
-    
+Quando eu digo que Carol me abriu portas para fanfics, é de [_A3O (Archive Of Our Own)_](https://archiveofourown.org) que eu me refiro.
+
 Quantas horas eu já gastei lendo histórias fictícias dos meus personagens favoritos? Eu não saberia dizer. Mas garanto que eu sou a louca das histórias longas, de múltiplos capítulos e centenas de milhares de palavras. Isso de terminar em um dia não me agrada. Tenho que sofrer por dias para valer a pena.
 
 **Música/Link: [_Spotify: Descobertas da Semana_](https://www.spotify.com/discoverweekly/)**
 
-Spotify não é barato, mas desde que eu parei de ouvir a rádio Last.FM para descobrir novos artistas, foi com Spotify e as _Descobertas da Semana_ que fui presenteada com músicas perfeitas, na medida pra mim. 
+Spotify não é barato, mas desde que eu parei de ouvir a rádio Last.FM para descobrir novos artistas, foi com Spotify e as _Descobertas da Semana_ que fui presenteada com músicas perfeitas, na medida pra mim.
 
 Gosto bastante quando o algoritmo trabalha a meu favor. Você não?
 
@@ -152,7 +152,7 @@ Eu nunca fui gamer e demorei muitos anos para ter um videogame. Quando finalment
 Foi assim que quando me falaram sobre um jogo em grupo chamado _Overwatch_ não exitei. Eu não pensei que seria perda de tempo. Até porque ele foi me vendido como “Manu tem personagem lésbica”, logo, mesmo se fosse perda de tempo, eu compraria.
 
 Acontece que _Overwatch_ foi o maior vício dos meus últimos anos. Se eu estivesse em casa, eu estava jogando _Overwatch_. Parei de acompanhar séries, quase não via mais filmes. _Eu. Só. Jogava._
-Fui ficando boa no jogo. Trazendo novos amigos pra jogar juntos. Até um videogame novo foi comprado, pra Luísa poder jogar comigo. 
+Fui ficando boa no jogo. Trazendo novos amigos pra jogar juntos. Até um videogame novo foi comprado, pra Luísa poder jogar comigo.
 
 Nenhum jogo chegou a esse nível. Nenhum jogo me fez acompanhar história de personagem. Atualizações constantes. Jogar os eventos até o fim. Acompanhar o campeonato mundial! Sim, eu virei essa pessoa.
 Atualmente não tenho mais videogame, e de todos os jogos que acumulei nos últimos 8 anos com consoles, somente um faz falta. _Overwatch_.
@@ -162,12 +162,12 @@ Atualmente não tenho mais videogame, e de todos os jogos que acumulei nos últi
 ## [Guilherme Bragança](/autor/guilhermeb/)
 
 {: .full-width}
-![Representação das ondas gravitacionais que são geradas na colisão de buracos negros]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/ondas-gravitacionais.jpeg -%})
+![Representação das ondas gravitacionais que são geradas na colisão de buracos negros]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/ondas-gravitacionais.jpeg %})
 _Pelo que eu entendi isso é uma representação do que acontece quando dois buracos negros se chocam, mas pergunte pro Guilherme pra ter certeza._
 
 **[_Twin Peaks: The Return_](https://www.netflix.com/title/80095712) (Showtime, 2017).** Eu já vou jogar aqui de primeira o mais importante. _Twin Peaks: The Return_, ou _Twin Peaks season 3_, ou _Twin Peaks season 1_ (pelo amor de deus Netflix ARRUMA ISSO), foi minha coisa favorita dos anos 10. Não estaria usando hipérbole se dissesse que foi o pedaço de mídia audiovisual mais incrível que degustei na vida.
 
-**_Red Dead Redemption_, 1 e _2_ (Rockstar Games, 2010/2018).** Eu não conseguiria montar um top 10 games favoritos mas certamente consigo um top 3; _RDR_[^1] estaria em segundo lugar nessa lista (o primeiro lugar seria _Metal Gear Solid 2_ mas ele é da década passada). 
+**_Red Dead Redemption_, 1 e _2_ (Rockstar Games, 2010/2018).** Eu não conseguiria montar um top 10 games favoritos mas certamente consigo um top 3; _RDR_[^1] estaria em segundo lugar nessa lista (o primeiro lugar seria _Metal Gear Solid 2_ mas ele é da década passada).
 
 **_Metal Gear Solid V: The Phantom Pain_ (Konami, 2015).** O último jogo da franquia _Metal Gear_ (vamos fingir que _Survive_ não existiu) deixou um gosto meio amargo na boca dos fãs quando todos os escândalos envolvendo Kojima e a Konami explodiram, porém, vendo o produto como ele é, ainda sim é um jogo fantástico.
 
@@ -181,7 +181,7 @@ _Pelo que eu entendi isso é uma representação do que acontece quando dois bur
 
 **[Kurzgesagt](https://kurzgesagt.org)**. Assim como _Vsauce_, _Kurzgesagt_ educa de formas fantásticas mas usando desenhos lindos de patos.
 
-**_Shin Godzilla_ (Hideaki Anno e Shinji Higuchi, 2016)**. Escrito e dirigido por Hidaeki Anno (o criador de _Neon Genesis Evangelion_), _Shin Godzilla_ é meio que um reboot do personagem (e contando que as versões americanas nem existem). 
+**_Shin Godzilla_ (Hideaki Anno e Shinji Higuchi, 2016)**. Escrito e dirigido por Hidaeki Anno (o criador de _Neon Genesis Evangelion_), _Shin Godzilla_ é meio que um reboot do personagem (e contando que as versões americanas nem existem).
 
 **[_Mad Max: Estrada da Fúria_](https://itunes.apple.com/br/movie/mad-max-4-fury-road/id990549112) (George Miller, 2015)**. Esse aqui foi o filme que uniu a tribo dos cinélifos e os ~normies.
 
@@ -210,7 +210,7 @@ _(Nota do editor: Sim)_
 ## Leonardo Michelon
 
 {: .full-width}
-![Um rosto no meio da escuridão da noite, em Cavalo Dinheiro]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/twin-peaks.jpeg -%})
+![Um rosto no meio da escuridão da noite, em Cavalo Dinheiro]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/twin-peaks.jpeg %})
 _Twin Peaks: O Retorno, de David Lynch._
 
 Eu acho que a gente vive em um tempo sem esperança.  Eu sou um fã desse negócio de “sinais dos tempos”, e mesmo sabendo que uma época não pode ser resumida num tema só, o que eu observo vendo essa lista é esse grande apreço pela nostalgia, já que as pessoas não tem como saber o que vem pela frente, viram pra trás. Essa ideia de que o tempo é uma repetição infinita nunca esteve tão clara, e eu acho que de fato o futuro não esta na incerteza, mas na reafirmação de coisas óbvias que muitas vezes a gente acaba esquecendo.
@@ -234,7 +234,7 @@ Obs.: a lista tá em ordem de lançamento.
 ## [Raul Fontoura](/autor/raulf/)
 
 {: .full-width}
-![Uma gata em cima do telhado, em cena de Night in the Woods]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/night-in-the-woods.jpg -%})
+![Uma gata em cima do telhado, em cena de Night in the Woods]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/night-in-the-woods.jpg %})
 _Night in the Woods, do estúdio Infinite Fall._
 
 Fiz minha lista tentando trazer o que foi pra mim o espírito da década: o tipo de jogo, série, filme e música que conversou com os meus anseios, meus medos, minhas experiências. Entrar em um emprego, a encruzilhada de o que estudar na faculdade, sair da casa dos pais em maus termos por causa da minha bissexualidade, viver os anos do jovem baladeiro, lidar com abuso e trauma, compreender as próprias escolhas, e até reavaliar a forma como eu tomava escolhas. Essa década basicamente marcou o caminho da minha saída da "infância" para a vida adulta, de forma até bem caricata - do meu primeiro beijo até o meu primeiro divórcio, literalmente. A lista reflete um pouco dessa pessoa que eu fui nesse tempo, a pessoa que eu deixei de ser, e a pessoa que eu passei a ser pessoal, política e socialmente. Quem será que eu posso ser daqui 10 anos?
@@ -256,12 +256,12 @@ Fiz minha lista tentando trazer o que foi pra mim o espírito da década: o tipo
 ## Tainara Fraga
 
 {: .full-width }
-![Peggy (Elizabeth Moss) sorri enquanto cruza o corredor em Mad Men]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/mad-men.jpeg -%})
+![Peggy (Elizabeth Moss) sorri enquanto cruza o corredor em Mad Men]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/mad-men.jpeg %})
 _Elizabeth Moss em Mad Men._
 
 **Séries:**
 - [_Mad Men_](https://www.netflix.com/title/70136135) (AMC, 2007–2015)
-- [_Sherlock_](https://www.netflix.com/title/70202589) (BBC, 2010–) 
+- [_Sherlock_](https://www.netflix.com/title/70202589) (BBC, 2010–)
 - [_Girls_](https://www.hbogo.com.br/content/5683eb73-cc9a-4a52-be5b-bbd6fa9f82aa) (HBO, 2012–2017)
 - [_American Horror Story_](https://www.clarovideo.com/brasil/vcard/homeuser/American%20Horror%20Story/597205) (FX, 2011—)
 - [_Community_](https://www.primevideo.com/detail/0FSCST8TJY66NMU5THV9XM49K4/) (NBC/Yahoo! Screen, 2009–2015)
@@ -272,7 +272,7 @@ _Elizabeth Moss em Mad Men._
 - [_Brooklyn Nine-Nine_](https://www.netflix.com/title/70281562) (Fox/NBC, 2013–)
 - [_Dark_](https://www.netflix.com/title/80100172) (Netflix, 2017–)
 
-**Episódios de série:** 
+**Episódios de série:**
 
 - _The Suitcase_ (4x7), _Comissions and Fees_ (5x12), _The Phantom_ (5x13) e _Waterloo_ (7x7) (_Mad Men_)
 - _Abed's Uncontrollable Christmas_ (2x11) (_Community_)
@@ -347,7 +347,7 @@ _Elizabeth Moss em Mad Men._
 ## [Arthur Freitas](/autor/arthurf/)
 
 {: .full-width }
-![Kentucky Route Zero, por Cardboard Computer]({%- link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/krz.jpeg -%})
+![Kentucky Route Zero, por Cardboard Computer]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/krz.jpeg %})
 _Kentucky Route Zero, por Cardboard Computer._
 
 **_Kentucky Route Zero_ (Cardboard Computer, 2013—)**. Nada nos últimos dez anos mexeu tanto comigo quanto _Kentucky Route Zero_, o jogo de apontar e clicar de um trio de artistas de Chicago. O projeto, que ainda não está finalizado, me acompanhou por boa parte da década através de quatro atos e três interlúdios que contam a história de Conway e Shannon, e uma trupe crescente de desajustados, esquecidos e falidos pelas cavernas do interior profundo dos Estados Unidos em meio à uma recessão econômica que parece o próprio apocalipse (e tudo indica que realmente seja). O jogo atmosférico presta homenagem à história dos videogames e às promessas da informática, enquanto olha para as tecnologias defasadas e as pessoas que se apegaram à elas. Essa é uma descrição triste para um jogo trágico, mas com momentos de beleza inabaláveis em que pessoas se unem para serem esquecidas juntas. É um sinal dos tempos que vêm, mas também um retrato perfeito do que está nos levando até eles.

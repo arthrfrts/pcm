@@ -19,4 +19,4 @@ Você pode encontrar a Manu no [Twitter](https://twitter.com/_manoelli).
 
 Esse episódio foi produzido por Arthur Freitas. A trilha-sonora é do [Blue Dot Sessions](https://sessions.blue/). A ilustração do Pãodecast foi feita pelo [Raul Fontoura](https://raulranma.itch.io).
 
-Se você quer participar de um episódio e conversar sobre qualquer coisa, [envie uma mensagem]({%- link sobre/index.md -%})!
+Se você quer participar de um episódio e conversar sobre qualquer coisa, [envie uma mensagem]({% link sobre/index.md %})!

@@ -29,7 +29,7 @@ Um pouco disso é porque *Kentucky Route Zero* é um jogo enganosamente simples 
 
 Mas se tem uma coisa que *KRZ* não é, é simples. É um jogo rico e provocador, em que cada um de seus elementos se subvertem em um profundo questionamento do poder dos videogames como arte. Conforme o jogo vai passando, você tem menos controle de onde você guiará os personagens a seguir, até um ponto em que você está a mercê da correnteza. As opções de diálogo também se tornam cada vez mais profundas e significativas: elas não vão mudar a narrativa, mas ajudam você a compreender o que os personagens pensam ou sentem.
 
-É um jogo repleto de hipertexto, que parece existir em sua própria simulação da internet. O cenário é o mesmo de [*Adventure*](https://pt.wikipedia.org/wiki/Colossal_Cave_Adventure), o primeiro jogo do gênero; os visuais parecem a evolução natural do clássico [*Another World*](http://www.anotherworld.fr/anotherworld_uk/another_world.htm). Personagens de [*Esperando Godot*]({%- post_url 2016/2016-07-19-esperando-godot -%}) existem no universo do jogo, e assim por diante. Não é um jogo que requer o conhecimento prévio dessas obras para poder apreciá-las, mas que vai provocar o jogador a procurá-las e experimentá-las, e se deparar com um universo de arte computacional, poesia aleatória e muito absurdo. Dos filmes de Andrei Tarkovsky à um livro escrito por computador, *Kentucky Route Zero* é apaixonado pela arte que é difícil de definir.
+É um jogo repleto de hipertexto, que parece existir em sua própria simulação da internet. O cenário é o mesmo de [*Adventure*](https://pt.wikipedia.org/wiki/Colossal_Cave_Adventure), o primeiro jogo do gênero; os visuais parecem a evolução natural do clássico [*Another World*](http://www.anotherworld.fr/anotherworld_uk/another_world.htm). Personagens de [*Esperando Godot*]({% post_url 2016/2016-07-19-esperando-godot %}) existem no universo do jogo, e assim por diante. Não é um jogo que requer o conhecimento prévio dessas obras para poder apreciá-las, mas que vai provocar o jogador a procurá-las e experimentá-las, e se deparar com um universo de arte computacional, poesia aleatória e muito absurdo. Dos filmes de Andrei Tarkovsky à um livro escrito por computador, *Kentucky Route Zero* é apaixonado pela arte que é difícil de definir.
 
 <iframe class="full-width" src="https://www.youtube.com/embed/pzXtmls1kFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -44,7 +44,7 @@ A trupe cresce conforme vão se aventurando nessa Rota. Ezra é um garoto que se
 A Rota Zero fica nas profundezas da [Caverna do Mamute](https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park), e é lá que Conway e Shannon conhecem comunidades esquecidas há muito tempo: radialistas de estações fracassadas; pessoas que perderam tudo há duas ou três crises financeiras; donos de restaurantes submarinos; e funcionários de repartições burocráticas tão específicas quanto barrocas; visionários esquecidos e andróides que, em una mistura de mofo e música, desenvolveram almas.
 
 {: .full-width }
-![Ilustração do jogo: um homem descansa em um tronco de árvore caído no meio da floresta, acompanhado por uma mulher, Shannon; um garoto, Ezra; e uma águia gigante.]({%- link uploads/2020/10/26/krz-floresta.jpg -%})
+![Ilustração do jogo: um homem descansa em um tronco de árvore caído no meio da floresta, acompanhado por uma mulher, Shannon; um garoto, Ezra; e uma águia gigante.]({% link uploads/2020/10/26/krz-floresta.jpg %})
 _Kentucky Route Zero: Ato II, Cardboard Computer_
 
 ## III.
@@ -64,7 +64,7 @@ As ramificações da jogabilidade vão ficando cada vez mais complexas e ricas c
 Você vai perder coisas em *Kentucky Route Zero*. Você pode não conhecer o protagonista de uma história contada por outro personagem; ou você pode perder a história, mas conhecer o protagonista. Não importa o que você vai se deparar, todas as coisas que você encontrou aconteceram — mas todas aquelas que você perdeu ou não encontrou também. O jogo não pune você por isso, suas escolhas levam à algumas histórias e personagens e momentos específicos, e outras vão ficar para trás. Quando você chega ao fim, você vê que todas as suas escolhas importaram, de fato, mas não na maneira que você espera.
 
 {:.full-width}
-![Uma imagem dividida em dois: na esquerda, uma mulher fala ao telefone na varanda da casa, iluminada pelo sol. Na direita, uma mulher fala ao telefone no meio de uma caverna, de noite, rodeada de outras pessoas]({%- link uploads/2020/10/26/krz-fone.jpg -%})
+![Uma imagem dividida em dois: na esquerda, uma mulher fala ao telefone na varanda da casa, iluminada pelo sol. Na direita, uma mulher fala ao telefone no meio de uma caverna, de noite, rodeada de outras pessoas]({% link uploads/2020/10/26/krz-fone.jpg %})
 _Kentucky Route Zero: Act IV, Cardboard Computer_
 
 ## IV.
@@ -82,7 +82,7 @@ Essa é uma jornada que expande, com dúzias de personagens em que cada um tem u
 Em uma das cenas mais emocionantes do jogo, nós acompanhamos os personagens para um bar deserto, onde Junebug e Johnny vão se apresentar. Você escolhe os versos da canção linha-por-linha. É um momento lindo que parece fazer o teto do bar flutuar para o espaço, abrindo espaço para as estrelas, enquanto você decide o destino da história de amor daquela canção. A ilusão dura um momento, mas ele é perfeito enquanto dura. Você está dentro ou você está fora quando ele acontece?
 
 {:.full-width}
-![Duas pessoas se apresentam em um bar deserto no meio da noite, o teto do bar se abre, revelando as estrelas]({%- link uploads/2020/10/26/krz-bar.jpg -%})
+![Duas pessoas se apresentam em um bar deserto no meio da noite, o teto do bar se abre, revelando as estrelas]({% link uploads/2020/10/26/krz-bar.jpg %})
 _Kentucky Route Zero: Act III, Cardboard Computer_
 
 ## V.

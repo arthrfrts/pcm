@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2"
+gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15.1"
@@ -13,4 +14,8 @@ group :jekyll_plugins do
   gem "jekyll-include-cache", "~> 0.2.1"
 end
 
-gem "webrick", "~> 1.7"
+install_if -> { Gem.win_platform? } do
+  gem "wdm", "~> 0.1.1"
+  gem "tzinfo", "~> 2.0.4"
+  gem "tzinfo-data"
+end

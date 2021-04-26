@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{- site.lang -}}">
-  {%- include head.html -%}
+  {% include head.html %}
   <body>
     <div id="site">
-      {%- include_cached header.html -%}
+      {% include_cached header.html %}
 
       <main class="content">
         <div class="wrapper">
@@ -11,16 +11,16 @@
             {{ content }}
           </div>
 
-          {%- unless page.layout == "page" -%}
-            {%- include_cached sidebar.html -%}
-          {%- endunless -%}
+          {% unless page.layout == "page" %}
+            {% include_cached sidebar.html %}
+          {% endunless %}
         </div>
       </main>
 
 
-      {%- include_cached footer.html -%}
+      {% include_cached footer.html %}
     </div>
-    <script id="site-scripts" src="{%- link assets/js/scripts.js -%}"></script>
+    <script id="site-scripts" src="{% link assets/js/scripts.js %}"></script>
     {% if page.layout == "post" %}
       <script>
         initComments({

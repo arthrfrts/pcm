@@ -17,4 +17,4 @@ Você pode encontrar a Vanessa no [Twitter](https://twitter.com/vnsslvr), no [In
 
 O Pãodecast é produzido por Arthur Freitas, a trilha-sonora é do [Blue Dot Sessions](https://sessions.blue), e a ilustração foi feita pelo [Raul Fontoura](https://raulranma.itch.io/).
 
-Quer fazer parte de um episódio? [Envia uma mensagem]({%- link sobre/index.md -%}) e a gente combina!
+Quer fazer parte de um episódio? [Envia uma mensagem]({% link sobre/index.md %}) e a gente combina!

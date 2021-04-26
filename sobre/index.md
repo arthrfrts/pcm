@@ -17,4 +17,4 @@ Dê uma lida na nossa [política de privacidade]({% link sobre/privacidade.md %}
 
 Se você quiser me enviar uma mensagem ou pedir para participar do Pãodecast, fique a vontade de enviar um email para <mesa@paomortadela.com.br> ou usar esse formulário:
 
-{%- include contact-form.html -%}
+{% include contact-form.html %}

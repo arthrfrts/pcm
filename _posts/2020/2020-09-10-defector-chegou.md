@@ -9,7 +9,7 @@ tags:
 date: 2020-09-10 17:19 -0300
 ---
 
-![Captura de tela da página inicial do site Defector no dia 10 de setembro de 2020]({%- link uploads/2020/09/10/defector.png -%})
+![Captura de tela da página inicial do site Defector no dia 10 de setembro de 2020]({% link uploads/2020/09/10/defector.png %})
 
 [Defector](https://www.defector.com/), o site formado pela equipe que se demitiu do antigo, excelente Deadspin, foi lançado hoje.
 

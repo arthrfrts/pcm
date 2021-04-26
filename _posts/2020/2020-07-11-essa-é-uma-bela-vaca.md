@@ -10,9 +10,9 @@ tags:
 ---
 
 {: .full-width }
-![Retrato de uma vaca pequena]({%- link /uploads/2020/07/11/first-cow-evie.jpg -%})
+![Retrato de uma vaca pequena]({% link /uploads/2020/07/11/first-cow-evie.jpg %})
 
-Ela se chama Evie, e essa é a foto que fez [Kelly Reichardt]({%- post_url 2020/2020-05-07-os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena -%}) escolher Evie pra ser o animal título do seu filme mais recente, *First Cow*.
+Ela se chama Evie, e essa é a foto que fez [Kelly Reichardt]({% post_url 2020/2020-05-07-os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena %}) escolher Evie pra ser o animal título do seu filme mais recente, *First Cow*.
 
 Eu ainda não vi o filme (eu quero assistir ele hoje de noite, depois de gravar o nosso primeiro episódio do Pãodecast), mas eu tava lendo [esse artigo na Polygon](https://www.polygon.com/2020/7/8/21316413/first-cow-cast-a24-evie-headshot-kelly-reichardt-cameo) sobre como Evie foi escolhida por Reichardt, e me lembrei de outro filme que gostei muito, _A Rota Selvagem_, protagonizado por um cavalo e um menino.
 

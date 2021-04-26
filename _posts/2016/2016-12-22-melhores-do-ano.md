@@ -52,7 +52,7 @@ _Firewatch_, o jogo de estréia da Campo Santo, é um desses jogos que te prende
 
 2016 foi consideravelmente mais fraco na TV do que 2015, mas três séries conseguiram aumentar ainda mais o nível nessa temporada: _The Americans_ e _Veep_ elevam já grandes séries a níveis impecáveis, mas _Halt & Catch Fire_, depois de uma segunda temporada fantástica, encontra em seus terceiro ano a força ideal.
 
-Quando eu vejo uma grande série de TV, como [The Leftovers ano passado]({%- post_url 2015/2015-12-30-the-leftovers-segunda-temporada -%}), eu tenho a seguinte impressão: de que é a melhor coisa que a TV fez esse ano, e que caralho eu queria arrombar a tua casa e ligar tua TV nessa série pra dar mais audiência.
+Quando eu vejo uma grande série de TV, como [The Leftovers ano passado]({% post_url 2015/2015-12-30-the-leftovers-segunda-temporada %}), eu tenho a seguinte impressão: de que é a melhor coisa que a TV fez esse ano, e que caralho eu queria arrombar a tua casa e ligar tua TV nessa série pra dar mais audiência.
 
 Deixando apra trás os ecos que a tornavam uma _Mad Men_ sobre o Vale do Silício, _Halt & Catch Fire_ olha para os primeiros dias da Internet para tentar compreender a sociedade que nós formamos hoje. A série captura com perfeição o medo e a excitação de um mundo conectado, o sexismo no mundo do empreendedorismo e da tecnologia e como o ramo tenta buscar nos gurus das empresas verdadeiros filósofos. Seja 1986 ou agora, não há nada mais humano do que querer mudar, querer fazer a diferença. Não há nada mais poderoso do que o medo de mudar, também.
 
