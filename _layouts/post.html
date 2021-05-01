@@ -59,11 +59,8 @@ layout: default
     {% endif %}
   </footer>
 
-  {% unless page.comments == false %}
-    <div class="post_comments">
-      <div id="comment-section"></div>
-    </div>
-  {% endunless %}
+
+  {% include comments.html %}
 </article>
 
 {% if page.previous or page.next %}

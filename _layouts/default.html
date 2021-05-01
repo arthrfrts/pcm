@@ -21,16 +21,11 @@
       {% include_cached footer.html %}
     </div>
     <script id="site-scripts" src="{% link assets/js/scripts.js %}"></script>
-    {% if page.layout == "post" %}
-      <script>
-        initComments({
-          node: document.getElementById("comment-section"),
-          defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-          serverName: "cactus.chat",
-          siteName: "paomortadela",
-          commentSectionId: "{{ post.slug }}"
-        })
-        </script>
+
+    {% if jekyll.environment == "production" %}
+      {% if page.layout != "post" and page.layout != "page" %}
+        <script id="dsq-count-scr" async src="//paomortadela.disqus.com/count.js"></script>
+      {% endif %}
     {% endif %}
   </body>
 </html>

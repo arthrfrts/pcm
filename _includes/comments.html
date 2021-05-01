@@ -1,0 +1,18 @@
+{% unless page.comments == false %}
+  <div class="post_comments">
+    <div id="disqus_thread"></div>
+    <script>
+        var disqus_config = function () {
+        this.page.url = {{ page.url | absolute_url }};
+        this.page.identifier = {{ page.slug }};
+        };
+        (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://paomortadela.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Para ver os <a href="https://disqus.com/?ref_noscript">comentários via Disqus</a> é preciso de um navegador com suporte a JavaScript.</noscript>
+  </div>
+{% endunless %}
