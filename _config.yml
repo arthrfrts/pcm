@@ -52,6 +52,10 @@ plugins:
   - jekyll-include-cache
 
 # SEO
+webmaster_verifications:
+  google: UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE
+  bing: EC06D81201245E654C4C576513A41A73
+
 social:
   name: Pão com Mortadela
   links:
