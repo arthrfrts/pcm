@@ -33,7 +33,7 @@
 
 .masthead {
   background-color: $color-header;
-  color: $color-background;
+  color: $color-text;
   text-align: center;
   padding-top: $spacing-unit;
   z-index: 1;
@@ -57,7 +57,7 @@
     }
 
     a {
-      color: $color-background;
+      color: $color-text;
       text-decoration: none;
     }
   }
@@ -129,18 +129,18 @@
     flex-flow: row wrap;
     width: 100%;
 
-		@include media-query($on-palm) {
-			flex-flow: column nowrap;
-		}
+    @include media-query($on-palm) {
+      flex-flow: column nowrap;
+    }
 
     .blog {
-			max-width: calc(#{100%} - #{300px + $spacing-unit});
-			margin-right: $spacing-unit;
+      max-width: calc(#{100%} - #{300px + $spacing-unit});
+      margin-right: $spacing-unit;
 
-			@include media-query($on-palm) {
-				max-width: 100%;
-				margin-right: 0;
-			}
+      @include media-query($on-palm) {
+        max-width: 100%;
+        margin-right: 0;
+      }
     }
   }
 
@@ -374,15 +374,15 @@
   position: relative;
 
   .sidebar {
-		flex-basis: 300px;
-		flex: 1;
-		font-size: 1.4rem;
+    flex-basis: 300px;
+    flex: 1;
+    font-size: 1.4rem;
 
-		@include media-query($on-palm) {
-			margin-left: 0;
-			margin-top: $spacing-unit * 2;
-			margin-bottom: $spacing-unit * 2;
-		}
+    @include media-query($on-palm) {
+      margin-left: 0;
+      margin-top: $spacing-unit * 2;
+      margin-bottom: $spacing-unit * 2;
+    }
 
     .links {
       background: rgba(#55acee, 0.15);
@@ -467,7 +467,8 @@
           }
         }
 
-        form, a {
+        form,
+        a {
           display: inline-block;
           margin-top: $spacing-unit / 4;
           margin-bottom: $spacing-unit / 4;

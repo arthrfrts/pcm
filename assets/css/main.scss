@@ -2,13 +2,13 @@
 # Hello, Jekyll!
 ---
 
-$color-text: #4a4a4a;
+$color-text: #484848;
 $color-accent: #dd5424;
 $color-background: #f6f6f6;
-$color-header: #febf01;
+$color-header: #ffd32f;
 $color-footer: $color-accent;
 $font-content: Charter, "Bitstream Charter", serif;
-$font-headings: 'Jost', 'Avenir Next', 'Trebuchet MS', sans-serif;
+$font-headings: "Jost", "Avenir Next", "Trebuchet MS", sans-serif;
 
 $content-width: 1020px;
 $on-laptop: 960px;
@@ -21,6 +21,4 @@ $spacing-unit: 20px;
   }
 }
 
-@import "fonts",
-        "base",
-        "layout";
+@import "fonts", "base", "layout";
