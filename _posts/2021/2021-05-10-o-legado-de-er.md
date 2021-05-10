@@ -1,18 +1,18 @@
 ---
 layout: post
 title: 27 anos depois, ainda não existe uma série como ER
-excerpt: >-
-  O drama médico vai ser lançado por streaming pela primeira vez em junho na HBO Max, e ainda é uma grande série de TV.
+excerpt: O drama médico vai ser lançado por streaming pela primeira vez em junho na
+  HBO Max, e ainda é uma grande série de TV.
 image: "/uploads/2021/05/10/er.jpg"
 author: arthurf
 tags:
-  - esquinas
-  - essenciais
-  - séries
-  - HBO Max
-  - ER
+- esquinas
+- essenciais
+- séries
+- HBO Max
+- ER
+date: 2021-05-10 07:31 -0300
 ---
-
 Eu tenho uma ótima notícia pra dar para meus amigos: *ER* finalmente vai estar disponível para assistir por streaming no Brasil a partir de junho, [com a chegada da HBO Max](https://twitter.com/HBOMaxBR/status/1387173105882238979).
 
 Eu tenho um apego emocional muito forte com essa série, exibida na Globo no fim dos anos 90 como *Plantão Médico*. Foi a primeira série que eu lembro ter assistido, junto com minha mãe nos das que eu perdia o sono. *ER* era o que minha mãe assistia quando todo mundo já tinha ido dormir e ela podia sentar na frente da TV e descansar. As vezes, eu conseguia ficar acordado e acompanhar ela. Era uma série muito forte: a série acompanha o dia-a-dia do pronto-socorro de um hospital público na cidade de Chicago, e é de cair o queixo com suas sequências de cirurgia e atendimentos corridos, acidentes que resultam ou em tragédias ou em milagres. É o primeiro programa “adulto” que eu lembro ter assistido na TV. Até hoje, é uma das melhores coisas que eu já vi — e “Love's Labor Lost”, o 19º episódio da primeira temporada, é o meu episódio de TV favorito de todos.
