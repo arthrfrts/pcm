@@ -2,7 +2,7 @@
 title: Pão com Mortadela
 tagline: >-
   Dicas bacanas para acompanhar seu café.
-description: >-
+description: |+
   Tem tanta coisa por aí.
   A gente te ajuda a encontrar aquilo que você vai gostar.
   Algo bom pra ler, ver, ouvir ou jogar.
@@ -18,7 +18,6 @@ collections:
 
 # Build settings
 markdown: kramdown
-incremental: true
 
 url: "https://paomortadela.com.br" # mudar no merge
 baseurl: ""
@@ -52,10 +51,6 @@ plugins:
   - jekyll-include-cache
 
 # SEO
-webmaster_verifications:
-  google: UfVsLDHK_53R85Kjji9NyyMbgE5Le9qjtkEVnD7TQWE
-  bing: EC06D81201245E654C4C576513A41A73
-
 social:
   name: Pão com Mortadela
   links:
