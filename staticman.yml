@@ -1,0 +1,33 @@
+comments:
+  name: Pão com Mortadela
+  branch: main
+  comment: "adds staticman data"
+  path: "_data/comments/{options.slug}"
+  filename: "comment-{@timestamp}"
+  format: yaml
+  allowedFields:
+    - name
+    - email
+    - website
+    - message
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: timestamp-seconds
+  requiredFields:
+    - name
+    - email
+    - message
+  transforms:
+    email: md5
+  allowedOrigins:
+    - "paomortadela.com.br"
+    - "localhost"
+  akismet:
+    enabled: true
+    author: name
+    authorEmail: email
+    authorUrl: website
+    content: message
+    type: comment
