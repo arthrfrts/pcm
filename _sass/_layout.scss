@@ -308,7 +308,7 @@
   .comment-item {
     margin-bottom: $spacing-unit;
     padding-bottom: $spacing-unit;
-    border-bottom: 3px dotted $color-accent;
+    border-bottom: 3px dotted rgba($color-text, 0.2);
   }
 }
 
@@ -320,15 +320,24 @@
   }
 
   .author-avatar {
-    width: 2.5rem;
-    border-radius: 5px;
-    box-shadow: 0 0 2px $color-accent;
+    width: 36px;
+    border-radius: 50%;
+    box-shadow: 0 0 3px rgba($color-text, 0.2);
     float: left;
     margin-right: 1rem;
   }
 
   .comment-body > *:not(:last-child) {
     margin-bottom: 0.5rem;
+  }
+
+  .comment-body {
+    a {
+      text-decoration: underline;
+      text-decoration-style: wavy;
+      text-decoration-thickness: 1px;
+      text-decoration-color: $color-accent;
+    }
   }
 }
 

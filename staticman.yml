@@ -1,7 +1,7 @@
 comments:
   name: Pão com Mortadela
   branch: main
-  comment: "adds staticman data"
+  commitMessage: "adiciona novo comentário"
   path: "_data/comments/{options.slug}"
   filename: "comment-{@timestamp}"
   format: yaml
