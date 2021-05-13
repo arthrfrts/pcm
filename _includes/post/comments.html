@@ -7,7 +7,9 @@
     {% if site.data.comments[page.slug] %}
       <ol class="comments-list">
 
-        {% for comment in site.data.comments[page.slug] %}
+        {% assign comments = site.data.comments[page.slug] | sort: date %}
+
+        {% for comment in comments %}
           {% assign comment_body = comment | last %}
           <li class="comment-item">
             <section class="comment">
