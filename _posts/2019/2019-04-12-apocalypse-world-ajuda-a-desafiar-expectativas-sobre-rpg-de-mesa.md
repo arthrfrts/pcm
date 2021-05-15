@@ -51,7 +51,7 @@ _Apocalypse World_, como todos os jogos, ainda necessita que você aprenda as re
 
 - A criação de personagens acontece dentro da primeira sessão, não exigindo das pessoas que jogam uma criação prévia e o tempo que isso demanda.
 - Não há necessidade de um entendimento prévio do mundo de jogo, nem a leitura de “lore” para que alguém possa criar uma personagem durante a sessão.
-- Todas as regras que um jogador precisa saber para jogar estão contidos na ficha da sua personagem (conhecida como “livro de jogo”) e nas fichas de referência imediata.
+- Todas as regras que um jogador precisa saber para jogar estão contidos na ficha da sua personagem (uma folha frente e verso conhecida como “livro de jogo”) e nas fichas de referência imediata (uma ou duas outras folhas frente e verso que só são consultadas ocasionalmente, não lidas).
 - Não há consulta de tabelas, listas, ou outras externalidades mesmo para a criação da personagem: você simplesmente segue as instruções da própria ficha.
 
 Além desses aspectos de pontapé inicial, o jogo apresenta todas as suas mecânicas como “movimentos”. Um movimento é como um algoritmo de jogo: _**se** uma determinada coisa acontecer na história, **então** as seguintes consequências podem surgir_.
