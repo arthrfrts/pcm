@@ -166,6 +166,7 @@ Esse parágrafo, e todos os seus desdobramentos através do jogo, foram a força
 Eu poderia ir além, falar sobre vários outros aspectos de _Apocalypse World_ e dos jogos _Powered by The Apocalypse_: como alguns deles fazem com que “PVP” não seja um problema, mas algo divertido ou até desejado; como eles impedem que campanhas “durem para sempre” e acabem sem conclusão; ou como perguntas e respostas são usadas dentro dessa vertente de jogos para estabelecer os assuntos d’A Conversa de forma orgânica. Talvez no futuro.
 
 O objetivo aqui é expandir a ideia de o que são RPGs analógicos, e o que eles podem fazer de diferente, sem impedir ninguém de ter as experiências que mais lhe apetecerem. Tocando no assunto, uma última provocação, se você já gostava ou se interessou por jogos analógicos, pode cair bem.
+
 ---
 
 ## “Criar jogos é só pra quem pode”
@@ -190,4 +191,4 @@ O importante é que a Conversa continue.
 
 ---
 
-Você pode receber mais informações sobre o lançamento de Apocalypse World [seguindo este link](https://www.facebook.com/notes/secular-games/apocalypse-world-edi%C3%A7%C3%A3o-brasileira/2772444012797694/).
+Você adquirir uma cópia da segunda edição de Apocalypse World para ler e jogar na loja online da Secular Games [seguindo este link](https://www.secular-games.com/produto/apocalypse-world-2/).
