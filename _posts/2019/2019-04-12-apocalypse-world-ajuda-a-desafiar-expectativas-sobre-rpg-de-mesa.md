@@ -10,7 +10,6 @@ tags:
 author: raulf
 published: true
 ---
-
 _Plano do filme "Zero Charisma" (2013)_
 
 Talvez você já tenha jogado RPG no passado. Normalmente RPG surge como aquela brincadeira meio diferente que o seu primo ou amigo da escola trás para um dia de chuva, ou quando cai a luz, ou só como um jeito de quebrar a monotonia mesmo. Talvez você só se lembre que existe porque ele apareceu em um episódio de _Bob Esponja_ ou _Stranger Things_. Talvez só tenha jogado uma versão eletrônica. Independente disso, e até mesmo entre veteranos dos jogos, existe uma idéia cultural um pouco difusa sobre o que é um RPG de mesa, e como ele funciona.
