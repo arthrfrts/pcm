@@ -10,6 +10,9 @@ tags:
 author: raulf
 published: true
 ---
+
+_Plano do filme "Zero Charisma" (2013)_
+
 Talvez você já tenha jogado RPG no passado. Normalmente RPG surge como aquela brincadeira meio diferente que o seu primo ou amigo da escola trás para um dia de chuva, ou quando cai a luz, ou só como um jeito de quebrar a monotonia mesmo. Talvez você só se lembre que existe porque ele apareceu em um episódio de _Bob Esponja_ ou _Stranger Things_. Talvez só tenha jogado uma versão eletrônica. Independente disso, e até mesmo entre veteranos dos jogos, existe uma idéia cultural um pouco difusa sobre o que é um RPG de mesa, e como ele funciona.
 
 Muitas pessoas que já jogaram RPG tiveram contato com jogos conhecidos e aclamados como _GURPS_, _Vampiro_, _[Tormenta](https://jamboeditora.com.br/produto/tormenta-rpg-modulo-basico-edicao-guilda-do-macaco/)_ e _[3D&T](https://jamboeditora.com.br/produto/manual-3det-alpha-edicao-revisada-digital/)_, mas me parece difícil questionar que _[Dungeons & Dragons](https://youtu.be/BdfD6yhAFyo?list=PLBUHZABfdSE7YWveKpq4dfA75CMYtw2pP)_ costuma ser o primeiro contato da maioria. _Dungeons & Dragons_ é um jogo de contar histórias, onde os jogadores interpretam heróis medievais fantásticos e o Mestre comanda um mundo de monstros na direção deles. _D&D_ é um jogo de combates dramáticos, inimigos grandiosos e conquistas impressionantes.
@@ -21,7 +24,8 @@ Há uma certa tendência em determinados momentos de pensar _D&D_ como a única 
 [Sistemas diferentes existem justamente por isso](https://www.youtube.com/watch?v=zHBCBKp6f5Q). Houve uma época inclusive em que não se podia publicar oficialmente jogos derivados de _Dungeons & Dragons_, mas na sua terceira edição o jogo estabeleceu uma [licença aberta](https://pt.wikipedia.org/wiki/Open_Game_License). Isso causou uma explosão de criações, e fez com que muitos começassem a escrever jogos no então conhecido sistema d20.
 
 {:.full-width}
-![Manuais (livros grandes e coloridos) de RPGs de mesa de diversas gerações](https://i.imgur.com/M2IqgwV.jpg)
+![Manuais (livros grandes e coloridos) e módulos de aventura para Dungeons and Dragons](https://i.imgur.com/M2IqgwV.jpg)
+_Quantas aventuras e versões de Dungeons & Dragons podem existir?_
 
 Às vezes esses esforços não produzem exatamente a experiência desejada em parte dos jogadores. O grupo que queria a ação frenética de _Naruto_ acaba em um combate de turnos inacabáveis, onde um jogador declara um ataque e passa a sua vez - uma experiência que nem mesmo o sistema d20 pretende, quando jogado da maneira “correta”.
 
@@ -78,6 +82,7 @@ A Conversa simplifica o que nós imaginamos como RPG, como jogo narrativo. Algo 
 
 {:.full-width}
 ![Tabelas ilustrativa de relação de danos e ações de um manual de Dungeons & Dragons](https://i.imgur.com/8qmz9Ab.jpg)
+_Nem todos os jogos são cheios de tabelas e dados esquisitos_
 
 ## “Mestrar é só pra quem pode”
 
@@ -134,6 +139,7 @@ Você pode estar se perguntando: “Mas e da primeira vez que forem jogar? Não 
 
 {:.full-width}
 ![Desenho de um mestre — o jogador que guia a trajetória de uma história em um RPG](https://i.imgur.com/cqrBhOe.jpg)
+_A impressão é que o "mestre" é quem controla o jogo. Mas será que é bem isso?_
 
 ## “O Mestre faz uma história e os jogadores escolhem o final”
 
@@ -161,7 +167,8 @@ Esse parágrafo, e todos os seus desdobramentos através do jogo, foram a força
 > <cite>— Trecho de Apocalypse World, edição brasileira</cite>
 
 {:.full-width}
-![Tabelas de um RPG indie](https://i.imgur.com/Aed6NGD.png)
+![Materiais de um jogo narrativo independente](https://i.imgur.com/Aed6NGD.png)
+_Existem tantas formas de se jogar quanto existem jeitos de se escrever em papel_
 
 Eu poderia ir além, falar sobre vários outros aspectos de _Apocalypse World_ e dos jogos _Powered by The Apocalypse_: como alguns deles fazem com que “PVP” não seja um problema, mas algo divertido ou até desejado; como eles impedem que campanhas “durem para sempre” e acabem sem conclusão; ou como perguntas e respostas são usadas dentro dessa vertente de jogos para estabelecer os assuntos d’A Conversa de forma orgânica. Talvez no futuro.
 
