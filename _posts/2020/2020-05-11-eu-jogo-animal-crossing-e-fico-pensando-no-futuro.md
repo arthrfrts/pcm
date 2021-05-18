@@ -1,6 +1,6 @@
 ---
+date: '2020-05-11 20:44:00 -0300'
 layout: post
-date: "2020-05-11 20:44:00 -0300"
 author: arthurf
 title: Eu jogo Animal Crossing e fico pensando no futuro
 tags:
@@ -8,9 +8,9 @@ tags:
   - esquinas
   - simulação
   - Nintendo
+  - Animal Crossing
 image: /uploads/2020/05/11/acnh-capa.jpg
-excerpt: >-
-  Jolly good!
+excerpt: Jolly good!
 published: true
 ---
 
