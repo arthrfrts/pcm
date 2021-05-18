@@ -2,13 +2,12 @@
 date: '2021-05-21 09:00:00 -0300'
 layout: post
 title: Orla Gartland entende como é querer trocar de corpo com alguém
-image: '/uploads/2021/05/18/Orla_post1.png'
+image: '/uploads/2021/05/21/Orla_post1.png'
 tags:
   - músicas
   - vídeos
   - Orla Gartland
 author: raulf
-published: false
 ---
 Se você é como eu, você já se sentiu improdutivo, ou até inútil, algumas vezes. Se não exatamente nessas palavras, talvez você já tenha sentido que está “ficando para trás”, vendo pessoas ao seu redor seguirem em frente e conquistarem espaços ou objetivos que você sempre quis.
 
@@ -68,14 +67,14 @@ O clipe de More Like You começa com a Orla escorada na parede, olhando para cim
 Ao longo do clipe, nós temos essa dualidade expressa entre a letra e a câmera: enquanto Orla canta para nós que ela quer ser como alguém que ela está vendo, como nós, a câmera a enquadra de forma a nos mostrar ela como uma musa, como alguém que nós provavelmente gostaríamos de ser. Enquanto ela faz [air guitars](https://pt.wikipedia.org/wiki/Air_guitar) e finge estar com um microfone na mão em cena, nós assistimos isso em um clipe oficial, com música produzida profissionalmente em estúdio.
 
 {:.full-width}
-![Orla parada ao centro da tela, raios de luz atrás dela vindos de uma janela]({% link uploads/2021/05/18/Orla_post2.png %})
+![Orla parada ao centro da tela, raios de luz atrás dela vindos de uma janela]({% link uploads/2021/05/21/Orla_post2.png %})
 
 A partir do primeiro minuto do clipe, essa dualidade se transforma em personagem com a participação da dançarina Hannah Hornsby. Orla se refere a ela, e troca movimentos tímidos com ela enquanto sugere que gostaria que as duas trocassem de corpo por um dia, para que ela pudesse ser mais confiante, respirar novos ares, inspirar outras pessoas.
 
 Quando retornamos para o refrão, Hannah a segue como uma sombra, e controla os movimentos que Orla faz — parece uma indicação de que Hannah não é necessariamente um invólucro para a audiência, mas para as influências artísticas que trouxeram Orla até a artista que ela é hoje, as pessoas que ela mesma admira.
 
 {:.full-width}
-![Orla sendo "dirigida" por Hannah, que está atrás dela controlando seus movimentos]({% link uploads/2021/05/18/Orla_post3.png %})
+![Orla sendo "dirigida" por Hannah, que está atrás dela controlando seus movimentos]({% link uploads/2021/05/21/Orla_post3.png %})
 
 >Oh, I heard it from a woman on the internet
 >(Oh, eu ouvi de uma mulher na internet)
@@ -100,13 +99,13 @@ Desse momento, passamos para o ponto mais íntimo da canção. Orla fala sobre s
 Quando se levanta, ela retorna com uma atitude diferente. Ao invés de dançar tímida com Hannah, elas brincam juntas, se divertem ao dançar, combinam passos: Hannah não é mais uma sombra, mas uma parceira, alguém que constrói a dança ao lado de Orla, não por trás dela. Ambas são banhadas em luz. Ambas fazem daquele momento o que ele é.
 
 {:.full-width}
-![Orla e Hannah alegres, dançando juntas à luz da janela]({% link uploads/2021/05/18/Orla_post4.png %})
+![Orla e Hannah alegres, dançando juntas à luz da janela]({% link uploads/2021/05/21/Orla_post4.png %})
 
 Mas o clipe tem uma última cartada para jogar. Quando a dança delas termina, o último momento do clipe faz com que Orla saia da tela. O que resta ao centro do quadro é Hannah, alguém que nós provavelmente não conhecíamos antes do clipe começar, “qualquer uma”. Assim, a dualidade entre público e artista se ressignifica também na figura de Hannah: ela está ali para representar tanto a influência quanto à influenciada, olhando para fora da tela a procura de Orla quando esta sai.
 
 Como se martelando o último ponto, Hannah fecha o clipe olhando para nós, como Orla havia olhado no início. O sentido que fica é que essa sensação, de inadequação, de insegurança, de projetar uma confiança monolítica no outro, de imaginar a grama mais verde do outro lado — seja esse lado um ídolo ou um dos nossos pares — é comum a todos nós.
 
 {:.full-width}
-![Hannah, sozinha no centro da tela, banhada pela luz da janela]({% link uploads/2021/05/18/Orla_post5.png %})
+![Hannah, sozinha no centro da tela, banhada pela luz da janela]({% link uploads/2021/05/21/Orla_post5.png %})
 
 Orla, assim como nós, entende como é querer estar no lugar de alguém. Mas ela também oferece de forma sublime o pensamento radical de que todos nós temos passos a mostrar nas pontas dos pés, e que sempre podemos tentar, ao menos por alguns momentos, dançar juntos.
