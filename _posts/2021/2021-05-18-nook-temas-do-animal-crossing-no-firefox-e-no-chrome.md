@@ -5,6 +5,7 @@ author: arthurf
 published: true
 title: 'Nook: temas do Animal Crossing no Firefox e no Chrome'
 tags:
+  - músicas
   - links
   - Animal Crossing
   - extensões para o Firefox
