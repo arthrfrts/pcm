@@ -8,6 +8,7 @@ tags:
   - jogos
   - RPG
 author: raulf
+published: false
 ---
 >“A vila inteira estava reunida para a festa do solstício de inverno. Minto. Apenas um trio de bêbados e meia dúzia de adolescentes entediados perambulavam em frente ao palco. Subi no tablado pela direita e Magnus, meu amigo, mas também meu maior rival, subiu pelo outro lado. Só uma pessoa realmente prestava atenção à cena: nosso professor de alaúde.”
 >
@@ -27,6 +28,7 @@ Se você já estudou ou tentou tocar música por si próprio, sabe que todo o pr
 
 ---
 
+{:.full-width}
 ![Uma artista branca com poderes mágicos, dançando de olhos fechados]({% link uploads/2021/05/18/Velouria_post3.png %})
 _Artista Performática Radiante, por Alessandra Pisano_
 
@@ -44,6 +46,7 @@ Uma das coisas mais legais da criação do seu bardo é o elemento de titulaçã
 
 Com um Bardo criado e suas obras reunidas, o próximo passo é subir no palco. Mas, para o bem ou para o mal, você não vai estar nele sozinho…
 
+{:.full-width}
 ![Um maestro negro com poderes mágicos, comandando uma orquestra no meio de uma tempestade]({% link uploads/2021/05/18/Velouria_post2.png %})
 _Zaffai, Maestro do Trovão, por Dmitry Burmak_
 
