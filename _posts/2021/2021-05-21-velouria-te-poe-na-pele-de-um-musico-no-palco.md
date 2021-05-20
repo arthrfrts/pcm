@@ -1,21 +1,20 @@
 ---
-date: '2021-05-16 09:00:00 -0300'
+date: '2021-05-21 09:00:00 -0300'
 layout: post
 title: Velouria te põe na pele de um músico no palco — mas o seu rival também está nele!
-image: "/uploads/2021/05/18/Velouria_post.png"
+image: "/uploads/2021/05/21/Velouria_post.png"
 tags:
   - achados
   - jogos
   - RPG
 author: raulf
-published: false
 ---
 
 >A vila inteira estava reunida para a festa do solstício de inverno. Minto. Apenas um trio de bêbados e meia dúzia de adolescentes entediados perambulavam em frente ao palco. Subi no tablado pela direita e Magnus, meu amigo, mas também meu maior rival, subiu pelo outro lado. Só uma pessoa realmente prestava atenção à cena: nosso professor de alaúde.
 >
 > <cite>— Trecho de Velouria: Batalha de Bardos</cite>
 
-Se você já estudou ou tentou tocar música por si próprio, sabe que todo o processo de aprender os instrumentos, as estruturas de uma composição (tanto enquanto melodia quanto poesia), as técnicas de improvisação: tudo isso é complicado e exige tempo e dedicação. Isso sem contar o medo do palco, da reação muitas vezes imprevisível do público. De vez em quando, nós só queremos fazer um [air guitar](https://pt.wikipedia.org/wiki/Air_guitar), fingir que nós podemos ser grandes astros dos palcos. E se você tiver ao menos um amigo com essa mesma vontade, eu tenho um jogo pra te recomendar!
+Se você já estudou ou tentou tocar música por si próprio, sabe que todo o processo de aprender os instrumentos, as estruturas de uma composição (tanto enquanto melodia quanto poesia), as técnicas de improvisação: tudo isso é complicado e exige tempo e dedicação. Isso sem contar o medo do palco, da reação muitas vezes imprevisível do público. De vez em quando, nós só queremos fazer um _[air guitar](https://pt.wikipedia.org/wiki/Air_guitar)_, fingir que nós podemos ser grandes astros dos palcos. E se você tiver ao menos um amigo com essa mesma vontade, eu tenho um jogo pra te recomendar!
 
 [Velouria: Batalha de Bardos](https://www.dungeonist.com/marketplace/product/velouria/) é um jogo narrativo escrito por [Gabriel Kerr](https://twitter.com/GaboKerr) com o objetivo de dar a você a chance de se colocar no lugar de um bardo nos palcos da cidade fantástica de Velouria. Aqui, não existem perigos, monstros, justas, tiranos ou guerras. Mas isso não significa que a população de Velouria não gosta de competição, do nosso velho pão e circo: eles só encontraram outra forma de resolver suas disputas por glória!
 
@@ -30,7 +29,7 @@ Se você já estudou ou tentou tocar música por si próprio, sabe que todo o pr
 ---
 
 {:.full-width}
-![Uma artista branca com poderes mágicos, dançando de olhos fechados]({% link uploads/2021/05/18/Velouria_post3.png %})
+![Uma artista branca com poderes mágicos, dançando de olhos fechados]({% link uploads/2021/05/21/Velouria_post3.png %})
 _"Artista Performática Radiante", por Alessandra Pisano_
 
 ## Inventando um artista fictício
@@ -48,7 +47,7 @@ Uma das coisas mais legais da criação do seu bardo é o elemento de titulaçã
 Com um Bardo criado e suas obras reunidas, o próximo passo é subir no palco. Mas, para o bem ou para o mal, você não vai estar nele sozinho…
 
 {:.full-width}
-![Um maestro negro com poderes mágicos, comandando uma orquestra no meio de uma tempestade]({% link uploads/2021/05/18/Velouria_post2.png %})
+![Um maestro negro com poderes mágicos, comandando uma orquestra no meio de uma tempestade]({% link uploads/2021/05/21/Velouria_post2.png %})
 _"Zaffai, Maestro do Trovão", por Dmitry Burmak_
 
 ## Duelando e aprimorando-se

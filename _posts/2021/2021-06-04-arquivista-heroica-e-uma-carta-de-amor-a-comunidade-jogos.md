@@ -1,8 +1,8 @@
 ---
-date: '2021-05-16 09:00:00 -0300'
+date: '2021-06-04 09:00:00 -0300'
 layout: post
 title: Arquivista Heroica é uma carta de amor à comunidade de jogos independentes
-image: "/uploads/2021/05/18/Arquivista-Heroica_post3.png"
+image: "/uploads/2021/06/04/Arquivista-Heroica_post3.png"
 tags:
   - achados
   - jogos
@@ -30,7 +30,7 @@ Quando faz isso, algumas páginas voam atrás de você. Então, o buraco se fech
 > <cite>— Trecho de Arquivista Heroica</cite>
 
 {:.full-width}
-![Panfleto impresso de Arquivista Heroica sobre um fundo psicodélico]({% link uploads/2021/05/18/Arquivista-Heroica_post2.jpg %})
+![Panfleto impresso de Arquivista Heroica sobre um fundo psicodélico]({% link uploads/2021/06/04/Arquivista-Heroica_post2.jpg %})
 _Representação impressa do panfleto de Arquivista Heroica_
 
 A ideia ficcional do jogo é simples: haviam feiticeiras trabalhando na Grande Biblioteca de Alexandria, pessoas que fugiram com a maior parte do acervo quando Julio César incidentalmente a consumiu em chamas. Essas feiticeiras, arquivistas do conhecimento, construíram uma biblioteca dimensional paralela (a ***Biblioteca Shin-Mecha de Alexandria II***), e seguem trabalhando nela. Atravessando o espaço e o tempo, elas coletam as obras que poderiam ser perdidas, destruídas ou esquecidas, e recolhem para suas estantes. É aí que a sua personagem entra.
@@ -62,7 +62,7 @@ Se os incentivos positivos (uma pizza!) não te convencerem, certamente o incent
 Como a compra de Níveis de arquivista tem custo crescente (5 + [5 x o seu Nível atual]), você precisa se manter ativo ao longo das semanas para que os romanos não estraguem nada! Vale dizer aqui, que a Pizza Média Promocional vem com um vale-conserto que prende os romanos para fora da biblioteca para sempre.
 
 {:.full-width}
-![Uma feiticeira pesquisadora com traços asiáticos, olhando para um pergaminho aberto com pequenos espíritos de guerreiros que caminham sobre ele]({% link uploads/2021/05/18/Arquivista-Heroica_post1.png %})
+![Uma feiticeira pesquisadora com traços asiáticos, olhando para um pergaminho aberto com pequenos espíritos de guerreiros que caminham sobre ele]({% link uploads/2021/06/04/Arquivista-Heroica_post1.png %})
 _"Aprendiz de Sapioforte", por Manuel Castañón_
 
 ---
