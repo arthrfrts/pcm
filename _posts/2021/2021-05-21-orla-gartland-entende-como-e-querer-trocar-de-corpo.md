@@ -85,7 +85,7 @@ Quando retornamos para o refrão, Hannah a segue como uma sombra, e controla os 
 >She told me to eat well and try to love myself
 >(Ela me disse pra comer bem e tentar me amar)
 >Then maybe I won't wish that I was someone else
->>(Talvez assim eu não desejaria que eu fosse outra pessoa)
+>(Talvez assim eu não desejaria que eu fosse outra pessoa)
 >
 >Oh, I know that I've been flirting with the enemy
 >(Oh, eu sei que estou flertando com o inimigo)
