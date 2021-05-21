@@ -57,7 +57,7 @@ Você acumula “Pontos de Arquivista” por essas tarefas, dadas algumas especi
 >
 > <cite>— Trecho de Arquivista Heroica</cite>
 
-Se os incentivos positivos (uma pizza!) não te convencerem, certamente o incentivo negativo pode ajudar! Veja bem: os mesmos romanos que tacaram fogo na biblioteca original ainda não se cansaram de causar confusão, e eles tentam invadir a nova biblioteca todos os sábados, à meia noite, em tempo real. Nesse momento, você precisa rolar dados igual à quantidade de Níveis de Arquivista que você tem, contra um número de dados igual à quantidade de semanas desde que começou a jogar (em tempo real) para os romanos.
+Se os incentivos positivos (uma pizza!) não te convencerem, certamente o incentivo negativo pode ajudar! Veja bem: os mesmos legionários romanos que tacaram fogo na biblioteca original ainda não se cansaram de causar confusão, e eles tentam invadir a nova biblioteca todos os sábados, à meia noite, em tempo real. Nesse momento, você precisa rolar dados igual à quantidade de Níveis de Arquivista que você tem, contra um número de dados igual à quantidade de semanas desde que começou a jogar (em tempo real) para os romanos.
 
 Como a compra de Níveis de arquivista tem custo crescente (5 + [5 x o seu Nível atual]), você precisa se manter ativo ao longo das semanas para que os romanos não estraguem nada! Vale dizer aqui, que a Pizza Média Promocional vem com um vale-conserto que prende os romanos para fora da biblioteca para sempre.
 
@@ -75,6 +75,6 @@ Arquivista Heroica é um jogo incrível porque nos instiga a cuidar das criaçõ
 
 ---
 
-Se quiser adquirir uma cópia de Arquivista Heroica, hoje é o seu dia de sorte, por que ele é gratuito, disponível em Português, Inglês e Espanhol, [e você pode baixá-lo neste link](https://drive.google.com/drive/folders/1oXzpyVy5LWZVL-_MEBUKwTOIqLLZ279A?usp=sharing)! Na verdade, quanto mais gente tiver uma cópia melhor, então espalhe ele por aí se puder!
+Se quiser adquirir uma cópia de Arquivista Heroica, hoje é o seu dia de sorte, por que ele é gratuito, disponível em Português, Inglês e Espanhol, e você pode baixá-lo de graça [na página do autor no itch.io](https://kumada1.itch.io/heroic-archivist), ou [na plataforma nacional dungeonist](https://www.dungeonist.com/marketplace/product/arquivista-heroica/)! Na verdade, quanto mais gente tiver uma cópia melhor, então espalhe ele por aí se puder!
 
-A Biblioteca sempre pode contar com mais duas ou três mãos pra ajudar a manter os malditos romanos pra fora.
+A biblioteca sempre pode contar com mais duas ou três mãos pra ajudar a manter os malditos legionários pra fora.
