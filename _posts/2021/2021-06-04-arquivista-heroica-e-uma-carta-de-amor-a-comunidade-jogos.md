@@ -7,6 +7,7 @@ tags:
   - achados
   - jogos
   - RPG
+  - RPG solo
 author: raulf
 ---
 
