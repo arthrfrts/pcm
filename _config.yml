@@ -15,6 +15,9 @@ collections:
   authors:
     output: true
     permalink: "/arquivo/autor/:title/"
+  links:
+    output: true
+    permalink: "/arquivo/links/:year-:month-:day-:title/"
 
 # Build settings
 markdown: kramdown
