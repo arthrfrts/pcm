@@ -20,7 +20,7 @@
       {% if entry.collection == "posts" %}
         <title>{{ entry.title | strip | xml_escape }}</title>
         <link href="{{ entry.url | absolute_url }}"/>
-        <content type="html" xml:base="{{ entry.url | absolute_url }}">{{ entry.content | markdownify | strip | xml_escape }}</summary>
+        <content type="html" xml:base="{{ entry.url | absolute_url }}">{{ entry.content | markdownify | strip | xml_escape }}</content>
       {% else %}
         {% capture entry_content %}
           <p>Link para a página <a href="{{ entry.source }}">{{ entry.title }}</a>.</p>
