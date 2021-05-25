@@ -1,5 +1,4 @@
 ---
-date: '2021-05-24 13:02 -0300'
 layout: post
 author: arthurf
 published: false
