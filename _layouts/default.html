@@ -14,6 +14,10 @@
           {% unless page.layout == "page" %}
             {% include_cached sidebar.html %}
           {% endunless %}
+
+          {% if page.url == "/" %}
+            {% include latest-links.html %}
+          {% endif %}
         </div>
       </main>
 
