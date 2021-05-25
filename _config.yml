@@ -15,9 +15,12 @@ collections:
   authors:
     output: true
     permalink: "/arquivo/autor/:title/"
+  links:
+    output: false
 
 # Build settings
 markdown: kramdown
+incremental: true
 
 url: "https://paomortadela.com.br" # mudar no merge
 baseurl: ""
