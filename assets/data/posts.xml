@@ -1,0 +1,36 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
+
+  <title>{{ site.title | xml_escape }}</title>
+  <link href="{{ site.url | xml_escape }}"/>
+  <updated>{{ "now" | date_to_xmlschema | xml_escape }}</updated>
+  <author>
+    <name>{{ site.data.authors["arthurf"].name | xml_escape }}</name>
+  </author>
+  <id>{{ "/" | absolute_url | xml_escape }}</id>
+  <link href="{{ '/assets/data/posts.xml' | absolute_path | xml_escape }}" rel="self" type="application/atom+xml" />
+  <link href="{{ '/' | absolute_path | xml_escape }}" rel="alternate" type="text/html" hreflang="{{ site.lang }}" />
+
+  {% assign site_entries = site.posts | concat: site.links | sort: "date" | reverse %}
+
+  {% for entry in site_entries limit: 12 %}
+    <entry>
+      {% if entry.collection == "posts" %}
+        <title>{{ entry.title | strip | xml_escape }}</title>
+        <link href="{{ entry.url | absolute_url }}"/>
+        <content type="html" xml:base="{{ entry.url | absolute_url }}">{{ entry.content | markdownify | strip | xml_escape }}</summary>
+      {% else %}
+        {% capture entry_content %}
+          <p>Link para a página <a href="{{ entry.source }}">{{ entry.title }}</a>.</p>
+        {% endcapture %}
+        <title>{{ entry.content | strip_html | strip | xml_escape }}</title>
+        <link href="{{ entry.source }}"/>
+        <summary type="html">{{ entry_content | strip | xml_escape }}</summary>
+      {% endif %}
+      <id>{{ entry.url | absolute_url | xml_escape }}</id>
+      <updated>{{ entry.date | date_to_xmlschema | xml_escape }}</updated>
+    </entry>
+  {% endfor %}
+</feed>
