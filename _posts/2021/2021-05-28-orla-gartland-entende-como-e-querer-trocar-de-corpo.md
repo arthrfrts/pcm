@@ -20,11 +20,11 @@ Não estou falando necessariamente de uma questão que tem a ver com sorte, priv
 
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/9zjImimUmdA" title="Orla Gartland — Imposter (Clipe)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> I’m an imposter, I know
-> (Eu sou uma impostora, eu sei)
-> And I’m loving the bluffing
-> (E eu estou adorando blefar)
-> But I really know nothing, no!
+> I’m an imposter, I know\
+> (Eu sou uma impostora, eu sei)\
+> And I’m loving the bluffing\
+> (E eu estou adorando blefar)\
+> But I really know nothing, no!\
 > (Mas eu não realmente não sei de nada, não!)
 >
 > <cite>— Imposter, Orla Gartland, tradução livre</cite>
@@ -33,9 +33,9 @@ Apesar de flertar com esses sentimentos, ela também expressa a vontade, em vár
 
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/FfXHfP9d7OA" title="Orla Gartland — Flatline (Clipe)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> And I give my love, but it's not enough
-> (E eu dou meu amor, mas não é suficiente)
-> Now this feels like a waste of time
+> And I give my love, but it's not enough\
+> (E eu dou meu amor, mas não é suficiente)\
+> Now this feels like a waste of time\
 > (Agora isso parece uma perda de tempo)
 >
 > <cite>— Flatline, Orla Gartland, tradução livre</cite>
@@ -44,24 +44,24 @@ Mas eu não estou escrevendo esse artigo (só) para falar da carreira da Orla. E
 
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/rKWJICaKYGY" title="Orla Gartland — More Like You (Clipe)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> I love the way you sing
-> (Eu amo o jeito que você canta)
-> Oh, I’ve been trying to copy every word you say
-> (Oh, eu tenho tentado copiar cada palavra que você diz)
-> I love the you think
-> (Eu amo o jeito que você pensa)
-> You have this way of knowing it’ll be okay
-> (Você tem esse jeito de saber que vai ficar tudo bem)
->
-> Oh where’d you get that confidence from
-> (Oh, de onde você tira essa confiança)
-> ‘Cause you wear it like a coat
-> (Porque você a veste como um casaco)
-> All this feeling second best
-> (Toda essa sensação de segunda melhor)
-> It’s got me by the throat, I know
-> (Me pega pela garganta, eu sei)
-> That I’ve been obsessing in the worst way
+> I love the way you sing\
+> (Eu amo o jeito que você canta)\
+> Oh, I’ve been trying to copy every word you say\
+> (Oh, eu tenho tentado copiar cada palavra que você diz)\
+> I love the you think\
+> (Eu amo o jeito que você pensa)\
+> You have this way of knowing it’ll be okay\
+> (Você tem esse jeito de saber que vai ficar tudo bem)\
+>\
+> Oh where’d you get that confidence from\
+> (Oh, de onde você tira essa confiança)\
+> ‘Cause you wear it like a coat\
+> (Porque você a veste como um casaco)\
+> All this feeling second best\
+> (Toda essa sensação de segunda melhor)\
+> It’s got me by the throat, I know\
+> (Me pega pela garganta, eu sei)\
+> That I’ve been obsessing in the worst way\
 > (Que eu tenho obcecado da pior forma)
 >
 > <cite>— More Like You, Orla Gartland, tradução livre</cite>
@@ -80,23 +80,23 @@ Quando retornamos para o refrão, Hannah a segue como uma sombra, e controla os 
 {:.full-width}
 ![Orla sendo "dirigida" por Hannah, que está atrás dela controlando seus movimentos]({% link uploads/2021/05/28/Orla_post3.png %})
 
-> Oh, I heard it from a woman on the internet
-> (Oh, eu ouvi de uma mulher na internet)
-> She told me to eat well and try to love myself
-> (Ela me disse pra comer bem e tentar me amar)
-> Then maybe I won't wish that I was someone else
-> (Talvez assim eu não desejaria que eu fosse outra pessoa)
->
-> Oh, I know that I've been flirting with the enemy
-> (Oh, eu sei que estou flertando com o inimigo)
-> But please don't be so perfect right in front of me
-> (Mas por favor não seja tão perfeita bem na minha frente)
-> I think of all the things that I will never be
-> (Eu penso sobre todas as coisas que eu nunca vou ser)
->
-> Tell me how, tell me how
-> (Me conte como, me conte como)
-> To be more like you
+> Oh, I heard it from a woman on the internet\
+> (Oh, eu ouvi de uma mulher na internet)\
+> She told me to eat well and try to love myself\
+> (Ela me disse pra comer bem e tentar me amar)\
+> Then maybe I won't wish that I was someone else\
+> (Talvez assim eu não desejaria que eu fosse outra pessoa)\
+>\
+> Oh, I know that I've been flirting with the enemy\
+> (Oh, eu sei que estou flertando com o inimigo)\
+> But please don't be so perfect right in front of me\
+> (Mas por favor não seja tão perfeita bem na minha frente)\
+> I think of all the things that I will never be\
+> (Eu penso sobre todas as coisas que eu nunca vou ser)\
+>\
+> Tell me how, tell me how\
+> (Me conte como, me conte como)\
+> To be more like you\
 > (Eu posso ser mais como você)
 >
 > <cite>— More Like You, Orla Gartland, tradução livre</cite>
