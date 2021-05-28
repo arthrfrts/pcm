@@ -48,7 +48,7 @@ Mas eu não estou escrevendo esse artigo (só) para falar da carreira da Orla. E
 > (Eu amo o jeito que você canta)\
 > Oh, I’ve been trying to copy every word you say\
 > (Oh, eu tenho tentado copiar cada palavra que você diz)\
-> I love the you think\
+> I love the way you think\
 > (Eu amo o jeito que você pensa)\
 > You have this way of knowing it’ll be okay\
 > (Você tem esse jeito de saber que vai ficar tudo bem)\
