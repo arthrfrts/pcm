@@ -6,7 +6,7 @@
       {% assign link_source = link.source | remove: "http://" | remove: "https://" | remove: "www." | split: "/" | first %}
 
       <li>
-        <a href="{{ link.url }}" rel="external">
+        <a href="{{ link.source }}" rel="external">
           <strong>{{ link.title }}</strong> &middot; {{ link.content | remove: "<p>" | remove: "</p>" | normalize_whitespace }}<br />
           <code>({{ link_source }})</code>
         </a>
