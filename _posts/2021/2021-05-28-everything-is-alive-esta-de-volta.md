@@ -7,6 +7,7 @@ title: Everything is Alive está de volta
 tags:
   - links
   - podcasts
+  - Everything is Alive
 ---
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" class="full-width" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/br/podcast/adam-stool/id1388419519?i=1000523361949"></iframe>
 
