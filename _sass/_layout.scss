@@ -386,7 +386,6 @@
   padding: $spacing-unit / 2;
   border-top: 3px dotted rgba($color-text, 0.2);
   padding-top: $spacing-unit * 2;
-  transform: rotateZ(-1.25deg);
 
   h2 {
     font-size: 1.4rem;
@@ -409,6 +408,7 @@
       -webkit-column-break-inside: avoid;
       margin-top: $spacing-unit;
       margin-bottom: $spacing-unit;
+      transform: rotateZ(-1.25deg);
 
       a {
         background: rgba($color-header, 0.4);
