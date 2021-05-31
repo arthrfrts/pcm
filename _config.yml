@@ -9,7 +9,7 @@ description: |+
 
 lang: pt-BR
 logo: "/assets/images/logo.png"
-timezone: America/Sao_Paulo
+timezone: "America/Sao_Paulo"
 
 collections:
   authors:
