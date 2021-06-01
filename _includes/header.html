@@ -2,14 +2,14 @@
   <div class="wrapper">
     {% if page.title %}
       <div class="site_title">
-        <a href="{{ '/' | absolute_url }}" rel="index">
+        <a href="{{ site.url }}" rel="index">
           <img src="{% link assets/images/logo.png %}" alt="" />
           {{ site.title }}
         </a>
       </div>
     {% else %}
       <h1 class="site_title">
-        <a href="{{ '/' | absolute_url }}" rel="index">
+        <a href="{{ site.url }}" rel="index">
           <img src="{% link assets/images/logo.png %}" alt="" />
           {{ site.title }}
         </a>
