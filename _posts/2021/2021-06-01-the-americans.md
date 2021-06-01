@@ -1,23 +1,24 @@
 ---
+date: '2021-06-01 07:48 -0300'
 layout: post
 title: Em defesa da quinta temporada de The Americans
 author: arthurf
-image: "/uploads/2021/06/01/americans.jpg"
+image: /uploads/2021/06/01/americans.jpg
 tags:
-- esquinas
-- séries
-- drama
-- thriller
-- The Americans
-date: 2021-06-01 07:48 -0300
+  - séries
+  - esquinas
+  - drama
+  - The Americans
+  - thriller
+published: true
 ---
 Nos últimos meses eu ando aflito tentando escrever sobre como eu amo *The Americans*, mas sem conseguir. Eu escrevi brevemente sobre a série no [longínquo ano de 2016]({% post_url 2016/2016-08-26-selecao-de-series %}), enquanto eu acompanhava ela semanalmente. Mas aquilo foi só um parágrafo.
 
-A verdade é que muito já foi escrito sobre como *The Americans* é uma das últimas grandes séries da “Época do Ouro da TV”, algo que começou no início dos anos 2000 com a chegada de séries como *Família Soprano* e *A Sete Palmos* e pra mim durou até 2017, com o final de *Twin Peaks* e *The Leftovers*, e que transformaram séries de TV no grande meio narrativo da nossa geração. Querendo ou não, fãs de cinema por aí (eu incluso!), a gente precisa aceitar que são as séries que todo o mundo assiste hoje em dia, e que regem as nossas conversas sobre cultura.
+A verdade é que muito já foi escrito sobre como *The Americans* é uma das últimas grandes séries da “Época do Ouro da TV”, algo que começou no início dos anos 2000 com a chegada de séries como *Família Soprano* e *A Sete Palmos* e pra mim durou até 2017, com o final de *Twin Peaks* e *The Leftovers*, e que transformaram séries de TV no grande meio narrativo da nossa geração[^1].
 
 Ali no finalzinho, em 2012, *The Americans* começou quase que sem muito bafafá, e continuou silenciosamente, como um favorito cult, até dominar as conversas de melhor série no ar em 2015, com sua quarta temporada, e fechar em uma última temporada magnífica em 2017. A série serve bem o seu formato porque é, de um lado, um thriller de espionagem, em que um casal de espiões soviéticos assume identidade como agentes de viagem nos EUA para realizar missões em solo americano; de outro, é um drama familiar, em que um casal precisa lidar com filhos crescendo e se tornando adultos, e descobrindo que seus pais não são aquelas figuras perfeitas que as crianças imaginam que seus pais devem ser.
 
-Depois de quatro temporadas impecáveis, com um *crecendo* de 52 episódios que a crítica de TV [Emily WanDerWerff](https://www.vox.com/2015/4/2/8335137/the-americans-stingers-recap-review) chegou a chamar de “uma das melhores da história da TV”, *The Americans* ganhou uma mancha em sua reputação. Depois de quatro anos em que a família de espiões executa missões e tenta ser feliz, a série tentou algo diferente na quinta temporada e dividiu o público. Alguns acharam um tropeço, em uma série que não conseguia fazer episódios ruins; outros acharam uma temporada “alternativa”, enquanto a última não chegava para desenlaçar os embaraços das temporadas anteriores.
+Depois de quatro temporadas impecáveis, com um *crescendo* de 52 episódios que a crítica de TV [Emily WanDerWerff](https://www.vox.com/2015/4/2/8335137/the-americans-stingers-recap-review) chegou a chamar de “uma das melhores da história da TV”, *The Americans* ganhou uma mancha em sua reputação. Depois de quatro anos em que a família de espiões executa missões e tenta ser feliz, a série tentou algo diferente na quinta temporada e dividiu o público. Alguns acharam um tropeço, em uma série que não conseguia fazer episódios ruins; outros acharam uma temporada “alternativa”, enquanto a última não chegava para desenlaçar os embaraços das temporadas anteriores.
 
 Por muito tempo eu também tendia entre essas duas opiniões, e como eu nunca tinha revisitado *The Americans* desde então eu nunca pensei que ia mudar de ideia. Mas agora *The Americans* está na Amazon Prime, e eu cheguei na quinta temporada há umas semanas (se você assina [*A Baguete* recebe alguns parágrafos sobre ela aos sábados](https://www.getrevue.co/profile/paomortadela)), e estou aqui hoje para defender que a quinta temporada de *The Americans* é igualmente impecável, e o resultado natural das suas quatro temporadas anteriores — e o maior motivo para a última temporada ser tão boa.
 
@@ -30,7 +31,7 @@ Antes de tudo, um pouquinho de contexto: *The Americans* se passa nos EUA no fin
 
 *The Americans* faz isso através de suas temporadas usando basicamente a mesma fórmula: Elizabeth e Phillip recebem uma missão do Centro, o órgão soviético em que eles trabalham. Durante a temporada, eles trabalham nessa investigação pouco a pouco: primeiro desenvolvendo fontes, depois analisando planos, e finalmente, nos três episódios finais, executando o plano. Ao mesmo tempo, essa missão cria fissuras na família: seja a distância com os filhos, o isolamento, etc. *The Americans* tem diálogos muitíssimo bem escritos entre seus personagens que por vezes é difícil de saber se Elizabeth e Phillip estão conversando sobre a missão ou sobre sua família; se eles estão trabalhando nas suas fontes ou realmente desenvolvendo laços emocionais com elas. Em um momento chave na terceira temporada, Phillip e Elizabeth sentam com sua filha, Paige, mas fica difícil de saber se eles fazem isso como pais preocupados ou como espiões. Isso porque *The Americans* é cuidadosa o suficiente em sugerir que não existem duas facetas na vida dupla dessa família. Esses dois lados são conectados de forma tão intrínseca que chega a ser trágico.
 
-As temporadas de *The Americans* possuem uma estrutura narrativa padrão de três atos: o estabelecimento da ação (o início da missão), o clímax (a missão em si), e o desenlace (o resultado da missão, e o estado em que a família Jennings se encontra ao final dela). Mas a série em si usa uma estrutura mais complexa, em cinco atos[^1].
+As temporadas de *The Americans* possuem uma estrutura narrativa padrão de três atos: o estabelecimento da ação (o início da missão), o clímax (a missão em si), e o desenlace (o resultado da missão, e o estado em que a família Jennings se encontra ao final dela). Mas a série em si usa uma estrutura mais complexa, em cinco atos[^2].
 
 {: .full-width }
 ![Phillip, Gabriel e Gladys desfarçados]({% link uploads/2021/06/01/americans3.jpg %})
@@ -46,7 +47,8 @@ Esses dias eu tava pensando como eu gosto de séries em que o episódio final n�
 
 Caramba, essa é uma das minhas séries favoritas.
 
-[^1]: As estruturas em cinco atos são mais ou menos assim:
+[^1]: Querendo ou não, fãs de cinema por aí (eu incluso!), a gente precisa aceitar que são as séries que todo o mundo assiste hoje em dia, e que regem as nossas conversas sobre cultura.
+[^2]: As estruturas em cinco atos são mais ou menos assim:
 
     1. Prólogo — onde a gente conhece os personagens e o mundo em que eles vivem, e eles começam a tomar as escolhas que vão iniciar a história.
     2. Conflito — onde os personagens ainda tem uma chance de escapar das suas escolhas, mas algo dentro deles (as suas próprias escolhas) faz com que eles sigam em frente.
