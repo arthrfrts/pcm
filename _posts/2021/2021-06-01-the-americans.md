@@ -4,13 +4,13 @@ title: Em defesa da quinta temporada de The Americans
 author: arthurf
 image: "/uploads/2021/06/01/americans.jpg"
 tags:
-  - esquinas
-  - séries
-  - drama
-  - thriller
-  - The Americans
+- esquinas
+- séries
+- drama
+- thriller
+- The Americans
+date: 2021-06-01 07:48 -0300
 ---
-
 Nos últimos meses eu ando aflito tentando escrever sobre como eu amo *The Americans*, mas sem conseguir. Eu escrevi brevemente sobre a série no [longínquo ano de 2016]({% post_url 2016/2016-08-26-selecao-de-series %}), enquanto eu acompanhava ela semanalmente. Mas aquilo foi só um parágrafo.
 
 A verdade é que muito já foi escrito sobre como *The Americans* é uma das últimas grandes séries da “Época do Ouro da TV”, algo que começou no início dos anos 2000 com a chegada de séries como *Família Soprano* e *A Sete Palmos* e pra mim durou até 2017, com o final de *Twin Peaks* e *The Leftovers*, e que transformaram séries de TV no grande meio narrativo da nossa geração. Querendo ou não, fãs de cinema por aí (eu incluso!), a gente precisa aceitar que são as séries que todo o mundo assiste hoje em dia, e que regem as nossas conversas sobre cultura.
