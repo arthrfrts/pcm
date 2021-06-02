@@ -2,7 +2,10 @@
   <h2>Misc. &mdash; links atualizados constantemente</h2>
 
   <ul class="links_list">
-    {% for link in site.links reversed limit: 8 %}
+    {% assign sorted_links = site.links | sort: "date" | reverse %}
+
+    {% for link in sorted_links limit: 8 %}
+
       {% assign link_source = link.source | remove: "http://" | remove: "https://" | remove: "www." | split: "/" | first %}
 
       <li>
