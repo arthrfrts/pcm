@@ -60,9 +60,11 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.11.6-arm64-darwin)
+    nokogiri (1.11.7-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.11.6-x64-mingw32)
+    nokogiri (1.11.7-x64-mingw32)
+      racc (~> 1.4)
+    nokogiri (1.11.7-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -91,6 +93,7 @@ GEM
 PLATFORMS
   arm64-darwin-20
   x64-mingw32
+  x86_64-darwin-20
 
 DEPENDENCIES
   jekyll (~> 4.2)
