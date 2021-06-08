@@ -2,7 +2,7 @@
 date: '2021-06-08 08:40 -0300'
 layout: post
 author: arthurf
-published: false
+published: true
 title: 'No Sudden Move, e outros filmes que tem mais elenco do que espaço no cartaz'
 tags:
   - filmes
@@ -19,4 +19,3 @@ A HBO lançou o trailer do novo filme de Steven Soderbergh, *No Sudden Move*:
 Isso acontece direto nos filmes do Wes Anderson também, como em [*O Grande Hotel Budapeste*](https://youtu.be/1Fg5iWmQjwk) e no seu novo filme que estreia em Cannes esse ano, *The French Dispatch* -- o filme que eu mal posso esperar pra assistir na minha primeira ida ao cinema depois da vacina:
 
 <iframe class="full-width" src="https://www.youtube.com/embed/TcPk2p0Zaw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
