@@ -2,7 +2,7 @@
 date: '2021-06-08 08:31 -0300'
 layout: post
 author: arthurf
-published: false
+published: true
 title: O falante mais rápido do mundo canta “Bad” em 20 segundos
 tags:
   - músicas
