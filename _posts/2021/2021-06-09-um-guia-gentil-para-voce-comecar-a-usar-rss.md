@@ -9,13 +9,13 @@ tags:
 - extensões para o Firefox
 date: 2021-06-09 20:25 -0300
 ---
-Eu escrevi aqui (mais de uma vez) sobre como RSS é bom e como ele melhorou meu dia-a-dia na internet depois que eu voltei a usá-lo. Eu tô prestes a terminar um próximo post sobre ele, mas antes disso eu lembrei que alguns amigos meus me pediram ajuda para começar a usar leitores de feeds, e os tutoriais na internet sobre o assunto geralmente são escritos por entusiastas da tecnologia, que têm um tom um pouco presunçoso. Então eu decidi escrever esse guia bem simples de como configurar um leitor e encontrar seus feeds favoritos.
+[Eu escrevi aqui]({% post_url 2021/2021-01-26-lista-de-leitura %}) ([mais de uma vez]({% post_url 2019/2019-09-11-e-hora-de-pegarmos-a-internet-de-volta %})) sobre como RSS é bom e como ele melhorou meu dia-a-dia na internet depois que eu voltei a usá-lo. Eu tô prestes a terminar um próximo post sobre ele, mas antes disso eu lembrei que alguns amigos meus me pediram ajuda para começar a usar leitores de feeds, e os tutoriais na internet sobre o assunto geralmente são escritos por entusiastas da tecnologia, que têm um tom um pouco presunçoso. Então eu decidi escrever esse guia bem simples de como configurar um leitor e encontrar seus feeds favoritos.
 
 ## O que é o RSS
 
 RSS é uma sigla para “distribuição realmente simples” em inglês, e é isso que ele faz: ele distribui o conteúdo de um site para outros lugares através de **feeds**, uma lista desse conteúdo que outros aplicativos podem ler e mostrar para o usuário. Um **leitor** de feeds é esse aplicativo, que consome o feed — o conteúdo dos posts desse site — e o disponibiliza no próprio aplicativo.
 
-Com o RSS, eu posso distribuir o conteúdo do Pão para um leitor RSS, assim você pode lê-lo sem precisar assessar meu site. Conteúdos novos vão estar disponível automaticamente no seu leitor quando você abrir ele.
+Com o RSS, eu posso distribuir o conteúdo do Pão para um leitor RSS. Com um leitor de RSS, você pode receber o conteúdo distribuído por diversos sites em um só lugar. Você decide de quais, você decide quando abrir, e você decide se quer ler ou não.
 
 Digamos que você **assina** uns dez feeds: alguns blogs, algumas newsletters, e o feed de um jornal, como a Folha de São Paulo. Quando você abrir o seu leitor RSS de manhã, você vai ver as notícias, os novos posts e as edições de newsletters desde a última versão que você abriu em um só lugar. É como se fosse um jornal personalizado. Essa é a mesma tecnologia que distribui podcasts, então se você escuta algum podcast, você já está usando RSS!
 
@@ -33,7 +33,9 @@ Você não precisa ter medo de perder algum conteúdo legal. O leitor não vai e
 
 ## Usando um leitor RSS
 
-RSS é uma tecnologia aberta e gratuita, então existem vários leitores bem diferentes para você escolher e que melhor se adaptam à sua experiência!
+RSS é uma tecnologia aberta e gratuita, então existem vários leitores bem diferentes para você escolher e que melhor se adaptam à sua experiência! Alguns oferecem sincronia entre diversos dispositivos, então sua lista de feeds vai estar atualizada entre seu celular e seu computador, por exemplo.
+
+Esses serviços costumam ser pagos, mas você pode optar por ter um leitor RSS só no seu computador ou só no celular, ou receber feeds diferentes em cada dispositivo. E para isso existem várias alternativas gratuitas. Fica ao seu critério como você vai querer usar.
 
 Alguns dos mais populares são:
 
