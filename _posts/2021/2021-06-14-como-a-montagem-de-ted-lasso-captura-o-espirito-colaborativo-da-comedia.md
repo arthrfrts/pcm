@@ -8,7 +8,7 @@ tags:
 - comédia
 - Ted Lasso
 - Apple TV+
-date: 2021-06-14 10:56 +0000
+date: 2021-06-14 07:56 -0300
 ---
 Na TV, comédia pode ser filmada de algumas maneiras. As duas mais comuns são os chamados setup de multiplas câmeras (multi-cam setup) e o setup de câmera única (single cam setup). Você provavelmente já viu séries que usam cada uma dessas abordagens, e provavelmente sabe dizer qual é qual instintivamente: as chamadas "sitcom" são geralmente gravadas com várias câmeras em frente à uma platéia. É o caso de *Friends* e *The Big Bang Theory*, por exemplo. Já comédias como *Fleabag* e *Ted Lasso* são gravadas com uma câmera só, de uma forma mais parecida com um filme.
 
