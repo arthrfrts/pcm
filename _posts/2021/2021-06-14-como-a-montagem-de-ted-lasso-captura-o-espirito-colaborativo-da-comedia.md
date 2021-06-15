@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como a montagem de Ted Lasso captura o espirito colaborativo da comedia
+title: Como a montagem de Ted Lasso captura o espírito colaborativo da comédia
 author: arthurf
 tags:
 - links
