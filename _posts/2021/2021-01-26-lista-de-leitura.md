@@ -3,8 +3,8 @@ layout: post
 title: Você precisa usar a Lista de Leitura do seu navegador favorito
 author: arthurf
 tags:
-- miscelânea
 - web
+- RSS
 date: 2021-01-26 19:36 -0300
 ---
 Ali por 2017 eu voltei a usar um leitor RSS. Desde a morte do Google Reader lá no longínquo ano de 2013 eu não usava um RSS. Como outros milhares de usuários, eu acreditei que o Twitter e o Facebook eram uma boa alternativa: eles também tinham um feed de notícias e eu podia acompanhar meus sites e blogs favoritos por ali. É claro que eu tava enganado, os algoritmos do Facebook e do Twitter manipulavam seus feeds, e eu gradulamente fui parando de acompanhar os sites e os blogs que eu gostava, que ficavam dando espaço para posts de pessoas e de veículos que eu _odiava_, porque raiva cria mais engajamento — você vai comentar, reagir, compartilhar para mostrar para seus amigos como aquele post era péssimo e tudo o mais. Chegou num ponto, ali em 2017, que eu simplesmente odiava estar na internet.

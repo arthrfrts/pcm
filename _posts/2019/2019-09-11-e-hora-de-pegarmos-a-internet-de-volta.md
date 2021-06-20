@@ -8,6 +8,7 @@ tags:
   - links
   - esquinas
   - web
+  - RSS
 ---
 
 Se a internet fosse uma biblioteca ela seria gigante, repleta com todo o tipo de livro, revista, jornal, diários, trabalhos acadêmicos e o que mais fosse possível enfiar dentro dela. Mas ela também não teria nenhum sistema de organização (nada de plaquinhas de “Estudos Sociais” e “Convergências entre Hipertexto e Política”), e você só teria uma lanterna para ajudar a encontrar aquilo que precisa.
@@ -24,7 +25,7 @@ Conforme a gente foi permanecendo nessas redomas da internet, como o Facebook, o
 
 A impressão que esses serviços integrados nos dão é que eles são mais _pessoais_, eles entendem aquilo que a gente quer e preveem uma solução. Não sabe responder aquele email do chefe? Têm essas sugestões aqui pra começar. O que você quer ouvir agora? Baseado no que você ouviu nas últimas semanas tem esse álbum novo que tá todo o mundo ouvindo também.
 
-Nos últimos tempos eu comecei a duvidar muito do quão pessoal a internet realmente ficou. É como conversar com um daqueles bots, como o [Robô Ed](http://www.ed.conpet.gov.br/br/index.php). Quanto mais você passa o tempo conversando, mais e mais você vai percebendo o quão falso ele é. Conversas no Facebook crescem a ponto de virarem notícias falsas, rumores se transformam em verdades e o algoritmo de timelines começam a servir para entregar informação, e não interação. Não interessa se é verdade ou não, se é o que te interessa é o que vai aparecer para você. 
+Nos últimos tempos eu comecei a duvidar muito do quão pessoal a internet realmente ficou. É como conversar com um daqueles bots, como o [Robô Ed](http://www.ed.conpet.gov.br/br/index.php). Quanto mais você passa o tempo conversando, mais e mais você vai percebendo o quão falso ele é. Conversas no Facebook crescem a ponto de virarem notícias falsas, rumores se transformam em verdades e o algoritmo de timelines começam a servir para entregar informação, e não interação. Não interessa se é verdade ou não, se é o que te interessa é o que vai aparecer para você.
 
 ## Uma web realmente pessoal
 

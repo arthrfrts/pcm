@@ -91,8 +91,9 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  universal-darwin-20
+  arm64-darwin-20
   x64-mingw32
+  x86_64-darwin-20
 
 DEPENDENCIES
   jekyll (~> 4.2)
