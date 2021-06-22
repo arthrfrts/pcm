@@ -2,7 +2,7 @@
 date: '2021-06-22 10:06 -0300'
 layout: post
 author: arthurf
-published: false
+published: true
 title: O trailer da segunda temporada de Ted Lasso
 tags:
   - séries
