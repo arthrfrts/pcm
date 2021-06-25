@@ -8,6 +8,7 @@ tags:
   - séries
   - HBO
   - Crystal Moselle
+  - Betty
 ---
 
 <iframe class="full-width" src="https://www.youtube.com/embed/cCP1zqmdGs0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
