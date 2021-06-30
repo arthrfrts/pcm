@@ -1,0 +1,17 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle"
+    },
+    "clean" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nrm -rf .jekyll-cache .jekyll-metadata"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle exec jekyll serve --drafts --livereload"
+    }
+  },
+  "identifier" : "969F9E16-794B-46A5-B0B7-0444FF6D66C6"
+}
