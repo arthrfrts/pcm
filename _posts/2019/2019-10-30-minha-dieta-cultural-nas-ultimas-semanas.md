@@ -11,6 +11,7 @@ tags:
   - links
   - séries
   - filmes
+  - dieta cultural
 ---
 
 Oi pessoal! As últimas semanas têm sido uma loucura, e eu infelizmente tô sem tempo pra terminar os posts que eu tenho planejado pra postar no PCM. Em um mundo perfeito eu teria contribuições bacanas pra postar nas semanas que eu não consigo escrever, mas em um mundo _mais_ perfeito ainda eu teria dinheiro pra pagar meus amigos pra escrever algo legal, então eu não fico chateado com isso (mas esse é um dos meus planos pro PCM em 2020, spoiler!).

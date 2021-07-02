@@ -6,10 +6,6 @@ tags:
 - listas
 - séries
 - dieta cultural
-- Netflix
-- HBO
-- Prime Video
-- Apple TV+
 date: 2021-07-02 10:45 -0300
 ---
 Em janeiro eu fiz uma [lista com as séries]({% post_url 2021/2021-01-04-as-series-que-eu-assisti-durante-a-pandemia %}) que eu assisti em 2020. Eu gostei bastante do formato e acho que vou começar a usar ele semestralmente.
