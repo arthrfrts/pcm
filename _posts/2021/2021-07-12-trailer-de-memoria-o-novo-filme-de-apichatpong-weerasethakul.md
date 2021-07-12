@@ -11,6 +11,6 @@ date: 2021-07-12 13:08 -0300
 
 Esse é o trailer do novo filme do diretor tailandês Apichatpong Weerasethakul, *Memoria*, sobre uma mulher escocesa — a magnífica Tilda Swinton — que começa a ter sensações estranhas depois de ouvir um barulho misterioso.
 
-Se você já viu um dos filmes de Weerasethakul, como *Tio Boonme* ou *Síndrome do Século*, deve ter tido a mesma impressão que eu: esse trailer tá se esforçando muito pra “transformar” o estilo contemplativo de Weeasethakul em algo que parece um filme de suspense. O que me deu dois efeitos: o primeiro, eu quero muito assistir um filme de suspense do diretor; e segundo, mesmo que o trailer se esforce para esconder, a mão inegável de Weerasethakul ainda consegue aparecer.
+Se você já viu um dos filmes de Weerasethakul, como *Tio Boonme* ou *Mal dos Trópicos*, deve ter tido a mesma impressão que eu: esse trailer tá se esforçando muito pra “transformar” o estilo contemplativo de Weeasethakul em algo que parece um filme de suspense. O que me deu dois efeitos: o primeiro, eu quero muito assistir um filme de suspense do diretor; e segundo, mesmo que o trailer se esforce para esconder, a mão inegável de Weerasethakul ainda consegue aparecer.
 
 O design de som desse trailer é incrível. Escute com fones de ouvido.
