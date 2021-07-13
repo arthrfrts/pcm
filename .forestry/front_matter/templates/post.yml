@@ -18,6 +18,7 @@ fields:
   label: Excerpt
   description: A short text shown in search results, social media previews, etc. If
     blank, it will be auto-generated.
+  default: ''
 - type: file
   name: image
   label: Cover image
