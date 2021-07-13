@@ -26,7 +26,7 @@ logo: "/assets/images/logo.png"
 markdown: kramdown
 incremental: true
 url: https://paomortadela.com.br
-baseurl: ''
+baseurl: 
 permalink: "/:year/:month/:title/"
 paginate: 8
 paginate_path: "/arquivo/pagina/:num/"
