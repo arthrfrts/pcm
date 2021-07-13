@@ -1,14 +1,14 @@
 ---
-title: Acordei Vomitado é, antes de qualquer coisa, sincero demais
-date: 2016-07-22 00:00:00 -03:00
-tags:
-- achados
-- links
-- músicas
-- videoclipes
 layout: post
+date: 2016-07-22
+title: "Acordei Vomitado é, antes de qualquer coisa, sincero demais"
+tags:
+  - achados
+  - links
+  - músicas
+  - videoclipes
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/acordei-vomitado.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/acordei-vomitado.jpg"
 ---
 
 Terça-feira tive a oportunidade de encontrar um velho amigo e compartilhar com ele, como fazemos há anos, nossas últimas descobertas culturais. Ele me apresentou o livro que estava lendo, uma série da TV francesa que parece gostar bastante (e que fiquei interessado em conferir); enquanto eu apresentei a ele _Esperando Godot_ (de um jeito melhor do que o jeito que [eu apresentei a vocês]({% post_url 2016/2016-07-19-esperando-godot %})), alguns filmes e uma música nova.

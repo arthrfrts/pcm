@@ -1,13 +1,13 @@
 ---
-title: A mágica do cinema tá todinha em La La Land – Cantando Estações
-date: 2017-01-20 00:00:00 -02:00
-tags:
-- filmes
-- musical
-- romance
 layout: post
+date: 2017-01-20
+title: A mágica do cinema tá todinha em La La Land – Cantando Estações
+tags:
+  - filmes
+  - musical
+  - romance
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/la-la-land-cantando-estacoes.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/la-la-land-cantando-estacoes.jpg"
 ---
 
 _La La Land – Cantando Estações_ começa já dizendo a que veio: em uma primeira, imensa e muitíssima bem coreografada cena, um engarrafamento se torna palco de um número musical. Ele nem esconde, é um musical e os números pipocam. Cada um mais impressionante que o outro. Fazia tempo que eu não via coisa assim no cinema.

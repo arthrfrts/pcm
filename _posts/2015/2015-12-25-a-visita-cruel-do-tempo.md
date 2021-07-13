@@ -1,13 +1,13 @@
 ---
-title: A Visita Cruel do Tempo
-date: 2015-12-25 11:25:00 -02:00
-tags:
-- livros
-- leituras
-- Jennifer Egan
 layout: post
+title: A Visita Cruel do Tempo
+date: "2015-12-25 11:25 AM"
 image: "/uploads/2015/12/25/visita-cruel.jpg"
 author: arthurf
+tags:
+  - livros
+  - leituras
+  - Jennifer Egan
 ---
 
 Você gosta de ler contos? Contos são excelentes formas de narrativa, grandes o suficiente para eu me prender a um personagem, pequenos o suficiente pra nos deixar com água na boca. Então, eu não gostava de ler contos. E eu aprendi a gostar deles com um romance.

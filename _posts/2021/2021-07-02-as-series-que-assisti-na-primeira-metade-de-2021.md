@@ -1,14 +1,13 @@
 ---
+layout: post
 title: As séries que assisti na primeira metade de 2021
-date: 2021-07-02 10:45:00 -03:00
+author: arthurf
 tags:
 - listas
 - séries
 - dieta cultural
-layout: post
-author: arthurf
+date: 2021-07-02 10:45 -0300
 ---
-
 Em janeiro eu fiz uma [lista com as séries]({% post_url 2021/2021-01-04-as-series-que-eu-assisti-durante-a-pandemia %}) que eu assisti em 2020. Eu gostei bastante do formato e acho que vou começar a usar ele semestralmente.
 
 Aproveitando que estamos terminando essa primeira metade do ano, vou pôr em dia as séries que eu mais gostei de acompanhar no início de 2021. Não é uma lista de *todas* as séries que eu assisti porque, pra falar bem a verdade, algumas eu simplesmente esqueço. São as que me marcaram ou que me fizeram uma boa companhia nesses seis últimos meses, mais ou menos na ordem que eu assisti elas.

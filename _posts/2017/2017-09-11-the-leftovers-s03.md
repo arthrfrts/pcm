@@ -1,15 +1,15 @@
 ---
-title: Em sua última temporada, The Leftovers não responde nada.
-date: 2017-09-11 00:00:00 -03:00
-tags:
-- séries
-- drama
-- Damon Lindelof
-- The Leftovers
-- HBO
 layout: post
+date: 2017-09-11
+title: Em sua última temporada, The Leftovers não responde nada.
 excerpt: E responde tudo. E então acaba.
-image: https://i.imgur.com/LCq1cjC.png
+image: "https://i.imgur.com/LCq1cjC.png"
+tags:
+  - séries
+  - drama
+  - Damon Lindelof
+  - The Leftovers
+  - HBO
 author: arthurf
 ---
 

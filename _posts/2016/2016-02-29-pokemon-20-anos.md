@@ -1,15 +1,15 @@
 ---
-title: Uma carta de amor a Pokémon
-date: 2016-02-29 00:00:00 -03:00
-tags:
-- requentando
-- jogos
-- RPG
-- Pokémon
-- Nintendo
 layout: post
+date: 2016-02-29
+title: Uma carta de amor a Pokémon
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/pokemon-20.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/pokemon-20.jpg"
+tags:
+  - requentando
+  - jogos
+  - RPG
+  - Pokémon
+  - Nintendo
 ---
 
 _Pokémon_ fez vinte anos nesse último sábado, dia 27. Fazia anos que eu não enxia meus olhos com tantos dos monstrinhos de bolso que eu sempre amei.

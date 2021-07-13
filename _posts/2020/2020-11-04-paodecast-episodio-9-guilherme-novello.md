@@ -1,12 +1,11 @@
 ---
-title: Episódio 9 – com Guilherme Novello
-date: 2020-11-04 01:00:00 -02:00
-tags:
-- Pãodecast
-- podcasts
-- conversas
 layout: post
+title: Episódio 9 – com Guilherme Novello
 author: arthurf
+tags:
+  - Pãodecast
+  - podcasts
+  - conversas
 ---
 
 <iframe src="https://anchor.fm/paomortadela/embed/episodes/Guilherme-Novello-em015m" height="102px" class="full-width" frameborder="0" scrolling="no"></iframe>

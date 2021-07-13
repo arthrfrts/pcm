@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Eu tô amando The Last Campfire
-date: 2020-08-31 08:58:00 -03:00
+author: arthurf
 tags:
 - jogos
 - aventura
@@ -8,10 +9,8 @@ tags:
 - Hello Games
 - Apple Arcade
 - Nintendo Switch
-layout: post
-author: arthurf
+date: 2020-08-31 08:58 -0300
 ---
-
 Eu passei esse fim de semana jogando *The Last Campfire*, que foi lançado no último dia 27 no Apple Arcade (e no PC, no Switch, no Xbox e no PS4). É o meu novo jogo favorito do serviço de assinatura de jogos da Apple, e eu tô considerando comprar ele no Switch pra poder jogar na TV.
 
 *The Last Campfire* é o novo jogo da Hello Games, o pequeno estúdio que fez *[No Man’s Sky](https://www.nomanssky.com)*, um dos jogos mais ousados e fascinantes da última década. O lançamento de *No Man’s Sky* foi meio complicado — as pessoas descobriram que explorar o espaço levava muito tempo e era raro encontrar planetas com vida orgânica (surpresa!?) —, e a Hello Games passou os últimos quatro anos fazendo grandes pacotes de atualização pro jogo, adicionando multiplayer, estações espaciais, e aliens.

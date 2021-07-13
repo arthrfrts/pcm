@@ -1,14 +1,13 @@
 ---
+layout: post
 title: videogamedunkey faz uma resenha surpreendente de Playtime
-date: 2021-06-17 13:00:00 -03:00
+author: arthurf
 tags:
 - filmes
 - vídeos
 - canais do YouTube
-layout: post
-author: arthurf
+date: 2021-06-17 13:00 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/iTBW6jbHgX0" title="Reprodutor de vídeos do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [videogamedunkey](https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg) é um dos meus canais favoritos no YouTube. Ele faz ótimas reviews de jogos que são ao mesmo tempo engraçadas e esmiuçam muito bem como o jogo funciona ou não. Ele também faz vídeos engraçados de vez em quando.

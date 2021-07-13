@@ -1,18 +1,18 @@
 ---
-title: As cinco melhores coisas de 2019
-date: 2019-12-11 11:30:00 -02:00
-tags:
-- listas
-- melhores do ano
-- filmes
-- séries
-- jogos
-- links
-- leituras
-- músicas
 layout: post
-image: "/uploads/2019/12/top-5-2019.jpg"
+date: "2019-12-11 10:30:00 -0300"
+title: As cinco melhores coisas de 2019
+image: /uploads/2019/12/top-5-2019.jpg
 author: arthurf
+tags:
+  - listas
+  - melhores do ano
+  - filmes
+  - séries
+  - jogos
+  - links
+  - leituras
+  - músicas
 ---
 
 Eu escrevo essas listas de “melhores do ano” desde 2015 para o PCM, e muita coisa mudou nesses quatro anos por aqui. Minhas ideias sobre o que o site é e a finalidade daquilo que eu escrevo por aqui foram algumas dessas coisas. Quando a gente criou o blog, lá em 2014, ele servia como um espaço para fazermos resenhas daquilo que a gente gosta para recomendarmos uns para os outros.

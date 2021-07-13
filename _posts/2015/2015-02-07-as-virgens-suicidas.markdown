@@ -1,17 +1,16 @@
 ---
-title: As Virgens Suicidas
-date: 2015-02-07 21:29:01 -02:00
-tags:
-- leituras
-- livros
-- drama
-- mistério
-- Jeffrey Eugenides
 layout: post
+title: "As Virgens Suicidas"
+date: "2015-02-07 20:29:01 -0300"
 author: filliped
-image: https://arthrfrts.files.wordpress.com/2018/03/virgenssuicidas.jpg
+tags:
+  - leituras
+  - livros
+  - drama
+  - mistério
+  - Jeffrey Eugenides
+image: "https://arthrfrts.files.wordpress.com/2018/03/virgenssuicidas.jpg"
 ---
-
 Cecilia, Mary, Lux, Therese e Bonnie estão mortas e não há nada que possa ser feito. As cinco filhas do sr. e da sra. Lisbon suicidaram-se, uma após a outra, e só nos resta ouvir o relato obcecado de um grupo de garotos apaixonados pelo enigma de suas breves vidas.
 
 _As Virgens Suicidas_ conta a trágica história da família Lisbon, narrada por um grupo de garotos do subúrbio que conviveu com as meninas durante alguma época de suas vidas. A tragédia – anunciada no título e no primeiro parágrafo do livro – é inevitável e é inútil cultivar qualquer tipo de afeto, torcer pelo bem, pela razão ou esperar entender a confusão de pensamentos e emoções que angustiavam as meninas Lisbon naquela vizinhança dolorosamente comum.

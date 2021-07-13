@@ -1,14 +1,14 @@
 ---
-title: Orgulho e Preconceito ainda surpreende
-date: 2017-01-27 00:00:00 -02:00
-tags:
-- leituras
-- romance
-- Jane Austen
-- clássicos
 layout: post
+date: 2017-01-27
+title: "Orgulho e Preconceito ainda surpreende"
+tags:
+  - leituras
+  - romance
+  - Jane Austen
+  - clássicos
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/orgulho-e-preconceito.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/orgulho-e-preconceito.jpg"
 ---
 
 O livro foi publicado pela primeira vez no início em 1813, mas continua sendo inusitado, divertido e moderno até hoje. _Orgulho e Preconceito_ não precisa de defensores e sim de leitores.

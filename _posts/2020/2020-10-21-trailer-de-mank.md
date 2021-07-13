@@ -1,14 +1,13 @@
 ---
+layout: post
 title: O trailer de MANK, o novo filme de David Fincher
-date: 2020-10-21 12:22:00 -02:00
+author: arthurf
 tags:
 - filmes
 - trailers
 - David Fincher
-layout: post
-author: arthurf
+date: 2020-10-21 11:22 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube.com/embed/vuKEg9qgDOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *MANK*, o novo filme de David Fincher depois de um hiato de seis anos desde *Garota Exemplar*, finalmente recebeu um novo trailer. E se eu já tava com saudade de ir no cinema ver um filminho nesse isolamento social, esse trailer simplesmente me matou.

@@ -1,14 +1,13 @@
 ---
-title: A melancolia anunciada de Cicero
-date: 2014-08-19 20:10:55 -03:00
-tags:
-- achados
-- músicas
 layout: post
+title: "A melancolia anunciada de Cicero"
+date: "2014-08-19 20:10:55 -0300"
 author: vanessao
-image: https://arthrfrts.files.wordpress.com/2018/03/cicero.jpg
+tags:
+  - achados
+  - músicas
+image: "https://arthrfrts.files.wordpress.com/2018/03/cicero.jpg"
 ---
-
 Uma gaveta esquecida dentro do armário, uma prateleira de bagunças qualquer ou uma caixa velha de sentimentos esquecidos. Um álbum de recordações amargas, uma coleção de saudade. É assim que eu descrevo a música do carioca Cícero. Uma melancolia organizada em versos. E como são lindas essas poesias cheias de vazio alheio.
 
 Cícero lançou o seu primeiro álbum, _Canções de apartamento_, em 2011, as canções, como sugere o título do trabalho, foram todas gravadas no apartamento do cantor. O disco que foi posto pelo cantor para download gratuito na sua página no Facebook teve uma repercussão imensa.

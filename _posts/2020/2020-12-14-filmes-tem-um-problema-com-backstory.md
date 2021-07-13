@@ -1,14 +1,14 @@
 ---
-title: Filmes estão com um problema de backstory
-date: 2020-12-14 10:33:00 -02:00
-tags:
-- esquinas
-- filmes
-- O Senhor dos Anéis
-- Netflix
 layout: post
+title: Filmes estão com um problema de backstory
 author: arthurf
 image: "/uploads/2020/12/14/gendalf.jpg"
+tags:
+  - esquinas
+  - filmes
+  - O Senhor dos Anéis
+  - Netflix
+date: 2020-12-14 09:33 -0300
 ---
 
 Os filmes estão longos demais. Eu não tenho problema nenhum em ficar cinco horas sentado na frente da TV assistindo a vários episódios de [*Gilmore Girls*]({% post_url 2020/2020-08-13-ainda-bem-que-gilmore-girls-existe %}), mas toda a vez que eu penso em rever [*Blade Runner 2049*]({% post_url 2019/2019-11-06-fracassos-de-bilheteria %}#blade-runner-2049-2017) (um filme que eu amo), eu lembro que ele tem duas horas e quarenta e três minutos de duração. Tudo bem que os filmes de Denis Villeneuve têm um ritmo um pouco mais lento do que outros *blockbusters*, e por mim tudo bem. Mas eu sei muito bem qual o principal culpado dessa duração gigantesca: *backstory*.

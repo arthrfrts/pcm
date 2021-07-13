@@ -1,16 +1,16 @@
 ---
-title: Os breves momentos de beleza nos filmes de Pete Docter
-date: 2021-01-18 01:00:00 -02:00
-tags:
-- esquinas
-- filmes
-- carreiras em perspectiva
-- Pete Docter
-- Pixar
 layout: post
-excerpt: Esse post revela momentos da trama de Soul.
+title: Os breves momentos de beleza nos filmes de Pete Docter
+excerpt: >-
+  Esse post revela momentos da trama de Soul.
 author: arthurf
 image: "/uploads/2021/01/18/soul.jpg"
+tags:
+  - esquinas
+  - filmes
+  - carreiras em perspectiva
+  - Pete Docter
+  - Pixar
 ---
 
 _Esse post revela momentos da trama de Soul._

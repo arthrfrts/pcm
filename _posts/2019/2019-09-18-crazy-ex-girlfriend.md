@@ -1,15 +1,16 @@
 ---
-title: Crazy Ex-Girlfriend terminou na sua melhor forma
-date: 2019-09-18 09:00:00 -03:00
-tags:
-- resenhas
-- séries
-- comédia
-- musical
-- Netflix
+date: '2019-09-18 09:00:00'
 layout: post
-image: "/uploads/2019/09/cxgf.jpg"
+title: Crazy Ex-Girlfriend terminou na sua melhor forma
+image: /uploads/2019/09/cxgf.jpg
 author: arthurf
+tags:
+  - resenhas
+  - séries
+  - comédia
+  - musical
+  - Netflix
+published: true
 ---
 
 Uma das forças fundamentais da “[nova era do ouro da TV](https://en.wikipedia.org/wiki/Golden_Age_of_Television_(2000s–present))” é a ideia do anti-herói, como o Tony Soprano (_Família Soprano_), Don Draper (_Mad Men_) ou o Walter White (_Breaking Bad_): homens que têm o mundo nas mãos (ou, no caso do Walter, conquistam ele) mas que se deparam que o temo faz o mundo mudar, e o tempo é indiferente à eles. A jornada desses personagens geralmente é trágica: diferente dos heróis televisivos, que aprendem, mudam ou crescem, os anti-heróis preferem fazer o mundo ao redor deles mudar a serviço deles, e a indiferença do mundo quanto ao que eles querem (ou o poder deles de fazer o mundo deixar de ser indiferente) causa destruição — seja da alma do personagem ou daqueles ao redor dele.

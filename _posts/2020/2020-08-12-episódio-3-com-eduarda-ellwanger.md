@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Episódio 3 — com Eduarda Ellwanger
-date: 2020-08-12 09:38:00 -03:00
+author: arthurf
 tags:
 - Pãodecast
 - podcasts
-layout: post
-author: arthurf
+date: 2020-08-12 09:38 -0300
 ---
-
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Eduarda-Ellwanger-ehve7p" frameborder="0" scrolling="no"></iframe>
 
 Eu e a Eduarda falamos de família e o que é se sentir em família.

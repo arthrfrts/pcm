@@ -1,15 +1,14 @@
 ---
+layout: post
 title: Onde Fica a Casa do Meu Amigo? na MUBI
-date: 2021-06-04 10:50:00 -03:00
+author: arthurf
 tags:
 - filmes
 - cinema iraniano
 - Abbas Kiarostami
 - MUBI
-layout: post
-author: arthurf
+date: "2021-06-04 10:50 -0300"
 ---
-
 <video class="full-width" src="//trailers.mubicdn.net/3062/t-where-is-the-friends-home_en_us_2147.191_1214_720_1620954823.mp4" controls poster="//assets.mubicdn.net/images/film/3062/image-w1280.jpg"></video>
 
 O filme do dia na MUBI é [*Onde Fica a Casa do Meu Amigo?*](https://mubi.com/pt/films/where-is-the-friends-home), o filme que colocou o diretor iraniano Abbas Kiarostami na mira do público internacional. Se você nunca viu um filme do [meu diretor favorito]({% post_url 2016/2016-07-05-copia-fiel-abbas-kiarostami %}), eu recomendo muito começar por ele. É curtinho, e tudo o que eu aprendi a amar no cinema de Kiarostami começa aqui.

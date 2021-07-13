@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Será que eu quero assistir o Oscar esse ano?
-date: 2021-03-04 08:02:00 -03:00
+author: arthurf
 tags:
 - filmes
 - Oscar
-layout: post
-author: arthurf
+date: 2021-03-04 08:02 -0300
 ---
-
 O início do ano sempre foi uma época muito divertida pra mim. O Oscar divulga seus indicados (e começa todo aquele burburinho de quem não foi indicado) e os distribuidores brasileiros começam a lançar os filmes nos cinemas. Todo fim de semana era um agendamento de quantos filmes eu consigo assistir de uma vez, eu começo a acompanhar os prêmios dos sindicatos para poder prever quem ganharia o Oscar (macete total, é muito fácil de acertar acompanhando os sindicatos).
 
 Mas esse ano… eu posso contar nos dedos quantos filmes eu já assisti em 2021, e eu não encontro mais aquele ânimo para assistir filmes durante a semana (e, em alguns casos, nem em fins de semana). Eu me sinto tão por fora da conversa que [meus filmes favoritos do ano passado](2020-12-26-meus-filmes-favoritos-de-2020) sequer aparecem entre os filmes favoritos na [retrospectiva do Letterboxd](https://letterboxd.com/2020/#highest-rated-films). Será que eu perdi o jeito de ver filmes?

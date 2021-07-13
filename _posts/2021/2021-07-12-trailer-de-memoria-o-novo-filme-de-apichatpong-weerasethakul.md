@@ -1,13 +1,12 @@
 ---
+layout: post
 title: "“Memoria”, o novo filme de Apichatpong Weerasethakul"
-date: 2021-07-12 13:08:00 -03:00
+author: arthurf
 tags:
 - filmes
 - trailers
-layout: post
-author: arthurf
+date: 2021-07-12 13:08 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube.com/embed/PDU6B93ltds" title="Reprodutor de vídeos do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Esse é o trailer do novo filme do diretor tailandês Apichatpong Weerasethakul, *Memoria*, sobre uma mulher escocesa — a magnífica Tilda Swinton — que começa a ter sensações estranhas depois de ouvir um barulho misterioso.

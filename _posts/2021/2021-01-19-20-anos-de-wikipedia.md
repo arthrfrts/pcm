@@ -1,15 +1,14 @@
 ---
+layout: post
 title: A história da Wikipédia através dos relatos de seus fundadores
-date: 2021-01-19 21:19:00 -02:00
+author: arthurf
 tags:
 - links
 - entrevistas
 - relatos
 - Wikipédia
-layout: post
-author: arthurf
+date: 2021-01-19 20:19 -0300
 ---
-
 A Wikipédia fez vinte anos na última sexta-feira, dia 15. Eu considero ela o site mais importante da internet. É o site que melhor define a promessa do que a internet pode ser — um espaço de informação livre e colaborativa, onde pontos de vista se somam ao invés de se isolar. É gratuita, é distribuída, e se um dia sair do ar, o buraco que ele vai deixar na sociedade é gigante demais. A Wikipédia conseguiu ser inestimável para nós em tão pouco tempo que é difícil de pensar numa internet em que ela geralmente não é o segundo resultado em qualquer pesquisa no Google.
 
 Para celebrar esse aniversário, o [OneZero publicou uma história oral da Wikipédia](https://onezero.medium.com/an-oral-history-of-wikipedia-the-webs-encyclopedia-1672eea57d2) com seus fundadores e contribuidores mais relevantes. É uma leitura fascinante:

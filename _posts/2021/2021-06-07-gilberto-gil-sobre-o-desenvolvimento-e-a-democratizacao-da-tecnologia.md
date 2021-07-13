@@ -1,15 +1,15 @@
 ---
-title: Gilberto Gil sobre o desenvolvimento e a democratização da tecnologia
-date: 2021-06-07 11:17:00 -03:00
-tags:
-- entrevistas
-- tecnologia
-- Gilberto Gil
-- democracia
+date: '2021-06-07 11:17 -0300'
 layout: post
 author: arthurf
+published: true
+title: Gilberto Gil sobre o desenvolvimento e a democratização da tecnologia
+tags:
+  - entrevistas
+  - tecnologia
+  - Gilberto Gil
+  - democracia
 ---
-
 Gil, sempre o mestre, em entrevista à [Folha](https://www1.folha.uol.com.br/mercado/2021/06/desenvolvimento-da-tecnologia-precisa-vir-com-distribuicao-de-riqueza-diz-gilberto-gil.shtml?origin=folha):
 
 > Desde os grandes produtores de tecnologia de internet, passando pelos consumidores e indo até os órgãos reguladores, todos estão de uma certa forma preocupados.

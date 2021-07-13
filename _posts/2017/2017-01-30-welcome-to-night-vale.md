@@ -1,14 +1,14 @@
 ---
-title: Cuidado ao entrar em Welcome to Night Vale…
-date: 2017-01-30 00:00:00 -02:00
-tags:
-- links
-- podcasts
-- mistério
 layout: post
+date: 2017-01-30
+title: Cuidado ao entrar em Welcome to Night Vale…
 excerpt: Existem sérias chances de você não querer sair de lá.
+tags:
+  - links
+  - podcasts
+  - mistério
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/welcome-to-night-vale.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/welcome-to-night-vale.jpg"
 ---
 
 Você gosta de podcasts, né? Meus dois favoritos eu já escrevi aqui: [_Serial_]({% post_url 2016/2016-02-02-serial-faz-historia-a-cada-episodio %}) e [_Next Picture Show_]({% link 404.html %}) são minhas melhores companhias no trabalho. Mas a sugestão de hoje não é de se ouvir no trabalho. É pra sentar no meio da madrugada e escutar com cuidado.

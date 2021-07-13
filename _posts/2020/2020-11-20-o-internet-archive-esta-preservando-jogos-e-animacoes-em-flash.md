@@ -1,15 +1,14 @@
 ---
+layout: post
 title: O Internet Archive está preservando jogos e animações em Flash
-date: 2020-11-20 11:59:09 -02:00
+author: arthurf
 tags:
 - jogos
 - links
 - Internet Archive
 - Flash
-layout: post
-author: arthurf
+date: '2020-11-20 10:59:09 -0300'
 ---
-
 O Flash foi uma daquelas tecnologias tão fundamentais quanto odiadas da juventude da internet: era um jeito fácil e simples de criar animações e jogos complexos que podiam ser jogados num navegador, na época em que a tecnologia básica da internet — o HTML, o CSS e o JavaScript — estavam começando a amadurecer. Sites usavam Flash para criar efeitos e animações complexos, e portais como o [Kongregate](https://www.kongregate.com), o [Miniclip](https://www.miniclip.com) e [Newgrounds](https://www.newgrounds.com) hospedaram centenas de jogos feitos com essa tecnologia com o passar dos anos.
 
 Entre 2007 e 2010, quando o iPhone se firmou como uma plataforma na qual os desenvolvedores precisavam prestar atenção (e, eventualmente, seria o centro da atenção), o Flash encontrou seu pior inimigo: Steve Jobs, que anunciou que o iOS não ofereceria suporte à tecnologia. Gradualmente, a Adobe encerrou o suporte da tecnologia, primeiro nos celulares — no início dos anos 2010, o Android usava o suporte ao Flash como um de seus recursos notáveis contra a concorrência — e, no fim desse ano, em todos os outros dispositivos.

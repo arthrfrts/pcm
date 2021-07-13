@@ -1,13 +1,13 @@
 ---
-title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
-date: 2015-01-02 00:00:00 -02:00
-tags:
-- jogos
-- aventura
-- Kentucky Route Zero
 layout: post
+date: 2015-01-02
+title: "Kentucky Route Zero: Act III destrói sua alma com dívidas do passado"
 author: arthurf
-image: https://i.imgur.com/t2P3RIO.jpg
+tags:
+  - jogos
+  - aventura
+  - Kentucky Route Zero
+image: "https://i.imgur.com/t2P3RIO.jpg"
 ---
 
 O ano não foi muito bom para os grandes jogos. Depois de 2013, formidável com no mínimo três jogos para entrar para a história, 2014 foi um balde de água fria com títulos em lançamentos desastrosos (sim, *Assassin's Creed*, estamos falando de você), com o grande destaque do ano indo para os *remakes* de *The Last Of Us*, *Grand Theft Auto V* e o *The Master Chief Collection*. Não é por nada que os títulos de melhores do ano estão indo para todos os lados. Enquanto alguns celebram *Dragon Age: Inquisition* como o melhor jogo do ano (um título merecido), outros apostam em _Middle-Earth: Shadow of Mordor_, a grande surpresa que 2014 trouxe. Embora excelentes, porém, nenhum dos dois superou o pequeno capítulo do *point-and-click adventure* que é o terceiro ato de *Kentucky Route Zero*.

@@ -1,14 +1,13 @@
 ---
+layout: post
 title: As séries que me fizeram companhia em 2020
-date: 2021-01-04 09:38:00 -02:00
+author: arthurf
 tags:
 - listas
 - séries
 - dieta cultural
-layout: post
-author: arthurf
+date: 2021-01-04 08:38 -0300
 ---
-
 Mesmo com mais tempo ~~livre~~ para ficar assistindo TV durante os últimos dez meses, eu não assisti muito mais séries do que em 2019. Minha grande suspeita, como eu já expliquei [em agosto]({% post_url 2020/2020-09-21-eu-voltei-a-assistir-series-semanalmente %}), é que eu não ando mais maratonando séries. Eu prefiro ver elas por semana, ou no mínimo dia sim, dia não. Mesmo assim, algumas séries realmente me ajudaram a manter um senso de continuidade em um ano onde tudo pareceu parado.
 
 Eu não vou listar todas as séries que eu vi ou que eu comecei a ver esse ano, mas sim aquelas que eu acho que me estimularam e que eu gostei de ter feito companhia nos meus finais de tarde aqui em casa, mais ou menos na ordem que eu assisti elas.

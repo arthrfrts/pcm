@@ -1,14 +1,15 @@
 ---
-title: Socorro, eu não consigo sair de Pocket City
-date: 2019-10-23 11:30:00 -02:00
-tags:
-- resenhas
-- jogos
-- simulação
-- iOS
+date: '2019-10-23 10:30 -0300'
 layout: post
-image: "/uploads/2019/10/pocket-city.jpg"
+title: 'Socorro, eu não consigo sair de Pocket City'
+image: /uploads/2019/10/pocket-city.jpg
 author: arthurf
+tags:
+  - resenhas
+  - jogos
+  - simulação
+  - iOS
+published: true
 ---
 
 Eu acho que simulação é o meu gênero favorito de jogo. Eu já escrevi várias vezes aqui sobre [The Sims]({% post_url 2014/2014-08-11-the-sims-4-parece-ser-de-uma-nova-maxis %}) e [Spore]({% post_url 2019/2019-05-31-spore %}) e [The Sims]({% post_url 2019/2019-02-15-vivendo-e-crescendo-com-the-sims %}) de novo. É um gênero que retribui o nível de atenção que eu estou disposto a dar. Se eu me sinto inspirado e me dedico, eu posso passar gerações inteiras com meus Sims no _The Sims_. Se eu quero só relaxar um pouco, basta colocar umas zonas residenciais e comerciais no meio de um terreno pra ver uma cidade tomar forma e se ajeitar no _SimCity 4_.

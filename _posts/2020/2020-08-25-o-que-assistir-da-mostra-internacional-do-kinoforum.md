@@ -1,17 +1,16 @@
 ---
+layout: post
 title: O que assistir da mostra internacional do Kinoforum
-date: 2020-08-25 20:55:00 -03:00
+author: arthurf
+image: "/uploads/2020/08/25/invisiveis.jpg"
 tags:
 - achados
 - filmes
 - curtas
 - festivais
 - Kinoforum
-layout: post
-author: arthurf
-image: "/uploads/2020/08/25/invisiveis.jpg"
+date: 2020-08-25 20:55 -0300
 ---
-
 Uma das coisas mais bacanas nos festivais de cinema é aquela sensação única de que você tem filme demais pra assistir em pouco tempo. Um festival de cinema é um espaço que celebra esse tipo de exaustão: é um pouco do cinema de várias partes do mundo, e você precisa decidir o que assistir. Você quer descobrir algo novo, quer assistir o filme mais novo de um diretor que você gosta?
 
 Eu fiquei feliz de perceber que, de certa forma, o festival de curta-metragens do Kinoforum conseguiu trazer esse sentimento pra sua versão online. Não é a experiência completa, claro. Parte desse mar de possibilidades e experiências de um festival de cinema é descobrir pessoas que veem os mesmos filmes de formas distintas, ouvir os comentários dos colegas de sala na saída da sessão. Mas o Kinoforum trouxe uma quantidade gigante de curtas-metragens pras suas várias mostras espalhadas pela última semana, e eu me pegava explorando a programação todos os dias pra encontrar um filme pra assistir a seguir.

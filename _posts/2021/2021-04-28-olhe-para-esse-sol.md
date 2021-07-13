@@ -1,12 +1,11 @@
 ---
-title: Olhe para esse sol
-date: 2021-04-28 00:00:00 -03:00
-tags:
-- links
-- fotos
-- espaço
 layout: post
+title: Olhe para esse sol
 author: arthurf
+tags:
+  - links
+  - fotos
+  - espaço
 ---
 
 {: .full-width }

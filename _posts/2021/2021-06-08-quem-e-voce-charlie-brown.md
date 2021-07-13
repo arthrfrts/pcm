@@ -1,15 +1,14 @@
 ---
+layout: post
 title: Quem é você, Charlie Brown?
-date: 2021-06-08 12:52:00 -03:00
+author: arthurf
 tags:
 - filmes
 - documentários
 - Peanuts
 - Apple TV+
-layout: post
-author: arthurf
+date: 2021-06-08 12:52 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube.com/embed/zIAz8EAIDfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Esse é o trailer de *Quem é você, Charlie Brown?*, um documentário sobre o criador de *Peanuts*, Charles M. Schulz que vai estrear na Apple TV+ no próximo dia 25.

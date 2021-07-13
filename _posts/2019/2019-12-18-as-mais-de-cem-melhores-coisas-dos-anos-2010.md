@@ -1,21 +1,21 @@
 ---
-title: As (mais de) cem melhores coisas dos anos 2010
-date: 2019-12-18 11:30:00 -02:00
-tags:
-- listas
-- essenciais
-- filmes
-- séries
-- músicas
-- links
-- leituras
-- livros
-- jogos
-- canais
-- clipes
 layout: post
 author: arthurf
-image: "/uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/capa.jpg"
+date: "2019-12-18 10:30:00 -0300"
+title: As (mais de) cem melhores coisas dos anos 2010
+tags:
+  - listas
+  - essenciais
+  - filmes
+  - séries
+  - músicas
+  - links
+  - leituras
+  - livros
+  - jogos
+  - canais
+  - clipes
+image: '/uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/capa.jpg'
 ---
 
 Quando eu e o Fillipe começamos com a ideia que resultaria no PCM, em 2012, nosso objetivo era criar um espaço onde nosso grupo de amigos podiam recomendar, uns para os outros, aquilo que gostávamos naquele momento. Das músicas que ouvíamos nas nossas reuniões na garagem da casa dos meus pais aos filmes que estávamos empolgados para assistir (teve um momento que esse filme era o _Alice no País das Maravilhas_ do Tim Burton, essa década foi uma bagunça).

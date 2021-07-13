@@ -1,13 +1,13 @@
 ---
-title: Sexta-feira é dia de ouvir Cloud Control
-date: 2014-09-05 00:43:08 -03:00
-tags:
-- achados
-- músicas
-- Cloud Control
 layout: post
+title: "Sexta-feira é dia de ouvir Cloud Control"
+date: "2014-09-05 00:43:08 -0300"
 author: vanessao
-image: https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg
+tags:
+  - achados
+  - músicas
+  - Cloud Control
+image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
 ---
 
 Sexta-feira boa é sexta-feira acompanhada de uma boa música, certo? Pois bem, pra encerrar essa semana muito bem resolvi compartilhar com vocês outra banda que tem um espaço muito especial no meu coração. Hoje é a vez do Indie rock do Cloud Control.

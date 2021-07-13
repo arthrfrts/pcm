@@ -1,17 +1,16 @@
 ---
-title: 'Ser parte do nosso próprio tempo: Mulheres do Século 20'
-date: 2019-03-22 09:00:00 -03:00
-tags:
-- achados
-- filmes
-- drama
-- Mike Mills
-- caixinha de lembranças
+date: '2019-03-22 09:00 -0300'
 layout: post
+title: 'Ser parte do nosso próprio tempo: Mulheres do Século 20'
+tags:
+  - achados
+  - filmes
+  - drama
+  - Mike Mills
+  - caixinha de lembranças
 author: arthurf
-image: https://i.imgur.com/UcrQPBT.jpg
+image: 'https://i.imgur.com/UcrQPBT.jpg'
 ---
-
 _Mulheres do Século 20_ é um filme feito de memória. Uma carta de um filho para a sua mãe que, ao mesmo tempo que quer parecer que ele entende o que ela tentou fazer para criar ele, é incapaz de entender a mulher que o criou. _Mulheres do Século 20_ folheia livros, escuta músicas e vê fotos. É uma busca frenética para entender quem foi Dorothea Fields, a mãe do narrador, Jamie. Dorothea nasceu nos anos 1920 (Jamie diz que ela nasceu “na Depressão”, como se “A Depressão” fosse um outro planeta), em meio a casas e carros tristes, em um tempo onde as pessoas não aceitavam que as coisas davam errado.
 
 Mas a história que _Mulheres do Século 20_ conta é outra: a de uma mãe que tenta entender o mundo em que o filho vai crescer, para ajudá-lo a se tornar em um homem melhor. Dorothea, uma mãe solteira que é aberta o suficiente para convidar para a janta o bombeiro que apagou o incêndio de seu carro, e fechada o suficiente para seu filho procurar entender ela através dos livros, decide pedir ajuda às outras mulheres da vida do rapaz para ajudar Jamie a se tornar esse bom homem. Uma delas é Abbie, uma artista empolgada com o punk e a segunda onda feminista que se recupera de um câncer cervical; e a outra é Julie, a amiga de infância e paixão platônica de Jamie, que beira à depressão e à “auto-destruição”, como ele comenta.

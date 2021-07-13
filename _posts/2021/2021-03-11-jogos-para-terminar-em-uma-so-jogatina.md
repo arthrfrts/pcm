@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Jogos para terminar em uma jogatina
-date: 2021-03-11 08:10:00 -03:00
+author: arthurf
 tags:
 - jogos
 - links
 - listas
-layout: post
-author: arthurf
+date: 2021-03-11 08:10 -0300
 ---
-
 O Fabrício Aguiar, autor do blog *16 Bits da Depressão*, fez uma [lista com dez jogos para se jogar em uma jogatina](https://www.uol.com.br/start/colunas/16-bits-da-depressao/2021/03/03/10-otimos-jogos-pra-terminar-em-uma-unica-jogada.htm?cmpid=copiaecola). A lista inclui jogos bem narrativos, como *What Remains of Edith Finch*, e metroidvanias como *Gato Roboto*.
 
 > As experiências mais intensas e memoráveis que tive com videogames foram de jogos que terminei em uma ou duas sentadas na poltrona. Possivelmente, você já tem alguns exemplos em mente.

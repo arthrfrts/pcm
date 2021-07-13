@@ -1,15 +1,15 @@
 ---
-title: No Sudden Move, e outros filmes que tem mais elenco do que espaço no cartaz
-date: 2021-06-08 08:40:00 -03:00
-tags:
-- filmes
-- trailers
-- Wes Anderson
-- Steven Soderbergh
+date: '2021-06-08 08:40 -0300'
 layout: post
 author: arthurf
+published: true
+title: 'No Sudden Move, e outros filmes que tem mais elenco do que espaço no cartaz'
+tags:
+  - filmes
+  - trailers
+  - Wes Anderson
+  - Steven Soderbergh
 ---
-
 A HBO lançou o trailer do novo filme de Steven Soderbergh, *No Sudden Move*:
 
 <iframe class="full-width" src="https://www.youtube.com/embed/7GRDLX3a-IE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

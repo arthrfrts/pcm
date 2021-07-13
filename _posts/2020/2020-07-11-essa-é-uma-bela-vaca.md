@@ -1,12 +1,12 @@
 ---
-title: Essa é uma bela vaca.
-date: 2020-07-11 12:57:02 -03:00
-tags:
-- links
-- animais
-- filmes
 layout: post
+title: "Essa é uma bela vaca."
 author: arthurf
+date: '2020-07-11 12:57:02 -0300'
+tags:
+  - links
+  - animais
+  - filmes
 ---
 
 {: .full-width }

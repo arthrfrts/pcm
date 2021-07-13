@@ -1,15 +1,15 @@
 ---
-title: Onde estão Os Ratos?
-date: 2019-04-04 09:00:00 -03:00
-tags:
-- resenhas
-- leituras
-- livros
+date: '2019-04-04 09:00:00 -0300'
 layout: post
+published: true
+title: Onde estão Os Ratos?
+tags:
+  - resenhas
+  - leituras
+  - livros
 author: guilhermen
-image: https://i.imgur.com/ghVqKF3h.jpg
+image: 'https://i.imgur.com/ghVqKF3h.jpg'
 ---
-
 Dentre todas as linhas de pesquisa exploradas para dar conta das técnicas e exercícios lúdicos utilizados na construção (e na leitura) de personagens, seja na literatura, ou no audiovisual, uma sempre me despertou particular interesse: o estudo do consumo como agente dos conflitos internos.
 
 _Madame Bovary_ de Flaubert é das mais citadas como uma das primeiras obras mais alinhadas as leis do desejo capitalista que traz essas questões de maneira mais notória (assim como os bêbados dublinenses de James Joyce). Fato é que o consumo, o que se deseja consumir, a maneira com que se deseja, o que isso significa na realidade daquela personagem são detalhes que, quase de maneira desapercebida, foram tornando-se indispensáveis na construção psicológica de qualquer arquétipo que possa aferir algum tipo de identificação por parte do leitor/espectador. E o que definiu isso não foi, de forma alguma, um autor, ou uma obra em particular, ou um "movimento", mas sim as alterações na forma de perceber o mundo provocadas pelo modelo sócio-econômico que foi aos poucos se transfigurando no capitalismo nacionalista atual.

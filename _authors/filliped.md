@@ -1,5 +1,4 @@
 ---
-title: Posts escritos por Fillipe Diniz
 layout: author
+title: "Posts escritos por Fillipe Diniz"
 ---
-

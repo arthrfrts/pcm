@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Eu me apaixonei por colunas de conselhos
-date: 2021-02-17 09:48:00 -02:00
+author: arthurf
 tags:
 - achados
 - links
-layout: post
-author: arthurf
+date: 2021-02-17 08:48 -0300
 ---
-
 Eu acabei abraçando vários costumes nesse último ano de pandemia e isolamento social. Algumas, como a pizza de sexta-feira, eu mantenho até hoje. Outras, com ler depois do almoço, acabaram alguns meses depois de eu ter começado. Eu acho eles bons definidores do tempo que tá passando durante a pandemia: eu lembro da “época em que eu via filmes nas terças-feiras”, algo que aconteceu entre abril e maio de 2020. Parece muito tempo, mas foi ano passado.
 
 O mais novo costume que eu abracei nesses últimos meses foi ler colunas de conselhos. Eu nem sabia que isso tinha conseguido sobreviver na internet. Eu lembro que colunas de conselhos existiam em revistas de saúde e estilo de vida (geralmente mais voltados ao público feminino), e nunca dei muita bola antes porque eu era jovem e ninguém tem problemas maiores do que um jovem de 11 anos, etc.

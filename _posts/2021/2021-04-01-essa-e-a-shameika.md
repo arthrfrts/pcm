@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Essa é a Shameika
-date: 2021-04-01 08:37:00 -03:00
+author: arthurf
 tags:
 - links
 - músicas
 - Fiona Apple
-layout: post
-author: arthurf
+date: 2021-04-01 08:37 -0300
 ---
-
 *Fetch the Bolt Cutters* é uma obra-prima intimista e crua, composta por histórias que Fiona Apple não só conta como sente, porque são momentos e sentimentos da vida dela que a marcaram, de homens abusivos e da irmandade que ela encontrou em mulheres ao seu redor. Uma dessas é [*Shameika*](https://www.youtube.com/watch?v=MbkugCPqxQY), em que Apple lembra da conversa que uma colega sua teve com ela na quarta-série sobre não dar ouvido para o bullying que ela estava sofrendo.
 
 Uma das coisas lindas que *Shameika* captura é a imensidão de um pequeno momento. Na música, Apple conta que Shameika esteve em sua vida por pouco tempo — elas só foram colegas de escola na quarta-série —, e nunca teve a oportunidade de dizer para ela como o que Shameika disse foi importante para sua vida.

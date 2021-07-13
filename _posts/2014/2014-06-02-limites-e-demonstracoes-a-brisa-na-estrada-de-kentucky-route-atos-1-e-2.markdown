@@ -1,16 +1,15 @@
 ---
-title: 'Limites e Demonstrações: A brisa na estrada de Kentucky Route Zero, Atos 1
-  e 2'
-date: 2014-06-02 01:26:40 -03:00
-tags:
-- achados
-- jogos
-- aventura
-- Kentucky Route Zero
-- Cardboard Computer
 layout: post
+title: "Limites e Demonstrações: A brisa na estrada de Kentucky Route Zero, Atos 1 e 2"
+date: "2014-06-02 01:26:40 -0300"
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-1-672x372.jpg
+tags:
+  - achados
+  - jogos
+  - aventura
+  - Kentucky Route Zero
+  - Cardboard Computer
+image: "https://arthrfrts.files.wordpress.com/2018/03/kentucky-route-zero-ato-1-672x372.jpg"
 ---
 
 Você é Conway, um vivido motorista. Você dirige uma camionete igualmente velha, acompanhado de um cão igualmente velho. Você para em Equus Oils, um posto de gasolina esquecido no tempo, assim como você. Nele, está Joseph, um velho poeta, talvez cego, sentado entre duas bombas de gasolina. Você pergunta como chegar à Zero, uma estrada na qual nunca ouviu falar. Você precisa chegar lá para fazer uma entrega na Dogwood Drive, 5. Ele não sabe, mas conhece alguém que saiba. Você precisa ir até a casa dela. Você precisa fazer essa entrega.

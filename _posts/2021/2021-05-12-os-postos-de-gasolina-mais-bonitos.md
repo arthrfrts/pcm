@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Os postos de gasolina mais bonitos
-date: 2021-05-12 08:00:00 -03:00
+author: arthurf
 tags:
 - fotos
 - arquitetura
-layout: post
-author: arthurf
+date: 2021-05-12 08:00 -0300
 ---
-
 {: .full-width }
 ![]({% link uploads/2021/05/12/gas1.jpg %})
 ![]({% link uploads/2021/05/12/gas2.jpg %})

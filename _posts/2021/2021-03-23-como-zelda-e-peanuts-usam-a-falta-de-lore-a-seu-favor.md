@@ -1,14 +1,13 @@
 ---
+layout: post
 title: "“Lore” é uma armadilha"
-date: 2021-03-23 08:08:00 -03:00
+author: arthurf
 tags:
 - esquinas
 - links
 - WandaVision
-layout: post
-author: arthurf
+date: 2021-03-23 08:08 -0300
 ---
-
 Um dos melhores textos que eu li nas últimas semanas é “[What we argue about when we argue about WandaVision](https://www.vox.com/culture/22308325/wandavision-finale-spoilers-review-disney-plus-marvel-wanda-vision)”, da Emily VanDerWerff. Como os melhores textos da autora, ela pega uma série como contexto para destrinchar e analisar outros assuntos da cultura em geral. Seu último ponto é sobre como muito da recepção e discussão sobre os filmes e séries que assistimos hoje em dia se dá sobre sua trama: será que ela faz sentido no contexto maior do MCU? Será que um easter egg que apareceu no segundo episódio não significa outra coisa? O texto é fantástico, em especial essa última parte:
 
 > In [a piece for Current Affairs](https://www.currentaffairs.org/2021/02/satanic-panics-and-the-death-of-mythos/), Aisling McCrea put something that lots of culture writers have been circling for years so succinctly, I actually am jealous. McCrea discusses culture via two terms used by the ancient Greeks: logos (stuff pertaining to the material world, which we can see and measure and quantify in some way) and mythos (stuff that is more elusive, which we mostly feel or contemplate). Around the piece’s midpoint, she writes:

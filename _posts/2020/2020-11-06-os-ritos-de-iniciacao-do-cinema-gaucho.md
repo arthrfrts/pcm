@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Nada que é dourado permanece
-date: 2020-11-06 08:43:00 -02:00
+author: arthurf
 tags:
 - links
 - vídeos
 - cinema nacional
-layout: post
-author: arthurf
+date: 2020-11-06 07:43 -0300
 ---
-
 <iframe class="full-width" src="https://player.vimeo.com/video/474057458" frameborder="0" allowfullscreen></iframe>
 
 Meu amigo [Leo Michelon]({% post_url 2020/2020-10-02-o-coracao-e-um-inadimplente-sem-esperanca %}) colaborou com o diretor e crítico Giordano Gio em [*Nada que é Dourado Permanece*](https://nadadouradopermanece.tumblr.com/), um vídeo-ensaio sobre os ritos de iniciação presentes no cinema gaúcho.

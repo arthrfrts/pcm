@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Em defesa de assistir séries semanalmente
-date: 2020-09-21 21:09:00 -03:00
+author: arthurf
 tags:
 - esquinas
 - séries
@@ -9,10 +10,8 @@ tags:
 - Stranger Things
 - Netflix
 - HBO
-layout: post
-author: arthurf
+date: 2020-09-21 21:09 -0300
 ---
-
 A quarentena aqui por casa já dura seis meses e a cada mês — as vezes à cada semana — eu vou repensando e reavaliando algumas coisas na minha vida. Eu [me reaproximei da música]({% post_url 2020/2020-05-21-no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso %}), por exemplo. Eu parei de assistir tanto filme e a ler mais (ainda vou escrever sobre isso!). Hoje eu vou falar de uma nova redescoberta.
 
 Como todo o jovem com acesso à internet em meados dos anos 2000, eu sou um adepto da maratona de séries há um bom tempo, desde quando isso significava baixar um pacote de RMVB legendado ou de AVI com pacotes de legendas do Legendas.tv. Foi assim que eu vi *Família Soprano* e *A Sete Palmos* e *Deadwood* pela primeira vez, foi como eu descobri a primeira temporada de *Community* ou de *United States of Tara* também. Passar uma semana inteira baixando (porque a velocidade da internet naquela época era um… problema) pra poder maratonar temporadas inteiras no sábado e no domingo.

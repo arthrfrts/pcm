@@ -1,16 +1,19 @@
 ---
-title: Chernobyl traduz o peso de uma catástrofe
-date: 2019-05-16 09:00:00 -03:00
-tags:
-- essenciais
-- séries
-- minisséries
-- drama
-- HBO
+date: '2019-05-16 09:00:00 -0300'
 layout: post
-image: https://i.imgur.com/xEqGdWC.jpg
+image: 'https://i.imgur.com/xEqGdWC.jpg'
+title: Chernobyl traduz o peso de uma catástrofe
 author: arthurf
-excerpt: O terror da nova minissérie é ainda maior ao exprimir o custo humano da desinformação.
+excerpt: >-
+  O terror da nova minissérie é ainda maior ao exprimir o custo humano da
+  desinformação.
+tags:
+  - essenciais
+  - séries
+  - minisséries
+  - drama
+  - HBO
+published: true
 ---
 
 _Chernobyl_, a nova minissérie da HBO sobre a catástrofe nuclear de 1986 na Ucrânia, não é fácil de assistir. É uma triste e implacável série sobre um desastre feito pelo homem com efeitos que persistem até hoje (e, provavelmente, pelos próximos milhares de anos); que retrata uma disseminação sistemática de desinformação que acaba custando milhares de vidas civis; e que não foge de deixar claro o quão doloroso é o efeito da radiação sobre o corpo humano.

@@ -1,15 +1,14 @@
 ---
-title: As Vantagens de Ser Invisível
-date: 2014-08-15 20:07:55 -03:00
-tags:
-- resenhas
-- leituras
-- livros
 layout: post
+title: "As Vantagens de Ser Invisível"
+date: "2014-08-15 20:07:55 -0300"
+tags:
+  - resenhas
+  - leituras
+  - livros
 author: vanessao
-image: https://arthrfrts.files.wordpress.com/2018/03/maxresdefault.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/maxresdefault.jpg"
 ---
-
 Um adolescente atormentado que encontra abrigo em grupo de desajustados, até aí nenhuma novidade. O primeiro contato com sexo, álcool e drogas, a tortura do ensino médio? A mesma coisa de sempre. No entanto, Chbosky narra o conhecido drama adolescente de uma forma muito singular, ele não nos apresenta um problema, mas sim uma vantagem. Ou melhor, _As vantagens de ser invisível_.
 
 O livro é formado por cartas que Charlie, o personagem principal da trama, escreve a um amigo desconhecido (e muito especial).

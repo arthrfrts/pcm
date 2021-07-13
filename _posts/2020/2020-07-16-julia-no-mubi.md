@@ -1,15 +1,14 @@
 ---
-title: Júlia, no MUBI
-date: 2020-07-16 11:14:00 -03:00
+layout: post
+title: "Júlia, no MUBI"
+author: arthurf
 tags:
 - achados
 - filmes
 - drama
 - thriller
-layout: post
-author: arthurf
+date: 2020-07-16 11:14 -0300
 ---
-
 {: .full-width }
 <iframe src="https://www.youtube.com/embed/VDDWeWknMl0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

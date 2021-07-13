@@ -1,12 +1,12 @@
 ---
-title: Os cartazes de Em Trânsito
-date: 2020-05-13 14:32:22 -03:00
+layout: post
+title: 'Os cartazes de Em Trânsito'
+date: '2020-05-13T14:32:22-03:00'
 tags:
 - filmes
 - cartazes
 - Christian Petzold
 - cinema alemão
-layout: post
 ---
 
 {: .full-width }

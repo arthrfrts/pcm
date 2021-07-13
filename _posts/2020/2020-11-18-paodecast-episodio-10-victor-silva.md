@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Episódio 10 – com Victor Silva
-date: 2020-11-18 10:19:00 -02:00
+author: arthurf
 tags:
 - Pãodecast
 - podcasts
 - conversas
-layout: post
-author: arthurf
+date: 2020-11-18 09:19 -0300
 ---
-
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Victor-Silva-emipvn" height="102" frameborder="0" scrolling="no"></iframe>
 
 O Victor e eu nos sentamos pra conversar sobre como a gente desbravou o mato que era a internet no início dos anos 2000.

@@ -1,5 +1,4 @@
 ---
-title: Posts escritos por Erê Carvalho Zimmer
 layout: author
+title: "Posts escritos por Erê Carvalho Zimmer"
 ---
-

@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Yo La Tengo lançou a trilha-sonora do meu estado de espírito durante o isolamento
-date: 2020-07-17 13:55:00 -03:00
+author: arthurf
 tags:
 - músicas
 - Yo La Tengo
-layout: post
-author: arthurf
+date: 2020-07-17 13:55 -0300
 ---
-
 {: .full-width }
 <iframe  src="https://bandcamp.com/EmbeddedPlayer/album=2575935432/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/">
 </iframe>

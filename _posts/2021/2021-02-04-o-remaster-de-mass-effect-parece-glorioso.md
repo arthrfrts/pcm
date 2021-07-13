@@ -1,6 +1,7 @@
 ---
+layout: post
 title: O remaster de Mass Effect parece glorioso
-date: 2021-02-04 09:42:00 -02:00
+author: arthurf
 tags:
 - vídeos
 - trailers
@@ -8,10 +9,8 @@ tags:
 - RPG
 - BioWare
 - Mass Effect
-layout: post
-author: arthurf
+date: 2021-02-04 08:42 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube.com/embed/n8i53TtQ6IQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Aqui vai uma coisa que você provavelmente não sabe sobre mim: eu sou um fã insuportável de *Mass Effect*. Eu sou fascinado por essa ópera espacial desde que o original foi lançado no Xbox 360, quando ele era o ápice da narrativa interativa em jogos AAA desse lado do mundo. Agora que esse tipo de jogo não é feito mais pelas grandes desenvolvedoras do ocidente, eu sinto um carinho ainda mais especial pela franquia, mesmo com a dor que foi ver *Mass Effect Andromeda* ser uma bagunça.

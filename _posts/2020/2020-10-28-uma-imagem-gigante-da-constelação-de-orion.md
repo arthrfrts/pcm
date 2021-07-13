@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Uma imagem gigante da constelação de Órion
-date: 2020-10-28 10:05:00 -02:00
+author: arthurf
 tags:
 - links
 - espaço
-layout: post
-author: arthurf
+date: 2020-10-28 09:05 -0300
 ---
-
 {: .full-width }
 ![Constelação de Órion]({% link uploads/2020/10/28/orion.jpg %})
 

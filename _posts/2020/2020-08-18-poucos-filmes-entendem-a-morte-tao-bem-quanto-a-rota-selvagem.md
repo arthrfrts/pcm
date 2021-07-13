@@ -1,17 +1,16 @@
 ---
+layout: post
 title: Poucos filmes entendem a morte tão bem quanto A Rota Selvagem
-date: 2020-08-18 21:02:00 -03:00
+image: "/uploads/2020/08/18/lean-on-pete.jpg"
+author: arthurf
 tags:
 - filmes
 - drama
 - Andrew Haigh
 - Prime Video
 - HBO
-layout: post
-image: "/uploads/2020/08/18/lean-on-pete.jpg"
-author: arthurf
+date: 2020-08-18 21:02 -0300
 ---
-
 **Esse texto contém detalhes sobre a trama de *A Rota Selvagem*.**
 
 ***

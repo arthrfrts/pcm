@@ -1,15 +1,15 @@
 ---
-title: Os dez melhores jogos no Apple Arcade
-date: 2019-12-04 11:30:00 -02:00
-tags:
-- listas
-- jogos
-- Apple Arcade
-- iOS
-- macOS
 layout: post
+date: "2019-12-04 10:30:00 -0300"
+title: Os dez melhores jogos no Apple Arcade
 author: arthurf
 image: "/uploads/2019/12/apple-arcade.jpg"
+tags:
+  - listas
+  - jogos
+  - Apple Arcade
+  - iOS
+  - macOS
 ---
 
 Meu lançamento favorito esse ano não foi um jogo em si, mas um serviço. O [Apple Arcade](https://www.apple.com/br/apple-arcade/) é um plano de assinatura de jogos da Apple para o Mac, iOS e tvOS que chegou prometendo bem pouco — um punhado de jogos, sem microtransações e anúncios, por R$ 9,90. Diferente de [outro serviço de assinatura de jogos por aí](https://kotaku.com/google-s-stadia-just-ain-t-it-1839930224), porém, o Arcade entregou todas as suas poucas promessas com um grande truque na manga: a maioria dos jogos do serviço são muito bons, _e funcionam_.

@@ -1,16 +1,15 @@
 ---
+layout: post
 title: WandaVision foi uma boa serie de TV presa em uma franquia que não deixou ela
   brilhar
-date: 2021-03-08 20:46:00 -03:00
+author: arthurf
 tags:
 - séries
 - Marvel
 - Disney+
 - WandaVision
-layout: post
-author: arthurf
+date: 2021-03-08 20:46 -0300
 ---
-
 *WandaVision* foi uma boa (e as vezes, uma ótima) série de TV que revelou como o MCU — o conjunto de filmes e séries que compõem o universo de super-heróis da Marvel no cinema e na TV — mudou o modo que discutimos cultura para pior. A série, que completou sua primeira (e quem sabe única) temporada na Disney+ na última semana foi a primeira produção da franquia a ser lançada em mais de um ano, e me lembrou de como eu não sentia falta.
 
 Eu não sou um grande detrator do MCU. Eu gosto de um punhado dos filmes e acho a franquia, num geral, uma boa série cujos capítulos costumavam aparecer pela última década com alguns meses de diferença entre si. E eu acho que em alguns momentos *WandaVision* foi uma das melhores realizações da franquia até aqui, trazendo momentos genuinamente belíssimos em uma série de TV extremamente interessante. Mas o fator monolítico desse universo transformou muito do que se consome sobre cultura de um jeito ruim.

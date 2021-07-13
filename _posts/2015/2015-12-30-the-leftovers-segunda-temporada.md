@@ -1,16 +1,16 @@
 ---
-title: A segunda temporada de The Leftovers é a melhor série do ano
-date: 2015-12-30 00:00:00 -02:00
-tags:
-- essenciais
-- séries
-- drama
-- Damon Lindelof
-- The Leftovers
-- HBO
 layout: post
+title: "A segunda temporada de The Leftovers é a melhor série do ano"
+date: 2015-12-30
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/the-leftovers-2.jpg
+tags:
+  - essenciais
+  - séries
+  - drama
+  - Damon Lindelof
+  - The Leftovers
+  - HBO
+image: "https://arthrfrts.files.wordpress.com/2018/03/the-leftovers-2.jpg"
 ---
 
 Se a primeira temporada de _The Leftovers_ parecia demais com a última temporada de _Lost_, a produção anterior de Damon Lindelof, esse ano a série da HBO supera comparações e vai além. Em sua segunda temporada, _The Leftovers_ se transformou em um dos melhores shows da TV — não com um grito, mas com um suspiro.

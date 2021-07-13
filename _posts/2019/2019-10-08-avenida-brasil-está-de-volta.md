@@ -1,15 +1,15 @@
 ---
-title: Avenida Brasil está de volta
-date: 2019-10-09 10:30:00 -03:00
-tags:
-- essenciais
-- séries
-- novelas
-- resenhas
+date: '2019-10-09 10:30:00 -0300'
 layout: post
-image: "/uploads/2019/avenida-brasil.jpg"
+title: Avenida Brasil está de volta
+image: /uploads/2019/avenida-brasil.jpg
 author: arthurf
 excerpt: Oi oi oi!
+tags:
+  - essenciais
+  - séries
+  - novelas
+  - resenhas
 ---
 
 Ninguém tinha dúvidas que _Avenida Brasil_, a maior novela brasileira da história, ia voltar para a grade da Globo uma hora ou outra. Ela fez história em 2012 (em números, claro, mas como vou tentar argumentar mais pra frente, também em nível artístico), firmou Adriana Esteves no panteão das grandes atrizes brasileiras e causou um tsunami na grade de novelas da Globo depois que ela passou. Foi um dos primeiros grandes momentos do Brasil no Twitter (a hashtag [#oioioi](https://twitter.com/hashtag/oioioi) subia quase que diariamente nos assuntos mundiais).

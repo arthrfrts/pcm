@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Qual a melhor dupla de jogos Mario & Zelda?
-date: 2021-01-27 20:24:00 -02:00
+author: arthurf
 tags:
 - listas
 - rankings rápidos
@@ -8,10 +9,8 @@ tags:
 - Nintendo
 - Super Mario
 - The Legend of Zelda
-layout: post
-author: arthurf
+date: 2021-01-27 19:24 -0300
 ---
-
 Esses dias, enquanto eu terminava de jogar um dos _Metroid Prime_ para fechar a trilogia de ranking das três franquias principais da Nintendo, eu fiquei traçando o histórico dos jogos de _Metroid_, _Super Mario_ e _The Legend of Zelda_ de acordo com as gerações de consoles. Chegou num ponto em que eu comecei catalogar como os jogos dessas franquias pontuaram os videogames da empresa, até que cheguei nessa lista.
 
 Esse é um ranking rápido das melhores duplas de jogos dos consoles da Nintendo de acordo com a qualidade dos jogos. A melhor dupla não significa que tem os melhores jogos das duas franquias (pra isso confira o [ranking do _Super Mario_]({% post_url 2019/2019-08-14-um-ranking-de-todos-os-super-mario %}) e o [ranking de _The Legend of Zelda_]({% post_url 2020/2020-06-09-the-legend-of-zelda-ranking %})), e sim que a média dos dois jogos é a melhor.

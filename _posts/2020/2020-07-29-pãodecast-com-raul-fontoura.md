@@ -1,14 +1,13 @@
 ---
-title: Episódio 2 — com Raul Fontoura
-date: 2020-07-29 09:04:00 -03:00
+layout: post
+title: 'Episódio 2 — com Raul Fontoura'
+author: arthurf
 tags:
 - Pãodecast
 - podcasts
 - jogos
-layout: post
-author: arthurf
+date: 2020-07-29 09:04 -0300
 ---
-
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Raul-Fontoura-eh42tf/a-a2p130r" frameborder="0" scrolling="no"></iframe>
 
 Eu e o Raul começamos conversando sobre os jogos que nós gostamos, depois sobre *game design*. Quando a gente viu, estávamos conversando sobre as escolhas que tomamos na vida. E o episódio é bem divertido de ouvir por causa disso! Eu até mudei a nomenclatura dos episódios e deixei só o nome do convidado, pra tirar a ideia de que a gente conversa sobre algum tema em específico. A gente conversa sobre vários, e é a conversa que interessa.

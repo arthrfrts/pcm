@@ -1,12 +1,11 @@
 ---
-title: As rotinas de Ursula K. Le Guin e David Lynch
-date: 2021-03-03 00:00:00 -03:00
-tags:
-- links
-- Ursula K. Le Guin
-- David Lynch
 layout: post
+title: As rotinas de Ursula K. Le Guin e David Lynch
 author: arthurf
+tags:
+  - links
+  - Ursula K. Le Guin
+  - David Lynch
 ---
 
 Hoje eu começo meu novo trabalho, com uma carga horária diferente da que eu tive nos últimos três anos. Eu tive uns dias de folga entre o meu último trabalho e esse, e usei eles para tentar estabelecer uma nova rotina. Isso porque meus projetos, como escrever aqui no Pão ou estudar francês ou outras coisas que eu estou estudando, requerem um tempo do meu dia-a-dia, e eu tento ter um pouco de tempo pra tudo.

@@ -1,14 +1,13 @@
 ---
-title: 'Video Works: uma jornada pela história dos jogos'
-date: 2021-04-19 08:34:00 -03:00
-tags:
-- jogos
-- links
-- canais do YouTube
+date: '2021-04-19 08:34 -0300'
 layout: post
+title: "Video Works: uma jornada pela história dos jogos"
 author: arthurf
+tags:
+  - jogos
+  - links
+  - canais do YouTube
 ---
-
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/5ugMeN4Zqy4" title="Reprodutor de vídeos do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu escuto poucos podcasts por vez, então nem sempre tenho o que ouvir durante o trabalho. As vezes eu começo a ouvir um podcast novo e posso ficar horas tirando o meu atraso ouvindo todos os episódios até ali. Mas isso é raro, e eu não consigo ouvir muita música enquanto tô trabalhando.

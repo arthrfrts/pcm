@@ -1,15 +1,14 @@
 ---
+layout: post
 title: O trailer de Duna é incrível
-date: 2020-09-09 14:00:00 -03:00
+author: arthurf
 tags:
 - filmes
 - trailers
 - ficção científica
 - Denis Villeneuve
-layout: post
-author: arthurf
+date: 2020-09-09 14:00 -0300
 ---
-
 <iframe class="full-width" src="//www.youtube-nocookie.com/embed/n9xhJrPXop4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A Warner finalmente divulgou o trailer[^1] da nova versão de *Duna*, e caramba eu tô empolgado.

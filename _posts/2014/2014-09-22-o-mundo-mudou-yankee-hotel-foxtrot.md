@@ -1,12 +1,12 @@
 ---
-title: 'O mundo mudou: Yankee Hotel Foxtrot'
-date: 2014-09-22 01:22:47 -03:00
-tags:
-- essenciais
-- músicas
 layout: post
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/yankee-hotel-foxtrot.jpg
+title: "O mundo mudou: Yankee Hotel Foxtrot"
+date: "2014-09-22 01:22:47 -0300"
+image: "https://arthrfrts.files.wordpress.com/2018/03/yankee-hotel-foxtrot.jpg"
+tags:
+  - essenciais
+  - músicas
 ---
 
 As coisas não estavam indo muito bem para o Wilco quando lançaram Yankee Hotel Foxtrot. Mas é justamente em momentos de crise que grandes autores da literatura conseguiram criar grandes obras; grandes diretores conseguiram realizar grandes filmes; e uma grande banda conseguiu lançar sua obra-prima.

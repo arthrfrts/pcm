@@ -1,15 +1,14 @@
 ---
-title: James Gray torna A Imigrante em um dos fundamentos da América.
-date: 2017-07-26 00:00:00 -03:00
-categories:
-- Achados
-tags:
-- filmes
-- cinema americano
-- drama
-- James Gray
 layout: post
-image: https://arthrfrts.files.wordpress.com/2018/03/immigrant.jpg
+date: 2017-07-26
+title: "James Gray torna A Imigrante em um dos fundamentos da América."
+image: "https://arthrfrts.files.wordpress.com/2018/03/immigrant.jpg"
+category: Achados
+tags:
+  - filmes
+  - cinema americano
+  - drama
+  - James Gray
 author: arthurf
 ---
 

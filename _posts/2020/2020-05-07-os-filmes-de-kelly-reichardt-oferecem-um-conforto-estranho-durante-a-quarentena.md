@@ -1,13 +1,13 @@
 ---
-title: Os filmes de Kelly Reichardt oferecem um conforto estranho durante a quarentena
-date: 2020-05-07 09:40:00 -03:00
-tags:
-- esquinas
-- filmes
-- drama
-- carreiras em perspectiva
 layout: post
+date: 2020-05-07 09:40:00 -03:00
 author: arthurf
+tags:
+  - esquinas
+  - filmes
+  - drama
+  - carreiras em perspectiva
+title: Os filmes de Kelly Reichardt oferecem um conforto estranho durante a quarentena
 image: "/uploads/2020/05/08/wendy-lucy.jpg"
 excerpt: Filmando o grande céu que nos protege (e nos cerca).
 ---

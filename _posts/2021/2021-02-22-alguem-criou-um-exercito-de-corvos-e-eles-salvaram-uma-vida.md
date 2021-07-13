@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Alguém criou um exercito de corvos (e eles salvaram uma vida)
-date: 2021-02-22 11:41:00 -03:00
+author: arthurf
 tags:
 - links
 - miscelânea
-layout: post
-author: arthurf
+date: 2021-02-22 11:41 -0300
 ---
-
 Das coisas boas demais pra ser verdade: uma pessoa começou a dar comida para os corvos da vizinhança, e eles se tornaram “leais” à ela. O número de corvos cresceu e eles começaram a defender a casa da pessoa de “intrusos” (suas visitas). A história é genial:
 
 > A couple months ago, i was watching a nature program on our local station about crows. The program mentioned that if you feed and befriend them, crows will bring you small gifts. My emo phase came back full force and i figured that i was furloughed and had lots of time- so why not make some crow friends.

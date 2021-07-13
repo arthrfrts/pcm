@@ -1,15 +1,13 @@
 ---
-title: '"Se a manifestação está vermelha demais para o seu gosto, junte uma turma
-  e vá vestindo outra cor"'
-date: 2021-07-05 08:48:00 -03:00
+layout: post
+title: '"Se a manifestação está vermelha demais para o seu gosto, junte uma turma e vá vestindo outra cor"'
+author: arthurf
 tags:
 - links
 - política
 - democracia
-layout: post
-author: arthurf
+date: 2021-07-05 08:48 -0300
 ---
-
 Celso Rocha de Barros, na [sua coluna pra Folha](https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2021/07/se-a-manifestacao-esta-vermelha-demais-para-o-seu-gosto-junte-uma-turma-e-va-vestindo-outra-cor.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo):
 
 > O primeiro lado bom [da adesão gradual de partidos de centro e de direita às manifestações] é que o pessoal parece ter entendido que, se a manifestação está vermelha demais para o seu gosto, junte uma turma e vá vestindo outra cor. Não dá para esperar que a esquerda organize a manifestação e seja proibida de erguer sua bandeira.

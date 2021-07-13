@@ -1,16 +1,15 @@
 ---
+layout: post
 title: O trailer da segunda temporada de Central Park
-date: 2021-06-23 08:25:00 -03:00
+author: arthurf
 tags:
 - séries
 - comédia
 - trailers
 - Central Park
 - Apple TV+
-layout: post
-author: arthurf
+date: 2021-06-23 08:25 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/-PkRVGeYh84" title="Reprodutor de vídeos do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As [minhas séries favoritas]({% post_url 2020/2020-12-28-top-5-2020 %}) do ano passado decidiram voltar juntas nesse mês, aparentemente. E eu não vou reclamar. A segunda temporada da charmosa *Central Park* tá aí, e a série volta nessa sexta-feira, dia 25, na Apple.

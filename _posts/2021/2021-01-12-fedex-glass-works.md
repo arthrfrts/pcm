@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Artista cria peças de exposição enviando-as sem proteção pelo correio
-date: 2021-01-12 14:46:00 -02:00
+author: arthurf
 tags:
 - links
 - artes plásticas
 - Walead Beshty
-layout: post
-author: arthurf
+date: 2021-01-12 13:46 -0300
 ---
-
 O artista Walead Beshty constrói peças feitas de vidro e as envia por FedEx para galerias e museus desde 2007. Ele as envia sem proteção, então quando as peças chegam elas estão danificadas, criando padrões de rachaduras nas superfícies:
 
 {: .full-width }

@@ -1,6 +1,6 @@
 ---
-title: Comentários
 layout: page
+title: Comentários
 ---
 
 O Pão com Mortadela tenta ser como uma mesa de café da manhã na internet. O que significa que, como todo o café da manhã, é preciso impôr algumas regras para que todos tenham uma boa refeição e aproveitem a companhia.

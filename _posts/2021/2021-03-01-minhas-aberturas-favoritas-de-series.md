@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Séries com minhas aberturas favoritas
-date: 2021-03-01 16:36:00 -03:00
+author: arthurf
 tags:
 - séries
 - design
 - vídeos
-layout: post
-author: arthurf
+date: 2021-03-01 16:36 -0300
 ---
-
 Eu sou completamente contra o recurso de pular abertura de um episódio de série que o Netflix têm. Eu *amo* uma boa abertura, e acho especial quando uma série usa ela como um portal pro tom e pro ritmo da série. Seja a música fofinha e os fades nos dando boas-vindas à Stars Hollow de *Gilmore Girls* ou a música levemente perturbadora e as imagens vazias na abertura de *Twin Peaks*. Uma boa abertura, inclusive, pode até ajudar na cena inicial de um episódio, ressaltando o gancho que ele oferece.
 
 Essas são as minhas aberturas favoritas:

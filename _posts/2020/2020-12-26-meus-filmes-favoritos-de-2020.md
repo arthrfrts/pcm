@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Meus filmes favoritos de 2020
-date: 2020-12-26 10:08:00 -02:00
+author: arthurf
 tags:
 - listas
 - filmes
-layout: post
-author: arthurf
+date: 2020-12-26 09:08 -0300
 ---
-
 Eu comecei o ano querendo refazer um projeto que fiz [no longínquo ano de 2013](https://umfilmeumdia.wordpress.com) de assistir um filme por dia e escrever um pouquinho sobre ele. Não acho que tenha sido um bom ano pra fazer essa escolha, aconteceu tanta coisa por tanto tempo que foi difícil de me concentrar pra ver filmes quando o mundo parecia acabar umas três vezes por semana, em média.
 
 Mesmo assim, 2020 trouxe um bocado de filme bom. Eu tava comentando com uma amiga esses dias sobre isso. Eu passei os últimos dois ou três anos meio que iludido com cinema, numa espécie de exaustão. Eu via a maioria dos filmes por obrigação e não por curiosidade, como eu costumava assistí-los [naqueles anos em que eu assistia filmes demais](https://letterboxd.com/arthrfrts/year/2017/). Mas esse ano foi diferente. Esse ano teve tantas descobertas e estreias boas, que eu voltei a ficar curioso pra assistir os filmes que me recomendavam ou que eu lia sobre. Foi um péssimo ano pro cinema, mas foi um bom ano de filmes.

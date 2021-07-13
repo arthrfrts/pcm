@@ -1,16 +1,15 @@
 ---
-title: Aparecida Blues
-date: 2014-08-14 19:58:33 -03:00
-tags:
-- achados
-- leituras
-- gibis
-- romance
 layout: post
+title: "Aparecida Blues"
+date: "2014-08-14 19:58:33 -0300"
+tags:
+  - achados
+  - leituras
+  - gibis
+  - romance
 author: filliped
-image: https://arthrfrts.files.wordpress.com/2018/03/alaor_511_297.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/alaor_511_297.jpg"
 ---
-
 _Aparecida Blues_ não tenta, em nenhum momento, esconder o que é e,  ao mesmo tempo, não entrega, logo de primeira, a dedução óbvia de sua natureza confusa:  estamos lendo uma história de amor. Amor, solidão e morte.
 
 Alaor está morto. Todos estão. Isso, entretanto, não impede que ele vague à noite por aí, tocando seu trompete, encontrando estranhos em encruzilhadas e guiando seu carro ladeira abaixo rumo à… morte?

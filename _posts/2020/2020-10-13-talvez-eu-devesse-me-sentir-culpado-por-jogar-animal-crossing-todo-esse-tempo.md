@@ -1,18 +1,17 @@
 ---
+layout: post
 title: Talvez eu devesse me sentir culpado por jogar Animal Crossing esse tempo todo?
-date: 2020-10-13 09:12:00 -03:00
+excerpt: Não.
+author: arthurf
+image: "/uploads/2020/10/13/2020082819042900-02CB906EA538A35643C1E1484C4B947D.jpg"
 tags:
 - jogos
 - simulação
 - Animal Crossing
 - Nintendo
 - Nintendo Switch
-layout: post
-excerpt: Não.
-author: arthurf
-image: "/uploads/2020/10/13/2020082819042900-02CB906EA538A35643C1E1484C4B947D.jpg"
+date: 2020-10-13 09:12 -0300
 ---
-
 Nas últimas semanas uns posts sobre *Animal Crossing* nos sites de jogos que eu leio têm me chamado a atenção. No [Polygon](https://www.polygon.com/2020/9/18/21445211/animal-crossing-new-horizons-guilt-trip-nintendo-email), a manchete é sobre como a gente chegou na “fase de culpa” (quando a gente raramente visita as vilas e os vizinhos começam a nos xingar por deixarmos eles sozinhos lá); o [Kotaku](https://kotaku.com/animal-crossing-new-horizons-six-months-later-1845146991) pega ainda mais pesado:
 
 > At this point, it seems like New Horizons will become like the cycle of the seasons. It’s recurrent and reliable. You might think about it fondly, or not, but you sure don’t think about it every day.

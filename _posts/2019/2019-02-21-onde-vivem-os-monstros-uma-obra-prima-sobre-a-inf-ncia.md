@@ -1,21 +1,20 @@
 ---
-title: Onde Vivem os Monstros é uma obra-prima sobre a infância
-date: 2019-02-21 07:56:00 -03:00
-categories:
-- Essenciais
-tags:
-- essenciais
-- filmes
-- drama
-- aventura
-- Spike Jonze
-- Onde Vivem os Monstros
-- HBO
+date: '2019-02-21 07:56 -0300'
 layout: post
-image: https://i.imgur.com/3sXyDeb.jpg
+category: Essenciais
+published: true
+title: Onde Vivem os Monstros é uma obra-prima sobre a infância
+image: 'https://i.imgur.com/3sXyDeb.jpg'
+tags:
+  - essenciais
+  - filmes
+  - drama
+  - aventura
+  - Spike Jonze
+  - Onde Vivem os Monstros
+  - HBO
 author: arthurf
 ---
-
 Carol é grande e tem a voz esganiçada, Alexander tem um nariz ranhoso, Ira e Judith estão apaixonados um pelo outro, o Touro é quieto e assustador, e KW tem um olhar doce e cabelos ondulados. Todos eles são peludos, só alguns tem chifres, outros tem rabos longos e dentes pontudos. Mas tem um que é pequeno e não tem pelos. Ele veste uma roupa de lobo e apareceu no meio desses monstros depois de brigar com sua mãe e fugir de casa. Esse é Max, e os outros monstros o chamam de rei.
 
 Max, interpretado aqui pelo novato Max Records, é o protagonista de _Onde Vivem os Monstros_, um filme intensamente original e maravilhoso. Depois de uma produção complicada que demorou anos e refilmagens e rumores, o projeto — a adaptação de um livro infantil composto por um punhado de frases e imagens lindas — ganhou vida e uma crueza emocional nas mãos de Spike Jonze, um diretor que já tinha mostrado histórias esquisitas com uma crueza emocional inusitada em _Quero Ser John Malkovich_ e _Adaptação_. Com _Onde Vivem os Monstros_, Jonze expande e detalha o mundo do autor Maurice Sendak no que pode ser o seu filme mais complexo e mais adorável até aqui. Uma jornada pela infância com a empolgação, a fúria e a melancolia de uma criança.

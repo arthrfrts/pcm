@@ -1,6 +1,9 @@
 ---
+layout: post
 title: As Mortes de Dick Johnson
-date: 2020-11-16 10:19:00 -02:00
+author: arthurf
+date: 2020-11-16 09:19 -0300
+image: "/uploads/2020/11/16/dick-johnson-is-dead.jpg"
 tags:
 - resenhas
 - essenciais
@@ -8,9 +11,6 @@ tags:
 - documentários
 - Kirsten Johnson
 - Netflix
-layout: post
-author: arthurf
-image: "/uploads/2020/11/16/dick-johnson-is-dead.jpg"
 ---
 
 Kirsten Johnson age quando a gente menos percebe. Por grande parte da sua carreira, ela foi diretora de fotografia de [alguns dos](https://www.imdb.com/title/tt4044364/) [melhores documentários](https://www.imdb.com/title/tt1522857/?ref_=nm_flmg_cin_29) [dos últimos anos](https://www.imdb.com/title/tt0390190) mas em 2016 ela fez o que talvez seja *o melhor* documentário dos últimos anos com *Cameraperson* uma jornada pelo tempo de sua carreira e de sua vida, usando “restos” de filmagens dos filmes em que trabalhou enquanto também documentava o pouco do que restava da sua mãe, que enfrentava os estágios finais do mal de Alzheimer.

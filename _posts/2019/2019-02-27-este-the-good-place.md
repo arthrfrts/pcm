@@ -1,15 +1,15 @@
 ---
-title: Este é “The Good Place”
-date: 2019-02-27 08:04:00 -03:00
-tags:
-- resenhas
-- séries
-- podcasts
-- comédia
-- Netflix
+date: '2019-02-27 08:04 -0300'
 layout: post
+title: Este é “The Good Place”
 excerpt: Bem-vindo! Está tudo bem.
-image: https://i.imgur.com/BnJQihT.jpg
+image: 'https://i.imgur.com/BnJQihT.jpg'
+tags:
+  - resenhas
+  - séries
+  - podcasts
+  - comédia
+  - Netflix
 author: emanueles
 ---
 

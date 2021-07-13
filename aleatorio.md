@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Aleatoriedades
 permalink: "/aleatorio/"
-layout: page
 sitemap: false
 ---
 

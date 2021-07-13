@@ -1,5 +1,4 @@
 ---
-title: Posts escritos por Vanessa Oliveira
 layout: author
+title: "Posts escritos por Vanessa Oliveira"
 ---
-

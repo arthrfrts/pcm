@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Arcade Fire e Owen Pallett anunciam o lançamento da trilha-sonora de Ela
-date: 2021-02-15 17:03:00 -02:00
+author: arthurf
 tags:
 - músicas
 - filmes
@@ -8,10 +9,8 @@ tags:
 - Arcade Fire
 - Spike Jonze
 - Owen Pallett
-layout: post
-author: arthurf
+date: 2021-02-15 16:03 -0300
 ---
-
 {: .full-width }
 ![Luva, vinil e fita-cassete da trilha-sonora do filme Ela]({% link uploads/2021/02/15/her.jpg %})
 ![Detalhes da luva e vinil da trilha-sonora do filme Ela]({% link uploads/2021/02/15/her2.jpg %})

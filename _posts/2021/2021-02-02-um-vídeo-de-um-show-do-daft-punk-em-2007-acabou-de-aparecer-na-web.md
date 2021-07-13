@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Um vídeo de um show do Daft Punk em 2007 acabou de aparecer na web
-date: 2021-02-02 14:26:00 -02:00
+author: arthurf
 tags:
 - músicas
 - vídeos
 - Daft Punk
-layout: post
-author: arthurf
+date: 2021-02-02 13:26 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube.com/embed/udvYSd2TIkg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Daft Punk não faz muitas apresentações ao vivo. Na verdade, elas são tão raras que hoje em dia elas alcançaram aquela fama quase mítica e quando imagens de uma apresentação deles aparece na internet, é como se alguém tivesse conseguido gravar um ovni aparecendo.

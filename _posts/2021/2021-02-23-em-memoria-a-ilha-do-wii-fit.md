@@ -1,16 +1,15 @@
 ---
+layout: post
 title: Em memória à ilha do Wii Fit
-date: 2021-02-23 09:01:00 -03:00
+author: arthurf
+image: "/uploads/2021/02/23/wii-fit-island.jpg"
 tags:
 - jogos
 - atividades físicas
 - Nintendo
 - Wii Fit
-layout: post
-author: arthurf
-image: "/uploads/2021/02/23/wii-fit-island.jpg"
+date: 2021-02-23 09:01 -0300
 ---
-
 Pelo último um ano e meio eu visitei a ilha do *Wii Fit* quase que diariamente. No verão eu costumava visitar no início da manhã, e no inverno eu costumava visitar no fim da tarde.
 
 Logo depois que a Vivi morreu, em agosto de 2019, eu comecei a procurar formas de ocupar o tempo que eu antes dedicava à ela. Eu pensei que eu devia começar a me exercitar mais, então eu encontrei um *Wii Fit Plus* usado no Mercado Livre. Eu sou bastante sedentário, e não gosto do ambiente de academia ou da cobrança que eu poderia sentir vendo outras pessoas se exercitando, então o *Wii Fit* parecia uma boa saída: ao invés de você reservar umas horas por dia para se exercitar, o jogo te ajuda a criar hábitos um pouco mais saudáveis espalhando pequenos treinos de 5, 10 ou 15 minutos pelo dia. Já no início de 2020 eu conseguia fazer cerca de trinta minutos por sessão, além de ter melhorado muito minha postura, o meu sono e a minha disposição.

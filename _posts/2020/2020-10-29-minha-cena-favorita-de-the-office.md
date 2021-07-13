@@ -1,15 +1,14 @@
 ---
+layout: post
 title: Minha cena favorita de The Office
-date: 2020-10-29 08:40:00 -02:00
+author: arthurf
 tags:
 - séries
 - cenas
 - The Office
 - Prime Video
-layout: post
-author: arthurf
+date: 2020-10-29 07:40 -0300
 ---
-
 Essa é a minha cena favorita da versão americana the *The Office*:
 
 <iframe class="full-width" src="https://www.youtube.com/embed/QOtuX0jL85Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,10 +1,10 @@
 ---
-title: Algumas anotações de atualizações
-date: 2021-05-05 08:06:00 -03:00
-tags:
-- meta
 layout: post
+title: Algumas anotações de atualizações
 author: arthurf
+tags:
+  - meta
+date: 2021-05-05 11:06 +0000
 ---
 
 Oi pessoal, queria só deixar uns avisos por aqui antes de começar o dia. Espero que todos estejam bem e seguros.

@@ -1,11 +1,11 @@
 ---
-title: Minha dieta cultural em 2018
-date: 2018-03-22 11:47:20 -03:00
-tags:
-- geral
-- leituras
 layout: post
+title: "Minha dieta cultural em 2018"
+date: "2018-03-22 11:47:20 -0300"
 author: arthurf
+tags:
+  - geral
+  - leituras
 ---
 
 Faz um tempinho já que eu andei pensando no porquê eu andar tão desinteressado por ver filmes e séries com a mesma frequência que eu andava assistindo. Eu cheguei na conclusão que é porque eu andava _assistindo demais_. Também fiquei preocupado quando o meu Kindle começou a ficar meses parado (a bateria dele morreu já algumas vezes, um verdadeiro crime) ou porque as minhas mixes do Spotify começaram a ter sempre os mesmos artistas.

@@ -1,15 +1,15 @@
 ---
-title: Eu estou apaixonado por Stop Making Sense
-date: 2019-09-04 09:00:00 -03:00
-tags:
-- resenhas
-- filmes
-- músicas
-- Talking Heads
-- Jonathen Demme
 layout: post
+date: "2019-09-04 09:00:00 -0300"
+title: "Eu estou apaixonado por Stop Making Sense"
 author: arthurf
 image: "/uploads/2019/09/stop-making-sense.jpg"
+tags:
+  - resenhas
+  - filmes
+  - músicas
+  - Talking Heads
+  - Jonathen Demme
 ---
 
 Umas semanas atrás eu parei pra assistir _Homecoming_, o filme-concerto do show da Beyoncé no Coachella 2018. Um filme grandioso, e faz a gente ter uma noção do porquê as performances foram chamadas de “históricas” no ano passado. É [mais um passo de Beyoncé em se firmar como um mito contemporâneo](https://www.vox.com/culture/2018/4/16/17242608/beyonce-coachella-paradox-icon). Além disso, é um filme muito bom. Eu nunca me interessei muito por “filmes-concerto” porque 1) eu sempre achava que era um show filmado; 2) eu sou desinformado. Daí eu amei _Homecoming_ e pensei “puxa, agora eu tenho que ver mais filmes-concerto”, e decidi começar pelo que já tinham me recomendado várias vezes e eu não dei muita bola.

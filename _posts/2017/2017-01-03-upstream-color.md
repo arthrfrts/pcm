@@ -1,16 +1,15 @@
 ---
-title: Upstream Color não sai da minha cabeça.
-date: 2017-01-03 00:00:00 -02:00
-categories:
-- Achados
-tags:
-- filmes
-- ficção científica
-- cinema experimental
-- MUBI
 layout: post
+date: 2017-01-03
+title: "Upstream Color não sai da minha cabeça."
+category: Achados
+tags:
+  - filmes
+  - ficção científica
+  - cinema experimental
+  - MUBI
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/upstream-color.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/upstream-color.jpg"
 ---
 
 Eu sou uma das seis pessoas no planeta que não gosta de _Primer_, o primeiro longa-metragem do diretor Shane Carruth. Pode falar que é porque eu não entendi, não tem problema, eu realmente posso não ter entendido; mas eu também não me senti apaixonado pela história pra fazer como os fãs e **diagramar** as linhas do tempo para tentar decodificar o que, afinal, tava acontecendo por lá.

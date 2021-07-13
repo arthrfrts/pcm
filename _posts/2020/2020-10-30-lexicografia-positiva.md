@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Lexicografia Positiva
-date: 2020-10-30 09:33:00 -02:00
+author: arthurf
 tags:
 - links
 - achados
-layout: post
-author: arthurf
+date: 2020-10-30 08:33 -0300
 ---
-
 [Lexicografia Positiva](https://hifisamurai.github.io/lexicography/) é um projeto iniciado por [Tim Lomas](https://www.drtimlomas.com/) que reúne palavras intraduzíveis de uma língua para outra que representam algo feliz.
 
 “Saudade” talvez seja a mais conhecida palavra sem equivalência na língua portuguesa, mas meu carinho favorito, o “cafuné”, também pertence ao léxico. O japonês é especialmente bonito:

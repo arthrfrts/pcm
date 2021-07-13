@@ -1,15 +1,14 @@
 ---
-title: Leia Brasileiros. É um pedido e uma dica.
-date: 2017-01-12 00:00:00 -02:00
-categories:
-- Achados
-tags:
-- leituras
-- links
-- newsletters
 layout: post
+title: "Leia Brasileiros. É um pedido e uma dica."
+category: Achados
+tags:
+  - leituras
+  - links
+  - newsletters
+date: 2017-01-12
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/leia-brasileiros.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/leia-brasileiros.jpg"
 ---
 
 (Tá aí uma dica que foi difícil de encontrar uma imagem pra ilustrar).

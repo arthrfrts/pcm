@@ -1,13 +1,13 @@
 ---
-title: A guerra pessoal de This War of Mine
-date: 2015-02-18 21:33:37 -02:00
-tags:
-- achados
-- jogos
-- estratégia
-- guerra
 layout: post
+title: "A guerra pessoal de This War of Mine"
 author: guilhermeb
+date: "2015-02-18 20:33:37 -0300"
+tags:
+  - achados
+  - jogos
+  - estratégia
+  - guerra
 ---
 
 Você esta com frio, fome e vivendo com desconhecidos sob o teto de uma casa abandonada.

@@ -1,12 +1,12 @@
 ---
-title: Os filmes de Cannes que eu quero ver, edição 2018
-date: 2018-05-20 23:53:15 -03:00
-tags:
-- filmes
-- festivais
-- Festival de Cannes
 layout: post
+title: 'Os filmes de Cannes que eu quero ver, edição 2018'
+date: '2018-05-21 02:53:15 UTC'
 author: arthurf
+tags:
+  - filmes
+  - festivais
+  - Festival de Cannes
 ---
 
 Todo ano eu fico meio _assim_ com Cannes, porque lendo a lista dos selecionados nada parece muito empolgante. "Ah, um novo do Von Trier! Quanto será que ele vai me irritar agora?" foi a reação mais forte que eu tive ao conferir a lista no início do mês. Agora que o festival acabou, que o [Notebook](https://mubi.com/notebook) já viu de tudo e postou notas sobre eles, eu começo a ficar interessado nas coisas tudo e preciso correr atrás.

@@ -1,14 +1,14 @@
 ---
-title: Dois trailers de projetos que eu estou empolgado pra assistir
-date: 2021-04-22 09:17:00 -03:00
-tags:
-- trailers
-- séries
-- filmes
-- Barry Jenkins
-- Léos Carax
 layout: post
+title: Dois trailers de projetos que eu estou empolgado pra assistir
 author: arthurf
+tags:
+  - trailers
+  - séries
+  - filmes
+  - Barry Jenkins
+  - Léos Carax
+date: 2021-04-22 09:17 -0300
 ---
 
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/_Pq5Usc_JDA" title="Trailer de The Underground Railroad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

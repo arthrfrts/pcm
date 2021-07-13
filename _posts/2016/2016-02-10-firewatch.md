@@ -1,13 +1,13 @@
 ---
-title: Firewatch apresenta a maturidade aos videogames
-date: 2016-02-10 00:00:00 -02:00
-tags:
-- jogos
-- jogos narrativos
-- Campo Santo
 layout: post
+date: 2016-02-10
+title: "Firewatch apresenta a maturidade aos videogames"
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg
+tags:
+  - jogos
+  - jogos narrativos
+  - Campo Santo
+image: "https://arthrfrts.files.wordpress.com/2018/03/campo-santo-firewatch.jpg"
 ---
 
 A gente aqui no PCM defende que os videogames não param de amadurecer. Nosso [jogo do ano]({% post_url 2015/2015-12-31-os-melhores-de-2015 %}), por exemplo, é uma obra-prima na narrativa e na participação do jogador, colocando ele como espectador e agente da ação ao mesmo tempo. Agora a gente tem o prazer de dar como dica nessa volta de carnaval um jogo que segue essa linha (e, ao mesmo tempo, se alinha com as outras dicas que teremos essa semana): _Firewatch_, o belíssimo jogo de estréia da Campo Santo.

@@ -1,13 +1,13 @@
 ---
-title: A simulação secreta de SimCity
-date: 2021-05-31 13:43:00 -03:00
-tags:
-- jogos
-- vídeos
-- simulação
-- SimCity
 layout: post
+title: A simulação secreta de SimCity
 author: arthurf
+tags:
+  - jogos
+  - vídeos
+  - simulação
+  - SimCity
+date: 2021-05-31 13:43 -0300
 ---
 
 {: .full-width }

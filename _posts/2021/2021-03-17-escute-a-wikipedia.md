@@ -1,13 +1,12 @@
 ---
+layout: post
 title: Escute a Wikipédia
-date: 2021-03-17 08:02:00 -03:00
+author: arthurf
 tags:
 - links
 - Wikipédia
-layout: post
-author: arthurf
+date: 2021-03-17 08:02 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube.com/embed/F-1CwdqGGPM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O vídeo acima é uma gravação de tela do site [Listen to Wikipedia](http://listen.hatnote.com/), um desses experimentos web que eu amo descobrir do nada. O projeto registra a movimentação constante das edições do maior site colaborativo da internet, e cada adição, exclusão e novo usuário são indicados por notas e acordes diferentes de maneira instantânea.

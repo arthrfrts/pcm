@@ -1,12 +1,12 @@
 ---
-title: Everything Now pede para encararmos o abismo juntos
-date: 2017-07-27 00:00:00 -03:00
-tags:
-- músicas
-- rock
-- Arcade Fire
 layout: post
-image: https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg
+date: 2017-07-27
+title: "Everything Now pede para encararmos o abismo juntos"
+image: "https://arthrfrts.files.wordpress.com/2018/03/everything-now.jpg"
+tags:
+  - músicas
+  - rock
+  - Arcade Fire
 author: arthurf
 ---
 

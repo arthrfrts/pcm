@@ -1,12 +1,12 @@
 ---
-title: Orla Gartland entende como é querer trocar de corpo com alguém
-date: 2021-05-28 09:00:00 -03:00
-tags:
-- músicas
-- vídeos
-- Orla Gartland
+date: "2021-05-28 09:00:00 -0300"
 layout: post
+title: Orla Gartland entende como é querer trocar de corpo com alguém
 image: "/uploads/2021/05/28/Orla_post1.png"
+tags:
+  - músicas
+  - vídeos
+  - Orla Gartland
 author: raulf
 ---
 

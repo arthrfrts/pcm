@@ -1,16 +1,16 @@
 ---
-title: A decadência silenciosa dos jogos da Nintendo
-date: 2021-04-19 13:22:00 -03:00
-tags:
-- esquinas
-- jogos
-- Nintendo
-- The Legend of Zelda
-- Animal Crossing
-- Pokémon
 layout: post
+title: A decadência silenciosa dos jogos da Nintendo
 image: "/uploads/2021/04/19/zelda-ruinas.png"
+date: "2021-04-19 13:22:00 -0300"
 author: arthurf
+tags:
+  - esquinas
+  - jogos
+  - Nintendo
+  - The Legend of Zelda
+  - Animal Crossing
+  - Pokémon
 ---
 
 No fim do mês passado, *Animal Crossing: New Horizons* completou um ano de lançamento. A minha ilha no jogo, Léte, também. Isabelle me entregou um bolo de primeiro aniversário para comemorar, mas eu sentia um peso na consciência.

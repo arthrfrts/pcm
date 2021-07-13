@@ -1,15 +1,14 @@
 ---
-title: Gilmore Girls não é a melhor série já feita, mas é a melhor série já feita
-date: 2016-07-04 00:00:00 -03:00
-tags:
-- séries
-- drama
-- comédia
-- Gilmore Girls
-- Netflix
 layout: post
+title: "Gilmore Girls não é a melhor série já feita, mas é a melhor série já feita"
+tags:
+  - séries
+  - drama
+  - comédia
+  - Gilmore Girls
+  - Netflix
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls.jpg
+image: "https://arthrfrts.files.wordpress.com/2018/03/gilmore-girls.jpg"
 ---
 
 Na última sexta-feira a Netflix liberou pro resto do mundo as sete temporadas de _Gilmore Girls_, antes disponíveis somente para a América do Norte. Se você, assim como eu, assistia nas terças-feiras de noite na Warner Channel, deve ter vibrado com a notícia. Afinal, _Gilmore Girls_ é a melhor série já feita.

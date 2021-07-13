@@ -1,15 +1,14 @@
 ---
+layout: post
 title: Um guia gentil para você começar a usar RSS
-date: 2021-06-09 20:25:00 -03:00
+author: arthurf
 tags:
 - web
 - tutoriais
 - RSS
 - extensões para o Firefox
-layout: post
-author: arthurf
+date: 2021-06-09 20:25 -0300
 ---
-
 [Eu escrevi aqui]({% post_url 2021/2021-01-26-lista-de-leitura %}) ([mais de uma vez]({% post_url 2019/2019-09-11-e-hora-de-pegarmos-a-internet-de-volta %})) sobre como RSS é bom e como ele melhorou meu dia-a-dia na internet depois que eu voltei a usá-lo. Eu tô prestes a terminar um próximo post sobre ele, mas antes disso eu lembrei que alguns amigos meus me pediram ajuda para começar a usar leitores de feeds, e os tutoriais na internet sobre o assunto geralmente são escritos por entusiastas da tecnologia, que têm um tom um pouco presunçoso. Então eu decidi escrever esse guia bem simples de como configurar um leitor e encontrar seus feeds favoritos.
 
 ## O que é o RSS

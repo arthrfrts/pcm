@@ -1,17 +1,16 @@
 ---
+layout: post
 title: Paris, Texas é o filme do dia do MUBI
-date: 2020-12-06 19:49:00 -02:00
+excerpt: "“Paris, Texas” é um dos meus filmes favoritos, e abre a programação especial
+  de Wim Wenders no @mubi."
+author: arthurf
 tags:
 - filmes
 - mostras
 - Wim Wenders
 - MUBI
-layout: post
-excerpt: "“Paris, Texas” é um dos meus filmes favoritos, e abre a programação especial
-  de Wim Wenders no @mubi."
-author: arthurf
+date: 2020-12-06 18:49 -0300
 ---
-
 <video class="full-width" src="//trailers.mubicdn.net/1502/t_paris-texas_en_xx_800_720x400_52_1502.m4v" controls poster="//assets.mubicdn.net/images/film/1502/image-w1280.jpg"></video>
 
 Quando eu vi *Paris, Texas* pela primeira vez, em 2014, eu terminei o filme pensando que ele era o melhor filme que eu já vi. Em meus melhores dias, eu ainda penso isso. O filme começa com a história de um homem andando sozinho pelo deserto do Texas, e se transforma em uma jornada pelo coração do sonho americano — um sonho que talvez nunca tenha sido realidade, mas seus fantasmas estão por todo o lugar.

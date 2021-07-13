@@ -1,15 +1,14 @@
 ---
+layout: post
 title: Uma ponte pra cada situação
-date: 2021-04-13 07:29:00 -03:00
+author: arthurf
 tags:
 - links
 - vídeos
 - engenharia
 - miscelânea
-layout: post
-author: arthurf
+date: 2021-04-13 07:29 -0300
 ---
-
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/1bUnFjMOrPs" title="Reprodutor de vídeos do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Neremiah Mabry](https://www.nehemiahmabry.com/) é um professor e um engenheiro de estruturas, e nesse vídeo para a revista Wired ele explica cada tipo diferente de ponte e qual situação ela é usada.

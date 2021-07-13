@@ -1,12 +1,12 @@
 ---
-title: Uns fãs de Community fizeram um jogo de paintball assassino
-date: 2021-01-19 09:52:00 -02:00
-tags:
-- jogos
-- FPS
-- Community
 layout: post
+title: Uns fãs de Community fizeram um jogo de paintball assassino
 author: arthurf
+tags:
+  - jogos
+  - FPS
+  - Community
+date: 2021-01-19 08:52 -0300
 ---
 
 Um grupo de aspirantes a desenvolvedores de jogos se juntaram para criar _Six Seasons and a Game_, um jogo de paintball assassino na faculdade de Greendale, o cenário de _Community_. E não é que o resultado ficou muito bom?

@@ -1,17 +1,16 @@
 ---
+layout: post
 title: O segredo de The Sims 2 é algo bem simples
-date: 2021-07-09 09:34:00 -03:00
+author: arthurf
+excerpt: The Sims 2 tem um recurso bem simples que o torna no melhor jogo da série,
+  e nenhum The Sims desde então o trouxe de volta.
 tags:
 - jogos
 - simulação
 - The Sims
 - Maxis
-layout: post
-author: arthurf
-excerpt: The Sims 2 tem um recurso bem simples que o torna no melhor jogo da série,
-  e nenhum The Sims desde então o trouxe de volta.
+date: 2021-07-09 12:34 +0000
 ---
-
 Eu passei muito tempo pensando no porquê eu me sinto meio fora de *The Sims 4*. Eu amo muitas coisas no jogo. Os sistemas são poderosos -- Sims agora são multitarefas, sentimentos deram uma nova imprevisibilidade na simulação, e relacionamentos estão muito melhores do que nas gerações anteriores. E eu amo a direção de arte do jogo, uma evolução natural de *The Sims 1* e *The Sims 2*, deixando o realismo estranho de *TS3* em favor de algo mais expressivo e divertido.
 
 Mas alguma coisa não estava clicando em mim até recentemente. Eu venho experimentando *TS4* [desde o lançamento]({% post_url 2014/2014-08-11-the-sims-4-parece-ser-de-uma-nova-maxis %}), e [me diverti um bocado com o pacote de expansão *Estações*]({% post_url 2019/2019-02-15-vivendo-e-crescendo-com-the-sims %}), mas eu sempre senti que algo estava faltando. Então, depois de anos especulando eu decidi que ia tentar descobrir o que era. Eu reinstalei *The Sims 2*, o jogo que eu tenho as melhores memórias, e a resposta veio rapidamente.

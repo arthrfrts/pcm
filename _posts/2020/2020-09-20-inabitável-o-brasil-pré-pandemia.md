@@ -1,17 +1,16 @@
 ---
+layout: post
 title: Inabitável — O Brasil pré-pandemia
-date: 2020-09-20 08:55:00 -03:00
+author: guilhermen
+image: "/uploads/2020/09/20/inabitavel.jpg"
 tags:
 - filmes
 - curtas
 - cinema nacional
 - festivais
 - Festival de Gramado
-layout: post
-author: guilhermen
-image: "/uploads/2020/09/20/inabitavel.jpg"
+date: 2020-09-20 08:55 -0300
 ---
-
 **Esse texto pode conter detalhes da trama do curta-metragem *Inabitável* (2020, Matheus Farias e Enock Carvalho), então se ainda não assistiu pense duas vezes antes de ler.**
 
 ***

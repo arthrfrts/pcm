@@ -1,6 +1,6 @@
 ---
-title: Mensagem enviada com sucesso!
 layout: page
+title: Mensagem enviada com sucesso!
 sitemap: false
 ---
 

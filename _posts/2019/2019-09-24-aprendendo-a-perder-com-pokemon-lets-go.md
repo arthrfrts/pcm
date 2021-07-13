@@ -1,18 +1,17 @@
 ---
-title: Aprendendo a perder com Pokémon Let's Go! Eevee
-date: 2019-09-25 09:00:00 -03:00
-categories:
-- Reconsiderações
-tags:
-- requentando
-- jogos
-- Pokémon
-- Nintendo
-- Nintendo Switch
-- RPG
 layout: post
-image: "/uploads/2019/pokemon-lets-go-cover.jpg"
+category: Reconsiderações
+date: "2019-09-25 09:00:00 -0300"
+title: Aprendendo a perder com Pokémon Let's Go! Eevee
+image: /uploads/2019/pokemon-lets-go-cover.jpg
 author: arthurf
+tags:
+  - requentando
+  - jogos
+  - Pokémon
+  - Nintendo
+  - Nintendo Switch
+  - RPG
 ---
 
 Eu não dei muita bola para _Pokémon Let’s Go! Eevee_ na primeira vez que eu joguei, no ano passado. Focado nos novos jogadores que conheceram os monstrinhos através de _Pokémon Go_, _Let’s Go!_ é um remake dos primeiros jogos da franquia (_Pokémon Yellow_, pra ser mais exato) com algumas diferenças no sistema de capturas, que se assemelha mais à mecânica do jogo de celular. Antes, você batalhava com um pokémon selvagem para você enfraquecê-lo e ficar mais fácil de capturá-lo, agora você só precisa acertar bem a mira da pokébola.

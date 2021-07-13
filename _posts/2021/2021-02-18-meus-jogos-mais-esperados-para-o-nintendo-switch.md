@@ -1,15 +1,14 @@
 ---
+layout: post
 title: Meus jogos mais esperados para o Nintendo Switch
-date: 2021-02-18 10:14:00 -02:00
+author: arthurf
+image: "/uploads/2021/02/18/metroid.jpg"
 tags:
 - listas
 - jogos
 - Nintendo Switch
-layout: post
-author: arthurf
-image: "/uploads/2021/02/18/metroid.jpg"
+date: 2021-02-18 09:14 -0300
 ---
-
 Eu acho que eu [já disse isso aqui antes]({{ site.jekyll-archives.permalinks.tag | replace: ":name", "nintendo-switch" }}), mas eu amo meu Switch. Eu amo estar com ele por perto e saber que na primeira oportunidade que eu tiver eu posso jogar [o meu jogo favorito]({% post_url 2017/2017-07-25-the-legend-of-the-zelda-breath-of-the-wild %}), ou posso passar um tempo me divertindo com [um joguinho curto]({% post_url 2020/2020-08-31-impressoes-the-last-campfire %}). A biblioteca dele é ampla e, mesmo que careça das franquias blockbuster como *Assassin's Creed* ou *Call of Duty*, o Switch aposta mais numa variedade entre jogos indie, favoritos da crítica, experimentos (como o Labo) e, claro, os exclusivos da Nintendo. O Switch tá vivendo o mesmo ponto alto que o Wii viveu entre 2007 e 2009: tá vendendo muito, então as desenvolvedoras querem colocar qualquer coisa nele para vender também — nem tudo é bom, mas tem muita coisa boa.
 
 Fora os jogos, o Switch não tem muito o que mostrar. Por isso que quando a Nintendo fez o primeiro Direct em um ano e meio, a gente já sabia o que esperar: uma caralhada de jogos que devem aparecer para o videogame no próximo ano (e algumas surpresas para 2022). Eu quero vários deles, então aqui vai uma lista de todos os jogos já anunciados para o Switch, para eu me organizar.

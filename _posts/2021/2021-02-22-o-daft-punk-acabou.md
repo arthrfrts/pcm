@@ -1,11 +1,10 @@
 ---
-title: O Daft Punk acabou
-date: 2021-02-22 00:00:00 -03:00
-tags:
-- músicas
-- Daft Punk
 layout: post
+title: O Daft Punk acabou
 author: arthurf
+tags:
+  - músicas
+  - Daft Punk
 ---
 
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/DuDX6wNfjqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

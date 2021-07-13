@@ -1,15 +1,14 @@
 ---
+layout: post
 title: "“Halt and Catch Fire” e “The Soul of a New Machine”"
-date: 2020-07-28 20:42:00 -03:00
+author: arthurf
 tags:
 - livros
 - séries
 - Halt and Catch Fire
 - Tracy Kidder
-layout: post
-author: arthurf
+date: 2020-07-28 20:42 -0300
 ---
-
 Ontem de noite estavam comentando sobre a abertura de uma das minhas séries favoritas no Twitter, *Halt and Catch Fire*:
 
 {: .full-width }

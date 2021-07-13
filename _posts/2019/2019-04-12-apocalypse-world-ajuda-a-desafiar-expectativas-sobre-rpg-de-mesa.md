@@ -1,15 +1,15 @@
 ---
-title: Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa
-date: 2019-04-12 09:00:00 -03:00
-tags:
-- esquinas
-- jogos
-- RPG
+date: '2019-04-12 09:00:00 -0300'
 layout: post
-image: https://i.imgur.com/JoGNqv9.jpg
+title: Apocalypse World ajuda a desafiar expectativas sobre RPG de mesa
+image: 'https://i.imgur.com/JoGNqv9.jpg'
+tags:
+  - esquinas
+  - jogos
+  - RPG
 author: raulf
+published: true
 ---
-
 Talvez você já tenha jogado RPG no passado. Normalmente RPG surge como aquela brincadeira meio diferente que o seu primo ou amigo da escola trás para um dia de chuva, ou quando cai a luz, ou só como um jeito de quebrar a monotonia mesmo. Talvez você só se lembre que existe porque ele apareceu em um episódio de _Bob Esponja_ ou _Stranger Things_. Talvez só tenha jogado uma versão eletrônica. Independente disso, e até mesmo entre veteranos dos jogos, existe uma idéia cultural um pouco difusa sobre o que é um RPG de mesa, e como ele funciona.
 
 Muitas pessoas que já jogaram RPG tiveram contato com jogos conhecidos e aclamados como _GURPS_, _Vampiro_, _[Tormenta](https://jamboeditora.com.br/produto/tormenta-rpg-modulo-basico-edicao-guilda-do-macaco/)_ e _[3D&T](https://jamboeditora.com.br/produto/manual-3det-alpha-edicao-revisada-digital/)_, mas me parece difícil questionar que _[Dungeons & Dragons](https://youtu.be/BdfD6yhAFyo?list=PLBUHZABfdSE7YWveKpq4dfA75CMYtw2pP)_ costuma ser o primeiro contato da maioria. _Dungeons & Dragons_ é um jogo de contar histórias, onde os jogadores interpretam heróis medievais fantásticos e o Mestre comanda um mundo de monstros na direção deles. _D&D_ é um jogo de combates dramáticos, inimigos grandiosos e conquistas impressionantes.

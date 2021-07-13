@@ -1,14 +1,13 @@
 ---
+layout: post
 title: As fotos que compõem os quadros de Norman Rockwell
-date: 2021-02-09 09:37:00 -02:00
+author: arthurf
 tags:
 - links
 - pinturas
 - artes plásticas
-layout: post
-author: arthurf
+date: 2021-02-09 08:37 -0300
 ---
-
 Por muitos anos, as obras do pintor Norman Rockwell foram desmerecidas por serem consideradas clichês. Suas pinturas eram retratos do cotidiano, mas seu uso de cores fortes e expressões faciais bem demarcadas são facilmente consideradas como sentimentalistas, que costumavam estampar capas de revistas ou anúncios.
 
 Esse estilo e seus sujeitos — geralmente momentos mundanos, como um garoto levando uma injeção ou uma criança espiando outros passageiros pelos bancos do trem — que fazem a obra de Rockwell ser onipresente. Como outro pintor da época, Edward Hopper, Rockwell se interessava muito mais por representar o dia-a-dia americano. Mas os interesses dos artistas estavam em lugares diferentes, segundo o [OpenCulture](https://www.openculture.com/2021/02/how-norman-rockwell-used-photographs-to-create-his-famous-paintings.html):

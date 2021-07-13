@@ -1,15 +1,15 @@
 ---
-title: Um guia pelo rio das almas — Here And There Along The Echo
-date: 2015-02-26 00:00:00 -03:00
-tags:
-- jogos
-- telejogo
-- experimentais
-- Cardboard Computer
-- Kentucky Route Zero
 layout: post
 author: arthurf
-image: https://i.imgur.com/i0AU14r.png
+date: 2015-02-26
+title: Um guia pelo rio das almas — Here And There Along The Echo
+image: "https://i.imgur.com/i0AU14r.png"
+tags:
+  - jogos
+  - telejogo
+  - experimentais
+  - Cardboard Computer
+  - Kentucky Route Zero
 ---
 
 Não só uma das melhores experiências jogáveis dos últimos anos, *Kentucky Route Zero* é um incrível criador de lendas. Seu universo calcado no realismo fantástico, com fortes referências à literatura romântica e ao cinema de Tarkovsky (principalmente _Stalker_ e *Solaris*) dão aos ambientes e aos personagens do jogo dividido em cinco atos uma aura emblemática e inquisitiva. Não dá pra não se sentir preso ao universo de _KR0_ para descobrir os mistérios por baixo da encenação teatral.

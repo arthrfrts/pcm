@@ -1,14 +1,13 @@
 ---
+layout: post
 title: Fotos restauradas das missões Apollo
-date: 2021-04-26 19:39:00 -03:00
+author: arthurf
 tags:
 - links
 - fotos
 - espaço
-layout: post
-author: arthurf
+date: 2021-04-26 19:39 -0300
 ---
-
 {: .full-width }
 ![]({% link uploads/2021/04/26/nasa1.jpg %})
 ![]({% link uploads/2021/04/26/nasa2.jpg %})

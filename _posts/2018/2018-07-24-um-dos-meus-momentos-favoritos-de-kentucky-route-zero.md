@@ -1,12 +1,12 @@
 ---
-title: Um dos meus momentos favoritos de Kentucky Route Zero
-date: 2018-07-24 12:42:41 -03:00
-tags:
-- jogos
-- momentos
-- Kentucky Route Zero
 layout: post
+title: 'Um dos meus momentos favoritos de Kentucky Route Zero'
+date: '2018-07-24 15:42:41 UTC'
 author: arthurf
+tags:
+  - jogos
+  - momentos
+  - Kentucky Route Zero
 ---
 
 Eu acordei hoje lembrando de um dos meus momentos favoritos de _Kentucky Route Zero_ (dos vários):

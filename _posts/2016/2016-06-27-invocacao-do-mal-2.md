@@ -1,14 +1,13 @@
 ---
-title: Invocação do Mal 2 quase não assusta, mas também não tá aí pra isso
-date: 2016-06-27 00:00:00 -03:00
-tags:
-- filmes
-- cinema americano
-- terror
-- James Wan
 layout: post
+title: "Invocação do Mal 2 quase não assusta, mas também não tá aí pra isso"
 author: arthurf
-image: https://arthrfrts.files.wordpress.com/2018/03/conjuring-2.jpg
+tags:
+  - filmes
+  - cinema americano
+  - terror
+  - James Wan
+image: "https://arthrfrts.files.wordpress.com/2018/03/conjuring-2.jpg"
 ---
 
 Eu amo o primeiro _Invocação do Mal_. É excelente em vários níveis. Ele é um filme de terror que volta aquele tipo clássico do início dos anos 1970, como _O Bebê de Rosemary_ e _O Exorcista_ e, mesmo não sendo tão bom quanto esses, ele acha um lugar só seu pelos mesmos motivos. O mal ali era outro: o do desconhecido e, por isso, do incontrolável. _Invocação do Mal_ nunca mostrava essa força maligna — ele mostrava como ela destruía a vida de uma família, cabia ao espectador imaginá-la.

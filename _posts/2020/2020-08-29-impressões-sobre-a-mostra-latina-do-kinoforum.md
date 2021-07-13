@@ -1,6 +1,9 @@
 ---
+layout: post
 title: Impressões sobre a Mostra Latina do Kinoforum
-date: 2020-08-29 15:24:00 -03:00
+excerpt: E o que assistir.
+author: tainaraf
+image: "/uploads/2020/08/29/as-particulas.jpg"
 tags:
 - achados
 - filmes
@@ -8,12 +11,8 @@ tags:
 - cinema latino-americano
 - festivais
 - Kinoforum
-layout: post
-excerpt: E o que assistir.
-author: tainaraf
-image: "/uploads/2020/08/29/as-particulas.jpg"
+date: 2020-08-29 15:24 -0300
 ---
-
 “O que é ser latina?”, era a pergunta que me atingia enquanto adentrava nos 15 curtas selecionados para a Mostra Latino Americana do 31º Kinoforum. Esse continente imaginário, fundado a partir das veias abertas, produz seu cinema de maneira quase à deriva. Os processos que vemos nas telas, são incrustados deste espírito que atravessa terras e memórias de povos subjugados e colonizados. De países que cresceram a mercê do domínio estrangeiro, mas que tem sua linguagem própria, seus mitos e seu imaginário coletivo para narrar no cinema.
 
 Pensando numa forma de organizar esse relato do que assisti nesta última semana, decidi que a melhor forma seria comentar individualmente cada dia de mostra.
