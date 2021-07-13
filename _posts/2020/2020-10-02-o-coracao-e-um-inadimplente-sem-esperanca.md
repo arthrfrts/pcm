@@ -1,14 +1,15 @@
 ---
-layout: post
 title: O Coração É Um Inadimplente Sem Esperança
-author: arthurf
+date: 2020-10-02 16:03:00 -03:00
 tags:
 - curtas
 - filmes
 - achados
 - Fantasma do Espaço
-date: 2020-10-02 16:03 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/_VFGu7m3th8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Meu amigão Leonardo Michelon lançou hoje um curta que ele fez nessa estação chuvosa que a gente tá tendo aqui no sul.

@@ -1,14 +1,15 @@
 ---
-layout: post
 title: As relações complicadas entre pais e filhos em Peanuts
-author: arthurf
+date: 2021-03-02 08:18:00 -03:00
 tags:
 - leituras
 - gibis
 - tirinhas
 - Peanuts
-date: 2021-03-02 08:18 -0300
+layout: post
+author: arthurf
 ---
+
 A tira do dia[^1] de *Peanuts* é essa (via [Comics.com](https://www.gocomics.com/peanuts/2021/03/02)):
 
 {: .full-width }

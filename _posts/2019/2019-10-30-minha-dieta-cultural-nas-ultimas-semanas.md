@@ -1,17 +1,17 @@
 ---
-layout: post
-date: 2019-10-30
 title: Minha dieta cultural nas últimas semanas
-image: "/uploads/2019/10/forever.jpg"
-excerpt: "Sem tempo irmão."
-author: arthurf
+date: 2019-10-30 01:00:00 -02:00
 tags:
-  - listas
-  - leituras
-  - links
-  - séries
-  - filmes
-  - dieta cultural
+- listas
+- leituras
+- links
+- séries
+- filmes
+- dieta cultural
+layout: post
+image: "/uploads/2019/10/forever.jpg"
+excerpt: Sem tempo irmão.
+author: arthurf
 ---
 
 Oi pessoal! As últimas semanas têm sido uma loucura, e eu infelizmente tô sem tempo pra terminar os posts que eu tenho planejado pra postar no PCM. Em um mundo perfeito eu teria contribuições bacanas pra postar nas semanas que eu não consigo escrever, mas em um mundo _mais_ perfeito ainda eu teria dinheiro pra pagar meus amigos pra escrever algo legal, então eu não fico chateado com isso (mas esse é um dos meus planos pro PCM em 2020, spoiler!).

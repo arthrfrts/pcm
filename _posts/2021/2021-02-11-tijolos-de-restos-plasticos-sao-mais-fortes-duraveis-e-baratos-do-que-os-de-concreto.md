@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Tijolos de restos plásticos são mais fortes que os de concreto
-author: arthurf
+date: 2021-02-11 10:30:00 -02:00
 tags:
 - links
 - miscelânea
 - meio-ambiente
-date: 2021-02-11 09:30 -0300
+layout: post
+author: arthurf
 ---
+
 Eu tava precisando de uma boa notícia essa semana, e olha só essa: uma jovem chamada Nzambi Matee começou uma empresa que fabrica pavimentos feitos com restos plásticos que são mais fortes, duráveis e baratos do que os feitos com concreto. Ainda por cima, ajudam a reduzir um tipo perigoso de poluição que permanece muito tempo no planeta. Pelos seus esforços, Matee foi honrada pela ONU:
 
 > Each day, the business churns out 1,500 plastic pavers, which are prized by schools and homeowners because they are both durable and affordable. Gjenge Makers is also giving a second life to plastic bottles and other containers which would otherwise end up in landfills or, worse, on Nairobi’s streets.

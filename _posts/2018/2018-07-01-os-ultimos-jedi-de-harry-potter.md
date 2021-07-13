@@ -1,13 +1,13 @@
 ---
-layout: post
-date: '2018-07-01 19:18:02 UTC'
-author: arthurf
-tags:
-  - filmes
-  - livros
-  - Harry Potter
-  - Star Wars
 title: Os Últimos Jedi de Harry Potter
+date: 2018-07-01 16:18:02 -03:00
+tags:
+- filmes
+- livros
+- Harry Potter
+- Star Wars
+layout: post
+author: arthurf
 ---
 
 Ontem de noite eu não tinha muita coisa pra pensar (ou melhor, eu devia estar pensando num post que eu tô escrevendo mas não tava conseguindo evoluir) e fiquei fazendo equivalentes entre _Star Wars_ e _Harry Potter_.

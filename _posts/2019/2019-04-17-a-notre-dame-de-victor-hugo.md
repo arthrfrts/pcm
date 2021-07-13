@@ -1,16 +1,17 @@
 ---
-date: '2019-04-17 09:00:00 -0300'
-layout: post
 title: A Notre Dame de Victor Hugo
-image: 'https://i.imgur.com/mgAX8vK.jpg'
+date: 2019-04-17 09:00:00 -03:00
 tags:
-  - requentando
-  - leituras
-  - livros
-  - Victor Hugo
-  - momentos
+- requentando
+- leituras
+- livros
+- Victor Hugo
+- momentos
+layout: post
+image: https://i.imgur.com/mgAX8vK.jpg
 author: arthurf
 ---
+
 “Paris foi decapitada”, [disse um homem ao New York Times](https://www.nytimes.com/2019/04/15/world/europe/notre-dame-fire.html) quando o pináculo da Catedral de Notre Dame caiu, consumida pelas chamas.
 
 Ainda não se tem ideia do quanto da Notre Dame se perdeu no incêndio de segunda-feira, mas o evento foi acompanhado pelo mundo com tristeza e desespero. O fogo não apenas ameaçou levar um dos mais conhecidos espaços sagrados do ocidente, e não apenas um tesouro artístico. Notre Dame, e obras arquitetônicas como ela espalhadas pelo mundo, são uma lembrança da realização humana como sociedade. Notre Dame não é a obra de uma pessoa, mas de gerações e gerações que a construíram, das gerações que a visitaram, e da geração que, por um momento, imaginou perdê-la.

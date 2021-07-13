@@ -1,16 +1,17 @@
 ---
-date: '2019-10-01 21:54 -0300'
-layout: post
-category: resenhas
-published: true
 title: 'Miojo Indie: É bom ler sobre o que a gente ama ouvir'
+date: 2019-10-01 21:54:00 -03:00
+categories:
+- resenhas
 tags:
-  - resenhas
-  - links
-  - blogs
+- resenhas
+- links
+- blogs
+layout: post
 author: arthurf
-image: /uploads/2019/miojoindie.jpg
+image: "/uploads/2019/miojoindie.jpg"
 ---
+
 Quando eu e o Fillipe decidimos criar o Pão com Mortadela, lá em 2012, a gente ficou matutando por um bom tempo sobre que nome dar. No fim das contas a gente buscou inspiração nos nossos blogs favoritos da época, e um deles era um blog de resenhas de discos chamado [Miojo Indie](http://miojoindie.com.br/). A gente seguiu o tema de comidas e escolheu um lanche que por sinal era o que a gente fazia quando se reunia na minha casa de tarde pra discutir nossos planos mirabolantes pro que seria o PCM.
 
 Criado em 2010 e mantido até hoje por Cleber Facchi, o Miojo Indie publica quase que diariamente resenhas, compilações e especiais sobre álbuns, artistas e carreiras musicais. De [críticas dos álbuns lançados na última semana](http://miojoindie.com.br/critica-desfaz-de-conta-lulina/) à [listas periódicas de melhores discos](http://miojoindie.com.br/30-discos-de-1999/), o blog é há anos a minha referência do que ouvir e o que descobrir pra preencher os minutos de silêncio do meu dia-a-dia.

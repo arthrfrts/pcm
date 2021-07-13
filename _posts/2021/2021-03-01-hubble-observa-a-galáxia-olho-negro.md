@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Hubble observa a Galáxia Olho Negro
-author: arthurf
+date: 2021-03-01 07:26:00 -03:00
 tags:
 - links
 - espaço
 - Hubble
-date: 2021-03-01 07:26 -0300
+layout: post
+author: arthurf
 ---
+
 {: .full-width }
 ![Galáxia Olho Negro, com seu anel de poeira escura cobrindo o núcleo]({% link uploads/2021/02/28/galaxia-olho-negro.jpg %})
 

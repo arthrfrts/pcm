@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Mensagem enviada com sucesso!
+layout: page
 sitemap: false
 ---
 

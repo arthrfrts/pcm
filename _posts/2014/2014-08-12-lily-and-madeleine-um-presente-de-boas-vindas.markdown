@@ -1,14 +1,15 @@
 ---
-layout: post
-title: "Lily and Madeleine: um presente de boas vindas"
-date: "2014-08-12 19:44:17 -0300"
+title: 'Lily and Madeleine: um presente de boas vindas'
+date: 2014-08-12 19:44:17 -03:00
 tags:
-  - achados
-  - músicas
-  - indie
+- achados
+- músicas
+- indie
+layout: post
 author: vanessao
-image: "https://arthrfrts.files.wordpress.com/2018/03/2baeb64276ae4bffbf47887a7e75f66f.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/2baeb64276ae4bffbf47887a7e75f66f.jpg
 ---
+
 _Lily and Madeleine_ até agora era o meu tesouro particular. Daquelas descobertas tão especiais, que compartilha-las é como presentear alguém, e nada melhor para uma primeira postagem, do que um presente.
 
 Eis que em uma tarde tediosa de exploração pelo incrível mundo da internet, encontro, perdido e tímido no canto de um site do qual não lembro o nome, um link, sem muita explicação, apenas um link jogado, foi ali que eu tive uma das melhores descobertas musicais da minha vida (ao menos a mais recente). Em meados do ano passado, fui totalmente surpreendida e conquistada pelo pop folk de duas irmãs adolescentes de Indiana.

@@ -1,13 +1,13 @@
 ---
+title: 'Looking: a segunda temporada'
+date: 2015-03-02 00:00:00 -03:00
+tags:
+- séries
+- romance
+- Andrew Haigh
+- HBO
 layout: post
 author: arthurf
-date: 2015-03-02
-title: "Looking: a segunda temporada"
-tags:
-  - séries
-  - romance
-  - Andrew Haigh
-  - HBO
 ---
 
 Desde a primeira temporada eu defendo que _Looking_ é uma grande série que tem como maior defeito buscar um nicho bastante restrito do público. Bem, eu estava errado. Com o episódio dessa semana, *Looking* se tornou uma das melhores séries na TV atualmente — e se focar em um público específico talvez seja seu maior acerto.

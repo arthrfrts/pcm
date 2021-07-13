@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Succession é uma nova Game of Thrones (só que muito, muito melhor)"
-date: "2019-08-07 09:00"
+title: Succession é uma nova Game of Thrones (só que muito, muito melhor)
+date: 2019-08-07 09:00:00 -03:00
+tags:
+- resenhas
+- séries
+- drama
+- HBO
+layout: post
 author: arthurf
 image: "/uploads/2019/08/succession.jpeg"
-tags:
-  - resenhas
-  - séries
-  - drama
-  - HBO
 ---
 
 Os Roys, a família no centro de _Succession_, não é muito diferente dos Sopranos e dos Lannisters, outras famílias que protagonizaram outras séries da HBO. Mas, diferente de _Família Soprano_ e de _Game of Thrones_, _Succession_ não pode ver sua família sob a ótica de um gênero televisivo, como a máfia dos Sopranos ou a alta fantasia com os Lannisters. Não, o mundo em que os Roys vive é bem semelhante ao nosso. É justamente o que dificulta você se apaixonar por uma série de tragicomédia como essa, mas é justamente o que torna ela tão boa.

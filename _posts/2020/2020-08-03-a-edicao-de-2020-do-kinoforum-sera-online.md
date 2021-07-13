@@ -1,16 +1,17 @@
 ---
-layout: post
 title: A edição de 2020 do Kinoforum será online
-image: "/uploads/2020/08/02/kinoforum-2020.jpeg"
-author: guilhermen
+date: 2020-08-03 09:45:00 -03:00
 tags:
 - esquinas
 - filmes
 - curtas
 - festivais
 - Kinoforum
-date: 2020-08-03 09:45 -0300
+layout: post
+image: "/uploads/2020/08/02/kinoforum-2020.jpeg"
+author: guilhermen
 ---
+
 O curta-metragem sempre foi um interessante formato de experimentação e descoberta para o audiovisual. Até 1910 as sessões de cinema eram compostas por uma seleção de pequenos filmes que, após a passagem da década, passaram a ser exibidos como "complemento" para a atração principal: os *feature films* (longas-metragens). A partir daí, infelizmente, os espaços e caminhos de circulação dos filmes de curta-metragem foram se estreitando cada vez mais. Hoje, apesar do home vídeo, do streaming, e de todas as possibilidades e comodidades possíveis, o curta acaba por não fazer parte dos hábitos de consumo em cultura e audiovisual da grande maioria das pessoas, assim como não existem exibições dedicadas a este formato no circuito comercial de cinemas.
 
 O interesse em torno do curta-metragem acabou se limitando ao estudo, à pesquisa, e ao seu caráter experimental explorado por festivais e mostras de cinema. Embora esses limitantes façam o curta circular menos e ser um formato menos divulgado e incentivado, de alguma forma isso acaba dando ao formato uma maior liberdade na criação de novas formas de se expressar - se por um lado essa falta de interesse "comercial" afeta o curta limitando sua distribuição, por outro permite ao formato uma maior liberdade em relação ao confronto com às expectativas estético/narrativas do público.

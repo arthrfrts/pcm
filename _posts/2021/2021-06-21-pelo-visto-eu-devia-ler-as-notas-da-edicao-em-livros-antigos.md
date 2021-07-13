@@ -1,12 +1,11 @@
 ---
-date: '2021-06-21 09:00 -0300'
-layout: post
 title: Pelo visto eu devia ler as notas da edição em livros antigos?
-author: arthurf
+date: 2021-06-21 09:00:00 -03:00
 tags:
-  - leituras
-  - livros
-published: true
+- leituras
+- livros
+layout: post
+author: arthurf
 ---
 
 Eu, em minha eterna ignorância, sempre pulei tudo aquilo que “não era o livro em si” quando eu lia algum livro antigo. Eu não queria saber sobre o prefácio do tradutor ou as notas da tradução. Eu queria pular pro prato principal.

@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Episódio 1 — Tainara Fraga
-author: arthurf
+date: 2020-07-15 13:21:00 -03:00
 tags:
 - Pãodecast
 - podcasts
-date: 2020-07-15 13:21 -0300
+layout: post
+author: arthurf
 ---
 
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Trminos--com-Tainara-Fraga-egn2th/a-a2mn3e3" frameborder="0" scrolling="no"></iframe>

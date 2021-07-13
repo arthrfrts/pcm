@@ -1,12 +1,13 @@
 ---
-date: '2021-05-21 09:00:00 -0300'
-layout: post
-title: Velouria te põe na pele de um músico no palco — mas o seu rival também está nele!
-image: "/uploads/2021/05/21/Velouria_post.png"
+title: Velouria te põe na pele de um músico no palco — mas o seu rival também está
+  nele!
+date: 2021-05-21 09:00:00 -03:00
 tags:
-  - achados
-  - jogos
-  - RPG
+- achados
+- jogos
+- RPG
+layout: post
+image: "/uploads/2021/05/21/Velouria_post.png"
 author: raulf
 ---
 

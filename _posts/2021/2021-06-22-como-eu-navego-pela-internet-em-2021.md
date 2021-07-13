@@ -1,14 +1,13 @@
 ---
-date: '2021-06-22 09:42 -0300'
-layout: post
 title: A minha nova dieta da internet
-author: arthurf
+date: 2021-06-22 09:42:00 -03:00
 tags:
-  - links
-  - newsletters
-  - web
-  - RSS
-published: true
+- links
+- newsletters
+- web
+- RSS
+layout: post
+author: arthurf
 ---
 
 Em janeiro eu escrevi sobre como o recurso de [lista de leitura]({% post_url 2021/2021-01-26-lista-de-leitura %}) me ajudou a navegar melhor pela internet nos últimos anos. Porém, há algumas semanas, a forma como eu navego pela internet mudou bastante de uma hora para a outra, e me fez pensar em como eu gosto de como eu navego hoje em dia.

@@ -1,13 +1,13 @@
 ---
-date: "2021-06-04 09:00:00 -0300"
-layout: post
 title: Arquivista Heroica é uma carta de amor à comunidade de jogos independentes
-image: "/uploads/2021/06/04/Arquivista-Heroica_post3.png"
+date: 2021-06-04 09:00:00 -03:00
 tags:
-  - achados
-  - jogos
-  - RPG
-  - RPG solo
+- achados
+- jogos
+- RPG
+- RPG solo
+layout: post
+image: "/uploads/2021/06/04/Arquivista-Heroica_post3.png"
 author: raulf
 ---
 

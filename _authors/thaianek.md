@@ -1,4 +1,5 @@
 ---
+title: Posts escritos por Thaiane Kubiaki
 layout: author
-title: "Posts escritos por Thaiane Kubiaki"
 ---
+

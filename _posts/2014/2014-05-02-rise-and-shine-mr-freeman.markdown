@@ -1,15 +1,15 @@
 ---
-layout: post
 title: "“Rise and shine, Mr. Freeman”"
-date: "2014-05-02 23:52:13 -0300"
-author: arthurf
+date: 2014-05-02 23:52:13 -03:00
 tags:
-  - essenciais
-  - jogos
-  - ação
-  - Half-Life
-  - Valve Software
-image: "https://arthrfrts.files.wordpress.com/2018/03/half-life-2-1038x576.jpg"
+- essenciais
+- jogos
+- ação
+- Half-Life
+- Valve Software
+layout: post
+author: arthurf
+image: https://arthrfrts.files.wordpress.com/2018/03/half-life-2-1038x576.jpg
 ---
 
 > Rise and shine, Mr. Freeman. Your time has come again.

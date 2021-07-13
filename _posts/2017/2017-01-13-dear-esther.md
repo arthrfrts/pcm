@@ -1,13 +1,13 @@
 ---
-layout: post
-date: 2017-01-13
 title: Eu não queria sair da ilha de Dear Esther.
+date: 2017-01-13 00:00:00 -02:00
 tags:
-  - jogos
-  - jogos narrativos
-  - Steam
+- jogos
+- jogos narrativos
+- Steam
+layout: post
 author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/dear-esther-landmark-edition.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/dear-esther-landmark-edition.jpg
 ---
 
 Eu me apaixonei por _Dear Esther_ logo depois do fade in. A gente está numa marina abandonada, e uma voz começa a ler uma carta. Você anda.

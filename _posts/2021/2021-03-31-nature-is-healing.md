@@ -1,15 +1,15 @@
 ---
-date: '2021-03-31 07:47 -0300'
-layout: post
-published: true
 title: O Ano em que a Terra Mudou
+date: 2021-03-31 07:47:00 -03:00
 tags:
-  - filmes
-  - documentários
-  - Apple
+- filmes
+- documentários
+- Apple
+layout: post
 author:
-  - arthurf
+- arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/XswV_yqPq28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O bacana de um blog é que, pra mim, eles são pequenos livro de recortes dos gostos do autor naquele exato momento em que o recorte foi feito.

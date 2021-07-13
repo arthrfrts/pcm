@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Vikings e a tentativa do não-falso-real"
-date: "2014-07-24 18:50:40 -0300"
-author: filliped
-image: "https://arthrfrts.files.wordpress.com/2018/03/20823568_ragnar_vikings-672x372.jpg"
+title: Vikings e a tentativa do não-falso-real
+date: 2014-07-24 18:50:40 -03:00
 tags:
-  - esquinas
-  - séries
-  - drama histórico
-  - ação
-  - Netflix
+- esquinas
+- séries
+- drama histórico
+- ação
+- Netflix
+layout: post
+author: filliped
+image: https://arthrfrts.files.wordpress.com/2018/03/20823568_ragnar_vikings-672x372.jpg
 ---
 
 Há algum tempo eu li um artigo sobre os realities que incendiavam a tv americana e lançavam um indício de chamas por aqui também. Quem acompanha os canais da tv à cabo, de maneira geral mesmo, pode notar como o esse tipo de programa é recorrente nas mais diversas emissoras. Temos uma vastíssima variedade, que vai desde mulheres seminuas na Multishow, até caras em mega oficinas no Discovery. Em uma cerimônia do Emmy, um de seus apresentadores chegou a brincar que um dia os roteiristas não seriam mais necessários, já que as maiores audiências da tv eram de reality shows.

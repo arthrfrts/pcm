@@ -1,12 +1,12 @@
 ---
-layout: post
-title: 'Problema de nostalgia'
-date: '2018-07-28 17:18:04 UTC'
-author: arthurf
+title: Problema de nostalgia
+date: 2018-07-28 14:18:04 -03:00
 tags:
-  - jogos
-  - Super Mario
-  - Crash Bandicoot
+- jogos
+- Super Mario
+- Crash Bandicoot
+layout: post
+author: arthurf
 ---
 
 Eu ainda não considero _Super Mario Odyssey_ um grande jogo como _Super Mario Galaxy_ é, mas se tem uma coisa que esse remake de _Crash Bandicoot_ me fez foi apreciar mais o novo jogo do Mario.

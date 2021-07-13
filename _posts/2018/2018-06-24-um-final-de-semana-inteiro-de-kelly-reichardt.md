@@ -1,12 +1,12 @@
 ---
-layout: post
-image: 'https://i.imgur.com/6fWRn9Z.jpg'
-title: 'Anotações sobre minha maratona de Kelly Reichardt nesse fim de semana'
-date: '2018-06-24 22:58:01 UTC'
-author: arthurf
+title: Anotações sobre minha maratona de Kelly Reichardt nesse fim de semana
+date: 2018-06-24 19:58:01 -03:00
 tags:
-  - filmes
-  - Kelly Reichardt
+- filmes
+- Kelly Reichardt
+layout: post
+image: https://i.imgur.com/6fWRn9Z.jpg
+author: arthurf
 ---
 
 Eu não ando tendo muita oportunidade de ver filmes durante a semana. Eu chego cansado do trabalho e geralmente janto e vou dormir. Por isso eu ando aproveitando os finais de semana e vendo o máximo de filmes que eu consigo. Eu os escolho durante a semana e no sábado mato a vontade toda de uma vez (domingo de manhã eu assisto algo no MUBI, algo que já virou tradição). Como eu ia passar esse último final de semana sozinho, aproveitei para fazer algo que eu queria fazer há um tempo: assistir todos os filmes da Kelly Reichardt, minha nova diretora favorita.

@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Como é que eu vou falar de Betty?"
-author: arthurf
-date: 2020-11-17 13:42:00 -0300
+title: Como é que eu vou falar de Betty?
+date: 2020-11-17 14:42:00 -02:00
 tags:
-  - achados
-  - séries
-  - HBO
-  - Crystal Moselle
-  - Betty
+- achados
+- séries
+- HBO
+- Crystal Moselle
+- Betty
+layout: post
+author: arthurf
 ---
 
 <iframe class="full-width" src="https://www.youtube.com/embed/cCP1zqmdGs0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

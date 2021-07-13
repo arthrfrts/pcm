@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Alguém entrou na minha cabeça, leu minha mente e fez o jogo perfeito pra mim
-author: arthurf
+date: 2020-08-20 19:31:00 -03:00
 tags:
 - achados
 - jogos
@@ -9,8 +8,10 @@ tags:
 - Level-5
 - Brownie Brown
 - Nintendo 3DS
-date: 2020-08-20 19:31 -0300
+layout: post
+author: arthurf
 ---
+
 Eu não sei quando ou quem, mas alguém entrou na minha cabeça.
 
 <iframe class="full-width" src="https://www.youtube.com/embed/xQVf_ID-Pjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

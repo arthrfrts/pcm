@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Tudo o que eu já amei
+date: 2020-08-27 09:27:00 -03:00
+tags:
+- meta
+layout: post
 author: arthurf
 image:
   path: "/uploads/2020/08/27/copia-fiel.png"
   alt: O vulto de uma mulher em uma penumbra, iluminada por um abajur e pelo reflexo
     da janela. Imagem do filme “Cópia Fiel”.
-tags:
-- meta
-date: 2020-08-27 09:27 -0300
 ---
+
 Hoje é um dia estranho. Quer dizer, o dia em si até que tá tudo bem. Eu acordei cedo, fiz meus exercícios físicos, estudei um pouco e agora são 8h35 quando eu abri o meu editor de textos pra escrever esse post. As coisas tão indo bem.
 
 Mas hoje faz um ano que eu perdi uma companheira muito querida, então eu pedi folga do trabalho para poder descansar e pensar um pouco sobre esse último ano. É estranho porque, nesse dia, ano passado, eu ia começar todo um processo de luto, onde revisitar o passado é uma parte dele. As vezes é confortável, porque você lembra os bons e maus momentos pelo que eles foram, o que torna o tempo de vida que você compartilhou com alguém que você amou mais especial. As vezes é triste, porque você lembra deles, e lembra que essas lembranças são tudo o que você tem agora, que novas memórias não vão ser feitas. E aí você perde aquele alguém especial de novo, e de novo e de novo. Pra mim, parte do luto é aprender a perder as pessoas que eu amei — meus avós, meus amigos, a Vivi — inúmeras vezes, até a perda em si ser uma parte da minha lembrança delas.

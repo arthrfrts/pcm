@@ -1,14 +1,15 @@
 ---
-layout: post
 title: The Sims 4 acabou de receber sua maior atualização — e é das boas
-author: arthurf
+date: 2020-12-11 09:53:00 -02:00
 tags:
 - jogos
 - simulação
 - The Sims 4
 - Maxis
-date: 2020-12-11 08:53 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/5k0KkN6PGyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *The Sims 4* comemorou seis anos em setembro (meu primeiro post sobre ele é [agosto de 2014]({% post_url 2014/2014-08-11-the-sims-4-parece-ser-de-uma-nova-maxis %}), quando eu experimentei a demonstração), e é um jogo que vai muito bem, obrigado. De todas as [tentativas da EA](https://kotaku.com/bioware-plans-a-substantial-reinvention-of-anthem-1841577386) de transformar seus jogos em “serviços vivos”, *The Sims 4* foi o que mais deu certo. O jogo recebe atualizações gratuitas frequentes, e pacotes de conteúdo pago a cada quatro a seis meses.

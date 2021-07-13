@@ -1,13 +1,14 @@
 ---
-layout: post
 title: O legado social do Nintendo 3DS
-author: arthurf
+date: 2021-01-07 09:55:00 -02:00
 tags:
 - jogos
 - Nintendo
 - Nintendo 3DS
-date: 2021-01-07 08:55 -0300
+layout: post
+author: arthurf
 ---
+
 Cecília D'Alessandro escreveu [um excelente post-mortem sobre o Nintendo 3DS](https://www.wired.com/story/obituary-nintendo-3ds-in-memoriam/) (e os portáteis da Nintendo de maneira geral) quando o pequeno foi descontinuado no ano passado:
 
 > Hardware matters, but in the end, portable console players want to connect to each other with as few barriers as possible. The legacy of the 3DS, at least for me, is as a reminder that gaming is more than just entertainment: It’s a social network. Strangers saw each other playing their 3DSes out in the world and forged quiet (or loud), immediate connections. The magic of the Switch is that it was one of the first consoles to bring those outside connections inside—from the cafe onto your sectional couch.

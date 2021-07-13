@@ -1,14 +1,15 @@
 ---
-layout: post
 title: ''
-author: arthurf
+date: 2021-05-24 12:15:00 -03:00
 tags:
 - achados
 - links
 - vídeos
 - fotografia
-date: 2021-05-24 12:15 -0300
+layout: post
+author: arthurf
 ---
+
 Dois links nessa manhã de segunda:
 
 [**A história não contada de “Back at it again at Krispy Kreme”**](https://nymag.com/intelligencer/2016/01/story-of.html) `(nymag.com)`

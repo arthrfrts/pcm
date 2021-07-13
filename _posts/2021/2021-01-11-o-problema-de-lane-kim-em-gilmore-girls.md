@@ -1,13 +1,14 @@
 ---
-layout: post
 title: O problema de Lane Kim em Gilmore Girls
-author: arthurf
+date: 2021-01-11 15:00:00 -02:00
 tags:
 - links
 - séries
 - Gilmore Girls
-date: 2021-01-11 14:00 -0300
+layout: post
+author: arthurf
 ---
+
 Emily VanDerWerff é uma das minhas escritoras favoritas. Ela escreve sobre TV, sua história e suas dinâmicas, como ninguém, e o melhor, ela te faz entender o que funciona e o que não funciona em uma série de TV. Como as melhores críticas e ensaístas, VanDerWerff põe em palavras aquilo que a gente sente quando assiste algo.
 
 [No volume dessa semana da sua newsletter *Episodes*](https://emilyvdw.substack.com/p/free-lane-kim), VanDerWerff finalmente fala sobre o momento que, pra mim, é o mais importante em *Gilmore Girls*: quando a relação de Lane com sua mãe finalmente explode, e como *Gilmore Girls* não consegue tratar esse momento com o cuidado que ele merece:

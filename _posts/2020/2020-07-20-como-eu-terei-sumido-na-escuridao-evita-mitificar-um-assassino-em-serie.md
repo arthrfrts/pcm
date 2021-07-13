@@ -1,16 +1,17 @@
 ---
-layout: post
 title: Como “Eu Terei Sumido na Escuridão” evita mitificar um assassino em série
-image: "/uploads/2020/07/20/eu-terei-sumido-na-escuridao.jpg"
-author: arthurf
+date: 2020-07-20 19:55:00 -03:00
 tags:
 - séries
 - mistério
 - documentários
 - Liz Garbus
 - HBO
-date: 2020-07-20 19:55 -0300
+layout: post
+image: "/uploads/2020/07/20/eu-terei-sumido-na-escuridao.jpg"
+author: arthurf
 ---
+
 Histórias de assassinos em série fazem sucesso em serviços de streaming, e não é pra menos. Alguns desses casos são tão horripilantes e grotescas que colocam até a ficção mais inventiva de *[Hannibal]({% post_url 2019/2019-06-19-hannibal %})* ou *True Detective* no chinelo. Muitas dessas histórias, porém, estão mais preocupadas em tentar “decifrar” as figuras desses assassinos e estupradores, e veem o rastro de dor e de violência que eles deixaram para trás muito mais como elemento que elevam esses casos à forma de mito. Sejam eles nomes conhecidos, como Ted Bundy e David Berkowitz (o “Filho de Sam”); até os desconhecidos, como o Jack, O Estripador e o Assassino do Zodíaco, o que eles têm em comum é que, mesmo depois de serem pegos ou terem desaparecido ou morrido, eles continuam tendo o controle sobre como a gente conta suas histórias e entendemos o que eles fizeram.
 
 Muito disso parece ser um reflexo de um problema social maior de que nós, como sociedade, não sabemos ou não conseguimos dar suporte para vítimas e sobreviventes de atos de violência, e é esse aspecto do “legado” de um assassino em série que *Eu Terei Sumido na Escuridão* está interessada em explorar. A minissérie documental da HBO já está no quarto episódio, e por enquanto a figura do Assassino do Estado Dourado — um estuprador e assassino em série que atacou o estado da Califórnia entre nos anos 1970 e 1980 — serve muito mais para unir as histórias de suas vítimas e da jornalista que foi instrumental em dar visibilidade às suas histórias.

@@ -1,14 +1,15 @@
 ---
-layout: post
 title: The Touryst foi lançado para PC e Xbox One
-author: arthurf
+date: 2020-08-06 13:28:00 -03:00
 tags:
 - achados
 - jogos
 - aventura
 - Shin'en
-date: 2020-08-06 13:28 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe src="https://www.youtube.com/embed/Ir2MnrPvO8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *The Touryst*, o meu [jogo favorito do ano passado]({% post_url 2019/2019-12-11-as-cinco-melhores-coisas-de-2019 %}#o-melhor-jogo-the-touryst-shinen-multimedia-nintendo-switch) acabou de ser lançado no [Xbox One e no Windows](http://microsoft.com/en-us/p/the-touryst/9n9w1jk1x5qj), e já está disponível no Xbox Game Pass.

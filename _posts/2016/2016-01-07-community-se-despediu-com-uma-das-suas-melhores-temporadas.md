@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "Community se despediu com uma das suas melhores temporadas"
+title: Community se despediu com uma das suas melhores temporadas
+date: 2016-01-07 00:00:00 -02:00
 tags:
-  - séries
-  - comédia
-  - Community
-image: "https://arthrfrts.files.wordpress.com/2018/03/community.jpg"
+- séries
+- comédia
+- Community
+layout: post
+image: https://arthrfrts.files.wordpress.com/2018/03/community.jpg
 author: arthurf
 ---
 

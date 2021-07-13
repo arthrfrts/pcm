@@ -1,16 +1,15 @@
 ---
-layout: post
-date: "2020-06-23 22:03:00 -0300"
-author: arthurf
 title: A Vastidão da Noite
+date: 2020-06-23 22:03:00 -03:00
 tags:
-  - filmes
-  - mistério
-  - ficção científica
-  - Prime Video
-image: /uploads/2020/06/23/vast-of-night.jpg
-excerpt: >-
-  As histórias que escutamos.
+- filmes
+- mistério
+- ficção científica
+- Prime Video
+layout: post
+author: arthurf
+image: "/uploads/2020/06/23/vast-of-night.jpg"
+excerpt: As histórias que escutamos.
 ---
 
 Eu me lembro do dia que o meu pai, em 1998, trouxe um computador pra casa. Eu era jovem demais pra entender o que aquela máquina fazia ou o como ela fazia o que ela fazia, mas eu lembro que, já naquele dia, eu tinha um fascínio por ela. Eu nasci na primeira metade dos anos noventa, e vivi o fim da minha infância e o início da minha adolescência nos anos 2000.

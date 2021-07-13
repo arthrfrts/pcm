@@ -1,13 +1,15 @@
 ---
-layout: post
-title: A história de quando Hayao Miyazaki percebeu o problema de visão de um de seus animadores
-author: arthurf
+title: A história de quando Hayao Miyazaki percebeu o problema de visão de um de seus
+  animadores
+date: 2021-07-07 11:09:00 -03:00
 tags:
 - animação
 - Hayao Miyazaki
 - saúde
-date: 2021-07-07 11:09 -0300
+layout: post
+author: arthurf
 ---
+
 Em um relato traduzido pelo [Kotaku](https://kotaku.com/animator-recalls-hayao-miyazakis-power-of-observation-1847241863), o animador Masaaki Endo recontou o momento em que descobriu que seu problema de visão agravou quando Miyazaki percebeu que seu trabalho para *Meu Amigo Totoro* estava distorcido:
 
 > Endo [recalled](https://twitter.com/T35endou/status/1411465265980706816) how after he submitted the key animation for Totoro, Miyazaki called him over, saying, “Hey the art is distorted. Your glasses prescription is wrong, isn’t it?”

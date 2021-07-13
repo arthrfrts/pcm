@@ -1,14 +1,15 @@
 ---
-layout: post
 title: 'Ted Chiang: Medos da tecnologia são medos do capitalismo'
-author: arthurf
+date: 2021-04-02 14:22:00 -03:00
 tags:
 - links
 - entrevistas
 - tecnologia
 - Ted Chiang
-date: 2021-04-02 14:22 -0300
+layout: post
+author: arthurf
 ---
+
 Ted Chiang, autor de *Exhalation*, o livro de contos de ficção-científica que eu estou lendo nesse exato momento, e do conto que deu origem ao filme *A Chegada*, em uma entrevista para o podcast de Ezra Klein (ênfases minhas):
 
 > I tend to think that most fears about A.I. are best understood as fears about capitalism. And I think that this is actually true of most fears of technology, too. **Most of our fears or anxieties about technology are best understood as fears or anxiety about how capitalism will use technology against us**. And technology and capitalism have been so closely intertwined that it’s hard to distinguish the two.

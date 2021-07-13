@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Considerações sobre Privacidade
+layout: page
 ---
 
 O Pão com Mortadela respeita a sua privacidade. O site não rastreia as visitas, e seu endereço de IP ou qualquer informação do seu navegador não está sendo armazenada no servidor do site ou em serviços de terceiros — a única coisa que o Pão avalia é quantas vezes uma página foi requisitada nos servidores do site. Essa informação é usada para entender quais textos do site são mais lidos ([atualmente é esse]({% post_url 2020/2020-06-09-the-legend-of-zelda-ranking %})), e qual o tamanho da audiência.

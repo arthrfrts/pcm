@@ -1,13 +1,14 @@
 ---
-layout: post
 title: A era dos videogames portáteis acabou
-author: arthurf
+date: 2020-09-17 11:20:00 -03:00
 tags:
 - jogos
 - Nintendo 3DS
 - Game Boy
-date: 2020-09-17 11:20 -0300
+layout: post
+author: arthurf
 ---
+
 [A Nintendo encerrou a produção de todos os modelos do Nintendo 3DS](https://kotaku.com/nintendo-officially-ends-3ds-production-for-japan-1845087529) no Japão (e provavelmente no resto do mundo também). Esse é, talvez, o fim dos videogames portáteis dedicados.
 
 O Nintendo 3DS é parte da linhagem que conseguiu manter a Nintendo relevante durante gerações de videogame que seus consoles de mesa não conseguiram competir com o PlayStation. O sucesso estrondoso do Game Boy e do Game Boy Advance durante os anos do Nintendo 64 e do GameCube foram essenciais para a empresa no início dos anos 2000, e o sucesso modesto, mas estável, do Nintendo 3DS salvou a Nintendo do fracasso do Wii U (sem falar no DS e o Wii, que venderam como água juntos no fim dos anos 2000 e início dos anos 2010).

@@ -1,13 +1,13 @@
 ---
-layout: post
 title: A Gaivota de Anton Tchekhov interpretada no The Sims 4
-author: arthurf
+date: 2020-10-29 21:02:00 -02:00
 tags:
 - links
 - teatro
 - jogos
 - The Sims
-date: 2020-10-29 20:02 -0300
+layout: post
+author: arthurf
 ---
 
 <iframe src="https://player.twitch.tv/?video=783888743&parent=paomortadela.com.br&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" class="full-width"></iframe>

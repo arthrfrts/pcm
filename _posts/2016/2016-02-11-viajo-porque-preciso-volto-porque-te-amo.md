@@ -1,16 +1,17 @@
 ---
+title: Lugares, pessoas, paisagens e histórias se confundem em Viajo Porque Preciso,
+  Volto Porque Te Amo.
+date: 2016-02-11 00:00:00 -02:00
+tags:
+- filmes
+- romance
+- cinema nacional
+- cinema experimental
+- Karim Aïnouz
+- Marcelo Gomes
 layout: post
 author: arthurf
-date: 2016-02-11
-title: Lugares, pessoas, paisagens e histórias se confundem em Viajo Porque Preciso, Volto Porque Te Amo.
-tags:
-  - filmes
-  - romance
-  - cinema nacional
-  - cinema experimental
-  - Karim Aïnouz
-  - Marcelo Gomes
-image: "https://arthrfrts.files.wordpress.com/2018/03/viajo-porque-preciso-volto-porque-te-amo.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/viajo-porque-preciso-volto-porque-te-amo.jpg
 ---
 
 > Todo o casamento é perfeito, até que acaba.

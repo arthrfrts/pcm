@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Dream Cave é novo e empolgante."
+title: Dream Cave é novo e empolgante.
+date: 2017-01-06 00:00:00 -02:00
 tags:
-  - músicas
-  - indie
-  - Cloud Control
+- músicas
+- indie
+- Cloud Control
+layout: post
 author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg
 ---
 
 Eu sou apaixonado pelo _Bliss Release_, álbum de estreia dos australianos Cloud Control. “Islands”, “My Fear (1)”, “Gold Canary” e “There's No Smoking In The Water” são divertidíssimas de ouvir, sempre, e embalaram uma boa parte do meu ensino médio. O melhor? Elas envelhecem muitíssimo bem.

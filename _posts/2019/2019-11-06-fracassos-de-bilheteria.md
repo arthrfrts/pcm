@@ -1,14 +1,14 @@
 ---
-layout: post
-date: 2019-11-06
 title: "“Fracasso de bilheteria” talvez seja o meu tipo de filme favorito"
+date: 2019-11-06 01:00:00 -02:00
+tags:
+- listas
+- filmes
+- blockbusters
+layout: post
 excerpt: Todo mundo erra, até mesmo produtores de cinema com 300 milhões pra gastar.
 image: "/uploads/2019/11/br2049.jpg"
 author: arthurf
-tags:
-  - listas
-  - filmes
-  - blockbusters
 ---
 
 Na primeira metade de 2019 eu comentei com um amigo meu que eu queria muito assistir _Godzilla II: Rei dos Monstros_. Vários motivos me fizeram dar essa importante declaração: 1. o [trailer do filme](https://youtu.be/wVDtmouV9kM) é sensacional; 2. nenhum filme do _Godzilla_ é ruim; e 3. eu amo um fracasso de bilheteria, e _Godzilla II_ parecia muito que ia ser bem o meu tipinho de fracasso.

@@ -1,18 +1,19 @@
 ---
-layout: post
 title: Kentucky Route Zero chegou ao fim
-author: arthurf
-image: "/uploads/2020/10/26/dogwood-drive.png"
-excerpt: Nos últimos dez anos, minha vida se cruzou intimamente com um jogo. Nos últimos
-  dez meses, eu tento entender como ele acabou.
+date: 2020-10-27 10:05:00 -02:00
 tags:
 - esquinas
 - jogos
 - aventura
 - Kentucky Route Zero
 - Cardboard Computer
-date: 2020-10-27 09:05 -0300
+layout: post
+author: arthurf
+image: "/uploads/2020/10/26/dogwood-drive.png"
+excerpt: Nos últimos dez anos, minha vida se cruzou intimamente com um jogo. Nos últimos
+  dez meses, eu tento entender como ele acabou.
 ---
+
 # I.
 
 *Kentucky Route Zero* começa no fim.

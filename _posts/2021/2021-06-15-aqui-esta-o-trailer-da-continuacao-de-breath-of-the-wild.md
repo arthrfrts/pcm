@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Aqui está o trailer da continuação de Breath of the Wild
-author: arthurf
+date: 2021-06-15 13:58:00 -03:00
 tags:
 - jogos
 - trailers
@@ -9,8 +8,10 @@ tags:
 - Nintendo
 - The Legend of Zelda
 - Breath of the Wild
-date: 2021-06-15 13:58 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/Pi-MRZBP91I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

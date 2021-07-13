@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Efeitos práticos são tudo de bom
-author: arthurf
+date: 2021-04-09 15:54:00 -03:00
 tags:
 - vídeos
 - filmes
 - Spike Jonze
-date: 2021-04-09 15:54 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/lcZo5sVK6QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O vídeo acima é de um anúncio de uma empresa japonesa de bebidas, e é mais um anúncio que vai pra minha coleção de vídeos que eu amo porque usam efeitos visuais práticos.

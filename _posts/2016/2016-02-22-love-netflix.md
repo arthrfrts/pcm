@@ -1,15 +1,16 @@
 ---
-layout: post
-date: 2016-02-22
-title: "Love é a melhor série original do Netflix"
-excerpt: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua vida, errando ao se apaixonarem.
+title: Love é a melhor série original do Netflix
+date: 2016-02-22 00:00:00 -03:00
 tags:
-  - séries
-  - romance
-  - comédia
-  - Netflix
+- séries
+- romance
+- comédia
+- Netflix
+layout: post
+excerpt: Série do Judd Apatow acerta em mostrar pessoas em lugares diferentes de sua
+  vida, errando ao se apaixonarem.
 author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/netflix-love.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/netflix-love.jpg
 ---
 
 Geralmente, o mundo não é um lugar bom nas comédias românticas. Tudo dá errado em _O Diário de Bridget Jones_, embora ela sempre consiga dar a volta por cima; ninguém em _Uma Linda Mulher_, com exceção de Julia Roberts, presta; e em _Embriagado de Amor_ o mundo é quase que um purgatório.

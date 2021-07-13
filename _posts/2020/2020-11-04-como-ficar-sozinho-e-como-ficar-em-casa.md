@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Como ficar sozinho e como ficar em casa
-author: arthurf
+date: 2020-11-04 18:15:00 -02:00
 tags:
 - links
 - vídeos
-date: 2020-11-04 17:15 -0300
+layout: post
+author: arthurf
 ---
+
 A diretora [Andrea Dorfman](https://andreadorfman.com/) e a poeta [Tanya Davis](https://tanyadavis.ca) estão colaborando em pequenos projetos para o National Film Board do Canadá com os curtas *How to be Alone* e *How to be at Home*:
 
 {: .full-width }

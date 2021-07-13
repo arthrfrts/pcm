@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Memories of the Age of Anxiety
-author: arthurf
+date: 2021-05-04 07:41:00 -03:00
 tags:
 - links
 - músicas
 - Arcade Fire
-date: 2021-05-04 07:41 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/QfND6dgM6ic" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O vídeo acima é *Memories of the Age of Anxiety*, uma nova composição do Arcade Fire em parceria com John Legend para o aplicativo de meditação [Headspace](https://www.headspace.com).

@@ -1,14 +1,15 @@
 ---
-layout: post
 title: 'Barry Jenkins: The Gaze'
-author: arthurf
+date: 2021-05-19 07:22:00 -03:00
 tags:
 - links
 - vídeos
 - Barry Jenkins
 - The Underground Railroad
-date: 2021-05-19 07:22 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe src="https://player.vimeo.com/video/546795671" class="full-width" frameborder="0" allowfullscreen></iframe>
 
 Enquanto filmava a monumental minissérie [*The Underground Railroad*](https://www.primevideo.com/detail/0TIXZLS0H0KQUMI0XB3R8JLXK0/), o diretor Barry Jenkins também começou a trabalhar em *The Gaze*, um filme não-narrativo que parece existir naqueles momentos dos filmes do diretor em que os personagens extrapolam suas próprias histórias e olham o próprio espectador nos olhos.

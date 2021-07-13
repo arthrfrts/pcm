@@ -1,14 +1,15 @@
 ---
-layout: post
 title: 'Forasteira Americana: os filmes de Kelly Reichardt'
-author: arthurf
+date: 2021-07-05 11:19:00 -03:00
 tags:
 - filmes
 - cinema americano
 - Kelly Reichardt
 - MUBI
-date: 2021-07-05 14:19 +0000
+layout: post
+author: arthurf
 ---
+
 *First Cow*, [um dos meus filmes favoritos do ano]({% post_url 2020/2020-12-26-meus-filmes-favoritos-de-2020 %}#first-cow-kelly-reichardt-2019), está nos cinemas desde a semana passada, e essa sexta-feira ele vai ser lançado no [MUBI](https://mubi.com/firstcow) junto com um bate-papo com Kelly Reichardt.
 
 Para aproveitar a ocasião, [o MUBI está fazendo uma retrospectiva da carreira da diretora](https://mubi.com/pt/specials/reichardt) com três obras-primas dirigidas por ela. Entitulado "Forasteira Americana", a programação especial está exibindo *Antiga Alegria* e *Wendy & Lucy*, e semana que vem *O Atalho* vai entrar na programação também.

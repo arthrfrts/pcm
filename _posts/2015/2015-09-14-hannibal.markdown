@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Hannibal vai te deixar com fome
-date: 2015-09-14
+date: 2015-09-14 00:00:00 -03:00
 tags:
-  - séries
-  - suspense
-  - terror
-  - Hannibal
+- séries
+- suspense
+- terror
+- Hannibal
+layout: post
 author: arthurf
 ---
 

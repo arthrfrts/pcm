@@ -1,17 +1,18 @@
 ---
-layout: post
 title: Um ranking de todos os filmes da Pixar
-date: "2019-06-26 09:00"
-image: /uploads/2019/06/pixar-ranking.jpg
+date: 2019-06-26 09:00:00 -03:00
 tags:
-  - listas
-  - rankings
-  - filmes
-  - animação
-  - Pixar
-  - Toy Story
+- listas
+- rankings
+- filmes
+- animação
+- Pixar
+- Toy Story
+layout: post
+image: "/uploads/2019/06/pixar-ranking.jpg"
 author: arthurf
-description: Aproveitamos o lançamento de Toy Story 4 para dar uma olhada na carreira do estúdio.
+description: Aproveitamos o lançamento de Toy Story 4 para dar uma olhada na carreira
+  do estúdio.
 ---
 
 Com o lançamento de _Toy Story 4_ nesse último fim de semana, a Pixar está pronta para uma nova era. Quando o filme anterior da franquia foi lançado, em 2010, a Pixar vinha de uma série de sucessos de público e crítica que era invejável, e parecia não ter fim.

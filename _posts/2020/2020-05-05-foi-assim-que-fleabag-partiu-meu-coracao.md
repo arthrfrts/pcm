@@ -1,13 +1,13 @@
 ---
-layout: post
-date: 2020-05-05 07:48:00 -03:00
-author: arthurf
-tags:
-  - séries
-  - Prime Video
-  - comédia
-  - romance
 title: Foi assim que Fleabag partiu meu coração
+date: 2020-05-05 07:48:00 -03:00
+tags:
+- séries
+- Prime Video
+- comédia
+- romance
+layout: post
+author: arthurf
 image: "/uploads/2020/05/05/fleabag.jpg"
 excerpt: "“Vai passar”."
 ---

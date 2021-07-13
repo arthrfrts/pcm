@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Episódio 7 – com Manuela Neri
-author: arthurf
+date: 2020-10-07 09:13:00 -03:00
 tags:
 - Pãodecast
 - podcasts
 - conversas
-date: 2020-10-07 09:13 -0300
+layout: post
+author: arthurf
 ---
 
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Manuela-Neri-ekmupj" height="102" frameborder="0" scrolling="no"></iframe>

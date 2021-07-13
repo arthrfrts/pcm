@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Episódio 6 – com Erê Carvalho Zimmer
-author: arthurf
+date: 2020-09-23 08:38:00 -03:00
 tags:
 - Pãodecast
 - podcasts
 - conversas
-date: 2020-09-23 08:38 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Er-Carvalho-Zimmer-ejusds" height="102" frameborder="0" scrolling="no"></iframe>
 
 A gente começou conversando sobre pastel, depois conversamos sobre música e finalmente conversarmos sobre a arte de flertar.

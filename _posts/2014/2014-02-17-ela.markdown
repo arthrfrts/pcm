@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Ela"
-date: "2014-02-17 18:56:27 -0300"
+title: Ela
+date: 2014-02-17 18:56:27 -03:00
 tags:
-  - filmes
-  - romance
-  - ficção científica
-  - Spike Jonze
+- filmes
+- romance
+- ficção científica
+- Spike Jonze
+layout: post
 author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/ela.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/ela.jpg
 ---
 
 Theodore escreve cartas de amor à mão. Claro, ele as dita ao computador e este escreve, simulando uma caligrafia humana. Ele então as imprime e lê, como se fosse o apaixonado que envia. _Ela_ começa assim. Parece que Theodore está falando para seu suposto marido que está celebrando bodas de prata que ainda o ama. Em dois minutos, Theodore parece amar o marido tanto quanto a senhora que o contratou.

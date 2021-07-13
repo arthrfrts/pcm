@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Rachel Handler investiga o misterioso caso da escassez de bucatini
-author: arthurf
+date: 2021-01-05 14:46:00 -02:00
 tags:
 - links
 - leituras
 - comida
-date: 2021-01-05 13:46 -0300
+layout: post
+author: arthurf
 ---
+
 [Rachel Handler](https://twitter.com/rachel_handler) é uma das jornalistas que eu mais gosto de acompanhar o trabalho. Ela [escrevia para o *The Dissolve*](http://thedissolve.com/authors/rachelhandler/), um site sobre filmes que eu amava muito, e sua escrita tinha um tom próprio muito forte: era bem humorado ao mesmo tempo que direto. Ela escrevia sobre qualquer coisa de forma clara, mas conseguia colocar tangentes nos assuntos com observações incisivas e hilárias. Ela tinha uma coluna no *The Dissolve* chamada [“Female Stuff”](http://thedissolve.com/news/category/female-stuff/) que eu revisito até hoje.
 
 Enfim, Handler tem escrito para a Vulture/New York Magazine pelos últimos anos, e seu trabalho continua incrível. Mas o texto que ela publicou há algumas semanas é simplesmente a melhor coisa que eu li em meses, uma investigação sobre o desaparecimento misterioso de bucatini, um tipo muito específico/chique de macarrão (aquela espécie de espaguete grossa e longa, com um furo no meio para o molho entrar e explodir na boca quando mastigados) durante a pandemia nos EUA.

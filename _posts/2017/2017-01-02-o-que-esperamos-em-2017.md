@@ -1,17 +1,18 @@
 ---
-layout: post
-date: 2017-01-02
 title: O que mais esperamos em 2017
-author: arthurf
-category: Listas
+date: 2017-01-02 00:00:00 -02:00
+categories:
+- Listas
 tags:
-  - filmes
-  - músicas
-  - séries
-  - jogos
-  - leituras
-  - links
-image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-expectativa-2017.jpg"
+- filmes
+- músicas
+- séries
+- jogos
+- leituras
+- links
+layout: post
+author: arthurf
+image: https://arthrfrts.files.wordpress.com/2018/03/pcm-expectativa-2017.jpg
 ---
 
 Olá, e boas vindas a 2017! Se tá lendo isso, é porque tu provavelmente está no futuro. Como foi a virada de ano? Alguma tragédia nesses quatro dias de diferença? 2017 já é melhor que 2016? Esperamos que sim.

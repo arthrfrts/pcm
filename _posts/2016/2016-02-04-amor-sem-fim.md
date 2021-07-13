@@ -1,14 +1,14 @@
 ---
-layout: post
-date: 2016-02-04
-title: "Amor sem fim é um mistério sobre as razões do amor"
+title: Amor sem fim é um mistério sobre as razões do amor
+date: 2016-02-04 00:00:00 -02:00
 tags:
-  - leituras
-  - livros
-  - romance
-  - Ian McEwan
+- leituras
+- livros
+- romance
+- Ian McEwan
+layout: post
 author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg
 ---
 
 Qual o mistério de _Amor sem fim_?

@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Voltando pro paraíso de Burnout Paradise"
-date: "2014-08-06 01:07:41 -0300"
-image: "https://arthrfrts.files.wordpress.com/2018/03/burnout-paradise-takedown-1024x576.jpg"
-author: arthurf
+title: Voltando pro paraíso de Burnout Paradise
+date: 2014-08-06 01:07:41 -03:00
 tags:
-  - requentando
-  - jogos
-  - corrida
-  - Burnout
+- requentando
+- jogos
+- corrida
+- Burnout
+layout: post
+image: https://arthrfrts.files.wordpress.com/2018/03/burnout-paradise-takedown-1024x576.jpg
+author: arthurf
 ---
 
 Antes de levar o nome da franquia Need for Speed de volta ao topo dos jogos de corrida nessa geração com dois jogos excelentes (suas visões dos clássicos Hot Pursuit e Most Wanted), a Criterion já era um estúdio amado pela indústria. Seus títulos demoravam um tempo não muito curto, mas também não muito longo, e Black e a série Burnout sempre impressionaram por sua qualidade.

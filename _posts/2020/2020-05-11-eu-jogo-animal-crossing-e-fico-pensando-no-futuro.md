@@ -1,17 +1,16 @@
 ---
-date: '2020-05-11 20:44:00 -0300'
+title: Eu jogo Animal Crossing e fico pensando no futuro
+date: 2020-05-11 20:44:00 -03:00
+tags:
+- jogos
+- esquinas
+- simulação
+- Nintendo
+- Animal Crossing
 layout: post
 author: arthurf
-title: Eu jogo Animal Crossing e fico pensando no futuro
-tags:
-  - jogos
-  - esquinas
-  - simulação
-  - Nintendo
-  - Animal Crossing
-image: /uploads/2020/05/11/acnh-capa.jpg
+image: "/uploads/2020/05/11/acnh-capa.jpg"
 excerpt: Jolly good!
-published: true
 ---
 
 Eu ando pensando bastante em como vai ser daqui pra frente. Acho que todo mundo tá, né. O que vai sobrar depois dessa pandemia? O que vai acontecer? Vamos continuar seguindo rumo ao cataclisma econômico que vai acontecer depois do coronavirus, ou a gente vai parar pra decidir uma alternativa melhor? Agora que uma parte do mundo parou e lembrou que há muito mais além da exploração viciosa do nosso modelo econômico atual, a gente vai querer voltar pra esse ciclo de novo? O peso de ter que produzir mais finalmente vai ser levado em conta?

@@ -1,4 +1,5 @@
 ---
+title: Posts escritos por Guilherme Novello
 layout: author
-title: "Posts escritos por Guilherme Novello"
 ---
+

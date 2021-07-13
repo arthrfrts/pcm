@@ -1,15 +1,15 @@
 ---
-layout: post
 title: As coisas incríveis que meus amigos fazem
-excerpt: >-
-  Alguns links para você conferir alguns trabalhos dos meus amigos.
-author: arthurf
+date: 2020-12-17 01:00:00 -02:00
 tags:
-  - links
-  - blogs
-  - canais do YouTube
-  - podcasts
-  - comida
+- links
+- blogs
+- canais do YouTube
+- podcasts
+- comida
+layout: post
+excerpt: Alguns links para você conferir alguns trabalhos dos meus amigos.
+author: arthurf
 ---
 
 Eu gosto muito de estar próximo dos meus amigos. Antes desse ano, que me forçou a ficar longe deles, eu sempre estava com algum amigo. Seja conversando, seja trabalhando, seja fazendo absolutamente nada enquanto a gente fica sentado no sofá. Eu gosto de estar na companhia dos meus amigos, e sinto bastante falta deles.

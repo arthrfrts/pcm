@@ -1,18 +1,17 @@
 ---
-layout: post
-date: "2020-05-14 23:00:00 -0300"
 title: Por que Community é tão especial pra mim?
-excerpt: >-
-  Eu honestamente não sei.
+date: 2020-05-14 23:00:00 -03:00
+tags:
+- esquinas
+- séries
+- comédia
+- Community
+- Netflix
+- Prime Video
+layout: post
+excerpt: Eu honestamente não sei.
 author: arthurf
 image: "/uploads/2020/05/14/community.jpg"
-tags:
-  - esquinas
-  - séries
-  - comédia
-  - Community
-  - Netflix
-  - Prime Video
 ---
 
 Essa é a quarta vez que eu escrevo sobre _Community_ pro Pão com Mortadela. Nas duas primeiras vezes, eu escrevi sobre temporadas específicas enquanto elas iam ao ar. Ano passado, eu escrevi [sobre um episódio específico]({% post_url 2019/2019-03-13-remedial-chaos-theory-e-o-episodio-mais-importante-de-community %}). _Community_ é o tema que mais rendeu posts aqui no Pão, é a minha série favorita, e é o que eu estou sempre pensando sobre. Essa é a quarta vez que eu escrevo sobre _Community_ pro Pão, e muito provavelmente não vai ser a última.

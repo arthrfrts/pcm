@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Os cartazes de René Magritte nos anos 1920
-author: arthurf
+date: 2021-02-25 09:26:00 -03:00
 tags:
 - artes plásticas
 - ilustrações
 - René Magritte
-date: 2021-02-25 09:26 -0300
+layout: post
+author: arthurf
 ---
+
 Antes de ir para a França e se tornar um dos nomes mais conhecidos do [Surrealismo](https://pt.wikipedia.org/wiki/Surrealismo), René Magritte vivia em Bruxelas como um ilustrador, criando peças comerciais ao estilo [Déco](https://pt.wikipedia.org/wiki/Art_déco), via [OpenCulture](https://www.openculture.com/2021/02/rene-magrittes-early-art-deco-posters.html)
 
 Os dois cartazes abaixo são para anunciar duas peças da empresa de compra Norine, do casal Honorine “Norine” Deschrijver e Paul-Gustave Van Hecke. Van Hecke também tinha uma galeria de arte, e foi um dos primeiros defensores do Surrealismo — e um dos primeiros a pagar Magritte pelo sue trabalho surrealista.

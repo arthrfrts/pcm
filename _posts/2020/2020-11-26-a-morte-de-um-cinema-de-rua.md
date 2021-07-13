@@ -1,12 +1,13 @@
 ---
-layout: post
 title: A morte de um cinema de rua
-author: arthurf
+date: 2020-11-26 09:46:00 -02:00
 tags:
 - links
 - filmes
-date: 2020-11-26 08:46 -0300
+layout: post
+author: arthurf
 ---
+
 [Rafael Aguinaga para a Piauí](https://piaui.folha.uol.com.br/morte-de-um-cinema-de-rua/):
 
 > Por conta própria, ao longo de oito anos nós já tínhamos recebido cerca de 15 mil crianças vindas de escolas municipais. As sessões sempre aconteciam de manhã, fora do horário comercial, e a gente combinava tudo com as professoras dessas escolas. Funcionava muito bem. Nós juntamos os dois patinhos feios da indústria – o documentário e o cinema de rua – com propósito educativo. Isso deveria ser replicado por outros cinemas no Brasil. Há um monte de documentários espetaculares que são ignorados pelo circuito convencional. A gente passava filmes sobre o Rio São Francisco, sobre a Amazônia… Só filmes brasileiros. Nesses dias eu fazia questão de operar o projetor e receber os alunos pessoalmente no cinema.

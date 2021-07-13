@@ -1,14 +1,15 @@
 ---
-layout: post
-title: "Thimbleweed Park me lembrou de quando eu costumava estragar os jogos do meu pai"
-author: arthurf
-date: "2018-04-02 09:29:54 -0300"
+title: Thimbleweed Park me lembrou de quando eu costumava estragar os jogos do meu
+  pai
+date: 2018-04-02 09:29:54 -03:00
 tags:
-  - jogos
-  - séries
-  - aventura
-  - Nintendo Switch
-image: "https://i.imgur.com/Wnwtn8w.jpg"
+- jogos
+- séries
+- aventura
+- Nintendo Switch
+layout: post
+author: arthurf
+image: https://i.imgur.com/Wnwtn8w.jpg
 ---
 
 Sábado foi um dia bem ruim, então eu queria me distrair um pouco e eu vi [um tuíte da Alexandra Moraes (a criadora do Pintinho)](https://twitter.com/alechandracomix/status/979849906897719296) falando bem de um jogo, o tal do _Thimbleweed Park_, que tava com pela metade do preço na eShop do Switch — aproveitei e resolvi comprar.

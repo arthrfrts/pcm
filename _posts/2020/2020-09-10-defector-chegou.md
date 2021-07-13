@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Defector está aqui
-author: arthurf
+date: 2020-09-10 17:19:00 -03:00
 tags:
 - links
 - sites
 - esportes
-date: 2020-09-10 17:19 -0300
+layout: post
+author: arthurf
 ---
 
 ![Captura de tela da página inicial do site Defector no dia 10 de setembro de 2020]({% link uploads/2020/09/10/defector.png %})

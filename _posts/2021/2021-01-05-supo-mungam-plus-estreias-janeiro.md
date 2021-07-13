@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Supo Mungam Plus disponibilizará filmes novos todas as sextas-feiras de janeiro
-author: arthurf
+date: 2021-01-05 21:29:00 -02:00
 tags:
 - filmes
 - streaming
 - Supo Mungam Plus
-date: 2021-01-05 20:29 -0300
+layout: post
+author: arthurf
 ---
+
 A distribuidora Supo Mungam Filmes trouxe pro Brasil alguns dos melhores filmes dos últimos anos, como *Em Trânsito* e [*Retrato De Uma Jovem Em Chamas*]({% post_url 2020/2020-12-26-meus-filmes-favoritos-de-2020 %}). No fim do ano passado eles anunciaram que iam finalmente lançar esse excelente catálogo de filmes em DVD e blu-ray (você pode reservar a edição lindíssima de *Retrato* [no site da Versátil](https://www.versatilhv.com.br/produto/506093/blu-ray-retrato-de-uma-jovem-em-chamas-edicao-limitada-com-1-poster-mais-2-cards-mais-1-livreto)!), e que iam montar um serviço de streaming dedicado à filmes independentes e autorais.
 
 O serviço, chamado [Supo Mungam Plus](http://www.supomungamplus.com.br/), vai trazer novos filmes pro catálogo todas as sextas-feiras desse mês, começando com *Bamako* (Abderrahmane Sissako, 2006) e *O Conto das Três Irmãs* (Emin Alper, 2016) no próximo dia 8.

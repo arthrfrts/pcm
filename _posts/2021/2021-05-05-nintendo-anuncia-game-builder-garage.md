@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Nintendo anuncia Game Builder Garage
-author: arthurf
+date: 2021-05-05 20:18:00 -03:00
 tags:
 - jogos
 - desenvolvimento
 - Nintendo
 - Nintendo Switch
-date: 2021-05-05 20:18 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/0yM3ppz0Zt8" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Game Builder Garage* é um jogo/aplicativo para o Nintendo Switch que permite que as pessoas criem jogos usando uma interface gráfica amigável, como o [Scratch](https://scratch.mit.edu) ou o [Kodu Game Lab](https://www.kodugamelab.com/) da Microsoft. O usuário vai ligar blocos que podem ser objetos ou ações à blocos de interação, permitindo criar comportamentos e cenários.

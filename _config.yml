@@ -1,7 +1,21 @@
-# Site settings
+---
 title: Pão com Mortadela
-tagline: >-
-  Dicas bacanas para acompanhar seu café.
+timezone: America/Sao_Paulo
+collections:
+  authors:
+    title: Authors
+    output: true
+    permalink: "/arquivo/autor/:title/"
+  links:
+    title: Links
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+tagline: Dicas bacanas para acompanhar seu café.
 description: |+
   Tem tanta coisa por aí.
   A gente te ajuda a encontrar aquilo que você vai gostar.
@@ -9,81 +23,58 @@ description: |+
 
 lang: pt-BR
 logo: "/assets/images/logo.png"
-timezone: "America/Sao_Paulo"
-
-collections:
-  authors:
-    output: true
-    permalink: "/arquivo/autor/:title/"
-  links:
-    output: false
-
-# Build settings
 markdown: kramdown
 incremental: true
-
-url: "https://paomortadela.com.br" # mudar no merge
-baseurl: ""
-
+url: https://paomortadela.com.br
+baseurl: ''
 permalink: "/:year/:month/:title/"
 paginate: 8
 paginate_path: "/arquivo/pagina/:num/"
-seo_paginator_message: "Página %<current>s de %<total>s ~ "
-
+seo_paginator_message: 'Página %<current>s de %<total>s ~ '
 exclude:
-  - LICENSE
-  - README.md
-
+- LICENSE
+- README.md
 include:
-  - _redirects
-  - _headers
-
+- _redirects
+- _headers
 keep_files:
-  - ads.txt
-  - assets/images
-  - assets/js
-  - uploads
-
+- ads.txt
+- assets/images
+- assets/js
+- uploads
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-loading-lazy
-  - jekyll-include-cache
-
-# SEO
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-archives
+- jekyll-paginate
+- jekyll-loading-lazy
+- jekyll-include-cache
 social:
   name: Pão com Mortadela
   links:
-    - https://twitter.com/paomortadela
-    - https://www.facebook.com/paomortadela.com.br
-
+  - https://twitter.com/paomortadela
+  - https://www.facebook.com/paomortadela.com.br
 twitter:
   username: paomortadela
   card: summary
-
-# Archives
 jekyll-archives:
   enabled:
-    - tags
-    - year
-    - month
+  - tags
+  - year
+  - month
   layout: archive
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
     tag: "/arquivo/tag/:name/"
   slug_mode: default
-
-# Compose
 jekyll_compose:
   auto_open: true
   default_front_matter:
     drafts:
       author: arthurf
-      tags:
+      tags: 
     posts:
       author: arthurf
-      tags:
+      tags: 

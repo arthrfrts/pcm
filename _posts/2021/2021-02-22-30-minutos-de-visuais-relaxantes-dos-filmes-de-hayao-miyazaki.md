@@ -1,15 +1,16 @@
 ---
-layout: post
 title: 30 minutos de visuais relaxantes dos filmes de Hayao Miyazaki
-author: arthurf
+date: 2021-02-22 07:49:00 -03:00
 tags:
 - filmes
 - vídeos
 - animação
 - Studio Ghibli
 - Hayao Miyazaki
-date: 2021-02-22 07:49 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/z9Ug-3qhrwY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Na verdade não são trinta minutos mesmo, são seis — mas as sequências são rearranjadas a cada repetição. Mesmo assim, é sempre bom sentar e acompanhar um pouquinho da beleza pastoral dos filmes do diretor japonês Hayao Miyazaki.

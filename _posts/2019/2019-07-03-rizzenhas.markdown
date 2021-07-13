@@ -1,14 +1,14 @@
 ---
-layout: post
 title: r.izze.nhas é uma boa leitura sobre boas leituras
-date: '2019-07-03 09:00'
-author: arthurf
+date: 2019-07-03 09:00:00 -03:00
 tags:
-  - esquinas
-  - leituras
-  - blogs
-  - livros
-image: /uploads/2019/07/rizzenhas.png
+- esquinas
+- leituras
+- blogs
+- livros
+layout: post
+author: arthurf
+image: "/uploads/2019/07/rizzenhas.png"
 ---
 
 Nessa última década parece parece que a Internet diminuiu. Quer dizer, é impossível a Internet diminuir porque a cada dia existem mais páginas, mais sites e mais tuítes de presidentes que são incapazes de  evitar falar asneira. Mas _parece_ que ela diminuiu. Parece que acessamos menos desses sites, a gente descobre menos coisas novas. A gente conversa com nossos amigos no Facebook, a gente reclama dos nossos tios no Twitter, a gente escuta música no Spotify, e se for preguiçoso não precisa nem procurar uma música nova pra ouvir. A gente sequer precisa sair da primeira página de resultados do Google pra ter uma opinião formada esses dias.

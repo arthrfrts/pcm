@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Peanuts, 50 anos antes
-author: arthurf
+date: 2021-03-29 07:47:00 -03:00
 tags:
 - links
 - tirinhas
 - Peanuts
-date: 2021-03-29 07:47 -0300
+layout: post
+author: arthurf
 ---
+
 Essa foi a tirinha de *Peanuts* em 29 de março de 1971:
 
 {: .full-width }

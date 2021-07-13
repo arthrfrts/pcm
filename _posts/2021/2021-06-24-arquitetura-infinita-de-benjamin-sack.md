@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Arquitetura infinita de Benjamin Sack
-author: arthurf
+date: 2021-06-24 10:41:00 -03:00
 tags:
 - artes plásticas
 - desenho
 - arquitetura
-date: 2021-06-24 10:41 -0300
+layout: post
+author: arthurf
 ---
+
 {: .full-width }
 ![Detalhe do desenho de uma metrópole superpopulosa, em que uma catedral se destaca em meio aos prédios]({% link uploads/2021/06/24/sack1.jpg %})
 _"Boxed In"_

@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Episódio 4 – com Cássio Fagundes
-author: arthurf
+date: 2020-08-26 09:09:00 -03:00
 tags:
 - Pãodecast
 - podcasts
-date: 2020-08-26 09:09 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Cassio-Fagundes-eik66o/a-a31gh5i" height="102" frameborder="0" scrolling="no"></iframe>
 
 Era um pouco tarde da noite quando eu e o Cássio paramos pra conversar. Eu tava trabalhando. Ele tava lavando louça.

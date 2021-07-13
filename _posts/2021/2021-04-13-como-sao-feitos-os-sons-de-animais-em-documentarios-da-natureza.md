@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Como são feitos os sons de animais em documentários da natureza?
-author: arthurf
+date: 2021-04-13 07:48:00 -03:00
 tags:
 - vídeos
 - documentários
-date: 2021-04-13 07:48 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/AcmhWs7HM1c" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu encontrei esse vídeo há umas semanas no Open Culture e fiquei pensando nisso desde então ([já que eu tô assistindo muito documentário natural nos últimos tempos]({% post_url 2021/2021-03-31-nature-is-healing %})). É algo nada surpreendente se você _para pra pensar_ em documentários da natureza &mdash; nós temos tecnologia para capturar boas imagens de todos esses animais em longa distância, mas é difícil de capturar o som deles quando você tá escondido no meio da selva e não quer que a onça se assuste com você e sua equipe de três pessoas filmando ela pular de um lugar pro outro.

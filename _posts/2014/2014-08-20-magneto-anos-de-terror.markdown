@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Magneto: Atos de Terror"
-date: "2014-08-20 20:06:10 -0300"
-author: filliped
+title: 'Magneto: Atos de Terror'
+date: 2014-08-20 20:06:10 -03:00
 tags:
-  - leituras
-  - gibis
-  - super-heróis
-  - Marvel
-  - X-Men
-image: "https://arthrfrts.files.wordpress.com/2018/03/magneto-no-hero-2_zps8cde934e-672x372.jpg"
+- leituras
+- gibis
+- super-heróis
+- Marvel
+- X-Men
+layout: post
+author: filliped
+image: https://arthrfrts.files.wordpress.com/2018/03/magneto-no-hero-2_zps8cde934e-672x372.jpg
 ---
+
 No início do ano, aqui no Brasil, foram lançados alguns quadrinhos dedicados aos vilões do universo Marvel – e todos sabemos que histórias sobre vilões são muito melhores do que histórias sobre herois. Em _Atos de Terror_, o mestre do magnetismo luta lado a lado com os _X-men_, deixando seu posto de nêmesis do grupo para trás, criando, junto a Scott, uma nova forma de lutar pela causa mutante.
 
 Tudo muda, entretanto, quando Erik é filmado assassinando um grupo de quarenta manifestantes anti-mutantes. Com Capitão América e o Homem de Ferro em seu encalço, o líder mutante precisará provar que se redimiu de seus crimes e que há alguém por trás da morte do grupo.

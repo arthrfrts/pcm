@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Ele fez de novo: Serena, de Ian McEwan"
-date: "2014-08-07 01:10:27 -0300"
-author: arthurf
+title: 'Ele fez de novo: Serena, de Ian McEwan'
+date: 2014-08-07 01:10:27 -03:00
 tags:
-  - leituras
-  - livros
-  - romance
-  - mistério
-  - Ian McEwan
-image: "https://arthrfrts.files.wordpress.com/2018/03/serena-capa-672x372.jpg"
+- leituras
+- livros
+- romance
+- mistério
+- Ian McEwan
+layout: post
+author: arthurf
+image: https://arthrfrts.files.wordpress.com/2018/03/serena-capa-672x372.jpg
 ---
 
 Serena, o livro, começa bem direto. Serena, a personagem, descreve traços básicos de sua personalidade e faz um resumo da história logo na primeira página. Depois, comenta que sua infância e adolescência são desinteressantes e, depois de descrever esses estágios rapidamente, passa para o que nos interessa. De todos os livros do Ian McEwan que eu já li (e eu só não li dois ainda), é o mais dinâmico no seu início. Foge da descrição extensa, mas belíssima, do Reparação, de todo o interlúdio perfeccionista de Amor sem fim, dos longuíssimos devaneios de Sábado, e assim por diante. Mas ele o engana imediatamente aí.

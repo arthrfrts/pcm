@@ -1,16 +1,15 @@
 ---
-layout: post
-date: '2020-06-09 23:00:00 -0300'
 title: Um ranking de todos os The Legend of Zelda
-author: arthurf
-image: /uploads/2020/06/09/zelda.jpg
+date: 2020-06-09 23:00:00 -03:00
 tags:
-  - jogos
-  - aventura
-  - listas
-  - Nintendo
-  - The Legend of Zelda
-published: true
+- jogos
+- aventura
+- listas
+- Nintendo
+- The Legend of Zelda
+layout: post
+author: arthurf
+image: "/uploads/2020/06/09/zelda.jpg"
 ---
 
 Desde o dia que eu terminei de fazer [meu ranking de *Super Mario*]({% post_url 2019/2019-08-14-um-ranking-de-todos-os-super-mario %}) eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.

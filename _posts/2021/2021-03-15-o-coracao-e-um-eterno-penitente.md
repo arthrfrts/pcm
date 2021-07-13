@@ -1,14 +1,15 @@
 ---
-layout: post
 title: O Coração É um Eterno Penitente
-author: arthurf
+date: 2021-03-15 12:52:00 -03:00
 tags:
 - links
 - filmes
 - curtas
 - Fantasma do Espaço
-date: 2021-03-15 12:52 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/OSial-9gcQA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Se você lê *A Baguete*, já sabe como eu rasguei de elogios o novo curta-metragem do meu amigo Leonardo Michelon e da Bruna Giuliatti. Esse é um dos três curtas que fazem parte do [*Desejos do Coração*](https://3desejosdocoracao.tumblr.com) — eu falei da [segunda parte no ano passado]({% post_url 2020/2020-10-02-o-coracao-e-um-inadimplente-sem-esperanca %}).

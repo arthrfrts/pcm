@@ -1,16 +1,17 @@
 ---
-layout: post
 title: O que assistir da mostra Novas Áfricas do Kinoforum
-author: erez
-image: "/uploads/2020/08/28/altas-horas.jpg"
+date: 2020-08-28 09:43:00 -03:00
 tags:
 - achados
 - filmes
 - curtas
 - festivais
 - Kinoforum
-date: 2020-08-28 09:43 -0300
+layout: post
+author: erez
+image: "/uploads/2020/08/28/altas-horas.jpg"
 ---
+
 Quando fui convidado pelo meu amigo [Guilherme]({% link _authors/guilhermen.md %}) a escrever um texto sobre uma das mostras do Kinoforum eu imediatamente me atrai pela mostra Novas Africas. Não por ser um grande conhecedor dos cinema africanos, mas justamente pela minha curiosidade sobre essas cinematografias que de forma geral são pouco conhecidas até mesmo para as pessoas mais interessadas por cinema. Tendo uma produção que historicamente é restrita a poucas obras (com algumas notáveis excessões[^1]). Mas que na última década teve um considerável aumento na produção de filmes e os curtas como sempre surgem com força, especialmente para os novos realizadores. A mostra é composta por 3 sessões, cada uma com seu tema, tendo produções de diversos países como: República Democrática do Congo, Líbia, Quênia, Senegal, Marrocos e Burkina Faso; França e Bélgica também participam de algumas produções[^2].
 
 A sessão Novas Áfricas 1 - Rebelião possui um título bem autoexplicativo para o filme *Dia Negro* (Yoro Mbaye, Senegal), onde acompanhamos Ngor, um estudante de direito que assim como muitos outros tem sua bolsa de estudos negada pela universidade. A falta de pagamento da bolsa por três meses gera uma revolta entre os estudantes que começam um forte protesto, culminando num grande confronto com a polícia. O filme, que começa com Ngor explicando o conceito de autodefesa em sala de aula, acaba com o assassinato do protagonista por policiais em meio a luta pelos direitos dos estudantes, se defendendo se uma agressão real, atual e injusta. Não posso deixar de mencionar *Prisioneiro e Carcereiro* (Muhannad Lamin, Líbia), que através da conversa entre dois personagens, já indicados no título, trata do massacre da prisão de Abu Salim. Esse massacre é um dos acontecimentos políticos recentes mais importantes do país, que até hoje está em guerra civil.

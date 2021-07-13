@@ -1,21 +1,21 @@
 ---
-date: '2019-03-13 20:33 -0300'
-layout: post
-category: Episódios
-published: true
-title: “Remedial Chaos Theory” é o episódio mais importante de Community
+title: "“Remedial Chaos Theory” é o episódio mais importante de Community"
+date: 2019-03-13 20:33:00 -03:00
+categories:
+- Episódios
 tags:
-  - episódios
-  - séries
-  - comédias
-  - Community
-  - Prime Video
-excerpt: >-
-  Estreamos uma coluna nova observando como o melhor episódio de uma das
-  melhores séries.
-image: 'https://i.imgur.com/NuXNnXl.jpg'
+- episódios
+- séries
+- comédias
+- Community
+- Prime Video
+layout: post
+excerpt: Estreamos uma coluna nova observando como o melhor episódio de uma das melhores
+  séries.
+image: https://i.imgur.com/NuXNnXl.jpg
 author: arthurf
 ---
+
 Alguns episódios de nossas séries favoritas revelam tudo: sabe o que essa série faz de bom, e qual a fórmula pra fazer ainda melhor; entende o _espaço_ que essa série ocupa no panorama da televisão; e oferecem algo novo, complamente novo — nos fazem ver aquilo que a gente ama com novos olhos, ao mesmo tempo que extrapola uma premissa à ponto de ressignificá-la. É uma tarefa gigante, mas alguns episódios conseguem. Na terceira temporada de _Twin Peaks_, uma temporada em si difícil de se classificar, a “[Parte 8](https://twinpeaks.fandom.com/wiki/Part_8)” talvez seja a melhor forma de resumir o que foi esse verdadeiro evento em forma de seriado. No clássico absoluto que é _Família Soprano_, “[Long Term Parking](https://sopranos.fandom.com/wiki/Long_Term_Parking)”, examina a tragédia irreversível de seus personagens em um dos arcos mais brutais. Já na sua primeira temporada de _Plantão Médico_, “[Love's Labor Lost](https://er.fandom.com/wiki/Love%27s_Labor_Lost)” vai definir o tom e o ritmo das quinze temporadas e mais de 300 episódios, bem como reestabelece toda a dinâmica de um hospital inteiro e nossa confiança nesses personagens em pouco mais de quarenta minutos.
 
 Um episódio de um seriado de comédia precisa fazer isso na metade do tempo, e precisa redefinir a situação para que seu episódio seguinte ainda possa usar o mesmo ambiente, os mesmos personagens e as mesmas batidas que a comédia empregou. Ao mesmo tempo, esse episódio precisa ser _significante_, ele precisa mostrar, para seus personagens e para seu espectador, que algo mudou, que esse é um ponto de virada ou uma afirmação de algo novo. Em um seriado que sempre entendeu demais o que o fazia tão bem — a ponto de isso se transformar em um problema em alguns episódios — a tarefa de criar um episódio que pudesse resumir tematicamente e expandir emocionalmente _Community_ parecia impossível, mas é exatamente isso que “Remedial Chaos Theory” (3x04) conseguiu fazer.

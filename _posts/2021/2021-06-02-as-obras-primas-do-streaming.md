@@ -1,12 +1,13 @@
 ---
-layout: post
 title: As obras-primas do streaming
-author: arthurf
+date: 2021-06-02 07:51:00 -03:00
 tags:
 - links
 - web
-date: 2021-06-02 07:51 -0300
+layout: post
+author: arthurf
 ---
+
 A Polygon está com uma série de artigos chamada [*The Masterpieces of Streaming*](https://www.polygon.com/features/22417308/masterpieces-of-streaming), com foco nos filmes e séries lançados no Netflix e em outras plataformas de streaming desde o início da criação de conteúdo específico pra esse meio (os chamados “originals”). Tem a típica lista dos [50 filmes mais importantes dessa era](https://www.polygon.com/22417309/best-original-movies-streaming-services), e [as séries que melhor utilizam a plataforma](https://www.polygon.com/22417317/best-tv-shows-binge-watch) para maratonar. Tem também sobre um outro tipo de conteúdo, os vídeo-ensaios no YouTube, que por algum motivo não lista nenhum vídeo da ContraPoints.
 
 O que eu mais gostei são os artigos que analisam essa era de conteúdo, [em especial esse](https://www.polygon.com/22417314/streaming-movies-netflix-classic-films) em que o autor, Charles Bramesco, tenta identificar o porque as plataformas de streaming geram tão poucos clássicos como as locadoras (e os cinemas) conseguem:

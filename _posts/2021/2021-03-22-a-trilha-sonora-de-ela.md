@@ -1,15 +1,16 @@
 ---
-layout: post
 title: A trilha sonora de Ela
-author: arthurf
+date: 2021-03-22 20:13:00 -03:00
 tags:
 - músicas
 - trilhas-sonoras
 - Spike Jonze
 - Arcade Fire
 - Owen Pallett
-date: 2021-03-22 20:13 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe src="https://open.spotify.com/embed/album/7xBJ2XXlDFfACXAnOE86t8" class="full-width" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Pra mim, cada mudança de computador é um evento. Eu faço tudo no meu computador, então sempre que eu preciso trocar de um computador por outro, eu preciso tomar cuidado. Eu demoro meses considerando, eu preparo a mudança com semanas de antecedência, e faço tudo com calma, pra não perder nada. É engraçado, mas eu tomo muito mais cuidado com as coisas que estão no meu computador do que as que estão no meu celular. Eu acabo apagando mensagens, fotos e aplicativos sem muita consideração. Mas eu sei a localização de cada arquivo no meu computador, eu conheço de cor as minhas configurações preferidas dos programas que eu uso para trabalhar ou para escrever.

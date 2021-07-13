@@ -1,7 +1,6 @@
 ---
-layout: post
 title: 'Dua Lipa: NPR Tiny Desk (Home) Concert'
-author: arthurf
+date: 2020-12-07 09:42:00 -02:00
 tags:
 - músicas
 - vídeos
@@ -9,8 +8,10 @@ tags:
 - pop
 - Dua Lipa
 - NPR
-date: 2020-12-07 08:42 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/F4neLJQC1_E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Uma das minhas descobertas favoritas durante a pandemia foi o [Tiny Desk Concert](https://www.youtube.com/c/nprmusic/playlists), pequenos shows realizados nos estúdios da rádio pública americana (NPR), em que uma banda ou um artista se apresentam por alguns minutinhos. É uma versão bem compacta e bem íntima de um show.

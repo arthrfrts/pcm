@@ -1,11 +1,11 @@
 ---
-layout: post
-date: '2018-08-01 11:11:33 UTC'
 title: Uma Criatura Gentil
-author: arthurf
+date: 2018-08-01 08:11:33 -03:00
 tags:
-  - leituras
-  - livros
+- leituras
+- livros
+layout: post
+author: arthurf
 ---
 
 Terminei _Uma Criatura Gentil_ do Dostoiévski hoje de manhã. Caramba, como eu senti raiva quando comecei a ler essa novela porque era incrível como o autor consegue desenvolver o mundo do narrador, a personalidade do narrador e a impressão que o narrador tem do mundo que o carca com tanta facilidade. É tão natural e flui tão bem a leitura (eu leio bem devagar) que as vezes eu esquecia completamente como o escritor delimita formalmente a história que ele tá contando.

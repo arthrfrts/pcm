@@ -1,13 +1,13 @@
 ---
-layout: post
-date: 2016-07-14
-title: "The Night Of é insuportável de linda"
-author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/night-of.jpg"
+title: The Night Of é insuportável de linda
+date: 2016-07-14 00:00:00 -03:00
 tags:
-  - séries
-  - suspense
-  - HBO
+- séries
+- suspense
+- HBO
+layout: post
+author: arthurf
+image: https://arthrfrts.files.wordpress.com/2018/03/night-of.jpg
 ---
 
 _The Night Of_ começa com uma sequência de títulos bem clássica. Faz tempos que a HBO começou a apostar em grandes aberturas pras suas séries de drama, contrariando a onda de títulos curtos que outras emissoras vinham fazendo. Ela não é mais bonita, por exemplo, como as duas aberturas de _True Detective_. A gente compara com _True Detective_ naturalmente, aliás. Essa minissérie (embora ja se fale em segunda temporada) veio, muito discretamente, ocupar o espaço que seria da terceira temporada da antologia de crimes escrita pelo Nick Pizzolatto.

@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Minha longa jornada até Earthbound
-author: arthurf
+date: 2020-11-02 19:23:00 -02:00
 tags:
 - jogos
 - RPG
 - Nintendo
-date: 2020-11-02 18:23 -0300
+layout: post
+author: arthurf
 ---
+
 Eu tenho muita dificuldade de jogar RPGs. Eu nunca joguei os de mesa, eu estou falando especificamente dos videogames nesse caso. Eu sou um jogador muito lento (*muito* mesmo), e tenho muita dificuldade de adentrar um jogo com um tutorial de algumas horas, porque eu posso muito bem passar meses progredindo muito pouco (eu acho que metade dos meses que eu passei fazendo o [ranking do Zelda]({% post_url 2020/2020-06-09-the-legend-of-zelda-ranking %}) foi nos tutoriais de *Twilight Princess* e *Skyward Sword*).
 
 Some a isso meu desinteresse pelo tom da maioria dos *Final Fantasy* recentes e meu afastamento progressivo de *Pokémon*, os únicos RPGs que eu gostava de jogar há um tempo, e eu comecei a achar que esse tipo de jogo não me interessava mais. O problema é que eu gosto de jogos com boas histórias. Tá cheio deles por aí em [aventuras]({% post_url 2020/2020-10-27-kentucky-route-zero %}) e em [jogos de mundo aberto]({% post_url 2017/2017-07-25-the-legend-of-the-zelda-breath-of-the-wild %}), mas tem um tiquezinho que é diferente em RPGs, aquele tipo de história crescente e sem vergonha de ser grandiloquente.

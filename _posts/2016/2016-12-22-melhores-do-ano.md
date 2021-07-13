@@ -1,17 +1,17 @@
 ---
-layout: post
 title: Os 5 melhores de 2016
-date: 2016-12-22
+date: 2016-12-22 00:00:00 -02:00
 tags:
-  - listas
-  - filmes
-  - músicas
-  - links
-  - jogos
-  - séries
-  - leituras
+- listas
+- filmes
+- músicas
+- links
+- jogos
+- séries
+- leituras
+layout: post
 author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png"
+image: https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png
 ---
 
 2016 não foi lá um bom ano no geral. Aqui com os padeiros também. Eu e a Thai tivemos um ano puxado e frustrante, e acabamos não conseguindo dar toda a nossa atenção ao nosso querido :bread:. Nós esperamos que 2017 seja melhor, e por isso vamos voltar com as dicas diárias na primeira segunda-feira do ano, dia 2 de janeiro.

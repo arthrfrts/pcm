@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Betty é uma série mágica
-author: arthurf
-image: "/uploads/2021/06/25/betty.jpg"
+date: 2021-06-25 09:33:00 -03:00
 tags:
 - séries
 - HBO
 - Crystal Moselle
 - Betty
-date: 2021-06-25 09:33 -0300
+layout: post
+author: arthurf
+image: "/uploads/2021/06/25/betty.jpg"
 ---
+
 É muito difícil de falar de *Betty* porque é uma série muito longe da minha "existência". É sobre um grupo de jovens mulheres skatistas em Nova York, e como elas passam seus dias e criam uma comunidade entre si. Mas o que *Betty* me faz sentir é algo muito poderoso, e eu acho que é algo proposital, que me coloca perto dessas personagens emocionalmente.
 
 Em seus episódios, as jovens de *Betty* aparecem fazendo manobras em seus skates pelas ruas de Nova York, e tem algo de libertador ao assistir elas fazendo isso: elas usam um corrimão ou um meio fio como obstáculos; uma escadinha ou um cachorro dormindo na rua são oportunidades perfeitas para experimentar uma manobra nova. Existe um "fluxo" quando elas andam de skate, uma mistura de técnica e improviso, de aproveitar o exato momento em que algo aconteceu. É uma união do mundano e do extraordinário.

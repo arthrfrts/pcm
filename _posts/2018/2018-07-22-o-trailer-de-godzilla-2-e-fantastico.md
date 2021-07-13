@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "O trailer de Godzilla 2 é fantástico"
-date: "2018-07-22 14:46:48 -0300"
-author: arthurf
+title: O trailer de Godzilla 2 é fantástico
+date: 2018-07-22 14:46:48 -03:00
 tags:
-  - links
-  - trailers
-  - filmes
-  - Godzilla
+- links
+- trailers
+- filmes
+- Godzilla
+layout: post
+author: arthurf
 ---
 
 Ontem eu assisti o trailer de _Godzilla: King of the Monsters_, a continuação do filme de 2014 que eu nunca assisti.

@@ -1,17 +1,18 @@
 ---
-layout: post
 title: As minhas séries favoritas para você assistir nessas férias
-author: arthurf
+date: 2016-08-26 00:00:00 -03:00
 tags:
-  - listas
-  - séries
-  - The Americans
-  - Broad City
-  - Halt and Catch Fire
-  - Master of None
-  - Veep
-  - The Leftovers
-  - Silicon Valley
+- listas
+- séries
+- The Americans
+- Broad City
+- Halt and Catch Fire
+- Master of None
+- Veep
+- The Leftovers
+- Silicon Valley
+layout: post
+author: arthurf
 ---
 
 <p><em>Game of Thrones</em> acabou nesse último domingo com um monte de morte e um monte de pistas pro que vai acontecer nas duas próximas (e últimas?) temporadas. Você vai ter até o ano que vem para esperar uma nova temporada e as férias de inverno estão aí. Péssimo <em>timing</em>, HBO, a gente vai precisar de algumas coisas pra ver.</p>

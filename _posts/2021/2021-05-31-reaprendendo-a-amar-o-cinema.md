@@ -1,11 +1,11 @@
 ---
+title: Reaprendendo a amar o cinema
+date: 2021-05-31 08:23:00 -03:00
+tags:
+- esquinas
+- filmes
 layout: post
 author: arthurf
-title: Reaprendendo a amar o cinema
-tags:
-  - esquinas
-  - filmes
-date: 2021-05-31 08:23 -0300
 ---
 
 Se você acompanha o *Pão* há um tempo, pode perceber que nos últimos dois anos eu falei muito pouco sobre filmes. No início, o *Pão* era quase inteiro um blog sobre os filmes que eu gostava ou tinha descoberto recentemente, mas de meados de 2019 pra cá isso mudou um bocado.

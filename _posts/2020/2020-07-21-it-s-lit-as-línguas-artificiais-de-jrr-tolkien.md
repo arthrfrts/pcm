@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "It's Lit: As línguas artificiais de JRR Tolkien"
-author: arthurf
+title: 'It''s Lit: As línguas artificiais de JRR Tolkien'
+date: 2020-07-21 19:46:00 -03:00
 tags:
 - livros
 - vídeos
@@ -9,8 +8,10 @@ tags:
 - O Senhor dos Anéis
 - Lindsay Ellis
 - JRR Tolkien
-date: 2020-07-21 19:46 -0300
+layout: post
+author: arthurf
 ---
+
 {: .full-width }
 <iframe src="https://www.youtube.com/embed/VFlyQk_uVAI?origin={{- site.url | url_encode -}}"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

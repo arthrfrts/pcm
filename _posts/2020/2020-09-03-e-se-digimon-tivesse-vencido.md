@@ -1,15 +1,16 @@
 ---
-layout: post
 title: E se Digimon tivesse vencido?
-author: arthurf
+date: 2020-09-03 08:49:00 -03:00
 tags:
 - vídeos
 - canais do YouTube
 - jogos
 - Pokémon
 - Digimon
-date: 2020-09-03 08:49 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/Ooq3GXLP2TY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu estou assistindo esse vídeo repetidamente desde ontem. Eu adoro a Jenna e suas análises de como certas escolhas no game design dos jogos que gostamos repercutem. Aqui, ela faz uma análise do que tivesse acontecido se *Digimon* tivesse vencido *Pokémon* no final dos anos 1990 pela ubiquidade da atenção das crianças.

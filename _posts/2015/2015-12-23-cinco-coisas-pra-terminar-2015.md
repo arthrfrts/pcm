@@ -1,20 +1,20 @@
 ---
-layout: post
-date: 2015-12-23
 title: Cinco coisas (que você não conferiu) pra terminar bem 2015
-excerpt: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para
-  você terminar bem esse ano.
-author: thaianek
-image: "https://arthrfrts.files.wordpress.com/2018/03/45-anos.jpg"
+date: 2015-12-23 00:00:00 -02:00
 tags:
-  - listas
-  - melhores do ano
-  - filmes
-  - jogos
-  - séries
-  - leituras
-  - vídeos
-  - músicas
+- listas
+- melhores do ano
+- filmes
+- jogos
+- séries
+- leituras
+- vídeos
+- músicas
+layout: post
+excerpt: Nós selecionamos um filme, uma série, um jogo, um álbum e um link para você
+  terminar bem esse ano.
+author: thaianek
+image: https://arthrfrts.files.wordpress.com/2018/03/45-anos.jpg
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.

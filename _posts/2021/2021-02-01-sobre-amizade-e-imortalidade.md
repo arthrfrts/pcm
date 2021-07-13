@@ -1,16 +1,17 @@
 ---
-layout: post
 title: Sobre amizade (e imortalidade)
-author: arthurf
-image: "/uploads/2021/02/01/looking.jpg"
+date: 2021-02-01 21:44:00 -02:00
 tags:
 - miscelânea
 - filmes
 - Looking
 - Andrew Haigh
 - HBO
-date: 2021-02-01 20:44 -0300
+layout: post
+author: arthurf
+image: "/uploads/2021/02/01/looking.jpg"
 ---
+
 Eu nunca levo muito a sério quando um diretor de algum filme, mesmo de filmes que eu amo, tenta resumir o ímpeto de fazer filmes ou de contar histórias. Eles acabam dando grandes declarações sobre a humanidade — sobre nossa necessidade de contar e de ouvir sobre as experiências de nossas vidas, a possibilidade de uma obra de arte tem de ser uma janela para o mundo, etc. e tal. Quanto mais filosófica a declaração fica, menos eu consigo entender ela.
 
 Uma das que sempre me incomodou muito é que arte é uma tentativa de enganar a morte e de viver para sempre, de alguma forma. Eu nunca entendi ela muito bem, e sempre me incomodou porque eu não acho que a arte seja capaz de fazer alguém viver para sempre. Por mais que até hoje a gente converse, discuta e se surpreenda com o sorriso da Mona Lisa, ela não traz nem Da Vinci nem a Gioconda de volta. Ela é um lembrete de que essas pessoas existiram, e de que em algum momento ela posou para ele retratá-la. De certa forma, eu prefiro acreditar que a arte é [uma espécie de máquina do tempo]({% post_url 2020/2020-05-26-eu-nao-sei-se-vou-conseguir-ver-o-fim-do-mundo-na-tv %}).

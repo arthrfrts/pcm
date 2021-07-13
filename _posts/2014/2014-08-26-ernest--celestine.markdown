@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Ernest & Celestine"
-date: "2014-08-26 19:55:27 -0300"
-author: vanessao
+title: Ernest & Celestine
+date: 2014-08-26 19:55:27 -03:00
 tags:
-  - filmes
-  - animação
-  - drama
-  - cinema belga
-image: "https://arthrfrts.files.wordpress.com/2018/03/hero_ernestand_celestine-2014-1.jpg"
+- filmes
+- animação
+- drama
+- cinema belga
+layout: post
+author: vanessao
+image: https://arthrfrts.files.wordpress.com/2018/03/hero_ernestand_celestine-2014-1.jpg
 ---
+
 Todo mundo tem um gênero de filme preferido, mas uma coisa é fato, não há quem não se renda aos encantos de uma boa animação, acho que é uma espécie de pausa nessa coisa chata de ser gente grande. E para alegrar esta terça-feira de inverno, a dica de hoje é uma das melhores (e com certeza a mais bonita) animações que já vi na vida, _Ernest & Celestine_.
 
 O filme, que é baseado nas histórias infantis da escritora e ilustradora belga Gabrielle Vincent, conta a história de Celestine, uma pequena ratinha que vive em uma cidade subterrânea, onde os ratos crescem ouvindo histórias sobre Os grandes ursos malvados, que vivem na cidade acima. É lá que vive Ernest, um grande urso um tanto quanto ranzinza, mas que de malvado não tem nada.

@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "The Sims 4 parece ser de uma nova Maxis"
-date: "2014-08-11 01:16:43 -0300"
-author: arthurf
+title: The Sims 4 parece ser de uma nova Maxis
+date: 2014-08-11 01:16:43 -03:00
 tags:
-  - esquinas
-  - jogos
-  - simulação
-  - The Sims
+- esquinas
+- jogos
+- simulação
+- The Sims
+layout: post
+author: arthurf
 image: "/uploads/2014/the-sims-4.jpg"
 ---
 

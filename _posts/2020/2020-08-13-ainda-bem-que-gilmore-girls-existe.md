@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Ainda bem que Gilmore Girls existe
-author: arthurf
+date: 2020-08-13 20:41:00 -03:00
 tags:
 - séries
 - tragicomédia
 - drama
 - Gilmore Girls
 - Amy Sherman-Palladino
-date: 2020-08-13 20:41 -0300
+layout: post
+author: arthurf
 ---
+
 <iframe class="full-width" src="https://www.youtube.com/embed/jQCwJi0RDuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As coisas tão meio quietas por aqui, mil desculpas por isso. Eu queria ter mais inspiração do que escrever ultimamente, mas eu ando bastante cansado do trabalho e decepcionado que eu não tô conseguindo escrever o projeto de mestrado que eu tô tentando escrever. Eu demorei mas eu tô começando a sentir os efeitos de se sentir sozinho por muito tempo e isso não tá fazendo bem pra minha cabeça.

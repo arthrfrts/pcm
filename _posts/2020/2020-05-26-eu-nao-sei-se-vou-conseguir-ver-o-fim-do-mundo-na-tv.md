@@ -1,15 +1,15 @@
 ---
-date: 2020-05-26
-layout: post
 title: Eu não sei se vou conseguir ver o fim do mundo na TV
+date: 2020-05-26 00:00:00 -03:00
+tags:
+- essenciais
+- séries
+- drama
+- The Leftovers
+- HBO
+layout: post
 author: arthurf
 image: "/uploads/2020/05/26/the-leftovers.jpg"
-tags:
-  - essenciais
-  - séries
-  - drama
-  - The Leftovers
-  - HBO
 ---
 
 Uma vez eu vi um relógio de sol que me marcou muito. Eu sempre acho eles fascinantes — foram tão importantes pra humanidade e agora estão lá, esquecidos e em desuso, mas continuam fazendo o que sempre fizeram por centenas de anos. Sabe, relógios de sol são lugares, às vezes estão em praças de cidades muito antigas, as vezes estão esquecidos no meio do mato, em um lugar que já foi importante pra alguém, mas que agora não é mais. Eles são imponentes na sua permanência. Eles não só descrevem a passagem do tempo como são testemunhas dela.

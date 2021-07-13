@@ -1,17 +1,16 @@
 ---
-layout: post
-date: "2020-06-04 20:32:00 -0300"
 title: Sobre felicidade
-image: /uploads/2020/06/04/se-a-rua-beale-falasse.jpg
-author: arthurf
+date: 2020-06-04 20:32:00 -03:00
 tags:
-  - miscelânea
-  - filmes
-  - HBO
-  - essenciais
-  - livros
-  - romance
-published: true
+- miscelânea
+- filmes
+- HBO
+- essenciais
+- livros
+- romance
+layout: post
+image: "/uploads/2020/06/04/se-a-rua-beale-falasse.jpg"
+author: arthurf
 ---
 
 No início dessa semana um amigo meu desabafou como ele se sentia mal por estar feliz em tempos como esses, em que o povo precisa ir à rua em meio à maior pandemia do último século para lutar contra o fascismo, para defender sua comunidade contra o racismo estrutural que quer destruí-la e apagá-la da história por centenas de anos (e que já se provou eficaz em fazer isso). Eu passei o resto da semana pensando nisso, porque é um desabafo tão forte e tão honesto pra se ter. As coisas não estão indo bem, como é que a gente encontra motivos pra estar feliz no meio disso?

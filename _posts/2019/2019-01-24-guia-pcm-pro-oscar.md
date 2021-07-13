@@ -1,17 +1,16 @@
 ---
-date: '2019-01-24 09:00 -0200'
-layout: post
 title: Guia PCM pro Oscar
-excerpt: Nós te ajudamos a assistir os filmes indicados ao Oscar desse ano.
+date: 2019-01-24 09:00:00 -02:00
 tags:
-  - listas
-  - filmes
-  - Guia PCM
-  - Oscar
-  - Não é Mad Max
+- listas
+- filmes
+- Guia PCM
+- Oscar
+- Não é Mad Max
+layout: post
+excerpt: Nós te ajudamos a assistir os filmes indicados ao Oscar desse ano.
 author: arthurf
-image: 'https://i.imgur.com/iVjDPWW.jpg'
-published: true
+image: https://i.imgur.com/iVjDPWW.jpg
 ---
 
 Ontem de manhã a AMPAS, a academia que organiza e celebra o Oscar, anunciou os indicados ao prêmio que define toda a temporada de premiações do ano. Em um ano que a celebração já está repleta de polêmicas, novas e velhas.

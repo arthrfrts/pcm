@@ -1,14 +1,15 @@
 ---
-layout: post
 title: A evolução dos personagens de Super Mario
-author: arthurf
+date: 2021-01-04 17:02:00 -02:00
 tags:
 - links
 - jogos
 - Super Mario
 - Nintendo
-date: 2021-01-04 16:02 -0300
+layout: post
+author: arthurf
 ---
+
 *Mario Bros.* é uma das franquias mais famosas e importantes dos jogos, e tá fazendo trinta e cinco anos. Para comemorar, a Nintendo relançou no fim do ano passado os excelentes *64*, *Sunshine* e *Galaxy* na coletânea *Super Mario 3D All-Stars*, e vai relançar o (também excelente) *Super Mario 3D World*, até então exclusivo do Wii U, no Switch em março.
 
 [Eu amo essa franquia]({% post_url 2019/2019-08-14-um-ranking-de-todos-os-super-mario %}). Junto com *The Sims*, os jogos do Mario são os que eu mais joguei antes de *Breath of the Wild* chegar na minha vida. E na vida de muita gente também, e pra comemorar o aniversário dos jogos o Kotaku tá fazendo uma série de artigos sobre a evolução dos personagens. Dois textos já foram publicados, um sobre [o legado da princesa Peach](https://kotaku.com/princess-peach-floated-so-rosalina-could-fly-1845970718) e outro sobre [a evolução e o charme do Bowser](https://kotaku.com/whats-great-about-bowser-1845971445).

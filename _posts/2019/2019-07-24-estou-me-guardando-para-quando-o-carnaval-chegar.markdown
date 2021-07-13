@@ -1,15 +1,15 @@
 ---
-layout: "post"
-title: "Estou Me Guardando Para Quando o Carnaval Chegar"
-date: "2019-07-24 09:00"
+title: Estou Me Guardando Para Quando o Carnaval Chegar
+date: 2019-07-24 09:00:00 -03:00
+tags:
+- resenhas
+- filmes
+- cinema nacional
+- Marcelo Gomes
+- documentários
+layout: post
 author: guilhermen
 image: "/uploads/2019/07/carnaval.jpg"
-tags:
-  - resenhas
-  - filmes
-  - cinema nacional
-  - Marcelo Gomes
-  - documentários
 ---
 
 > "Bem-vindos à capital do jeans"

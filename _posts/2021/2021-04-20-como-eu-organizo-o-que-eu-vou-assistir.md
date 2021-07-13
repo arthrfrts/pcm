@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Como eu organizo o que eu vou assistir
-author: arthurf
+date: 2021-04-20 08:31:00 -03:00
 tags:
-  - filmes
-  - séries
-  - miscelânea
-date: "2021-04-20 08:31 -0300"
+- filmes
+- séries
+- miscelânea
+layout: post
+author: arthurf
 ---
 
 Até pouco tempo atrás, eu não precisava muito me organizar pra assistir filmes ou séries. Eu fazia isso meio que instintivamente. Se eu acordasse cedo o suficiente, eu podia assistir um episódio de uma série enquanto tomava meu café da manhã, e eu conseguia encaixar uns dois filmes depois do trabalho e antes de dormir.

@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Random Access Memories
+date: 2016-01-04 00:00:00 -02:00
+tags:
+- resenhas
+- músicas
+- eletrônica
+- Daft Punk
+layout: post
 author: arthurf
 image: "/uploads/2016/01/04/random-access-memories.jpg"
-tags:
-  - resenhas
-  - músicas
-  - eletrônica
-  - Daft Punk
 ---
+
 O que fazer depois de realizar um álbum praticamente perfeito, que redefiniria tudo o que se escuta nas pistas de dança dali em diante? O Daft Punk demorou doze anos, mas finalmente encontrou em *Random Access Memories* não só um verdadeiro sucessor para seu impecável *Discovery*, mas uma perfeita definição daquilo que o duo sempre foi.
 
 Não ache que *Random Access Memories* se resume em homenagear aqueles que ajudaram, através de referências ou até mesmo através da composição, o Daft Punk a ser o que é hoje. Não é só de uma homenagem aos mestres dos anos ’70 e ’80 que RAM se forma, mas em uma ressignificação de como o Daft Punk faz sua música.

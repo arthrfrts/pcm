@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Sherlock"
-date: "2014-03-14 19:06:00 -0300"
-image: "https://arthrfrts.files.wordpress.com/2018/03/sherlock_iconic.jpg"
-author: filliped
+title: Sherlock
+date: 2014-03-14 19:06:00 -03:00
 tags:
-  - séries
-  - suspense
-  - leituras
-  - Netflix
+- séries
+- suspense
+- leituras
+- Netflix
+layout: post
+image: https://arthrfrts.files.wordpress.com/2018/03/sherlock_iconic.jpg
+author: filliped
 ---
 
 A primeira lembrança que tenho de Sherlock Holmes, apesar de ter lido alguns dos livros de Sir Arthur Conan Doyle quando mais novo, é de uma série, não muito antiga, que passava no Hallmark Channel, canal que talvez já não exista há muito tempo. Era uma série nos moldes britânicos simples, sem muitos cacoetes visuais ou grandes mudanças na natureza da obra. Era uma boa adaptação e um ótimo programa, afinal, com todas as aventuras do detetive e seu fiel médico/militar/detetive/escritor/amigo/aliado multiuso prontas – e sendo incríveis como são -, não deve haver lá grande preocupação com o que diz respeito ao conteúdo apresentado. A genialidade da obra do escritor é incontestável, e só poderia ter sido elaborada por alguém com o mesmo dom intelectual que os personagens de suas histórias. A grande dificuldade que noto, entretanto, fica à cargo da representação dos personagens, principalmente de Sherlock. O que vemos são representações infantis, mal acabadas, um esboço de Sheldon Cooper, frente à uma trama que não apresenta mais a força e a profundidade das histórias de Arthur.

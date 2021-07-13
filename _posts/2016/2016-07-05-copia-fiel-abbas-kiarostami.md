@@ -1,15 +1,15 @@
 ---
-layout: post
-date: 2016-07-05
-author: arthurf
-title: "Uma carta de amor a Abbas Kiarostami"
+title: Uma carta de amor a Abbas Kiarostami
+date: 2016-07-05 00:00:00 -03:00
 tags:
-  - filmes
-  - carreiras em perspectiva
-  - cinema iraniano
-  - Abbas Kiarostami
-  - mistério
-image: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
+- filmes
+- carreiras em perspectiva
+- cinema iraniano
+- Abbas Kiarostami
+- mistério
+layout: post
+author: arthurf
+image: https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg
 ---
 
 Filmes nos conectam. Nos conectam com diferentes realidades, com diferentes ideias, com diferentes pessoas. Seja na própria imagem, seja nas conexões que criamos ao ir no cinema com alguém, ao discutir um filme com alguém, mas filmes nos aproximam de relações, não de coisas.

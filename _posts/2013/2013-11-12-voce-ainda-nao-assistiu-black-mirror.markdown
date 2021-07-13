@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Você ainda não assistiu Black Mirror?"
-date: "2013-11-12 18:43:53 -0300"
-author: filliped
+title: Você ainda não assistiu Black Mirror?
+date: 2013-11-12 19:43:53 -02:00
 tags:
-  - séries
-  - Netflix
-  - Black Mirror
-  - ficção científica
-image: "https://arthrfrts.files.wordpress.com/2018/03/black-mirror.jpg"
+- séries
+- Netflix
+- Black Mirror
+- ficção científica
+layout: post
+author: filliped
+image: https://arthrfrts.files.wordpress.com/2018/03/black-mirror.jpg
 ---
 
 Provavelmente você estava ocupado demais com Breaking Bad ou Dexter, eu sei. Mas agora que ambas as séries chegaram ao fim, você precisa de outro programa para estourar seus miolos e espalhá-los pelas paredes. Está na hora de assistir Black Mirror.

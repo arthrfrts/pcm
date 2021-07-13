@@ -1,13 +1,14 @@
 ---
-layout: post
-date: "2014-02-14 00:46:33 -0300"
-title: "Tudo é completamente, incrivelmente, especialmente incrível em Uma Aventura Lego"
-author: arthurf
+title: Tudo é completamente, incrivelmente, especialmente incrível em Uma Aventura
+  Lego
+date: 2014-02-14 01:46:33 -02:00
 tags:
-  - filmes
-  - animação
-  - brinquedos
-image: "https://i.imgur.com/JY96DhZ.jpg"
+- filmes
+- animação
+- brinquedos
+layout: post
+author: arthurf
+image: https://i.imgur.com/JY96DhZ.jpg
 ---
 
 Uma Aventura LEGO tinha um zilhão de chances de dar errado. Poderia acabar sendo um grande comercial das peças de montar, ou um monte de referências que crianças não entenderiam e que os adultos não gostariam (como nos dois últimos Shrek). Mas não: Uma Aventura LEGO acertou em cheio.

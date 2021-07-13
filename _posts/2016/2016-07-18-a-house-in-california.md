@@ -1,15 +1,15 @@
 ---
-layout: post
-date: 2016-07-18
-title: "Uma noite de verão em A House in California"
+title: Uma noite de verão em A House in California
+date: 2016-07-18 00:00:00 -03:00
 tags:
-  - jogos
-  - aventura
-  - jogos narrativos
-  - Cardboard Computer
-  - links
+- jogos
+- aventura
+- jogos narrativos
+- Cardboard Computer
+- links
+layout: post
 author: arthurf
-image: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
+image: https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg
 ---
 
 O som de grilos em uma noite. Parece que vai chover depois. Uma criança fala para a avó que está muito escuro. Ela não consegue dormir.

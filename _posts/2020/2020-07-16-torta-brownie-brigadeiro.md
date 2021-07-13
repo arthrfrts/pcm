@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Torta Brownie Brigadeiro
-author: arthurf
+date: 2020-07-16 21:48:00 -03:00
 tags:
 - fotos
 - links
 - comida
-date: 2020-07-16 21:48 -0300
+layout: post
+author: arthurf
 ---
+
 Um dos problemas de viver longe dos amigos é que eu tenho amigos talentosos e eu não posso apreciar eles de perto, principalmente quando o talento deles é um absurdo desses:
 
 {: .full-width }

@@ -1,15 +1,15 @@
 ---
-layout: post
 title: " Todos os Homens do Presidente é um filme impecável"
-date: 2016-01-26 16:41
+date: 2016-01-26 16:41:00 -02:00
+tags:
+- resenhas
+- filmes
+- suspense
+- thrillers
+- Alan J. Pakula
+layout: post
 image: "/uploads/2016/01/26/todos-os-homens-do-presidente.jpg"
 author: arthurf
-tags:
-  - resenhas
-  - filmes
-  - suspense
-  - thrillers
-  - Alan J. Pakula
 ---
 
 Thrillers processuais. Talvez um dos meus estilos de filme favoritos. *Todos os Homens do Presidente* talvez seja o melhor deles.

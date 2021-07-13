@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Episódio 5 – com Vanessa Oliveira
-author: arthurf
+date: 2020-09-09 08:57:00 -03:00
 tags:
 - Pãodecast
 - podcasts
 - conversas
-date: 2020-09-09 08:57 -0300
+layout: post
+author: arthurf
 ---
 
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Vanessa-Oliveira-ej8l0r/a-a3572ou" height="102" frameborder="0" scrolling="no"></iframe>

@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Central Park é um charme, pena que tá na Apple TV+
-date: 2020-07-14 13:47 -0300
-author: arthurf
+date: 2020-07-14 13:47:00 -03:00
 tags:
 - achados
 - séries
 - comédia
 - musical
 - animação
+layout: post
+author: arthurf
 ---
+
 {: .full-width }
 <iframe width="806" height="373" src="https://www.youtube.com/embed/80406ua_ERo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

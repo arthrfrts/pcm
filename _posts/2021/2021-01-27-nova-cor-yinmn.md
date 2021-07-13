@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Aparentemente descobriram uma nova tonalidade de azul
-author: arthurf
+date: 2021-01-27 01:00:00 -02:00
 tags:
-  - links
-  - ciência
+- links
+- ciência
+layout: post
+author: arthurf
 ---
 
 {: .full-width }

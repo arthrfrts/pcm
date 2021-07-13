@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Tem um monte de filme bom disponível de graça no Kinoforum
-author: guilhermen
+date: 2020-08-24 09:21:00 -03:00
 tags:
 - filmes
 - curtas
 - festivais
 - Kinoforum
-date: 2020-08-24 09:21 -0300
+layout: post
+author: guilhermen
 ---
+
 Com um extenso catálogo de 212 filmes, o festival já começa a disponibilizar os filmes. A ideia é emular virtualmente as consagradas sessões de curtas-metragens do evento, disponibilizando-as a cada 24 horas do dia 20 ao dia 27 de agosto - do dia 27 ao dia 30 o catálogo deverá estar inteiramente disponível possibilitando o acesso e navegação entre todas as sessões.
 
 O que caracteriza a escolha dos filmes deste ano, e a sua divisão temática através dos programas e mostras, é a ideia da busca de um olhar sobre o agora. A edição online de 2020 foi planejada para contemplar essas novas telas e novos públicos que o festival deve encontrar neste novo formato, seguindo com o compromisso de apresentar visões plurais sobre as realidades do mundo e reforçando a importância da cultura e do audiovisual neste momento.

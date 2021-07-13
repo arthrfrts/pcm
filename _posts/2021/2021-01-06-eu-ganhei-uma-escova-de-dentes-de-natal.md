@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Eu ganhei uma escova de dentes de Natal
-author: arthurf
+date: 2021-01-06 14:47:00 -02:00
 tags:
 - miscelânea
 - higiene
-date: 2021-01-06 13:47 -0300
+layout: post
+author: arthurf
 ---
+
 Meus pais me perguntaram se eu tava precisando de algo esse ano pra que eles pudessem me dar de presente de Natal. Faz uns anos já que eu nunca preciso de nada (eu tenho um trabalho, pais!), mas sempre lembro de um jogo que eu quero comprar ou de uma edição de colecionador de um filme que eu encontrei por aí e essa é geralmente a oportunidade perfeita de não desperdiçar meu dinheiro nesse tipo de coisa.
 
 Eu não tinha nada pra pedir, então dei aquela mentira de que não precisava de presente embora soubesse que se eu não ganhasse nada no dia 24 de dezembro eu ia ficar ofendido. Na noite de véspera de Natal, que é quando a gente troca os presentes aqui em casa, minha mãe me surpreendeu com uma escova de dentes.

@@ -1,18 +1,19 @@
 ---
+title: As séries de meia-hora são as minhas favoritas nessa década
+date: 2019-11-27 11:30:00 -02:00
+categories:
+- Exposição
+tags:
+- exposição
+- séries
+- drama
+- comédia
+- HBO
+- Netflix
+- Prime Video
 layout: post
-date: "2019-11-27 10:30:00 -0300"
-title: "As séries de meia-hora são as minhas favoritas nessa década"
 author: arthurf
 image: "/uploads/2019/11/fleabag.jpg"
-category: Exposição
-tags:
-  - exposição
-  - séries
-  - drama
-  - comédia
-  - HBO
-  - Netflix
-  - Prime Video
 ---
 
 Talvez o formato mais prestigiado na TV essa década seja o de “séries limitadas”. A expressão parece ser uma resposta a um problema de seriados de TV como uma forma narrativa, já que eles dependem de audiência para continuarem no ar e serem “terminados” (e tem o risco de *nunca* terminar se fizer sucesso — *Grey's Anatomy* continua vivíssima em estado de zumbi). Séries limitadas agrupam dois outros tipos de séries: as minisséries, aquelas onde existem um determinado número de episódios que contam uma história inteira, como [*Chernobyl*](/2019/chernobyl/); ou as antologias, onde cada temporada serve como uma minissérie, mas existe uma “coesão temática” entre tudo, como em [*True Detective*](/2014/true-detective/). Já que contam com um número menor de episódios, elas conseguem ter mais dinheiro, o que atrai atores e diretores mais famosos, o que chama a atenção do público e das premiações, e assim vai.

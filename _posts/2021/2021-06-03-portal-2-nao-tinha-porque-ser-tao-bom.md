@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Portal 2 não tinha como ser tão bom
-author: arthurf
-image: "/uploads/2021/06/03/portal2.jpg"
+date: 2021-06-03 15:25:00 -03:00
 tags:
 - 10 anos depois
 - requentando
@@ -11,8 +9,11 @@ tags:
 - quebra-cabeças
 - Valve Software
 - Portal
-date: 2021-06-03 15:25 -0300
+layout: post
+author: arthurf
+image: "/uploads/2021/06/03/portal2.jpg"
 ---
+
 Eu tenho dois tipos de memória dos meus jogos favoritos:
 
 * Uma delas é comum aos meus filmes e séries favoritos, quando a gente encontra um momento feito para nos surpreender e ficar com a gente. Um personagem faz uma revelação, ou a gente descobre uma reviravolta e tudo começa a fazer sentido.

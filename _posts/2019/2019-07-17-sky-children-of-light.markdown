@@ -1,14 +1,14 @@
 ---
-layout: post
-date: "2019-07-17 09:00:00 -0300"
 title: 'Explorando lugares mágicos em Sky: Children of Light'
-author: arthurf
-image: /uploads/2019/07/sky.jpg
+date: 2019-07-17 09:00:00 -03:00
 tags:
-  - resenhas
-  - jogos
-  - iOS
-  - aventura
+- resenhas
+- jogos
+- iOS
+- aventura
+layout: post
+author: arthurf
+image: "/uploads/2019/07/sky.jpg"
 ---
 
 [_Journey_]({% post_url 2015/2015-08-10-journey %}) é um dos melhores jogos que eu já joguei. _flOw_ e _Flower_, os jogos anteriores da thatgamecompany, são experiências lindas e únicas. Mas _Journey_ sempre foi algo a mais: uma aventura em um deserto infinito que é linda por fora e reveladora por dentro. Uma jornada de autodescoberta como só um jogo consegue revelar.
