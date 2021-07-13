@@ -5,22 +5,15 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: jekyll-posts
-  label: Posts
-  create: documents
-  templates:
-  - post
-- type: jekyll-posts
-  path: _links
   label: Links
   create: all
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
 - type: directory
   path: _authors
   label: Authors
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"

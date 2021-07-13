@@ -20,5 +20,3 @@ fields:
     export_format: YYYY-MM-DD HH:mm:ss ZZ
   default: now
   hidden: true
-pages:
-- _links/2021/o-trailer-de-turning-red.md
