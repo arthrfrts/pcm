@@ -9,13 +9,11 @@ sections:
   create: documents
   templates:
   - post
-- type: directory
+- type: jekyll-posts
   path: _links
   label: Links
-  create: documents
+  create: all
   match: "**/*"
-  templates:
-  - link
 - type: jekyll-pages
   label: Pages
   create: all
