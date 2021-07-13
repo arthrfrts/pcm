@@ -12,8 +12,10 @@ sections:
 - type: directory
   path: _links
   label: Links
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - link
 - type: jekyll-pages
   label: Pages
   create: all
