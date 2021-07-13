@@ -1,25 +1,67 @@
 ---
 label: Post
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  config:
+    required: true
+  default: post
 - type: text
   name: title
-  label: title
+  label: Title
 - type: textarea
   name: excerpt
-  label: excerpt
+  label: Excerpt
+  description: A short text shown in search results, social media previews, etc. If
+    blank, it will be auto-generated.
 - type: file
   name: image
-  label: image
-- type: text
-  name: author
-  label: author
+  label: Cover image
+  description: If a cover image is set, the post content will not be shown in list
+    pages (such as home and archives). The content will be shown as normal on its
+    own page.
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - arthurf
+    - emanueles
+    - raulf
+    - guilhermeb
+    - guilhermen
+    - erez
+    - thaianek
+    - vanessao
+    - filliped
+    - victors
+    - joaos
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Author
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  config:
+    use_select: false
+    source:
+      type: simple
+  description: Comma-separated tags. Be succint, but also be bold.
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    display_utc: false
+    export_format: YYYY-MM-DD HH:mm:ss ZZ
+    time_format: HH:mm
+    required: true
+  default: now
