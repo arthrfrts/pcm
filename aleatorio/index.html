@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <script>
+      var comingFromPost = document.referrer;
+
+function linkToRandomBlogPost() {
+  var allPosts = [
+      "/2021/07/um-close-up-no-topo-da-piramide-de-queops/",
+    
+      "/2021/07/uma-breve-nota-sobre-fantasmas/",
+    
+      "/2021/07/trailer-de-memoria-o-novo-filme-de-apichatpong-weerasethakul/",
+    
+      "/2021/07/o-segredo-de-the-sims-2/",
+    
+      "/2021/07/a-atencao-aos-detalhes-de-hayao-miyazaki/",
+    
+      "/2021/07/o-trailer-da-terceira-temporada-de-succession/",
+    
+      "/2021/07/forasteira-americana-os-filmes-de-kelly-reichardt/",
+    
+      "/2021/07/celso-rocha-de-barros-objetivo-deve-ser-alinhar-o-m%C3%A1ximo-de-interesses-contra-o-autoritarismo-assassino-de-bolsonaro/",
+    
+      "/2021/07/as-series-que-assisti-na-primeira-metade-de-2021/",
+    
+      "/2021/06/a-historia-da-web/",
+    
+      "/2021/06/como-e-assistir-um-episodio-de-betty/",
+    
+      "/2021/06/arquitetura-infinita-de-benjamin-sack/",
+    
+      "/2021/06/o-trailer-da-segunda-temporada-de-central-park/",
+    
+      "/2021/06/o-trailer-da-segunda-temporada-de-ted-lasso/",
+    
+      "/2021/06/como-eu-navego-pela-internet-em-2021/",
+    
+      "/2021/06/pelo-visto-eu-devia-ler-as-notas-da-edicao-em-livros-antigos/",
+    
+      "/2021/06/videogamedunkey-faz-uma-resenha-surpreendente-de-playtime/",
+    
+      "/2021/06/tacoma-e-uma-boa-alternativa-para-quem-tem-muito-medo-de-alien-isolation-eu/",
+    
+      "/2021/06/minuto-a-minuto-do-dia-em-que-os-dinossauros-morreram/",
+    
+      "/2021/06/aqui-esta-o-trailer-da-continuacao-de-breath-of-the-wild/",
+    
+      "/2021/06/como-a-montagem-de-ted-lasso-captura-o-espirito-colaborativo-da-comedia/",
+    
+      "/2021/06/um-guia-gentil-para-voce-comecar-a-usar-rss/",
+    
+      "/2021/06/quem-e-voce-charlie-brown/",
+    
+      "/2021/06/no-sudden-move-e-outros-filmes-que-tem-mais-elenco-do-que-espaco-no-cartaz/",
+    
+      "/2021/06/o-falante-mais-rapido-do-mundo-canta-bad-em-20-segundos/",
+    
+      "/2021/06/gilberto-gil-sobre-o-desenvolvimento-e-a-democratizacao-da-tecnologia/",
+    
+      "/2021/06/onde-fica-a-casa-do-meu-amigo-na-mubi/",
+    
+      "/2021/06/arquivista-heroica-e-uma-carta-de-amor-a-comunidade-jogos/",
+    
+      "/2021/06/portal-2-nao-tinha-porque-ser-tao-bom/",
+    
+      "/2021/06/as-obras-primas-do-streaming/",
+    
+      "/2021/06/the-americans/",
+    
+      "/2021/05/a-caixa-preta-de-simcity/",
+    
+      "/2021/05/reaprendendo-a-amar-o-cinema/",
+    
+      "/2021/05/orla-gartland-entende-como-e-querer-trocar-de-corpo/",
+    
+      "/2021/05/everything-is-alive-esta-de-volta/",
+    
+      "/2021/05/dois-links-nessa-segunda-de-manha/",
+    
+      "/2021/05/dois-links-nessa-manha-de-sabado/",
+    
+      "/2021/05/velouria-te-poe-na-pele-de-um-musico-no-palco/",
+    
+      "/2021/05/barry-jenkins-the-gaze/",
+    
+      "/2021/05/nook-temas-do-animal-crossing-no-firefox-e-no-chrome/",
+    
+      "/2021/05/os-postos-de-gasolina-mais-bonitos/",
+    
+      "/2021/05/o-legado-de-er/",
+    
+      "/2021/05/nintendo-anuncia-game-builder-garage/",
+    
+      "/2021/05/algumas-anotacoes-de-atualizacoes/",
+    
+      "/2021/05/memories-of-the-age-of-anxiety/",
+    
+      "/2021/04/olhe-para-esse-sol/",
+    
+      "/2021/04/fotos-restauradas-das-missoes-apollo/",
+    
+      "/2021/04/trailers-the-underground-railroad-annette/",
+    
+      "/2021/04/como-eu-organizo-o-que-eu-vou-assistir/",
+    
+      "/2021/04/a-decadencia-silenciosa-dos-jogos-da-nintendo/",
+    
+      "/2021/04/video-works-uma-jornada-pela-historia-dos-jogos/",
+    
+      "/2021/04/como-sao-feitos-os-sons-de-animais-em-documentarios-da-natureza/",
+    
+      "/2021/04/uma-ponte-pra-cada-situacao/",
+    
+      "/2021/04/efeitos-praticos-sao-tudo-de-bom/",
+    
+      "/2021/04/kentucky-route-zero-memory-overflow/",
+    
+      "/2021/04/ted-chiang-nossos-medos-da-tecnologia-sao-medos-do-capitalismo/",
+    
+      "/2021/04/essa-e-a-shameika/",
+    
+      "/2021/03/nature-is-healing/",
+    
+      "/2021/03/peanuts-ha-50-anos/",
+    
+      "/2021/03/como-zelda-e-peanuts-usam-a-falta-de-lore-a-seu-favor/",
+    
+      "/2021/03/a-trilha-sonora-de-ela/",
+    
+      "/2021/03/big-meal/",
+    
+      "/2021/03/escute-a-wikipedia/",
+    
+      "/2021/03/o-coracao-e-um-eterno-penitente/",
+    
+      "/2021/03/jogos-para-terminar-em-uma-so-jogatina/",
+    
+      "/2021/03/wandavision-foi-uma-boa-serie-de-tv/",
+    
+      "/2021/03/sera-que-eu-quero-assistir-o-oscar-esse-ano/",
+    
+      "/2021/03/rotinas-de-ursula-k-le-guin-e-david-lynch-para-ajudar-na-criatividade/",
+    
+      "/2021/03/as-relacoes-complicadas-entre-pais-e-filhos-em-peanuts/",
+    
+      "/2021/03/minhas-aberturas-favoritas-de-series/",
+    
+      "/2021/03/hubble-observa-a-gal%C3%A1xia-olho-negro/",
+    
+      "/2021/02/os-cartazes-de-rene-magritte/",
+    
+      "/2021/02/em-memoria-a-ilha-do-wii-fit/",
+    
+      "/2021/02/alguem-criou-um-exercito-de-corvos-e-eles-salvaram-uma-vida/",
+    
+      "/2021/02/30-minutos-de-visuais-relaxantes-dos-filmes-de-hayao-miyazaki/",
+    
+      "/2021/02/o-daft-punk-acabou/",
+    
+      "/2021/02/meus-jogos-mais-esperados-para-o-nintendo-switch/",
+    
+      "/2021/02/colunas-de-conselhos-na-pandemia/",
+    
+      "/2021/02/arcade-fire-her-trilha-sonora-lancamento/",
+    
+      "/2021/02/tijolos-de-restos-plasticos-sao-mais-fortes-duraveis-e-baratos-do-que-os-de-concreto/",
+    
+      "/2021/02/as-fotos-que-comp%C3%B5em-os-quadros-de-norman-rockwell/",
+    
+      "/2021/02/populous-run-apple-arcade/",
+    
+      "/2021/02/3-45-pm/",
+    
+      "/2021/02/o-remaster-de-mass-effect-parece-glorioso/",
+    
+      "/2021/02/um-v%C3%ADdeo-de-um-show-do-daft-punk-em-2007-acabou-de-aparecer-na-web/",
+    
+      "/2021/02/sobre-amizade-e-imortalidade/",
+    
+      "/2021/01/ranking-rapido-super-mario-e-the-legend-of-zelda/",
+    
+      "/2021/01/nova-cor-yinmn/",
+    
+      "/2021/01/lista-de-leitura/",
+    
+      "/2021/01/um-gerador-de-flocos-de-neve/",
+    
+      "/2021/01/max-richter-tiny-desk-home-concert/",
+    
+      "/2021/01/apreciando-os-trailers-de-breath-of-the-wild/",
+    
+      "/2021/01/20-anos-de-wikipedia/",
+    
+      "/2021/01/6-seasons-and-a-game/",
+    
+      "/2021/01/os-breves-momentos-de-beleza-nos-filmes-de-pete-docter/",
+    
+      "/2021/01/fedex-glass-works/",
+    
+      "/2021/01/o-problema-de-lane-kim-em-gilmore-girls/",
+    
+      "/2021/01/o-legado-social-do-nintendo-3ds/",
+    
+      "/2021/01/eu-ganhei-uma-escova-de-dentes-de-natal/",
+    
+      "/2021/01/supo-mungam-plus-estreias-janeiro/",
+    
+      "/2021/01/o-misterioso-caso-da-escassez-de-bucatini/",
+    
+      "/2021/01/super-mario-s-world/",
+    
+      "/2021/01/nancy-olivia-jaimes-04-01-2021/",
+    
+      "/2021/01/as-series-que-eu-assisti-durante-a-pandemia/",
+    
+      "/2020/12/top-5-2020/",
+    
+      "/2020/12/meus-filmes-favoritos-de-2020/",
+    
+      "/2020/12/todas-as-coisas-incriveis-que-meus-amigos-fazem/",
+    
+      "/2020/12/filmes-tem-um-problema-com-backstory/",
+    
+      "/2020/12/the-sims-4-atualizacao-dezembro-2020/",
+    
+      "/2020/12/dua-lipa-tiny-desk-home-concert/",
+    
+      "/2020/12/paris-texas-especial-wim-wenders-mubi/",
+    
+      "/2020/11/primeiras-imagens-do-parque-tematico-super-nintendo-world/",
+    
+      "/2020/11/a-morte-de-um-cinema-de-rua/",
+    
+      "/2020/11/american-utopia/",
+    
+      "/2020/11/o-internet-archive-esta-preservando-jogos-e-animacoes-em-flash/",
+    
+      "/2020/11/paodecast-episodio-10-victor-silva/",
+    
+      "/2020/11/betty-hbo-primeira-temporada/",
+    
+      "/2020/11/as-mortes-de-dick-johnson/",
+    
+      "/2020/11/os-ritos-de-iniciacao-do-cinema-gaucho/",
+    
+      "/2020/11/como-ficar-sozinho-e-como-ficar-em-casa/",
+    
+      "/2020/11/paodecast-episodio-9-guilherme-novello/",
+    
+      "/2020/11/minha-longa-jornada-ate-earthbound/",
+    
+      "/2020/10/lexicografia-positiva/",
+    
+      "/2020/10/a-gaivota-de-anton-tchekhov-interpretada-no-the-sims-4/",
+    
+      "/2020/10/minha-cena-favorita-de-the-office/",
+    
+      "/2020/10/uma-imagem-gigante-da-constela%C3%A7%C3%A3o-de-orion/",
+    
+      "/2020/10/kentucky-route-zero/",
+    
+      "/2020/10/trailer-de-mank/",
+    
+      "/2020/10/paodecast-episodio-8-luiza-franken/",
+    
+      "/2020/10/os-contos-de-raymond-carver/",
+    
+      "/2020/10/talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-todo-esse-tempo/",
+    
+      "/2020/10/paodecast-episodio-7-manuela-neri/",
+    
+      "/2020/10/o-coracao-e-um-inadimplente-sem-esperanca/",
+    
+      "/2020/10/as-mortes-de-dick-johnson-estreia-hoje-na-netflix/",
+    
+      "/2020/10/a-rede-social-o-filme-da-decada/",
+    
+      "/2020/09/perry-mason-hbo/",
+    
+      "/2020/09/paodecast-episodio-6-ere-carvalho-zimmer/",
+    
+      "/2020/09/eu-voltei-a-assistir-series-semanalmente/",
+    
+      "/2020/09/inabit%C3%A1vel-o-brasil-pr%C3%A9-pandemia/",
+    
+      "/2020/09/a-era-dos-videogames-portateis-acabou/",
+    
+      "/2020/09/defector-chegou/",
+    
+      "/2020/09/o-trailer-de-duna/",
+    
+      "/2020/09/paodecast-episodio-5-vanessa-oliveira/",
+    
+      "/2020/09/e-se-digimon-tivesse-vencido/",
+    
+      "/2020/08/impressoes-the-last-campfire/",
+    
+      "/2020/08/impress%C3%B5es-sobre-a-mostra-latina-do-kinoforum/",
+    
+      "/2020/08/o-que-assistir-da-mostra-novas-%C3%A1fricas-no-kinoforum/",
+    
+      "/2020/08/o-que-assistir-da-mostra-competitiva-e-dos-programas-brasileiros-do-kinoforum/",
+    
+      "/2020/08/tudo-o-que-eu-ja-amei/",
+    
+      "/2020/08/epis%C3%B3dio-4-com-cassio-fagundes/",
+    
+      "/2020/08/o-que-assistir-da-mostra-internacional-do-kinoforum/",
+    
+      "/2020/08/tem-um-monte-de-filme-bom-dispon%C3%ADvel-de-gra%C3%A7a-no-kinoforum/",
+    
+      "/2020/08/algu%C3%A9m-entrou-na-minha-cabe%C3%A7a-leu-minha-mente-e-fez-o-jogo-perfeito-pra-mim/",
+    
+      "/2020/08/poucos-filmes-entendem-a-morte-tao-bem-quanto-a-rota-selvagem/",
+    
+      "/2020/08/ainda-bem-que-gilmore-girls-existe/",
+    
+      "/2020/08/epis%C3%B3dio-3-com-eduarda-ellwanger/",
+    
+      "/2020/08/the-touryst-lan%C3%A7ado-para-pc-e-xbox-one/",
+    
+      "/2020/08/a-edicao-de-2020-do-kinoforum-sera-online/",
+    
+      "/2020/07/brian-david-gilbert-passou-um-ano-lendo-todos-livros-de-halo/",
+    
+      "/2020/07/p%C3%A3odecast-com-raul-fontoura/",
+    
+      "/2020/07/halt-and-catch-fire-e-the-soul-of-a-new-machine/",
+    
+      "/2020/07/it-s-lit-as-l%C3%ADnguas-artificiais-de-jrr-tolkien/",
+    
+      "/2020/07/como-eu-terei-sumido-na-escuridao-evita-mitificar-um-assassino-em-serie/",
+    
+      "/2020/07/we-have-amnesia-sometimes/",
+    
+      "/2020/07/torta-brownie-brigadeiro/",
+    
+      "/2020/07/julia-no-mubi/",
+    
+      "/2020/07/t%C3%A9rminos-com-tainara-fraga/",
+    
+      "/2020/07/central-park-e-um-charme-pena-que-ta-na-apple-tv/",
+    
+      "/2020/07/essa-%C3%A9-uma-bela-vaca/",
+    
+      "/2020/06/a-vastidao-da-noite/",
+    
+      "/2020/06/the-legend-of-zelda-ranking/",
+    
+      "/2020/06/sobre-felicidade/",
+    
+      "/2020/05/eu-nao-sei-se-vou-conseguir-ver-o-fim-do-mundo-na-tv/",
+    
+      "/2020/05/no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso/",
+    
+      "/2020/05/por-que-community-e-tao-especial-pra-mim/",
+    
+      "/2020/05/os-cartazes-de-em-tr%C3%A2nsito-christian-petzold/",
+    
+      "/2020/05/eu-jogo-animal-crossing-e-fico-pensando-no-futuro/",
+    
+      "/2020/05/os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena/",
+    
+      "/2020/05/foi-assim-que-fleabag-partiu-meu-coracao/",
+    
+      "/2020/05/bem-ola/",
+    
+      "/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/",
+    
+      "/2019/12/as-cinco-melhores-coisas-de-2019/",
+    
+      "/2019/12/os-dez-melhores-jogos-do-apple-arcade/",
+    
+      "/2019/11/series-de-meia-hora-podem-ser-o-futuro-da-tv/",
+    
+      "/2019/11/last-fm/",
+    
+      "/2019/11/praia-de-manhattan/",
+    
+      "/2019/11/fracassos-de-bilheteria/",
+    
+      "/2019/10/minha-dieta-cultural-nas-ultimas-semanas/",
+    
+      "/2019/10/pocket-city/",
+    
+      "/2019/10/watchmen/",
+    
+      "/2019/10/avenida-brasil-est%C3%A1-de-volta/",
+    
+      "/2019/10/miojo-indie-e-bom-ler-sobre-o-que-a-gente-ama-ouvir/",
+    
+      "/2019/09/aprendendo-a-perder-com-pokemon-lets-go/",
+    
+      "/2019/09/crazy-ex-girlfriend/",
+    
+      "/2019/09/e-hora-de-pegarmos-a-internet-de-volta/",
+    
+      "/2019/09/stop-making-sense/",
+    
+      "/2019/08/bacurau/",
+    
+      "/2019/08/um-ranking-de-todos-os-super-mario/",
+    
+      "/2019/08/succession/",
+    
+      "/2019/07/tirinhas/",
+    
+      "/2019/07/estou-me-guardando-para-quando-o-carnaval-chegar/",
+    
+      "/2019/07/sky-children-of-light/",
+    
+      "/2019/07/jackie/",
+    
+      "/2019/07/rizzenhas/",
+    
+      "/2019/06/um-ranking-de-todos-os-filmes-da-pixar/",
+    
+      "/2019/06/hannibal/",
+    
+      "/2019/05/spore/",
+    
+      "/2019/05/viajo-porque-preciso-volto-porque-te-amo/",
+    
+      "/2019/05/chernobyl/",
+    
+      "/2019/05/shirkers-o-filme-roubado/",
+    
+      "/2019/04/au-revoir-agnes-varda/",
+    
+      "/2019/04/a-notre-dame-de-victor-hugo/",
+    
+      "/2019/04/apocalypse-world-ajuda-a-desafiar-expectativas-sobre-rpg-de-mesa/",
+    
+      "/2019/04/onde-estao-os-ratos/",
+    
+      "/2019/03/serial-terceira-temporada/",
+    
+      "/2019/03/ser-parte-do-nosso-pr-prio-tempo-mulheres-do-s-culo-20/",
+    
+      "/2019/03/remedial-chaos-theory-e-o-episodio-mais-importante-de-community/",
+    
+      "/2019/02/este-the-good-place/",
+    
+      "/2019/02/onde-vivem-os-monstros-uma-obra-prima-sobre-a-inf-ncia/",
+    
+      "/2019/02/vivendo-e-crescendo-com-the-sims/",
+    
+      "/2019/02/o-passado-e-o-presente-se-confundem-em-the-suburbs/",
+    
+      "/2019/01/guia-pcm-pro-oscar/",
+    
+      "/2019/01/mamilos-podcast/",
+    
+      "/2019/01/top-5-2018/",
+    
+      "/2018/08/uma-criatura-gentil/",
+    
+      "/2018/07/problema-de-nostalgia/",
+    
+      "/2018/07/um-dos-meus-momentos-favoritos-de-kentucky-route-zero/",
+    
+      "/2018/07/o-trailer-de-godzilla-2-e-fantastico/",
+    
+      "/2018/07/os-ultimos-jedi-de-harry-potter/",
+    
+      "/2018/06/um-final-de-semana-inteiro-de-kelly-reichardt/",
+    
+      "/2018/05/os-filmes-de-cannes-que-eu-quero-ver-edic-a-o-2018/",
+    
+      "/2018/04/thimbleweed-park-me-lembrou-de-quando-eu-costumava-ferrar-com-os-saves-dos-jogos-do-meu-pai/",
+    
+      "/2018/03/minha-dieta-cultural-em-2018/",
+    
+      "/2017/09/the-leftovers-s03/",
+    
+      "/2017/07/peter-pan/",
+    
+      "/2017/07/everything-now/",
+    
+      "/2017/07/a-imigrante/",
+    
+      "/2017/07/the-legend-of-the-zelda-breath-of-the-wild/",
+    
+      "/2017/07/legion-temporada-1/",
+    
+      "/2017/01/welcome-to-night-vale/",
+    
+      "/2017/01/orgulho-e-preconceito/",
+    
+      "/2017/01/oscar-2017/",
+    
+      "/2017/01/the-entertainment/",
+    
+      "/2017/01/arcade-fire-reflektor/",
+    
+      "/2017/01/crazy-ex-girlfriend/",
+    
+      "/2017/01/la-la-land-cantando-estacoes/",
+    
+      "/2017/01/Insecure-s01/",
+    
+      "/2017/01/top-5-3ds/",
+    
+      "/2017/01/i-see-you-the-xx/",
+    
+      "/2017/01/a-criada/",
+    
+      "/2017/01/dear-esther/",
+    
+      "/2017/01/leia-brasileiros/",
+    
+      "/2017/01/enclausurado/",
+    
+      "/2017/01/a-chegada/",
+    
+      "/2017/01/westworld-temporada-1/",
+    
+      "/2017/01/dream-cave-cloud-control/",
+    
+      "/2017/01/a-vida-privada-das-arvores/",
+    
+      "/2017/01/neighbor/",
+    
+      "/2017/01/upstream-color/",
+    
+      "/2017/01/o-que-esperamos-em-2017/",
+    
+      "/2016/12/melhores-do-ano/",
+    
+      "/2016/09/10000-km/",
+    
+      "/2016/08/selecao-de-series/",
+    
+      "/2016/07/looking/",
+    
+      "/2016/07/croquetes-acordei-vomitado/",
+    
+      "/2016/07/kentucky-route-zero-4/",
+    
+      "/2016/07/esperando-godot/",
+    
+      "/2016/07/a-house-in-california/",
+    
+      "/2016/07/the-night-of/",
+    
+      "/2016/07/vampire-weekend-modern-vampires-of-the-city/",
+    
+      "/2016/07/copia-fiel-abbas-kiarostami/",
+    
+      "/2016/07/gilmore-girls-netflix/",
+    
+      "/2016/06/invocacao-do-mal-2/",
+    
+      "/2016/03/wolfgang-amadeus-phoenix/",
+    
+      "/2016/02/pokemon-20-anos/",
+    
+      "/2016/02/to-the-moon/",
+    
+      "/2016/02/ela/",
+    
+      "/2016/02/crush-songs/",
+    
+      "/2016/02/love-netflix/",
+    
+      "/2016/02/viajo-porque-preciso-volto-porque-te-amo/",
+    
+      "/2016/02/firewatch/",
+    
+      "/2016/02/amor-sem-fim/",
+    
+      "/2016/02/zodiaco/",
+    
+      "/2016/02/serial-faz-historia-a-cada-episodio/",
+    
+      "/2016/02/her-story/",
+    
+      "/2016/01/todos-os-homens-do-presidente-%C3%A9-um-filme-impec%C3%A1vel/",
+    
+      "/2016/01/iniciantes-raymond-carver/",
+    
+      "/2016/01/the-next-picture-show/",
+    
+      "/2016/01/betty-blue/",
+    
+      "/2016/01/animal-crossing-new-leaf/",
+    
+      "/2016/01/citizenfour/",
+    
+      "/2016/01/peanuts/",
+    
+      "/2016/01/community-se-despediu-com-uma-das-suas-melhores-temporadas/",
+    
+      "/2016/01/random-access-memories/",
+    
+      "/2015/12/os-melhores-de-2015/",
+    
+      "/2015/12/the-leftovers-segunda-temporada/",
+    
+      "/2015/12/por-uma-vida-melhor/",
+    
+      "/2015/12/space-age/",
+    
+      "/2015/12/a-visita-cruel-do-tempo/",
+    
+      "/2015/12/cinco-coisas-pra-terminar-2015/",
+    
+      "/2015/09/hannibal/",
+    
+      "/2015/08/journey/",
+    
+      "/2015/03/looking-a-segunda-temporada/",
+    
+      "/2015/02/here-and-there-along-the-echo/",
+    
+      "/2015/02/o-rei-de-amarelo/",
+    
+      "/2015/02/projeto-humanos-historias-do-cotidiano/",
+    
+      "/2015/02/a-guerra-pessoal-de-this-war-of-mine/",
+    
+      "/2015/02/eu-robo-parte-1/",
+    
+      "/2015/02/as-virgens-suicidas/",
+    
+      "/2015/01/os-10-melhores-de-2014/",
+    
+      "/2015/01/kentucky-route-zero-act-iii-corroi-sua-alma-com-dividas-do-passado/",
+    
+      "/2014/09/o-mundo-mudou-yankee-hotel-foxtrot/",
+    
+      "/2014/09/a-cabeca-e-o-coracao/",
+    
+      "/2014/09/sextafeira-e-dia-de-ouvir-cloud-control/",
+    
+      "/2014/08/ernest-celestine/",
+    
+      "/2014/08/magneto-anos-de-terror/",
+    
+      "/2014/08/a-melancolia-anunciada-de-cicero/",
+    
+      "/2014/08/as-vantagens-de-ser-invisivel/",
+    
+      "/2014/08/aparecida-blues/",
+    
+      "/2014/08/lily-and-madeleine-um-presente-de-boas-vindas/",
+    
+      "/2014/08/the-sims-4-parece-ser-de-uma-nova-maxis/",
+    
+      "/2014/08/el-hombre-de-al-lado/",
+    
+      "/2014/08/serena-ian-mcewan/",
+    
+      "/2014/08/burnout-paradise/",
+    
+      "/2014/08/medianeras/",
+    
+      "/2014/07/grandes-astros-superhomem/",
+    
+      "/2014/07/dont-hug-me-im-scared-o-limite-das-criatividades/",
+    
+      "/2014/07/vikings-e-a-tentativa-do-naofalsoreal/",
+    
+      "/2014/07/o-grande-gatsby-e-a-era-do-jazz/",
+    
+      "/2014/07/flash-constantine-e-a-oportunidade-do-novo/",
+    
+      "/2014/06/limites-e-demonstracoes-a-brisa-na-estrada-de-kentucky-route-atos-1-e-2/",
+    
+      "/2014/05/iliada-de-odyr/",
+    
+      "/2014/05/rise-and-shine-mr-freeman/",
+    
+      "/2014/04/o-mito-do-garotodeduascabecas/",
+    
+      "/2014/04/community/",
+    
+      "/2014/03/sherlock/",
+    
+      "/2014/02/sweet-tooth/",
+    
+      "/2014/02/ela/",
+    
+      "/2014/02/uma-aventura-lego/",
+    
+      "/2014/02/true-detective/",
+    
+      "/2014/01/o-anjo-exterminador/",
+    
+      "/2013/11/voce-ainda-nao-assistiu-black-mirror/"
+    ];
+
+var i = 0;
+do {
+  var randomPostLink = allPosts[Math.floor(Math.random() * allPosts.length)]; i++;
+}
+while (comingFromPost.includes(randomPostLink) || i > 10)
+
+return randomPostLink;
+}
+
+location.replace(linkToRandomBlogPost())
+
+    </script>
+  
+
+  
+    <title>Aleatoriedades (Pão com Mortadela)</title>
+  
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<meta name="generator" content="Jekyll v4.2.0">
+<meta property="og:title" content="Aleatoriedades">
+<meta property="og:locale" content="pt_BR">
+<meta name="description" content="Tem tanta coisa por aí. A gente te ajuda a encontrar aquilo que você vai gostar. Algo bom pra ler, ver, ouvir ou jogar.">
+<meta property="og:description" content="Tem tanta coisa por aí. A gente te ajuda a encontrar aquilo que você vai gostar. Algo bom pra ler, ver, ouvir ou jogar.">
+<link rel="canonical" href="https://paomortadela.com.br/aleatorio/">
+<meta property="og:url" content="https://paomortadela.com.br/aleatorio/">
+<meta property="og:site_name" content="Pão com Mortadela">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Aleatoriedades">
+<meta name="twitter:site" content="@paomortadela">
+<script type="application/ld+json">
+{"description":"Tem tanta coisa por aí. A gente te ajuda a encontrar aquilo que você vai gostar. Algo bom pra ler, ver, ouvir ou jogar.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://paomortadela.com.br/assets/images/logo.png"}},"url":"https://paomortadela.com.br/aleatorio/","@type":"WebPage","headline":"Aleatoriedades","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  
+    <meta property="og:image" content="https://paomortadela.com.br/assets/images/ogp.jpg">
+  
+
+  <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/assets/images/apple-touch-icon.png">
+  <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+  <link type="application/atom+xml" rel="alternate" href="https://paomortadela.com.br/feed.xml" title="Pão com Mortadela">
+  <link rel="alternate" type="application/rss+xml" title="Pãodecast" href="https://anchor.fm/s/2acb8e44/podcast/rss">
+</head>
+
+  <body>
+    <div id="site">
+      <header class="masthead">
+  <div class="wrapper">
+    
+      <div class="site_title">
+        <a href="https://paomortadela.com.br" rel="index">
+          <img src="/assets/images/logo.png" alt="" loading="lazy">
+          Pão com Mortadela
+        </a>
+      </div>
+    
+
+    <nav class="site_menu">
+  
+    <a class="menu_item" href="/arquivo/">Arquivo</a>
+  
+    <a class="menu_item" href="/aleatorio/">Aleatório</a>
+  
+    <a class="menu_item" href="/sobre/">Sobre</a>
+  
+    <a class="menu_item" href="/arquivo/tag/p%C3%A3odecast/">Pãodecast</a>
+  
+    <a class="menu_item" href="https://www.getrevue.co/profile/paomortadela">Newsletter</a>
+  
+
+  
+    
+      
+      
+
+      <a class="menu_item social_link" href="https://twitter.com/paomortadela" rel="external">
+        <svg role="img" viewbox="0 0 512 512">
+  <title>Twitter</title>
+  <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+</svg>
+
+      </a>
+
+    
+      
+      
+
+      <a class="menu_item social_link" href="https://www.facebook.com/paomortadela.com.br" rel="external">
+        <svg role="img" viewbox="0 0 512 512">
+  <title>Facebook</title>
+  <path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path>
+</svg>
+
+      </a>
+
+    
+  
+
+  <a class="menu_item social_link" href="https://paomortadela.com.br/feed.xml" rel="alternate">
+    <svg role="img" viewbox="0 0 448 512">
+  <title>Feed RSS</title>
+  <path d="M128.081 415.959c0 35.369-28.672 64.041-64.041 64.041S0 451.328 0 415.959s28.672-64.041 64.041-64.041 64.04 28.673 64.04 64.041zm175.66 47.25c-8.354-154.6-132.185-278.587-286.95-286.95C7.656 175.765 0 183.105 0 192.253v48.069c0 8.415 6.49 15.472 14.887 16.018 111.832 7.284 201.473 96.702 208.772 208.772.547 8.397 7.604 14.887 16.018 14.887h48.069c9.149.001 16.489-7.655 15.995-16.79zm144.249.288C439.596 229.677 251.465 40.445 16.503 32.01 7.473 31.686 0 38.981 0 48.016v48.068c0 8.625 6.835 15.645 15.453 15.999 191.179 7.839 344.627 161.316 352.465 352.465.353 8.618 7.373 15.453 15.999 15.453h48.068c9.034-.001 16.329-7.474 16.005-16.504z"></path>
+</svg>
+
+  </a>
+</nav>
+
+  </div>
+  <svg class="wave" viewbox="0 0 1250 67">
+   <path d="M0 3.938 C149.16 -8.433 257.603 11.079 349.24 24.758 474.89 43.465 568.627 61.066 688.375 61.267 773.309 61.368 865.046 49.399 950.48 39.442 1100.14 22.042 1185.074 23.752 1250 29.083 L1250 67 0 67 Z" fill="#f6f6f6"></path>
+</svg>
+
+</header>
+
+
+      <main class="content">
+        <div class="wrapper">
+          <div class="blog">
+            <article class="post single">
+  <header class="post_header">
+    <h1 class="post_title">Aleatoriedades</h1>
+  </header>
+  
+  <div class="post_content">
+    <p>Você está indo para um post aleatório agora. Aguarde uns segundos!</p>
+
+  </div>
+</article>
+
+          </div>
+
+          
+
+          
+        </div>
+      </main>
+
+
+      <footer class="colophon">
+  <div class="wrapper">
+    <div class="footer_widgets" id="revue-embed">
+      <div class="site_description">
+        <p>
+          Tem tanta coisa por aí.<br>
+          A gente te ajuda a encontrar aquilo que você vai gostar.<br>
+          Algo bom pra ler, ver, ouvir ou jogar.
+        </p>
+      </div>
+
+      <form action="https://www.getrevue.co/profile/paomortadela/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
+        <p>
+          <label for="tlemail">Nos sábados a gente envia uma newsletter</label>
+        </p>
+        <p class="newsletter_fields">
+          <input type="email" title="Seu endereço de email" name="member[email]" id="member_email" placeholder="seu@email.com" required>
+          <button type="submit" name="member[subscribe]" value="Subscribe" id="member_submit">
+            Assinar
+          </button>
+        </p>
+        <p class="newsletter_credits">
+          <a href="https://www.getrevue.co/profile/paomortadela" rel="external">Enviado por Revue</a>
+        </p>
+      </form>
+    </div>
+
+    <p class="site_credits">
+      © 2013—2021
+      <a href="https://paomortadela.com.br" rel="index">Pão com Mortadela</a> ~ Os direitos
+      dos textos são reservados aos respectivos autores.
+    </p>
+  </div>
+</footer>
+
+    </div>
+
+    <script id="site-scripts" src="/assets/js/scripts.js"></script>
+  </body>
+</html>

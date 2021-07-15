@@ -1,0 +1,1231 @@
+tags([
+
+  {
+    "value": "séries"
+  },
+
+  {
+    "value": "Netflix"
+  },
+
+  {
+    "value": "Black Mirror"
+  },
+
+  {
+    "value": "ficção científica"
+  },
+
+  {
+    "value": "achados"
+  },
+
+  {
+    "value": "filmes"
+  },
+
+  {
+    "value": "Luis Buñuel"
+  },
+
+  {
+    "value": "surrealismo"
+  },
+
+  {
+    "value": "suspense"
+  },
+
+  {
+    "value": "HBO"
+  },
+
+  {
+    "value": "animação"
+  },
+
+  {
+    "value": "brinquedos"
+  },
+
+  {
+    "value": "romance"
+  },
+
+  {
+    "value": "Spike Jonze"
+  },
+
+  {
+    "value": "leituras"
+  },
+
+  {
+    "value": "gibis"
+  },
+
+  {
+    "value": "resenhas"
+  },
+
+  {
+    "value": "comédia"
+  },
+
+  {
+    "value": "Community"
+  },
+
+  {
+    "value": "músicas"
+  },
+
+  {
+    "value": "Neutral Milk Hotel"
+  },
+
+  {
+    "value": "Spotify"
+  },
+
+  {
+    "value": "essenciais"
+  },
+
+  {
+    "value": "jogos"
+  },
+
+  {
+    "value": "ação"
+  },
+
+  {
+    "value": "Half-Life"
+  },
+
+  {
+    "value": "Valve Software"
+  },
+
+  {
+    "value": "tirinhas"
+  },
+
+  {
+    "value": "aventura"
+  },
+
+  {
+    "value": "Kentucky Route Zero"
+  },
+
+  {
+    "value": "Cardboard Computer"
+  },
+
+  {
+    "value": "esquinas"
+  },
+
+  {
+    "value": "super-heróis"
+  },
+
+  {
+    "value": "livros"
+  },
+
+  {
+    "value": "clássicos"
+  },
+
+  {
+    "value": "Ernest Hemingway"
+  },
+
+  {
+    "value": "drama histórico"
+  },
+
+  {
+    "value": "descobertas"
+  },
+
+  {
+    "value": "links"
+  },
+
+  {
+    "value": "vídeos"
+  },
+
+  {
+    "value": "DC Comics"
+  },
+
+  {
+    "value": "requentando"
+  },
+
+  {
+    "value": "corrida"
+  },
+
+  {
+    "value": "Burnout"
+  },
+
+  {
+    "value": "mistério"
+  },
+
+  {
+    "value": "Ian McEwan"
+  },
+
+  {
+    "value": "drama"
+  },
+
+  {
+    "value": "simulação"
+  },
+
+  {
+    "value": "The Sims"
+  },
+
+  {
+    "value": "indie"
+  },
+
+  {
+    "value": "Marvel"
+  },
+
+  {
+    "value": "X-Men"
+  },
+
+  {
+    "value": "cinema belga"
+  },
+
+  {
+    "value": "Cloud Control"
+  },
+
+  {
+    "value": "listas"
+  },
+
+  {
+    "value": "melhores do ano"
+  },
+
+  {
+    "value": "Jeffrey Eugenides"
+  },
+
+  {
+    "value": "estratégia"
+  },
+
+  {
+    "value": "guerra"
+  },
+
+  {
+    "value": "podcasts"
+  },
+
+  {
+    "value": "Robert W. Chambers"
+  },
+
+  {
+    "value": "telejogo"
+  },
+
+  {
+    "value": "experimentais"
+  },
+
+  {
+    "value": "Andrew Haigh"
+  },
+
+  {
+    "value": "PlayStation"
+  },
+
+  {
+    "value": "terror"
+  },
+
+  {
+    "value": "Hannibal"
+  },
+
+  {
+    "value": "Jennifer Egan"
+  },
+
+  {
+    "value": "iOS"
+  },
+
+  {
+    "value": "Prime Video"
+  },
+
+  {
+    "value": "Damon Lindelof"
+  },
+
+  {
+    "value": "The Leftovers"
+  },
+
+  {
+    "value": "eletrônica"
+  },
+
+  {
+    "value": "Daft Punk"
+  },
+
+  {
+    "value": "Charles M. Schulz"
+  },
+
+  {
+    "value": "Peanuts"
+  },
+
+  {
+    "value": "documentários"
+  },
+
+  {
+    "value": "Laura Poitras"
+  },
+
+  {
+    "value": "Nintendo"
+  },
+
+  {
+    "value": "Animal Crossing"
+  },
+
+  {
+    "value": "3DS"
+  },
+
+  {
+    "value": "cinema francês"
+  },
+
+  {
+    "value": "contos"
+  },
+
+  {
+    "value": "Raymond Carver"
+  },
+
+  {
+    "value": "thrillers"
+  },
+
+  {
+    "value": "Alan J. Pakula"
+  },
+
+  {
+    "value": "Serial"
+  },
+
+  {
+    "value": "David Fincher"
+  },
+
+  {
+    "value": "jogos narrativos"
+  },
+
+  {
+    "value": "Campo Santo"
+  },
+
+  {
+    "value": "cinema nacional"
+  },
+
+  {
+    "value": "cinema experimental"
+  },
+
+  {
+    "value": "Karim Aïnouz"
+  },
+
+  {
+    "value": "Marcelo Gomes"
+  },
+
+  {
+    "value": "Karen O"
+  },
+
+  {
+    "value": "RPG"
+  },
+
+  {
+    "value": "Pokémon"
+  },
+
+  {
+    "value": "pop"
+  },
+
+  {
+    "value": "Phoenix"
+  },
+
+  {
+    "value": "cinema americano"
+  },
+
+  {
+    "value": "James Wan"
+  },
+
+  {
+    "value": "Gilmore Girls"
+  },
+
+  {
+    "value": "carreiras em perspectiva"
+  },
+
+  {
+    "value": "cinema iraniano"
+  },
+
+  {
+    "value": "Abbas Kiarostami"
+  },
+
+  {
+    "value": "Vampire Weekend"
+  },
+
+  {
+    "value": "teatro"
+  },
+
+  {
+    "value": "Samuel Beckett"
+  },
+
+  {
+    "value": "absurdo"
+  },
+
+  {
+    "value": "videoclipes"
+  },
+
+  {
+    "value": "The Americans"
+  },
+
+  {
+    "value": "Broad City"
+  },
+
+  {
+    "value": "Halt and Catch Fire"
+  },
+
+  {
+    "value": "Master of None"
+  },
+
+  {
+    "value": "Veep"
+  },
+
+  {
+    "value": "Silicon Valley"
+  },
+
+  {
+    "value": "MUBI"
+  },
+
+  {
+    "value": "Alejandro Zambra"
+  },
+
+  {
+    "value": "Denis Villeneuve"
+  },
+
+  {
+    "value": "Amy Adams"
+  },
+
+  {
+    "value": "newsletters"
+  },
+
+  {
+    "value": "Steam"
+  },
+
+  {
+    "value": "cinema coreano"
+  },
+
+  {
+    "value": "Park Chan-wook"
+  },
+
+  {
+    "value": "música eletrônica"
+  },
+
+  {
+    "value": "The xx"
+  },
+
+  {
+    "value": "musical"
+  },
+
+  {
+    "value": "rock"
+  },
+
+  {
+    "value": "Arcade Fire"
+  },
+
+  {
+    "value": "VR"
+  },
+
+  {
+    "value": "Oscar"
+  },
+
+  {
+    "value": "Jane Austen"
+  },
+
+  {
+    "value": "The Legend of Zelda"
+  },
+
+  {
+    "value": "Nintendo Switch"
+  },
+
+  {
+    "value": "James Gray"
+  },
+
+  {
+    "value": "J. M. Barrie"
+  },
+
+  {
+    "value": "literatura infantil"
+  },
+
+  {
+    "value": "geral"
+  },
+
+  {
+    "value": "festivais"
+  },
+
+  {
+    "value": "Festival de Cannes"
+  },
+
+  {
+    "value": "Kelly Reichardt"
+  },
+
+  {
+    "value": "Harry Potter"
+  },
+
+  {
+    "value": "Star Wars"
+  },
+
+  {
+    "value": "trailers"
+  },
+
+  {
+    "value": "Godzilla"
+  },
+
+  {
+    "value": "momentos"
+  },
+
+  {
+    "value": "Super Mario"
+  },
+
+  {
+    "value": "Crash Bandicoot"
+  },
+
+  {
+    "value": "rankings"
+  },
+
+  {
+    "value": "Guia PCM"
+  },
+
+  {
+    "value": "Não é Mad Max"
+  },
+
+  {
+    "value": "Maxis"
+  },
+
+  {
+    "value": "Will Wright"
+  },
+
+  {
+    "value": "Onde Vivem os Monstros"
+  },
+
+  {
+    "value": "episódios"
+  },
+
+  {
+    "value": "comédias"
+  },
+
+  {
+    "value": "Mike Mills"
+  },
+
+  {
+    "value": "caixinha de lembranças"
+  },
+
+  {
+    "value": "Victor Hugo"
+  },
+
+  {
+    "value": "Agnès Varda"
+  },
+
+  {
+    "value": "dicas do fim de semana"
+  },
+
+  {
+    "value": "minisséries"
+  },
+
+  {
+    "value": "Pixar"
+  },
+
+  {
+    "value": "Toy Story"
+  },
+
+  {
+    "value": "blogs"
+  },
+
+  {
+    "value": "biografias"
+  },
+
+  {
+    "value": "Kleber Mendonça Filho"
+  },
+
+  {
+    "value": "Talking Heads"
+  },
+
+  {
+    "value": "Jonathen Demme"
+  },
+
+  {
+    "value": "web"
+  },
+
+  {
+    "value": "RSS"
+  },
+
+  {
+    "value": "novelas"
+  },
+
+  {
+    "value": "Watchmen"
+  },
+
+  {
+    "value": "dieta cultural"
+  },
+
+  {
+    "value": "blockbusters"
+  },
+
+  {
+    "value": "sites"
+  },
+
+  {
+    "value": "exposição"
+  },
+
+  {
+    "value": "Apple Arcade"
+  },
+
+  {
+    "value": "macOS"
+  },
+
+  {
+    "value": "canais"
+  },
+
+  {
+    "value": "clipes"
+  },
+
+  {
+    "value": "meta"
+  },
+
+  {
+    "value": "cartazes"
+  },
+
+  {
+    "value": "Christian Petzold"
+  },
+
+  {
+    "value": "cinema alemão"
+  },
+
+  {
+    "value": "miscelânea"
+  },
+
+  {
+    "value": "animais"
+  },
+
+  {
+    "value": "Pãodecast"
+  },
+
+  {
+    "value": "thriller"
+  },
+
+  {
+    "value": "fotos"
+  },
+
+  {
+    "value": "comida"
+  },
+
+  {
+    "value": "Yo La Tengo"
+  },
+
+  {
+    "value": "Liz Garbus"
+  },
+
+  {
+    "value": "canais do YouTube"
+  },
+
+  {
+    "value": "O Senhor dos Anéis"
+  },
+
+  {
+    "value": "Lindsay Ellis"
+  },
+
+  {
+    "value": "JRR Tolkien"
+  },
+
+  {
+    "value": "Tracy Kidder"
+  },
+
+  {
+    "value": "Halo"
+  },
+
+  {
+    "value": "FPS"
+  },
+
+  {
+    "value": "Brian David Gilbert"
+  },
+
+  {
+    "value": "curtas"
+  },
+
+  {
+    "value": "Kinoforum"
+  },
+
+  {
+    "value": "Shin'en"
+  },
+
+  {
+    "value": "tragicomédia"
+  },
+
+  {
+    "value": "Amy Sherman-Palladino"
+  },
+
+  {
+    "value": "Level-5"
+  },
+
+  {
+    "value": "Brownie Brown"
+  },
+
+  {
+    "value": "Nintendo 3DS"
+  },
+
+  {
+    "value": "cinema latino-americano"
+  },
+
+  {
+    "value": "quebra-cabeças"
+  },
+
+  {
+    "value": "Hello Games"
+  },
+
+  {
+    "value": "Digimon"
+  },
+
+  {
+    "value": "conversas"
+  },
+
+  {
+    "value": "esportes"
+  },
+
+  {
+    "value": "Game Boy"
+  },
+
+  {
+    "value": "Festival de Gramado"
+  },
+
+  {
+    "value": "Succession"
+  },
+
+  {
+    "value": "Stranger Things"
+  },
+
+  {
+    "value": "10 anos depois"
+  },
+
+  {
+    "value": "Kirsten Johnson"
+  },
+
+  {
+    "value": "Fantasma do Espaço"
+  },
+
+  {
+    "value": "espaço"
+  },
+
+  {
+    "value": "cenas"
+  },
+
+  {
+    "value": "The Office"
+  },
+
+  {
+    "value": "Crystal Moselle"
+  },
+
+  {
+    "value": "Betty"
+  },
+
+  {
+    "value": "Internet Archive"
+  },
+
+  {
+    "value": "Flash"
+  },
+
+  {
+    "value": "David Byrne"
+  },
+
+  {
+    "value": "Spike Lee"
+  },
+
+  {
+    "value": "parques"
+  },
+
+  {
+    "value": "mostras"
+  },
+
+  {
+    "value": "Wim Wenders"
+  },
+
+  {
+    "value": "Dua Lipa"
+  },
+
+  {
+    "value": "NPR"
+  },
+
+  {
+    "value": "The Sims 4"
+  },
+
+  {
+    "value": "streaming"
+  },
+
+  {
+    "value": "Supo Mungam Plus"
+  },
+
+  {
+    "value": "higiene"
+  },
+
+  {
+    "value": "artes plásticas"
+  },
+
+  {
+    "value": "Walead Beshty"
+  },
+
+  {
+    "value": "Pete Docter"
+  },
+
+  {
+    "value": "entrevistas"
+  },
+
+  {
+    "value": "relatos"
+  },
+
+  {
+    "value": "Wikipédia"
+  },
+
+  {
+    "value": "música instrumental"
+  },
+
+  {
+    "value": "Max Richter"
+  },
+
+  {
+    "value": "ciência"
+  },
+
+  {
+    "value": "rankings rápidos"
+  },
+
+  {
+    "value": "Looking"
+  },
+
+  {
+    "value": "BioWare"
+  },
+
+  {
+    "value": "Mass Effect"
+  },
+
+  {
+    "value": "corrida infinita"
+  },
+
+  {
+    "value": "pinturas"
+  },
+
+  {
+    "value": "meio-ambiente"
+  },
+
+  {
+    "value": "Owen Pallett"
+  },
+
+  {
+    "value": "Studio Ghibli"
+  },
+
+  {
+    "value": "Hayao Miyazaki"
+  },
+
+  {
+    "value": "atividades físicas"
+  },
+
+  {
+    "value": "Wii Fit"
+  },
+
+  {
+    "value": "ilustrações"
+  },
+
+  {
+    "value": "René Magritte"
+  },
+
+  {
+    "value": "Hubble"
+  },
+
+  {
+    "value": "design"
+  },
+
+  {
+    "value": "Ursula K. Le Guin"
+  },
+
+  {
+    "value": "David Lynch"
+  },
+
+  {
+    "value": "Disney+"
+  },
+
+  {
+    "value": "WandaVision"
+  },
+
+  {
+    "value": "trilhas-sonoras"
+  },
+
+  {
+    "value": "Apple"
+  },
+
+  {
+    "value": "Fiona Apple"
+  },
+
+  {
+    "value": "tecnologia"
+  },
+
+  {
+    "value": "Ted Chiang"
+  },
+
+  {
+    "value": "Ben Babbitt"
+  },
+
+  {
+    "value": "engenharia"
+  },
+
+  {
+    "value": "Barry Jenkins"
+  },
+
+  {
+    "value": "Léos Carax"
+  },
+
+  {
+    "value": "desenvolvimento"
+  },
+
+  {
+    "value": "HBO Max"
+  },
+
+  {
+    "value": "ER"
+  },
+
+  {
+    "value": "arquitetura"
+  },
+
+  {
+    "value": "extensões para o Firefox"
+  },
+
+  {
+    "value": "The Underground Railroad"
+  },
+
+  {
+    "value": "SSS"
+  },
+
+  {
+    "value": "fotografia"
+  },
+
+  {
+    "value": "Everything is Alive"
+  },
+
+  {
+    "value": "Orla Gartland"
+  },
+
+  {
+    "value": "SimCity"
+  },
+
+  {
+    "value": "Portal"
+  },
+
+  {
+    "value": "RPG solo"
+  },
+
+  {
+    "value": "Gilberto Gil"
+  },
+
+  {
+    "value": "democracia"
+  },
+
+  {
+    "value": "caramba"
+  },
+
+  {
+    "value": "Wes Anderson"
+  },
+
+  {
+    "value": "Steven Soderbergh"
+  },
+
+  {
+    "value": "Apple TV+"
+  },
+
+  {
+    "value": "tutoriais"
+  },
+
+  {
+    "value": "Ted Lasso"
+  },
+
+  {
+    "value": "Breath of the Wild"
+  },
+
+  {
+    "value": "biologia"
+  },
+
+  {
+    "value": "Alien"
+  },
+
+  {
+    "value": "Tacoma"
+  },
+
+  {
+    "value": "Central Park"
+  },
+
+  {
+    "value": "desenho"
+  },
+
+  {
+    "value": "política"
+  },
+
+  {
+    "value": "saúde"
+  }
+
+])

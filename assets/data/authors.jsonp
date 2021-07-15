@@ -1,0 +1,53 @@
+authors([
+
+  {
+    "value": "arthurf",
+    "name": "Arthur Freitas"
+  },
+
+  {
+    "value": "filliped",
+    "name": "Fillipe Diniz"
+  },
+
+  {
+    "value": "guilhermen",
+    "name": "Guilherme Novello"
+  },
+
+  {
+    "value": "raulf",
+    "name": "Raul Fontoura"
+  },
+
+  {
+    "value": "emanueles",
+    "name": "Emanuele Spies"
+  },
+
+  {
+    "value": "thaianek",
+    "name": "Thaiane Kubiaki"
+  },
+
+  {
+    "value": "guilhermeb",
+    "name": "Guilherme Bragança"
+  },
+
+  {
+    "value": "vanessao",
+    "name": "Vanessa Oliveira"
+  },
+
+  {
+    "value": "erez",
+    "name": "Erê Carvalho Zimmer"
+  },
+
+  {
+    "value": "tainaraf",
+    "name": "Tainara Fraga"
+  }
+
+])
